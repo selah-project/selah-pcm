@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And dem journey from Tsalmonah, and dem camp for Punon.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "And dem journey"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "from Tsalmonah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "for Punon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:02:27.219521150Z",
+  "model": "glm-5.2"
+}

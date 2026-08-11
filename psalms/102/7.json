@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "I resemble di pelican of di wilderness, I don become like di owl of di ruins.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "I resemble"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "di pelican"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "of di wilderness"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I don become"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "like di owl"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "of di ruins"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:23.767177788Z",
+  "model": "glm-5.2"
+}

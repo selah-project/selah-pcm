@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make you no dey among drinker-dem of wine, among glutton-dem of meat, for dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ⟨you⟩ no"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "among drinker-dem"
+    },
+    {
+      "surface": "יין",
+      "gloss": "of wine"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "among glutton-dem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "of meat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:20.403066334Z",
+  "model": "glm-5.2"
+}

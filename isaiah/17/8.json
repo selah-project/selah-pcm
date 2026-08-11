@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And ⟨he⟩ no go look to ⟨di⟩ altars, work of im hands, and wetin im fingers don make ⟨he⟩ no go look at; ⟨not⟩ di Asherim and di sun-pillars.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no go"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altars"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work of"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "im hands"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem don make"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "im fingers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "look at"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "and di Asherim"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "and di sun-pillars"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:32.890339859Z",
+  "model": "glm-5.2"
+}

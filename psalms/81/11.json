@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "I ⟨na⟩ Yahweh, your Elohim, di one wey carry you comot from di land of Mitsrayim: open your mouth wide and I go fill am.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "di one wey carry you comot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "open wide"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "your mouth"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "and I go fill am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:40.027237596Z",
+  "model": "glm-5.2"
+}

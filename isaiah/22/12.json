@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And for dat day, Adonai Yahweh of hosts bin call to crying, and to mourning, and to shaving of head, and to tying of sak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "to crying"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "and to mourning"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "and to shaving of head"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "and to tying"
+    },
+    {
+      "surface": "שק",
+      "gloss": "of sak"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:13.524303618Z",
+  "model": "glm-5.2"
+}

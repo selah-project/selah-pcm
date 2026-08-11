@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "and ⟨את⟩ di table and ⟨את⟩ im tools, and ⟨את⟩ di lampstand wey clean and ⟨את⟩ all im tools, and ⟨את⟩ di altar of incense,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im tools"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di lampstand"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di lampstand"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "wey clean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im tools"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:03.016128645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di pikin-dem of Yisrael bin enta inside di sea on top dry ground, and di wata bin dey as wall for dem for dia right hand and for dia left hand.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and bin enta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "on top dry ground"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "and di wata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "wall"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "for dia right hand"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "and for dia left hand"
+    }
+  ],
+  "timestamp": "2026-08-11T15:46:54.174265864Z",
+  "model": "glm-5.2"
+}

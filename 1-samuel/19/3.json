@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 19:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And me, I go go out, and I go stand beside my papa for di field, di place wey you dey. And I go speak about you to my papa, and I go see wetin ⟨happen⟩, and I go tell you.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "I go go out"
+    },
+    {
+      "surface": "ועמדתי",
+      "gloss": "and I go stand"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "beside"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di place wey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dey"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "go speak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "about you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "and I go see"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "and I go tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:34.349755219Z",
+  "model": "glm-5.2"
+}

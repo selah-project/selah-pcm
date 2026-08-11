@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 121,
+  "translation": "For day-time, sun no go strike you, and moon for night-time.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "for day-time"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "go strike you"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "and moon"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night-time"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:52.052072872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Here I dey: I dey turn back ⟨את⟩ di shadow of di steps, wey e go down for di steps of Achaz, for di sun, backward ten steps. And di sun come turn back ten steps, for di steps wey e bin go down.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Here I dey"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "I dey turn back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di shadow"
+    },
+    {
+      "surface": "צל",
+      "gloss": "shadow"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "of di steps"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "e go down"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "for di steps"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "of Achaz"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "for di sun"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "backward"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "steps"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "and come turn back"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "steps"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "for di steps"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "e bin go down"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:19.485616056Z",
+  "model": "glm-5.2"
+}

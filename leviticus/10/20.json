@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Moshe hear, and e good for im eyes.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "and e hear"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וַיִּיטַ֖ב",
+      "gloss": "and e good"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "for im eyes"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:02.726818787Z",
+  "model": "glm-5.2"
+}

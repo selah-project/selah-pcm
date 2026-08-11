@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "For vexation dey kill di fool, and envy dey put ⟨di⟩ simple one to death.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "di fool"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "dey kill"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "vexation"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "and ⟨di⟩ simple one"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "dey put to death"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "envy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:12.110151198Z",
+  "model": "glm-5.2"
+}

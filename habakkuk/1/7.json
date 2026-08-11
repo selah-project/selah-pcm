@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "⟨E⟩ fearsome and terrifying; from imself, im judgment and im majesty go come out.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "fearsome"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "and terrifying"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from imself"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "im judgment"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "and im majesty"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "go come out"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:05.853232332Z",
+  "model": "glm-5.2"
+}

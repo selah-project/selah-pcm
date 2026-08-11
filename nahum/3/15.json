@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nahum 3:15",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "There fire go chop you, sword go cut you off — e go chop you like young locust. Make yourself heavy like young locust, make yourself heavy like locust swarm!",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "There"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "go chop you"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "תכריתך",
+      "gloss": "go cut you off"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "go chop you"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "like young locust"
+    },
+    {
+      "surface": "התכבד",
+      "gloss": "make yourself heavy"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "like young locust"
+    },
+    {
+      "surface": "התכבדי",
+      "gloss": "make yourself heavy"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "like locust swarm"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:06.712294601Z",
+  "model": "glm-5.2"
+}

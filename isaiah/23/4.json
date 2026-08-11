@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Shame catch you, Tsidon, because ⟨di⟩ sea talk, di stronghold of ⟨di⟩ sea, sey: 'I no travil, and I no born, and I no raise young man-dem; ⟨but⟩ young woman-dem, I lift up.'",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "shame catch you"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨di⟩ sea talk"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨di⟩ sea"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "di stronghold"
+    },
+    {
+      "surface": "הים",
+      "gloss": "of ⟨di⟩ sea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "travil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "born"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "raise"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "young man-dem"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "I lift up"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "young woman-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:05.508473455Z",
+  "model": "glm-5.2"
+}

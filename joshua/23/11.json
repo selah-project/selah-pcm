@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So make una guard una sef well well, to love ⟨את⟩ Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "So make una guard"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "una sef"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "to love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:53.501304726Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 11:30",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "No be dem dey across di Yarden, behind di road of where sun dey enter, for di land of di Kenaʻani wey dey live for di ʻArava, opposite ha-Gilgal, near di big oak-trees of Moreh?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "across"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di road of"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "where sun dey enter"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land of"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kenaʻani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "for di ʻArava"
+    },
+    {
+      "surface": "מול",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ha-Gilgal"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "near"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "di big oak-trees of"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Moreh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:37.740318919Z",
+  "model": "glm-5.2"
+}

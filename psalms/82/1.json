@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Song of Asaf. Elohim dey stand for di assembly of El; for inside Elohim ⟨im⟩ dey judge.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "of Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "for di assembly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "of El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨im⟩ dey judge"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:26.174017754Z",
+  "model": "glm-5.2"
+}

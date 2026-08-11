@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And e bin make ⟨את⟩ all di tool dem of di altar: ⟨את⟩ di pot dem, and ⟨את⟩ di shovel dem, and ⟨את⟩ di bowl dem, ⟨את⟩ di fork dem, and ⟨את⟩ di firepan dem; all im tool dem e make ⟨of⟩ copper.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di tool dem of di altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tool dem"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pot dem"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "di pot dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di shovel dem"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "di shovel dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di bowl dem"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "di bowl dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fork dem"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "di fork dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di firepan dem"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "di firepan dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tool dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e make"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "⟨of⟩ copper"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:12.599220305Z",
+  "model": "glm-5.2"
+}

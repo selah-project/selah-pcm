@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Because I bin talk, make dem no glad for my sake — as my foot dey slip, dem don make demselves big against me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make ... not"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "dem go glad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for my sake"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "as e dey slip"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my foot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "dem don make demselves big"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:09.406675916Z",
+  "model": "glm-5.2"
+}

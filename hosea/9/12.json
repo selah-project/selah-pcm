@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Even if dem raise ⟨את⟩ dia children, I go bereave dem till ⟨dem⟩ no get man; yes, wahala go be for dem wen I depart from dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "even"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "dem raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia children"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dia children"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "I go bereave dem"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "till no get man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wahala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go be for dem"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "wen I depart"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:00.299555347Z",
+  "model": "glm-5.2"
+}

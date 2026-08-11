@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e bin talk sey, I cry go Yahweh from my trouble and e answer me, from inside Sheol belly I cry, you hear my voice.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e bin talk"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I cry"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "from my trouble"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "and e answer me"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "from belly"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "I cry"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    }
+  ],
+  "timestamp": "2026-08-11T16:31:20.570251423Z",
+  "model": "glm-5.2"
+}

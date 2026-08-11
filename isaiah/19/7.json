@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Bare ground by di canal, by di mouth of di canal; and every planted field of di canal go dry up, scatter, and ⟨be⟩ no more.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bare ground"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "di canal"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di mouth"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "of di canal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and every"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "planted field"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "of di canal"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "go dry up"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "scatter"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "and ⟨be⟩ no more"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:56.398682158Z",
+  "model": "glm-5.2"
+}

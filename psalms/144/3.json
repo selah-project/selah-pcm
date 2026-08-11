@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "Yahweh, wetin ⟨be⟩ mortal man, dat You know am? Son of enosh, dat You dey reckon am?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "dat You know am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Son of"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "dat You dey reckon am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:13.694405032Z",
+  "model": "glm-5.2"
+}

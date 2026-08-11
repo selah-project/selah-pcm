@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e do wetin bad for Yahweh im eye, and e waka follow di sin of Yarav'am, son of Nevat, wey make Yisra'el ⟨to⟩ sin; e no shift from am.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "and e do"
+    },
+    {
+      "surface": "הָרַ֖ע",
+      "gloss": "di bad"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "for im eye"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַ֠יֵּלֶךְ",
+      "gloss": "and e waka"
+    },
+    {
+      "surface": "אַחַ֨ר",
+      "gloss": "follow"
+    },
+    {
+      "surface": "חַטֹּ֜את",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יָרָבְעָ֧ם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נְבָ֛ט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הֶחֱטִ֥יא",
+      "gloss": "make ⟨to⟩ sin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סָ֥ר",
+      "gloss": "shift"
+    },
+    {
+      "surface": "מִמֶּֽנָּה",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:14.884039986Z",
+  "model": "glm-5.2"
+}

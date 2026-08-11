@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Who do am and make am happen, dey call di generations from ⟨di⟩ beginning? Na me, Yahweh — ⟨di⟩ first one, and ⟨את⟩ di last ones, na me be dat.",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "who"
+    },
+    {
+      "surface": "פָעַ֣ל",
+      "gloss": "do am"
+    },
+    {
+      "surface": "וְעָשָׂ֔ה",
+      "gloss": "and make am happen"
+    },
+    {
+      "surface": "קֹרֵ֥א",
+      "gloss": "dey call"
+    },
+    {
+      "surface": "הַדֹּר֖וֹת",
+      "gloss": "di generations"
+    },
+    {
+      "surface": "מֵרֹ֑אשׁ",
+      "gloss": "from ⟨di⟩ beginning"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רִאשׁ֔וֹן",
+      "gloss": "⟨di⟩ first one"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di last ones"
+    },
+    {
+      "surface": "אַחֲרֹנִ֖ים",
+      "gloss": "di last ones"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "be dat"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:21.643379576Z",
+  "model": "glm-5.2"
+}

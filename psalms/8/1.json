@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "To di choir master, on top ⟨di⟩ Gittith, song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir master"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨di⟩ Gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:55.851029231Z",
+  "model": "glm-5.2"
+}

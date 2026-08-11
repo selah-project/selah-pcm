@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "And I bin dey brutish, and I no bin know; like beast I bin dey with you.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "בַ֭עַר",
+      "gloss": "bin dey brutish"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אֵדָ֑ע",
+      "gloss": "bin know"
+    },
+    {
+      "surface": "בְּהֵמ֗וֹת",
+      "gloss": "like beast"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "I bin dey"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "with you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:49.025805762Z",
+  "model": "glm-5.2"
+}

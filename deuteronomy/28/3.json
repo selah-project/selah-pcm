@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Blessed you ⟨be⟩ for di city, and blessed you ⟨be⟩ for di field.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "and blessed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:30.278446516Z",
+  "model": "glm-5.2"
+}

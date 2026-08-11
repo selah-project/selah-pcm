@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Mosheh go back to di camp, na im and di elders of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "and go back"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "and di elders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:53:15.588069722Z",
+  "model": "glm-5.2"
+}

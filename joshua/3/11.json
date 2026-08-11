@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "See, ⟨na⟩ ⟨את⟩ ark of di covenant of Adonai of all di earth dey pass before una inside Yarden.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "See"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "of di covenant"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dey pass"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "inside Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:53.907262163Z",
+  "model": "glm-5.2"
+}

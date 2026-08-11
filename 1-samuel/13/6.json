@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And di man dem of Yisral see sey tight ⟨come⟩ reach dem, because di people ⟨bin dey⟩ oppress, so di people hide demsef for cave dem, for thicket dem, for rock dem, for hideout dem, and for pit dem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "And di man dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tight"
+    },
+    {
+      "surface": "לו",
+      "gloss": "reach dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "oppress"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "so dem hide"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "for cave dem"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "for thicket dem"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "for rock dem"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "for hideout dem"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "and for pit dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:35.027576848Z",
+  "model": "glm-5.2"
+}

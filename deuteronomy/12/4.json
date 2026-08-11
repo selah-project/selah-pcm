@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Make una no do so to Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "make una do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:39.480004508Z",
+  "model": "glm-5.2"
+}

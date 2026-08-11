@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 19:23",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Who go give am sey ⟨make⟩ my words dem go dey written! Who go give am sey for ⟨one⟩ book dem go engrave ⟨dem⟩!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "אֵפוֹ",
+      "gloss": "now"
+    },
+    {
+      "surface": "וְיִכָּתְבוּן",
+      "gloss": "make dem go dey written"
+    },
+    {
+      "surface": "מִלַּי",
+      "gloss": "my words dem"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "בַּסֵּפֶר",
+      "gloss": "for book"
+    },
+    {
+      "surface": "וְיֻחָקוּ",
+      "gloss": "make dem go engrave"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:49.692638712Z",
+  "model": "glm-5.2"
+}

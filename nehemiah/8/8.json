@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And dem read inside di book, inside di Torah of Elohim, with explanation; and dem put insight, and dem make dem understand for di reading.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem read"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "inside di book"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "inside di Torah of"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "with explanation"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "insight"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "and dem make dem understand"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "for di reading"
+    }
+  ],
+  "timestamp": "2026-08-11T13:51:29.073483986Z",
+  "model": "glm-5.2"
+}

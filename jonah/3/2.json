@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Stand up, go to Ninwe, di big city, and call out to am ⟨את⟩ di proclamation wey I dey speak to you.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stand up"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "di big one"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "and call out"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di proclamation"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "di proclamation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dey speak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    }
+  ],
+  "timestamp": "2026-08-11T16:32:13.959321102Z",
+  "model": "glm-5.2"
+}

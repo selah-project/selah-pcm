@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Dem wey dey sit down for darkness and for shadow of death, prisoner dem of misery and iron.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Dem wey dey sit down"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "and for shadow of death"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "prisoner dem of"
+    },
+    {
+      "surface": "עני",
+      "gloss": "misery"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "and iron"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:08.674176688Z",
+  "model": "glm-5.2"
+}

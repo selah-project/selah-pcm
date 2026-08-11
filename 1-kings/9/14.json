@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Hiram send to di king one hundred and twenty talent of gold.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and Hiram send"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:09.802937395Z",
+  "model": "glm-5.2"
+}

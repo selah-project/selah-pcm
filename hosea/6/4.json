@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Wetin I go do to you, Efrayim? Wetin I go do to you, Yehudah? Because your chesed ⟨be⟩ like morning cloud, and like early dew, e dey go away.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "and your chesed"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "like cloud"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "and like dew"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "early"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "e dey go away"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:58.969288776Z",
+  "model": "glm-5.2"
+}

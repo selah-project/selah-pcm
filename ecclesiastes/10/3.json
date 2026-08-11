@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And even for di road, wen fool dey waka, im heart dey lack sense, and ⟨e⟩ go tell evribody sey ⟨e⟩ ⟨be⟩ fool.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "wen fool"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dey lack sense"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and ⟨e⟩ go tell"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "evribody"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:27.287078273Z",
+  "model": "glm-5.2"
+}

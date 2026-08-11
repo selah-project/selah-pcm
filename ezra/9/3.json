@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And as I hear ⟨את⟩ di word dis one, I tear ⟨את⟩ my garment and my robe, and I pluck hair from my head and my beard, and I siddon devastated.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "and as I hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "I tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my garment"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "my garment"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "and my robe"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "and I pluck"
+    },
+    {
+      "surface": "משער",
+      "gloss": "hair from"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "and my beard"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "and I siddon"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "devastated"
+    }
+  ],
+  "timestamp": "2026-08-11T13:48:31.324054107Z",
+  "model": "glm-5.2"
+}

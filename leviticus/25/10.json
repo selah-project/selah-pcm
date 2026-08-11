@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And una go set apart ⟨את⟩ di fiftieth year, and una go proclaim freedom for di land to all di people wey dey stay inside; yovel e go be for una, and una go return, each man to im possession, and each man to im family una go return.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "and una go set apart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fiftieth year"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "di fiftieth"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "and una go proclaim"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "freedom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "di people wey dey stay inside"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "and una go return"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "im possession"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and each man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "im family"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "una go return"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:59.388027661Z",
+  "model": "glm-5.2"
+}

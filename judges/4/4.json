@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Devorah, ⟨na⟩ woman prophetess, wife of Lapidot, ⟨na⟩ ⟨im⟩ bin dey judge ⟨את⟩ Yisra'el for dat time.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "and Devorah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "prophetess"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife of"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨na⟩ ⟨im⟩"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "bin dey judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "for"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat time"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:29.795724629Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "I go talk to Eloah, make you no condemn me; make you tell me wetin you dey contend with me ⟨for⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "condemn me"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "make you tell me"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨for⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "you dey contend with me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:19:35.050845172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Lavan tell Ya'akov say, 'Because you ⟨be⟩ my brother, you go work for me for not'in? Tell me wetin your pay go be.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Ya'akov"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my brother"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "you go work for me"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "for not'in"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "your pay"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:50.337694180Z",
+  "model": "glm-5.2"
+}

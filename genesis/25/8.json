@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And e bin breathe im last and Avraham bin die for good old age, old man and satisfied, and e bin join im ancestors.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "and e bin breathe im last"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and bin die"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "for old age"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "old man"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and satisfied"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "and e bin join"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨with⟩"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "im ancestors"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:12.197502261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Man no go take ⟨את⟩ im papa wife, and him no go uncover im papa ⟨skirt⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa wife"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "go uncover"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "⟨skirt⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:35.313465747Z",
+  "model": "glm-5.2"
+}

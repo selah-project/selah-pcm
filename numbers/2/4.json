@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And im army, and dia counted ones, ⟨na⟩ four and seventy thousand and six hundred.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "And im army"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "and dia counted ones"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "four"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "and seventy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and six"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:53.398807652Z",
+  "model": "glm-5.2"
+}

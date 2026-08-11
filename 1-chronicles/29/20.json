@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And David talk to all di assembly, sey: Bless Yahweh your Elohim. And all di assembly bless Yahweh, Elohim of dia papa-dem; and dem bow down and prostrate to Yahweh and to di king.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and David talk"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bless"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "and dem bless"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "dia papa-dem"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "and dem bow down"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and prostrate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "and to di king"
+    }
+  ],
+  "timestamp": "2026-08-11T14:04:45.334591793Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Di One wey ⟨dey⟩ look to di earth and e dey tremble; ⟨e⟩ touch di mountains and dem dey smoke.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Di One wey ⟨dey⟩ look"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "to di earth"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "and e dey tremble"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "⟨e⟩ touch"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "and dem dey smoke"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:23.640189620Z",
+  "model": "glm-5.2"
+}

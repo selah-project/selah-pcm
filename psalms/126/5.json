@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 126,
+  "translation": "Dem wey dey sow with tears, go dey reap with song of joy.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "Dem wey dey sow"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "with tears"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "with song of joy"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "go dey reap"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:20.974504180Z",
+  "model": "glm-5.2"
+}

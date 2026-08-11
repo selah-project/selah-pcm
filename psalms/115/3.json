@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "But we own Elohim ⟨dey⟩ for heaven — anyting wey e wan, e don do am.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "but we own Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anyting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "e wan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e don do am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:58.959149849Z",
+  "model": "glm-5.2"
+}

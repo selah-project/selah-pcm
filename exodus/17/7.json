@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And e bin call di name of di place Massah and Merivah, because of di quarrel of di sons of Yisra'el, and because dem bin test ⟨את⟩ Yahweh, dem dey talk say, \"Yahweh dey among us or no?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "And bin call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "of di place"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "and Merivah"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "di quarrel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and because"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "dem bin test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem dey talk say"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "among us"
+    },
+    {
+      "surface": "אם",
+      "gloss": "or"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:49.847108712Z",
+  "model": "glm-5.2"
+}

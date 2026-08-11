@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "For ⟨את⟩ all di land wey you dey see, to you I go give ⟨am⟩, and to your seed forever.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dey see"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "I go give ⟨am⟩"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "and to your seed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:57.406527394Z",
+  "model": "glm-5.2"
+}

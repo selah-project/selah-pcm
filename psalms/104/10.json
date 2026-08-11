@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "⟨Na⟩ ⟨im⟩ wey dey send spring dem inside di valley dem; between di mountain dem dem dey waka.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "⟨Na im⟩ wey dey send"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "spring dem"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "inside di valley dem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "di mountain dem"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "dem dey waka"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:39.978858926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "Ah go tank ⟨am⟩ forever, because you bin do ⟨am⟩, and ah go wait for your name, because ⟨e⟩ ⟨be⟩ good for front of your kedoshim.",
+  "tokens": [
+    {
+      "surface": "אודךָ",
+      "gloss": "ah go tank"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you bin do"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "and ah go wait"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "your kedoshim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:15.440382103Z",
+  "model": "glm-5.2"
+}

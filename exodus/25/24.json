@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go overlay ⟨את⟩ am with pure gold, and you go make for am ⟨a⟩ border of gold round about.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "and you go overlay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "with gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "זר",
+      "gloss": "border"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:29.635165095Z",
+  "model": "glm-5.2"
+}

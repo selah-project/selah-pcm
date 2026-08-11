@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "For my judgment, ⟨dem⟩ go dey call me liar; my arrow ⟨be⟩ mortal, without any sin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my judgment"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "⟨dem⟩ go dey call me liar"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "my arrow"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "without"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "any sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:03.733545806Z",
+  "model": "glm-5.2"
+}

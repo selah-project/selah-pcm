@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di priest go burn am on top di altar — food of fire-offering to Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "and di priest go burn am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "of fire-offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:23.797864582Z",
+  "model": "glm-5.2"
+}

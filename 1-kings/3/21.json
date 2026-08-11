@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So as I bin wake up for morning make I suckle ⟨את⟩ my son, den see-am — e don die. As I look am well for morning, see-am — ⟨na⟩ no be my son wey I bin born.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "so as I bin wake up"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "make I suckle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "den see-am"
+    },
+    {
+      "surface": "מת",
+      "gloss": "e don die"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "as I look am well"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "see-am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "I bin born"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:36.207607538Z",
+  "model": "glm-5.2"
+}

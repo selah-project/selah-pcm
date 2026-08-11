@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Hazael talk sey, Why my Adonai dey cry? And e talk sey, Because I know ⟨את⟩ wetin you go do to di pikin-dem of Israel — evil: dia stronghold-dem you go set on fire, and dia young men you go kill wit sword, and dia small-small pikin-dem you go dash to pieces, and dia pregnant women you go rip open.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "why"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my Adonai"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "dey cry"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin you go do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "evil"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "dia stronghold-dem"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "you go set"
+    },
+    {
+      "surface": "באש",
+      "gloss": "on fire"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "and dia young men"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "you go kill"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "and dia small-small pikin-dem"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "you go dash to pieces"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "and dia pregnant women"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "you go rip open"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:56.372561990Z",
+  "model": "glm-5.2"
+}

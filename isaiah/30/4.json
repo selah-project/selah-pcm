@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "For im chief-dem bin dey for Tzoan, and im messenger-dem don rich Chanés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "for Tzoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "im chief-dem"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "and im messenger-dem"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Chanés"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "don rich"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:14.783198431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Until when, Yahweh — go you forget me forever? Until when go you hide ⟨את⟩ your face from me?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "when"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "go you forget me"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "when"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "go you hide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:10.924282354Z",
+  "model": "glm-5.2"
+}

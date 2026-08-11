@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "Song for David. Yahweh, hear my prayer, listen well to my pleading — for your faithfulness answer me, for your righteousness.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "listen well"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "my pleading"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "for your faithfulness"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "for your righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:16.610214302Z",
+  "model": "glm-5.2"
+}

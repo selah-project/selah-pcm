@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And forty cubit bin di length of di house — na im, di hall for front.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "and forty"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "di hall"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:14.496902718Z",
+  "model": "glm-5.2"
+}

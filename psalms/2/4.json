@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "⟨Di one wey⟩ dey siddon for heaven go laff, Adonai go mock dem.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "⟨di one wey⟩ dey siddon"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "go laff"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "go mock"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:38.734271548Z",
+  "model": "glm-5.2"
+}

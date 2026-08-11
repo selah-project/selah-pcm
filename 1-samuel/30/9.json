@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "So Dawud bin go, im and six hundred men wey dey wit am, and dem reach as far as Nachal HaBesor; and di ones wey remain, dem stand ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and six"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wit am"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nachal"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "HaBesor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "and di ones wey remain"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "dem stand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:13.205016488Z",
+  "model": "glm-5.2"
+}

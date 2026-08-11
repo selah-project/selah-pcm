@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Dem fit snatch prey from strong man hand? Or captives of righteous person, dem go fit rescue?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "dem fit snatch"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "from strong man"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "prey"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "captives"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "of righteous person"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dem go fit rescue"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:26.369007589Z",
+  "model": "glm-5.2"
+}

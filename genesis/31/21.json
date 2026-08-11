@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "So im sef run, wit ⟨all⟩ wetin ⟨be⟩ im own, and im bin stand up, and im bin cross ⟨את⟩ di river, and im bin set ⟨את⟩ im face toward mount Gilʻad.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "bin run"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im sef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and ⟨all⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wey ⟨be⟩ im own"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and bin cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di river"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "di river"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and bin set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mount"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilʻad"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:42.327545556Z",
+  "model": "glm-5.2"
+}

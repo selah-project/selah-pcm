@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Save me, O Elohim, for water don reach ⟨to⟩ my ⟨life⟩!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "save me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "באו",
+      "gloss": "don come"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "my ⟨life⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:53.366342683Z",
+  "model": "glm-5.2"
+}

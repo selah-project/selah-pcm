@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Until when go I put plans for my soul, sorrow for my heart daily? Until when go my enemy rise up upon me?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "when"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "go I put"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "plans"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "for my soul"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "sorrow"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "for my heart"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "daily"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "when"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "go ⟨he⟩ rise up"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:10.924450243Z",
+  "model": "glm-5.2"
+}

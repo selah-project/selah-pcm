@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And dem go fly on top di shoulder of Pelishtim westward; together dem go plunder ⟨את⟩ ⟨di⟩ sons of di east — Edom and Moav go be where dem stretch out dia hand, and di sons of Ammon go dey under dia authority.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "and dem go fly"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "on top di shoulder"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "westward"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "dem go plunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sons of di east"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "of di east"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "and Moav"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "stretching out"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "of dia hand"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "under dia authority"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:45.866261163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 5:27",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And King Shelomoh bin raise forced-labor from all Yisra'el; and di forced-labor bin ⟨be⟩ thirty thousand man.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "and bin raise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "forced-labor"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin"
+    },
+    {
+      "surface": "המס",
+      "gloss": "di forced-labor"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:56.078697341Z",
+  "model": "glm-5.2"
+}

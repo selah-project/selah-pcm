@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "You dey shine bright, you dey mighty pass mountain dem of prey.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "you dey shine bright"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "you dey mighty"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "pass mountain dem of"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prey"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:20.643621733Z",
+  "model": "glm-5.2"
+}

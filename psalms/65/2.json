@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "To You silence ⟨be⟩ praise, Elohim for Tziyon, and to You ⟨dem⟩ go fulfill vow.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "silence"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "praise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "for Tziyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "and to You"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go fulfill"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vow"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:58.406704995Z",
+  "model": "glm-5.2"
+}

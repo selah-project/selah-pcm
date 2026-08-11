@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im talk to Yeter, im firstborn sey, \"Stand up, kill ⟨את⟩ dem.\" But di boy no draw im sword, because im dey fear, because im still ⟨be⟩ boy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "to Yeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "im firstborn"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kill"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "draw"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "im sword"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "im dey fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "im still"
+    },
+    {
+      "surface": "נער",
+      "gloss": "boy"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:25.409584452Z",
+  "model": "glm-5.2"
+}

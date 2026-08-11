@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di fourth ⟨be⟩ Adonijah son of Chaggit; and di fifth ⟨be⟩ Shefatyah son of Avital.",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "and di fourth"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Chaggit"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "and di fifth"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "Avital"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:51.471795738Z",
+  "model": "glm-5.2"
+}

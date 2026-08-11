@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because for di shadow of wisdom ⟨na⟩ like di shadow of silver, and di advantage of di knowledge of wisdom ⟨be⟩ sey e dey give life to im owners.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "for di shadow"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "of wisdom"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "like di shadow"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "and di advantage"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "of di knowledge"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "of wisdom"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "⟨be⟩ sey e dey give life"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "to im owners"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:38.070628936Z",
+  "model": "glm-5.2"
+}

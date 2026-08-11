@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "And make di righteous dem glad, make dem jump for joy for front of Elohim, and make dem rejoice with gladness.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "and di righteous dem"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "make ⟨dem⟩ glad"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "make ⟨dem⟩ jump for joy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "and make ⟨dem⟩ rejoice"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "with gladness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:08.045493555Z",
+  "model": "glm-5.2"
+}

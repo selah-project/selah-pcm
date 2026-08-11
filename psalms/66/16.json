@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Come, hear, all una wey dey fear Elohim, and I go tell am wetin ⟨e⟩ do for my life.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "come"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "and I go tell am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "una wey dey fear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "for my life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:37.130544036Z",
+  "model": "glm-5.2"
+}

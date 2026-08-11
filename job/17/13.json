@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 17:13",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "If I dey wait, na Sheol ⟨be⟩ my house; for darkness I don spread my bed.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אֲ֭קַוֶּה",
+      "gloss": "I dey wait"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "בֵּיתִ֑י",
+      "gloss": "my house"
+    },
+    {
+      "surface": "בַּ֝חֹ֗שֶׁךְ",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "רִפַּ֥דְתִּי",
+      "gloss": "I don spread"
+    },
+    {
+      "surface": "יְצוּעָֽי",
+      "gloss": "my bed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:32.769947885Z",
+  "model": "glm-5.2"
+}

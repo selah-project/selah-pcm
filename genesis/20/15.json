@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Abimelech talk, 'See, my land dey before you; for where e good for your eye, siddon.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelech"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "dey before you"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "for where e good"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eye"
+    },
+    {
+      "surface": "שב",
+      "gloss": "siddon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:47.115066166Z",
+  "model": "glm-5.2"
+}

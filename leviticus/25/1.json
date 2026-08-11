@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Yahweh bin speak to Mosheh for inside Mount Sinai, sey make im talk",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for inside Mount"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make im talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:03.313134498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 111,
+  "translation": "Beginning of wisdom na fear of Yahweh; good sense get all ⟨dem⟩ wey dey do ⟨dem⟩. ⟨im⟩ praise dey stand forever.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Beginning"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "of wisdom"
+    },
+    {
+      "surface": "יִרְאַ֬ת",
+      "gloss": "fear"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "שֵׂ֣כֶל",
+      "gloss": "Good sense"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "good"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "get all"
+    },
+    {
+      "surface": "עֹשֵׂיהֶ֑ם",
+      "gloss": "⟨dem⟩ wey dey do ⟨dem⟩"
+    },
+    {
+      "surface": "תְּהִלָּת֗וֹ",
+      "gloss": "⟨im⟩ praise"
+    },
+    {
+      "surface": "עֹמֶ֥דֶת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "לָעַֽד",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:59.550199629Z",
+  "model": "glm-5.2"
+}

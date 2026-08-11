@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e go be like bird wey dey wander, ⟨like⟩ nest wey dem don scatter — daughters of Moab go be for di crossings of Arnon.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "like bird"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "wey dey wander"
+    },
+    {
+      "surface": "קן",
+      "gloss": "nest"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wey dem don scatter"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "daughters"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moab"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "for di crossings"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "of Arnon"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:05.432149640Z",
+  "model": "glm-5.2"
+}

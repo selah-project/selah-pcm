@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make me walk for ⟨di⟩ path of your commandments, because for dat one I don desire am.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Make me walk"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "for ⟨di⟩ path"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "of your commandments"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for dat one"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "I don desire am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.075953985Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And ⟨dem⟩ go pull down ⟨את⟩ di house — ⟨את⟩ im stones and ⟨את⟩ im wood and ⟨את⟩ all di dust of di house — and ⟨dem⟩ go carry am outside di city, go one unclean place.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "and ⟨dem⟩ go pull down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im stones"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "im stones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im wood"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "im wood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di dust"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "and ⟨dem⟩ go carry out"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:33.560697802Z",
+  "model": "glm-5.2"
+}

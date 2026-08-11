@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And after dat, all di son dem of Yisra'el come near, and e bin command dem ⟨את⟩ evri tin wey Yahweh bin speak wit ⟨את⟩ am for Mount Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "And after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "dem come near"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di son dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "and e bin command dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri tin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tin wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for Mount"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:38.679786306Z",
+  "model": "glm-5.2"
+}

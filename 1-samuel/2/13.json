@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di custom of di priests wit ⟨את⟩ di people ⟨be⟩ dis: any man wey dey slaughter sacrifice, di priest boy go come, as dem dey boil di meat, and di meat-fork wey get three teeth ⟨dey⟩ for im hand.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "and di custom"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "of di priests"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "wey dey slaughter"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "נער",
+      "gloss": "boy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "of di priest"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "as dem dey boil"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "di meat"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "and di fork"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "teeth"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:59.860258684Z",
+  "model": "glm-5.2"
+}

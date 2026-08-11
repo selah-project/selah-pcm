@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 37:26",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "No be so? You hear from far how I do ⟨את⟩ am from days of old, and I form am; now I bring am, say e go be to destroy ruins, fortified cities.",
+  "tokens": [
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "No be so"
+    },
+    {
+      "surface": "שָׁמַעְתָּ",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "לְמֵרָחוֹק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "אוֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "am (wetin I do)"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "I do"
+    },
+    {
+      "surface": "מִימֵי",
+      "gloss": "from days"
+    },
+    {
+      "surface": "קֶדֶם",
+      "gloss": "of old"
+    },
+    {
+      "surface": "וִיצַרְתִּיהָ",
+      "gloss": "and I form am"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "now"
+    },
+    {
+      "surface": "הֲבֵאתִיהָ",
+      "gloss": "I bring am"
+    },
+    {
+      "surface": "וּתְהִי",
+      "gloss": "say e go be"
+    },
+    {
+      "surface": "לְהַשְׁאוֹת",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "גַּלִּים",
+      "gloss": "ruins"
+    },
+    {
+      "surface": "נִצִּים",
+      "gloss": "desolate"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "בְּצֻרוֹת",
+      "gloss": "fortified"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:41.659464295Z",
+  "model": "glm-5.2"
+}

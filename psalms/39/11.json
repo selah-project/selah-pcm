@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Carry Your plague comot from on top me; from di fight of Your hand I don finish.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "carry comot"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "from on top me"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "Your plague"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "from di fight"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "of Your hand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "don finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:16.199985308Z",
+  "model": "glm-5.2"
+}

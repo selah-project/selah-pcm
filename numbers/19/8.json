@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di person wey burn am, ⟨את⟩ — im go wash im clothe inside water, and wash im body inside water, and im go dey unclean till evening.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "and di person wey burn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "di cow (am)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "im go wash"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im clothe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "inside water"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "and go wash"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "im body"
+    },
+    {
+      "surface": "במים",
+      "gloss": "inside water"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "and go dey unclean"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "evening"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:19.108004708Z",
+  "model": "glm-5.2"
+}

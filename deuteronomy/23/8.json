@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No abominate Edomi, because ⟨im⟩ na your brother; no abominate Mitsri, because you bin be stranger for im land.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "abominate"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ ⟨im⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "abominate"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "היית",
+      "gloss": "you bin be"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "for im land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:11.392482207Z",
+  "model": "glm-5.2"
+}

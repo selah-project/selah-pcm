@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "make each man release ⟨את⟩ im servant and each man ⟨release⟩ ⟨את⟩ im female servant — di Ivri man and di Ivri woman — as free people, so dat nobody go hold dem as servant again, among Yahudi, im brother, any man.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "make...release"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servant"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and each man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im female servant"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "im female servant"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "di Ivri man"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "and di Ivri woman"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "as free people"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat...not"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hold...as servant"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "among Yahudi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    }
+  ],
+  "timestamp": "2026-08-11T14:45:51.586735135Z",
+  "model": "glm-5.2"
+}

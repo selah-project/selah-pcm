@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di king of Mitsrayim bin talk to dem: \"Moshe and Aharon, why una dey distract ⟨את⟩ di people from dia work? Make una go to una burdens!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "una dey distract"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "from dia work"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "make una go"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "to una burdens"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:59.368521477Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem tell David, and e gather ⟨את⟩ all Israel, and e cross ⟨את⟩ di Yarden, and e come to Chelam. And Aram arrange demself to meet David, and dem fight with am.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "and e gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and e cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "to Chelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "and dem arrange demself"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:50.861174462Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And now, wetin I ⟨bin⟩ wait for? Adonai, my hope — na for You e ⟨dey⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "I ⟨bin⟩ wait for"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "my hope"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na for You"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ⟨dey⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:52.818463519Z",
+  "model": "glm-5.2"
+}

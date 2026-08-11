@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Eli bin talk to her: «Until when you go dey drunk? Commot ⟨את⟩ your wine from on top you!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to her"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Until"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "you go dey drunk"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Commot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your wine"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "your wine"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "from on top you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:25.778222660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because di drunkard and di glutton go come to poverty, and sleepiness go clothe ⟨am⟩ wit rags.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "drunkard"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "and glutton"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "go come to poverty"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "and rags"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "go clothe"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "sleepiness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:16.153098577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Yahweh go give dem give up for una front, and una go do to dem according to all di commandment wey I don command una.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "and go give dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "for una front"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and una go do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "di commandment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I don command"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:29.477694748Z",
+  "model": "glm-5.2"
+}

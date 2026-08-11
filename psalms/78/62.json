@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And im people im hand over to sword, and upon im inheritance im bin vex.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "and im hand over"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "to sword"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "and upon im inheritance"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "im bin vex"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:20.440869588Z",
+  "model": "glm-5.2"
+}

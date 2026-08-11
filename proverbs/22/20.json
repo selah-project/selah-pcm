@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Abi I neva write for you, ⟨for⟩ times three, inside counsel and knowledge?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Abi…neva"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "I write"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "times three"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "inside counsel"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "and knowledge"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:04.043080329Z",
+  "model": "glm-5.2"
+}

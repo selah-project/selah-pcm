@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Dia inward mind ⟨be⟩: dia houses ⟨go⟩ last forever, dia dwelling-places to generation and generation; dem call dia lands by dia own names.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Dia inward mind"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "dia houses"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "dia dwelling-places"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "and generation"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dem call"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "by dia own names"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "⟨di⟩ lands"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:07.062086036Z",
+  "model": "glm-5.2"
+}

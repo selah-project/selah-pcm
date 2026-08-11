@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di gatekeeper-dem bin call out, and dem bin tell am inside to ⟨את⟩ house of di king.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call out"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "di gatekeeper-dem"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "and dem bin tell am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "to house of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "inside"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:38.776782382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Di field wey Avraham bin buy from ⟨את⟩ di pikin-dem of Chet — na dere dem bury Avraham, and Sara im wife.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bin buy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "חת",
+      "gloss": "of Chet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "na dere"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dem bury"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "and Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:48.231034565Z",
+  "model": "glm-5.2"
+}

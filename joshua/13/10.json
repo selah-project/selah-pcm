@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "and all di towns of Sichon, king of di Emori, wey bin reign for Cheshbon, reach ⟨di⟩ boundary of di pikin-dem of Amon;",
+  "tokens": [
+    {
+      "surface": "וְכֹל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "עָרֵי",
+      "gloss": "di towns"
+    },
+    {
+      "surface": "סִיחוֹן",
+      "gloss": "of Sichon"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "הָאֱמֹרִי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מָלַךְ",
+      "gloss": "bin reign"
+    },
+    {
+      "surface": "בְּחֶשְׁבּוֹן",
+      "gloss": "for Cheshbon"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "גְּבוּל",
+      "gloss": "boundary"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "of di pikin-dem"
+    },
+    {
+      "surface": "עַמּוֹן",
+      "gloss": "of Amon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:38.043345010Z",
+  "model": "glm-5.2"
+}

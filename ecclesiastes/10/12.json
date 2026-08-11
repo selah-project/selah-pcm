@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Words of di mouth of a wise man ⟨get⟩ favor; but di lips of a fool go swallow am.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "words"
+    },
+    {
+      "surface": "פי",
+      "gloss": "of di mouth"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "of a wise man"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "but di lips"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "of a fool"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "go swallow am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:21.935389479Z",
+  "model": "glm-5.2"
+}

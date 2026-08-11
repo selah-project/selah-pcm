@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Kings of ⟨di⟩ earth dey take dia stand, and rulers dey gather together, against Yahweh and against im Mashíaj.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "dey take dia stand"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Kings of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "and rulers"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "dey gather together"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "im Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:58.520357757Z",
+  "model": "glm-5.2"
+}

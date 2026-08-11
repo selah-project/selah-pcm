@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And e command too, ⟨את⟩ di second one, too, ⟨את⟩ di third one, too, ⟨את⟩ all of dem wey dey follow behind di herds, sey: According to dis same word una go speak to Esav, wen una meet ⟨את⟩ ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di second one"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second one"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di third one"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "di third one"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all of dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wey dey follow"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "di herds"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "according to"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis same word"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "una go speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "wen una meet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:46.196801467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Deep water ⟨na⟩ di words of man mouth; flowing stream, ⟨na⟩ fountain of wisdom.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "deep"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words"
+    },
+    {
+      "surface": "פי",
+      "gloss": "of mouth"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "stream"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "flowing"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "fountain"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "of wisdom"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:58.256442312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "because you no go bow down to anoda El; because Yahweh, im name ⟨be⟩ Jealous, El Jealous ⟨he⟩ ⟨be⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "because"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִֽשְׁתַּחֲוֶ֖ה",
+      "gloss": "go bow down"
+    },
+    {
+      "surface": "לְאֵ֣ל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "because"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קַנָּ֣א",
+      "gloss": "Jealous"
+    },
+    {
+      "surface": "שְׁמ֔וֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קַנָּ֖א",
+      "gloss": "Jealous"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "he"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:40.850852007Z",
+  "model": "glm-5.2"
+}

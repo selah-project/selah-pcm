@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dis na wetin you go do ⟨to⟩ ⟨am⟩: three hundred cubit na di length of di boat, fifty cubit im width, and thirty cubit im height.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "And dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di boat)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "na di length"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "of di boat"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "im height"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:34.404584669Z",
+  "model": "glm-5.2"
+}

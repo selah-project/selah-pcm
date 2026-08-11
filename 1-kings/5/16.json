@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Shelomoh bin send to Hiram, sey ⟨make I talk⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey ⟨make I talk⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:07.814641897Z",
+  "model": "glm-5.2"
+}

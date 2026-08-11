@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Make ⟨make⟩ ⟨your⟩ face shine upon ⟨your⟩ servant; deliver me for ⟨the sake of⟩ your chesed.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "make shine"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨your⟩ face"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨your⟩ servant"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "deliver me"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "for ⟨the sake of⟩ ⟨your⟩ chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:56.884747343Z",
+  "model": "glm-5.2"
+}

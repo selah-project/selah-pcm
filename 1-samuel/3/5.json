@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So im bin run go meet Eli, and im talk sey, here I dey, because you call me. But Eli talk sey, I no call you; go back, lie down. So im go and im lie down.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "so im bin run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "you call"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I call"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "so im go"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "and im lie down"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:25.563284558Z",
+  "model": "glm-5.2"
+}

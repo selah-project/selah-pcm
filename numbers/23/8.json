@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "How I go curse? El never curse ⟨am⟩. And how I go denounce? Yahweh never denounce ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "I go curse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "curse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and how"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "I go denounce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "denounce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:16.466263915Z",
+  "model": "glm-5.2"
+}

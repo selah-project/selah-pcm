@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Because of dat, for ⟨di⟩ east, make una glorify Yahweh; for ⟨di⟩ islands of di sea, ⟨make una glorify⟩ di name of Yahweh, Elohim of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Because of"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בָּאֻרִ֖ים",
+      "gloss": "for ⟨di⟩ east"
+    },
+    {
+      "surface": "כַּבְד֣וּ",
+      "gloss": "make una glorify"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּאִיֵּ֣י",
+      "gloss": "for ⟨di⟩ islands"
+    },
+    {
+      "surface": "הַיָּ֔ם",
+      "gloss": "of di sea"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:08.864350007Z",
+  "model": "glm-5.2"
+}

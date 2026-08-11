@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im sons no waka for im way, but dem bend after gain, and dem collect bribe, and dem bend justice.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "dem waka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "for im way"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "dem bend"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "gain"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem collect"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bribe"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "dem bend"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:17.493740341Z",
+  "model": "glm-5.2"
+}

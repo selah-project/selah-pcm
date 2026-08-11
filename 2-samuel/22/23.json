@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 22:23",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Because all ⟨im⟩ ruling dem dey before me, and ⟨im⟩ law dem — I no turn from dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "⟨im⟩ ruling dem"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "dey before me"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "and ⟨im⟩ law dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "turn"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:36.344749678Z",
+  "model": "glm-5.2"
+}

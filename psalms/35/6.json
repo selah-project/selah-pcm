@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Make dia road be darkness and slippery ground, and make messenger of Yahweh dey pursue dem.",
+  "tokens": [
+    {
+      "surface": "יְֽהִי",
+      "gloss": "make e be"
+    },
+    {
+      "surface": "דַרְכָּ֗ם",
+      "gloss": "dia road"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "וַחֲלַקְלַקּ֑וֹת",
+      "gloss": "and slippery ground"
+    },
+    {
+      "surface": "וּמַלְאַ֥ךְ",
+      "gloss": "and messenger"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רֹדְפָֽם",
+      "gloss": "dey pursue dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:13.771746781Z",
+  "model": "glm-5.2"
+}

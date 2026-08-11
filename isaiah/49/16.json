@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Look, for ⟨di⟩ palm of ⟨my⟩ hands I don carve you; your walls dey always before me.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Look"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "palm"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "I don carve you"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "your walls"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "before me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:54.070547610Z",
+  "model": "glm-5.2"
+}

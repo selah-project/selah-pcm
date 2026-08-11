@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "For dose days and for dat time — na oracle of Yahweh — dem go search for ⟨את⟩ di iniquity of Yisra'el, and e no go dey; and ⟨את⟩ di sin of Yehudah, dem no go find am; because I go pardon di ones wey I go leave.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "for dose days"
+    },
+    {
+      "surface": "ההם",
+      "gloss": ""
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "and for dat time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": ""
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "dem go search for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di iniquity of Yisra'el"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di iniquity"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "and e no go dey"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sin of Yehudah"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "di sin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "dem go find am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "I go pardon"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "di ones wey"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "I go leave"
+    }
+  ],
+  "timestamp": "2026-08-11T12:00:24.328547835Z",
+  "model": "glm-5.2"
+}

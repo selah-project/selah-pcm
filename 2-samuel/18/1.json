@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "David bin count ⟨את⟩ di people wey ⟨dey⟩ ⟨את⟩ am, and e put on top dem commanders of thousands and commanders of hundreds.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "bin count"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "commanders of"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousands"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "and commanders of"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundreds"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:09.295689614Z",
+  "model": "glm-5.2"
+}

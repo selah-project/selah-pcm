@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "And nobody dey call your name, nobody dey wake up to hold ⟨tight⟩ onto you, because you hide your face from us, and you melt us for hand of our iniquity.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "and nobody dey"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "call"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "nobody dey wake up"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "to hold ⟨tight⟩ onto"
+    },
+    {
+      "surface": "בך",
+      "gloss": "you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "you hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from us"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "and you melt us"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand of"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "our iniquity"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:46.084314736Z",
+  "model": "glm-5.2"
+}

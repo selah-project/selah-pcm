@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "My pikin, if your heart ⟨be⟩ wise, my heart go rejoice, even me self.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "go rejoice"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me self"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:33.164657459Z",
+  "model": "glm-5.2"
+}

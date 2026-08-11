@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Di people wey dey waka for darkness, dem don see big light; dem wey dey siddon for land of shadow of death, light don shine on top dem.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wey dey waka"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dem don see"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem wey dey siddon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "shadow of death"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "don shine"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:09.728314828Z",
+  "model": "glm-5.2"
+}

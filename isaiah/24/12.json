@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wetin remain for di city ⟨na⟩ desolation, and ⟨di⟩ gate ⟨dem⟩ don smash am.",
+  "tokens": [
+    {
+      "surface": "נִשְׁאַ֥ר",
+      "gloss": "wetin remain"
+    },
+    {
+      "surface": "בָּעִ֖יר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "שַׁמָּ֑ה",
+      "gloss": "desolation"
+    },
+    {
+      "surface": "וּשְׁאִיָּ֖ה",
+      "gloss": "and devastation"
+    },
+    {
+      "surface": "יֻכַּת",
+      "gloss": "don smash"
+    },
+    {
+      "surface": "שָֽׁעַר",
+      "gloss": "gate"
+    }
+  ],
+  "timestamp": "2026-08-11T16:15:54.322542724Z",
+  "model": "glm-5.2"
+}

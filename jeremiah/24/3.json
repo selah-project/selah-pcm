@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Yahweh talk to me sey, wetin you dey see, Yirmeyahu? And I talk sey, fig; di fig wey good, good well-well, and di one wey bad, bad well-well, wey dem no fit chop, from how bad e bad.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dey see"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "fig"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "di fig"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "wey good"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "good"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "and di one wey bad"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "dem fit chop"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "from how bad e bad"
+    }
+  ],
+  "timestamp": "2026-08-11T11:50:19.714779046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Tamar, im daughter-in-law, born give am ⟨את⟩ Peretz and ⟨את⟩ Zerach. All di sons of Yehudah ⟨be⟩ five.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "And Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "im daughter-in-law"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "born"
+    },
+    {
+      "surface": "לו",
+      "gloss": "give am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    }
+  ],
+  "timestamp": "2026-08-11T16:52:15.612247358Z",
+  "model": "glm-5.2"
+}

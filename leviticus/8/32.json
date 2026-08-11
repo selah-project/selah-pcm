@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And wetin remain from di meat and from di bread, una go burn am wit fire.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "and wetin remain"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "from di meat"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "and from di bread"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "una go burn"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:45.681378939Z",
+  "model": "glm-5.2"
+}

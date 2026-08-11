@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Now, come, write am on top ⟨a⟩ tablet, ⟨את⟩ dem, and on top ⟨a⟩ book, carve am; and make e be for di last day, forever, unto eternity.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Now"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "come"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "write am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "book"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "carve am"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and make e be"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "last"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eternity"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:07.971624370Z",
+  "model": "glm-5.2"
+}

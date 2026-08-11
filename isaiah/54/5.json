@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Because di one wey marry you, na ⟨im⟩ be di one wey make you — Yahweh of host dem, ⟨na⟩ im name; and di one wey redeem you, ⟨na⟩ Kadosh of Yisrael ⟨im⟩ dey call; Elohim of all di earth.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "di one wey marry you"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "di one wey make you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of host dem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨na⟩ im name"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "and di one wey redeem you"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kadosh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨im⟩ dey call"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:00.740972138Z",
+  "model": "glm-5.2"
+}

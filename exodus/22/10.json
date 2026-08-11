@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Oath of Yahweh go dey between di two of dem, whether e no put im hand on top di work of im neighbor; and im owner go take am, and e no go pay back.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "oath of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "e put"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "on top di work of"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "im owner"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go pay back"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:43.470721069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And e go talk for you to di people, and ⟨e go be⟩, e go be mouth for you, and you go be like Elohim to am.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "and e go talk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨e go be⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "like Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:44.399266516Z",
+  "model": "glm-5.2"
+}

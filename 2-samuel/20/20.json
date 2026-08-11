@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Joab answer and talk, \"Far be am, far be am from me, if I go swallow or if I go destroy!\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and ⟨e⟩ answer"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "far be am"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "far be am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "I go swallow"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or if"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "I go destroy"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:58.451552978Z",
+  "model": "glm-5.2"
+}

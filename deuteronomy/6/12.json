@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Make you guard yourself, make you no forget ⟨את⟩ Yahweh wey bring you out from land of Mitsrayim, from house of servant dem.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "make you guard yourself"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yourself"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "you no forget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "bring you out"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "of servant dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:30.004160481Z",
+  "model": "glm-5.2"
+}

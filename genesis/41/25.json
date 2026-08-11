@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Yosef bin tell Paroh: \"Paroh dream na one ⟨be⟩ am; wetin Elohim dey do, ⟨את⟩ am ⟨He⟩ don show am to Paroh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "dream"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "am (wetin Elohim dey do)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "don show"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "to Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:23.717155853Z",
+  "model": "glm-5.2"
+}

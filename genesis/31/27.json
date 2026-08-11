@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Why you hide yourself to run away, and you steal ⟨את⟩ me, and you no tell me, so ⟨say⟩ I for don send you away wit joy and wit songs, wit tambourine and wit harp?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "you hide yourself"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "to run away"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "and you steal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨you⟩ no"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "so ⟨say⟩ I for don send you away"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wit joy"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "and wit songs"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "wit tambourine"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "and wit harp"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:48.210046960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And dem talk say, \"You don make us live! Make we find favor for di eye of my lord, and we go be servant dem for Pharaoh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "you don make us live"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "make we find"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "and we go be"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servant dem"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "for Pharaoh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:13.931766011Z",
+  "model": "glm-5.2"
+}

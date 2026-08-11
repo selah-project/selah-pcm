@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Come make una see wetin Elohim don do, im dey fearsome for im acts on top ⟨di⟩ children of man.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "come"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "make una see"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "wetin im don do"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "im dey fearsome"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "for im acts"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:09.397663097Z",
+  "model": "glm-5.2"
+}

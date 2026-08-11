@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "'Today, Yahweh your Elohim dey command you make you do ⟨את⟩ dis statutes and ⟨את⟩ di judgments; and you go keep am and do ⟨את⟩ dem wit all your heart and wit all your life-force.'",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dey command you"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make you do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis statutes"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "di statutes"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di judgments"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "di judgments"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "and you go keep"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and do"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "all your heart and all your life-force"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and wit all"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life-force"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:15.111830130Z",
+  "model": "glm-5.2"
+}

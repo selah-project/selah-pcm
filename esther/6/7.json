@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Haman talk to di king, ⟨Na⟩ di man wey di king dey delight to honor ⟨na⟩ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dey delight"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "to honor ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:32.369570978Z",
+  "model": "glm-5.2"
+}

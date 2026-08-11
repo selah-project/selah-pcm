@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di goat go carry on top imself ⟨את⟩ all dia iniquity go land of separation; and dem go send ⟨את⟩ di goat inside di wilderness.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "and go carry"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "di goat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top imself"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "dia iniquity"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "of separation"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "and dem go send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di goat"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "di goat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "inside di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:04.525760829Z",
+  "model": "glm-5.2"
+}

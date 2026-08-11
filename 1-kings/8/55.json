@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e stand up and e bless ⟨את⟩ all di assembly of Yisra'el, with big voice, dey talk sey:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "And e stand up"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "and e bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di assembly of Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "קול",
+      "gloss": "with voice"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey talk sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:46.154601627Z",
+  "model": "glm-5.2"
+}

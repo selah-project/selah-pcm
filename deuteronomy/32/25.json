@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "For outside, sword go bereave, and for inside rooms, terror — young man and virgin, sucking child wit man of old age.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "for outside"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "go bereave"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "and for inside rooms"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "terror"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "young man"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "virgin"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sucking child"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "of old age"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:14.690298402Z",
+  "model": "glm-5.2"
+}

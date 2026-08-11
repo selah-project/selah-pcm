@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "deuteronomy 28:67",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "For morning you go talk, 'Who go give evening!' and for evening you go talk, 'Who go give morning!' — because of di fear of your heart wey you go fear, and because of wetin your eyes go see.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "and for evening"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "because of di fear of"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "you go fear"
+    },
+    {
+      "surface": "וממראה",
+      "gloss": "and because of wetin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "your eyes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "go"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "see"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:31.749518822Z",
+  "model": "glm-5.2"
+}

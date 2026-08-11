@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yeshayahu talk, 'Take cake of pressed figs.' And dem take am, and dem put am on top di sore, and e live.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "take"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "cake of pressed figs"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "figs"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem take am"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "and dem put am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "di sore"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "and e live"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:27.065701781Z",
+  "model": "glm-5.2"
+}

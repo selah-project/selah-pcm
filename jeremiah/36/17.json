@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And ⟨dem⟩ ask ⟨את⟩ Baruk, sey make e tell us, how you bin write ⟨את⟩ all dis words from im mouth?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ask"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "נא",
+      "gloss": "make e"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "איך",
+      "gloss": "how"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "you bin write"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis words"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "from im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:55:07.156470701Z",
+  "model": "glm-5.2"
+}

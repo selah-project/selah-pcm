@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e look dis side and dat side, and e see sey no man dey, and e hit ⟨את⟩ di Mitsri man, and e hide am for di sand.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "and e look"
+    },
+    {
+      "surface": "כה",
+      "gloss": "dis side"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "and dat side"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and e see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man dey"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e hit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Mitsri man"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "di Mitsri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "and e hide am"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "for di sand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:47.811624468Z",
+  "model": "glm-5.2"
+}

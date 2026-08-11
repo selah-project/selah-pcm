@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Di pipul hear ⟨את⟩ di bad word dis one, and dem begin sad; and no man put im ornament on top am.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bad word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "dem begin sad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "put"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "im ornament"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:24.811344349Z",
+  "model": "glm-5.2"
+}

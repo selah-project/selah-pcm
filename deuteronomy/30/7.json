@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Yahweh wey be your Elohim go put ⟨את⟩ all dis curses on top your enemy-dem and on top di pipo-dem wey hate you, wey dem bin pursue you.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "and ⟨e⟩ go put"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis curses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "dis curses"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemy-dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "di pipo-dem wey hate you"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "dem bin pursue you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:38.144216763Z",
+  "model": "glm-5.2"
+}

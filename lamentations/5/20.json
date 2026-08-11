@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Why you go dey forget us forever? You go dey abandon us for length of days?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Why"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "you go dey forget us"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "You go dey abandon us"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "for length"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "of days"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:58.084349524Z",
+  "model": "glm-5.2"
+}

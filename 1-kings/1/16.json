@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Bat-Sheva bow down, and ⟨she⟩ prostrate to di king; and di king talk, 'Wetin you want?'",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "and prostrate"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you want"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:43.521037946Z",
+  "model": "glm-5.2"
+}

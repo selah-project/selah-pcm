@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "and Obed bin born ⟨את⟩ Yishai, and Yishai bin born ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "and Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "and Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:16.107180559Z",
+  "model": "glm-5.2"
+}

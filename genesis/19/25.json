@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So ⟨im⟩ overturn ⟨את⟩ dis cities and ⟨את⟩ all di valley and ⟨את⟩ all wey dey live for di cities and di plant of di ground.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "So ⟨im⟩ overturn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis cities"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dis cities"
+    },
+    {
+      "surface": "האל",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di valley"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "di valley"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all wey dey live for di cities"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "for di cities"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "and di plant"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:12.923305960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "Where I go go from your Spirit? And where I go run comot from your face?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "where"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go go"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "from your Spirit"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "and where"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from your face"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "I go run comot"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:31.015100387Z",
+  "model": "glm-5.2"
+}

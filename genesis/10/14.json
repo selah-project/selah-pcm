@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "and ⟨את⟩ di Pathrusim, and ⟨את⟩ di Casluchim — from where di Pelishtim bin come out — and ⟨את⟩ di Caphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "from where"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bin come out"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Caphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Caphtorim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:26.145846199Z",
+  "model": "glm-5.2"
+}

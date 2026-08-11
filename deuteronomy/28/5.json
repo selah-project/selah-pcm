@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Blessing go dey on top your basket and on top your kneading-trough.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessing go dey"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "your basket"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "and your kneading-trough"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:38.299483314Z",
+  "model": "glm-5.2"
+}

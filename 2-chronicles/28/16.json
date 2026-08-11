@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "For dat time, King Achaz send to di kings of Ashur make dem help am.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for dat time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di King"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "di kings"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "make dem help"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:29.757836936Z",
+  "model": "glm-5.2"
+}

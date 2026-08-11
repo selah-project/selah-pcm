@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 16:5",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Dat time, Retsin wey ⟨be⟩ king of Aram and Pekah son of Remaliah wey ⟨be⟩ king of Yisra'el go up against Yerushalayim for war; and dem besiege Achaz, but dem no fit overcome ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ופקח",
+      "gloss": "and Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaliah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "and dem besiege"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dem fit"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "to overcome"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:16.171715342Z",
+  "model": "glm-5.2"
+}

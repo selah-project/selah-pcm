@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "Dem go scatter plan where ⟨secret⟩ council no dey, but where plenty adviser dem dey, ⟨dem⟩ go stand.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "dem go scatter"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "plan"
+    },
+    {
+      "surface": "באין",
+      "gloss": "where no dey"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "secret council"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "but where plenty"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "adviser dem"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "go stand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:07.405679935Z",
+  "model": "glm-5.2"
+}

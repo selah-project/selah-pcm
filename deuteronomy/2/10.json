@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "(Di Emim bin dey live for there before, ⟨a⟩ people great and plenty and tall, like di Anakim.)",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "di Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "before"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bin dey live"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for there"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and plenty"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "and tall"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "like di Anakim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:27.173045941Z",
+  "model": "glm-5.2"
+}

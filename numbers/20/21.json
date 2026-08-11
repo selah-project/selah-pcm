@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "So Edom bin refuse to allow ⟨את⟩ Yisra'el make dem pass through inside im border, and Yisra'el turn comot from on top am.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "bin refuse"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "to allow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "make dem pass"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "through inside im border"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "and turn comot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "from on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:44.386807260Z",
+  "model": "glm-5.2"
+}

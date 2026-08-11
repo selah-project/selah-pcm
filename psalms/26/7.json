@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "make ⟨dem⟩ hear, wit di voice of thanksgiving, and make dem count all ⟨את⟩ di wonders of you.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "make ⟨dem⟩ hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wit di voice"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "of thanksgiving"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "and make dem count"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "di wonders of you",
+      "marks": "di wonders of you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:34.465868727Z",
+  "model": "glm-5.2"
+}

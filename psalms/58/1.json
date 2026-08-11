@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "To di leader, ⟨no destroy⟩, for Dawid, miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "⟨destroy⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:42.787131199Z",
+  "model": "glm-5.2"
+}

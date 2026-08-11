@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my ways stand firm make I go keep ya statutes!",
+  "tokens": [
+    {
+      "surface": "אַחֲלַי",
+      "gloss": "Make"
+    },
+    {
+      "surface": "יִכֹּנוּ",
+      "gloss": "make stand firm"
+    },
+    {
+      "surface": "דְרָכָי",
+      "gloss": "my ways"
+    },
+    {
+      "surface": "לִשְׁמֹר",
+      "gloss": "make I go keep"
+    },
+    {
+      "surface": "חֻקֶּיךָ",
+      "gloss": "ya statutes"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:49.724472796Z",
+  "model": "glm-5.2"
+}

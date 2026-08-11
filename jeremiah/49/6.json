@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "But after dat one, I go bring back ⟨את⟩ di captivity of di sons of Ammon — na so Yahweh dey talk.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "but after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captivity"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "di captivity"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so ... dey talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:59:39.162318185Z",
+  "model": "glm-5.2"
+}

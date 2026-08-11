@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e bin happen, wen Shelomah bin finish say e build ⟨את⟩ di house of Yahweh, and ⟨את⟩ di house of di king, and ⟨את⟩ all di desire wey Shelomah bin dey please ⟨to⟩ do,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "wen ⟨im⟩ finish"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "say e build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "desire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "e bin dey please"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨to⟩ do"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:07.396115085Z",
+  "model": "glm-5.2"
+}

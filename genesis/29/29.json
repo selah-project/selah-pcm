@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 29:29",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Lavan bin give Rachel, im daughter, ⟨את⟩ Bilhah wey be im female slave, as ⟨im⟩ own female slave.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and bin give"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "to Rachel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "im daughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "im female slave"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to ⟨im⟩"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "as female slave"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:06.283646288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Open yi door, Lebanon, make fire go chop yi cedar dem.",
+  "tokens": [
+    {
+      "surface": "פְּתַ֥ח",
+      "gloss": "Open"
+    },
+    {
+      "surface": "לְבָנ֖וֹן",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "דְּלָתֶ֑יךָ",
+      "gloss": "yi door"
+    },
+    {
+      "surface": "וְתֹאכַ֥ל",
+      "gloss": "make ⟨e⟩ go chop"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בַּאֲרָזֶֽיךָ",
+      "gloss": "yi cedar dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:35:26.535160566Z",
+  "model": "glm-5.2"
+}

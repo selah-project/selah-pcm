@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "But you, Yahweh, you go siddon forever, and your remembrance go reach ⟨from⟩ generation to generation.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "but you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "you go siddon"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "and your remembrance"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨from⟩ generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "to generation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:29.258192175Z",
+  "model": "glm-5.2"
+}

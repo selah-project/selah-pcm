@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 32:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Den dem come near to am and dem talk sey: Sheepfold we go build for our cattle here, and cities for our small pikin dem.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "den dem come near"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk sey"
+    },
+    {
+      "surface": "גדרת",
+      "gloss": "sheepfold"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "we go build"
+    },
+    {
+      "surface": "למקננו",
+      "gloss": "for our cattle"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "and cities"
+    },
+    {
+      "surface": "לטפנו",
+      "gloss": "for our small pikin dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:16.772306023Z",
+  "model": "glm-5.2"
+}

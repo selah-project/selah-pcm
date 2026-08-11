@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "So I take ⟨את⟩ Yaazanyah son of Yirmeyahu, son of Khavatstanyah, and ⟨את⟩ im brothers, and ⟨את⟩ all im sons, and ⟨את⟩ all di house of di Rekhavites.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "so I take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khavatstanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im brothers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brothers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im sons"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di house of di Rekhavites"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "di Rekhavites"
+    }
+  ],
+  "timestamp": "2026-08-11T11:53:49.100237648Z",
+  "model": "glm-5.2"
+}

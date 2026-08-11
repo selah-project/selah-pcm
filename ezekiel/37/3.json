@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And im bin talk to me: Son of man, dis bones go live? And I bin talk: Adonai Yahweh, you know.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "go live"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "dis bones"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and I bin talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "know"
+    }
+  ],
+  "timestamp": "2026-08-11T12:16:27.321834490Z",
+  "model": "glm-5.2"
+}

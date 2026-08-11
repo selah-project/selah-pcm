@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "I go talk to Yahweh, ⟨im be⟩ my refuge and my fortress, my Elohim, for ⟨im⟩ I go put trust.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "my refuge"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "and my fortress"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "I go put trust"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for ⟨im⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:50.926550080Z",
+  "model": "glm-5.2"
+}

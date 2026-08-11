@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Like hired man wey dem hire year by year, e go dey with am; e no go crush am with harshness for your eye.",
+  "tokens": [
+    {
+      "surface": "כִּשְׂכִ֥יר",
+      "gloss": "like hired man"
+    },
+    {
+      "surface": "שָׁנָ֛ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "בְּשָׁנָ֖ה",
+      "gloss": "by year"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "e go dey"
+    },
+    {
+      "surface": "עִמּ֑וֹ",
+      "gloss": "with am"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִרְדֶּ֥נּֽוּ",
+      "gloss": "go crush am"
+    },
+    {
+      "surface": "בְּפֶ֖רֶךְ",
+      "gloss": "with harshness"
+    },
+    {
+      "surface": "לְעֵינֶֽיךָ",
+      "gloss": "for your eye"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:27.976173907Z",
+  "model": "glm-5.2"
+}

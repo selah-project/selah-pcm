@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And spirit enter inside me as e bin talk to me, and e stand me up on top my leg, and I come hear ⟨את⟩ di one wey dey talk to me.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "and e enter"
+    },
+    {
+      "surface": "בי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e bin talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "and e stand me up"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my leg"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "and I come hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one wey dey talk"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di one wey dey talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:45.324281497Z",
+  "model": "glm-5.2"
+}

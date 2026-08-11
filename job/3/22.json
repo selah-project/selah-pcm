@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "dem wey dey glad unto joy, wey dey rejoice, wen dem fit find grave?",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "dem wey dey glad"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "unto"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "joy"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "wey dey rejoice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "dem fit find"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grave"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:12.986815198Z",
+  "model": "glm-5.2"
+}

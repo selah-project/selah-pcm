@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 12:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem go give ⟨את⟩ di money wey dem don weigh enter hand of di pipo wey dey do di work, di overseers of house of Yahweh; and dem go bring am out to di woodworkers and to di builders, di pipo wey dey work for house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "and dem go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di money"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di money"
+    },
+    {
+      "surface": "המתכן",
+      "gloss": "wey dem don weigh"
+    },
+    {
+      "surface": "על",
+      "gloss": "enter"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "of di pipo wey dey do"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "di overseers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ויוציאהו",
+      "gloss": "and dem go bring am out"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "to di woodworkers"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "of wood"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "and to di builders"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "di pipo wey dey work"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:44.307397993Z",
+  "model": "glm-5.2"
+}

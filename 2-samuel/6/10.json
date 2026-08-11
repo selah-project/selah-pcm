@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And David no gree carry ⟨את⟩ ark of Yahweh go im side, go city of David; but David turn am enter house of Oved-Edom di Gittite.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gree"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "carry"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go im side"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "and turn am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨enter⟩ house"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "di Gittite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:56.902834344Z",
+  "model": "glm-5.2"
+}

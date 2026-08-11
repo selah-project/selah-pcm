@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 29:38",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "and one he-goat for sin offering, apart from di regular burnt offering and ⟨את⟩ grain offering of am and ⟨את⟩ drink offering of am.",
+  "tokens": [
+    {
+      "surface": "וּשְׂעִ֥יר",
+      "gloss": "and one he-goat"
+    },
+    {
+      "surface": "חַטָּ֖את",
+      "gloss": "for sin offering"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מִלְּבַד֙",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "עֹלַ֣ת",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "הַתָּמִ֔יד",
+      "gloss": "regular"
+    },
+    {
+      "surface": "וּמִנְחָתָ֖הּ",
+      "gloss": "and grain offering of am",
+      "marks": "grain offering of am"
+    },
+    {
+      "surface": "וְנִסְכָּֽהּ",
+      "gloss": "and drink offering of am",
+      "marks": "drink offering of am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:38.618212843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "But dis five kings bin run, and dem bin hide for one cave for Makkedah.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "bin run"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "five"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "and dem bin hide"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "for one cave"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "for Makkedah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:04.022901652Z",
+  "model": "glm-5.2"
+}

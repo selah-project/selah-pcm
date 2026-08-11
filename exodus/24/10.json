@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "and dem see ⟨את⟩ Elohim of Yisra'el, and under His feet ⟨be⟩ like work of lapis-lazuli pavement, and like di substance of heaven for cleanliness.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "and dem see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim of Yisra'el"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "and under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "His feet"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "like work"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "of pavement"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "of lapis-lazuli"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "and like substance"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of di heaven"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "for cleanliness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:53.164479687Z",
+  "model": "glm-5.2"
+}

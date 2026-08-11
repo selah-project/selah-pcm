@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Make una strong, and make una heart get courage, all una wey dey wait for Yahweh.",
+  "tokens": [
+    {
+      "surface": "חִ֭זְקוּ",
+      "gloss": "make una strong"
+    },
+    {
+      "surface": "וְיַאֲמֵ֣ץ",
+      "gloss": "and make ⟨am⟩ get courage"
+    },
+    {
+      "surface": "לְבַבְכֶ֑ם",
+      "gloss": "una heart"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַ֝מְיַחֲלִ֗ים",
+      "gloss": "wey dey wait"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:20.080087295Z",
+  "model": "glm-5.2"
+}

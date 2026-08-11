@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e come happen, as all di men of war finish to die from inside di people,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "finish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "di war"
+    },
+    {
+      "surface": "למות",
+      "gloss": "to die"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:18.079528900Z",
+  "model": "glm-5.2"
+}

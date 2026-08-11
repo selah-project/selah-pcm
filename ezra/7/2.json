@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "wey be son of Shallum, wey be son of Tsadok, wey be son of Achituv",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:58.723321347Z",
+  "model": "glm-5.2"
+}

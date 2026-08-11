@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "From twenty year and upward, every man wey dey go out to army for Yisra'el — una go count ⟨את⟩ dem by dia armies; na you and Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "From son of"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "and upward"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "man wey dey go out"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "to army"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisra'el"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "una go count"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "by dia armies"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:55.105538936Z",
+  "model": "glm-5.2"
+}

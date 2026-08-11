@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "and ⟨את⟩ daughter of di ostrich, and ⟨את⟩ di night-hawk, and ⟨את⟩ di gull, and ⟨את⟩ di hawk to im kind.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "daughter of di ostrich"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "of di ostrich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di night-hawk"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "di night-hawk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di gull"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "di gull"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di hawk"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "di hawk"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "to im kind"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:20.230976997Z",
+  "model": "glm-5.2"
+}

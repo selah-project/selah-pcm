@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 6:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "From di bird, according to im kind, and from di animal, according to im kind, from every crawling thing of di ground, according to im kind, two from everything go come to you, to make dem live.",
+  "tokens": [
+    {
+      "surface": "מהעוף",
+      "gloss": "from di bird"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from every"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "crawling thing"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from everything"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "go come"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "to make dem live"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:47.165086277Z",
+  "model": "glm-5.2"
+}

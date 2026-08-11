@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e come happen, for ⟨di⟩ end of forty day and forty night, Yahweh give me ⟨את⟩ di two tablet dem of stone, ⟨di⟩ tablet dem of ⟨di⟩ covenant.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e come happen"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "for ⟨di⟩ end"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "and forty"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two tablet dem of stone"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tablet dem"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "of stone"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "⟨di⟩ tablet dem"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "of ⟨di⟩ covenant"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:28.437199954Z",
+  "model": "glm-5.2"
+}

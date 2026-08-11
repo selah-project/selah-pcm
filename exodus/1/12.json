@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But as dem dey oppress ⟨את⟩ am, so e dey multiply, and so e dey spread out; and dem come vex because of di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "but as"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "dem dey oppress"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "e dey multiply"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "and so"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "e dey spread out"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "and dem come vex"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:51.989868815Z",
+  "model": "glm-5.2"
+}

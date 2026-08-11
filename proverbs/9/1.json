@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Wisdom don build ⟨im⟩ house, ⟨e⟩ carve ⟨im⟩ pillars — seven.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Wisdom"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "don build"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨im⟩ house"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "⟨e⟩ carve"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "⟨im⟩ pillars"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:55.269976536Z",
+  "model": "glm-5.2"
+}

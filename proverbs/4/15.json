@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Avoid am, no pass through am; turn comot from on top am and pass on.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Avoid am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "pass through"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "turn comot"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "from on top am"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "and pass on"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:35.940947311Z",
+  "model": "glm-5.2"
+}

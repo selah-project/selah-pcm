@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Because di Leviyim abandon ⟨את⟩ dia pastureland and dia possession, and dem go Yehudah and Yerushalayim; because Yarove'am and im sons reject dem from serving as kohanim to Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dem abandon"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Leviyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia pastureland"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "dia pastureland"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "and dia possession"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "im reject dem"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarove'am"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "from serving as kohanim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:07:43.433304908Z",
+  "model": "glm-5.2"
+}

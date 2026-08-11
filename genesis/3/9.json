@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh Elohim bin call di man, and ⟨im⟩ talk sey, \"Where you dey?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "bin call"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Where you dey?"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:05.770265408Z",
+  "model": "glm-5.2"
+}

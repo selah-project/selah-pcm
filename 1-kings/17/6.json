@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di crows dey bring am bread and meat for morning, and bread and meat for evening, and from di wata-stream ⟨im⟩ dey drink.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "and di crows"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "dey bring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "and meat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "and bread"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "and meat"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "for evening"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "di wata-stream"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨im⟩ dey drink"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:29.745021280Z",
+  "model": "glm-5.2"
+}

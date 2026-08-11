@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So ⟨di⟩ Elohim bin appoint one worm for di time wey dawn bin dey rise, di next morning, and e bin strike ⟨את⟩ di kikayon, and e bin dry up.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "bin appoint"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨di⟩ Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "one worm"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "for di time wey ... dey rise"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "di next morning"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "di kikayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "bin dry up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:04.827615888Z",
+  "model": "glm-5.2"
+}

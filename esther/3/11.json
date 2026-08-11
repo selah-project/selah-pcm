@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di king bin tell Haman, 'Di silver, dem don give am to you, and ⟨את⟩ di people, to do wit dem as e good for your eye.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "to Haman"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "dem don give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "and di people"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "as e good"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eye"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.804022600Z",
+  "model": "glm-5.2"
+}

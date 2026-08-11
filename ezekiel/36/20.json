@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 36:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And wen dem enter among di nations wey dem enter dere, dem bin profane ⟨את⟩ di name of my holiness, wen dem dey tell dem, 'Dis people of Yahweh, na dem, and from im land dem don komot.'",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "And wen dem enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "among"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem enter"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "ויחללו",
+      "gloss": "dem bin profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name of my holiness"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "of my holiness"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "wen dem dey tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Dis people"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "ומארצו",
+      "gloss": "and from im land"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dem don komot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:16:50.650354270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Our inheritance don turn to strangers, our houses to foreigners.",
+  "tokens": [
+    {
+      "surface": "נַחֲלָתֵ֨נוּ",
+      "gloss": "Our inheritance"
+    },
+    {
+      "surface": "נֶֽהֶפְכָ֣ה",
+      "gloss": "don turn"
+    },
+    {
+      "surface": "לְזָרִ֔ים",
+      "gloss": "to strangers"
+    },
+    {
+      "surface": "בָּתֵּ֖ינוּ",
+      "gloss": "our houses"
+    },
+    {
+      "surface": "לְנָכְרִֽים",
+      "gloss": "to foreigners"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:56.170611745Z",
+  "model": "glm-5.2"
+}

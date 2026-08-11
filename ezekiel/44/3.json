@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "⟨As for⟩ ⟨את⟩ di prince; di prince, na ⟨im⟩ go siddon inside am to chop bread before Yahweh. E go enter through di road of di porch of di gate, and through im own road e go komot.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di prince"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "di prince"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "prince"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "go siddon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "through di road of"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "porch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e go enter"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "and through im own road"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e go komot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:19:47.176345598Z",
+  "model": "glm-5.2"
+}

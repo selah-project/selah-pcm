@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨di⟩ wisdom of Shelomah bin grow pass di wisdom of all ⟨di⟩ pikin-dem of kedem, and pass all di wisdom of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "and bin grow pass"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "pass di wisdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "and pass all"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T16:10:32.882825919Z",
+  "model": "glm-5.2"
+}

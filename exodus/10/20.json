@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "But Yahweh make strong ⟨את⟩ di heart of Pharaoh, and e no gree send ⟨את⟩ di children of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "but make strong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Pharaoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gree send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di children"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:27.484486283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Talk to di pikin-dem of Yisra'el, and tell dem sey: wen una enter ⟨el⟩ di land wey I dey give una, and una don reap ⟨את⟩ im harvest, den una go bring ⟨את⟩ di sheaf, firstfruit of una harvest, to di priest.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "wen una enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "and una don reap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im harvest"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "im harvest"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "den una go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sheaf"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "sheaf"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "firstfruit of"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "una harvest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:39.821985468Z",
+  "model": "glm-5.2"
+}

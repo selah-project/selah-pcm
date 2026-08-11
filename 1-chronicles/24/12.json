@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "di eleventh for Elyashiv, di twelfth for Yakim",
+  "tokens": [
+    {
+      "surface": "לְאֶלְיָשִׁיב",
+      "gloss": "for Elyashiv"
+    },
+    {
+      "surface": "עַשְׁתֵּי",
+      "gloss": "eleventh"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "-teen"
+    },
+    {
+      "surface": "לְיָקִים",
+      "gloss": "for Yakim"
+    },
+    {
+      "surface": "שְׁנֵים",
+      "gloss": "twelfth"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "-teen"
+    }
+  ],
+  "timestamp": "2026-08-11T16:53:26.122662502Z",
+  "model": "glm-5.2"
+}

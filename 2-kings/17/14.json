@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "But dem no gree listen, and dem harden ⟨את⟩ dia neck-dem, like neck of dia papa-dem wey no trust for Yahweh dia Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "But no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dem listen"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "and dem harden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia neck-dem"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "dia neck-dem"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "like neck of"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dia papa-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:52.246002486Z",
+  "model": "glm-5.2"
+}

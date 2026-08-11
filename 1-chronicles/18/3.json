@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Dawid bin strike ⟨את⟩ Hadadezer king of Tsovah, for Hamat, as e bin dey go make im hand strong for Perat River.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "as e bin dey go"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "make strong"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hand of am"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "for River"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:55.726896911Z",
+  "model": "glm-5.2"
+}

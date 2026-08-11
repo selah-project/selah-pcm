@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨he⟩ choose David im servant, and ⟨he⟩ take am from di sheepfold dem.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "and ⟨he⟩ choose"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "and ⟨he⟩ take am"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "from di sheepfold dem"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "of sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.823197407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Yahweh bin speak to Mosheh, say:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:42.744031634Z",
+  "model": "glm-5.2"
+}

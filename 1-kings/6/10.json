@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨im⟩ build ⟨את⟩ di side-structure upon all di house — five cubits im height; and ⟨im⟩ hold ⟨את⟩ di house wit cedar wood.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and ⟨im⟩ build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di side-structure"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "di side-structure"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "and ⟨im⟩ hold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "wit wood of"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:53.444698741Z",
+  "model": "glm-5.2"
+}

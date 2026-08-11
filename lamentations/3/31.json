@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Because Adonai no go reject ⟨am⟩ forever.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "reject"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:47.543180275Z",
+  "model": "glm-5.2"
+}

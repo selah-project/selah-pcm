@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Yahweh talk to me, 'Make you no fear am, because I don give am inside your hand — and ⟨את⟩ all im people, and ⟨את⟩ im land; and you go do to am wetin you do to Sihon king of di Emori, wey dey stay for Cheshbon.'",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨אמֶר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵלַי֙",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תִּירָ֣א",
+      "gloss": "fear"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "⟨את⟩ am",
+      "marks": "Og"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "בְיָדְךָ֞",
+      "gloss": "inside your hand"
+    },
+    {
+      "surface": "נָתַ֧תִּי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩ am",
+      "marks": "Og"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all im people"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "im people"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "אַרְצ֑וֹ",
+      "gloss": "im land"
+    },
+    {
+      "surface": "וְעָשִׂ֣יתָ",
+      "gloss": "and you go do"
+    },
+    {
+      "surface": "לּ֔וֹ",
+      "gloss": "to am"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עָשִׂ֗יתָ",
+      "gloss": "you do"
+    },
+    {
+      "surface": "לְסִיחֹן֙",
+      "gloss": "to Sihon"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "הָֽאֱמֹרִ֔י",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יוֹשֵׁ֖ב",
+      "gloss": "dey stay"
+    },
+    {
+      "surface": "בְּחֶשְׁבּֽוֹן",
+      "gloss": "for Cheshbon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:17.007916590Z",
+  "model": "glm-5.2"
+}

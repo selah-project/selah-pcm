@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "We dey think about ⟨את⟩ your chesed, Elohim, for inside your temple.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "we dey think about"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "your temple"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:35.523527848Z",
+  "model": "glm-5.2"
+}

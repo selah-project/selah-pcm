@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "From di animal dem wey ⟨be⟩ clean, and from di animal dem wey no clean, and from di bird dem, and evri ting wey dey crawl on top di ground.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal dem"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "wey ⟨be⟩ clean"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "no"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "clean"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "di bird dem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evri ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "dey crawl"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:28.472393422Z",
+  "model": "glm-5.2"
+}

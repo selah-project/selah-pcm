@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Like dog wey dey return to im vomit, na so fool dey repeat im own folly.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "Like dog"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wey dey return"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "im vomit"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "na so fool"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "dey repeat"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "im own folly"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:10.997859625Z",
+  "model": "glm-5.2"
+}

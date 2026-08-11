@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "and ⟨את⟩ Patrusim, and ⟨את⟩ Kaslukhim, wey comot from dia ⟨be⟩ Pelishtim, and ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Kaslukhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslukhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "comot"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "⟨be⟩ Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:31.518736244Z",
+  "model": "glm-5.2"
+}

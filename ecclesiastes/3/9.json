@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Wetin ⟨be⟩ di gain wey ⟨di⟩ worker dey get for di tin wey ⟨e⟩ dey sweat for?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "gain"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "di worker"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "for di tin wey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dey sweat for"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:23.674660728Z",
+  "model": "glm-5.2"
+}

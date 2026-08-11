@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And e come to pass for morning, and David write letter to Yoav, and ⟨he⟩ send am by hand of Uriyah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "and write"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "letter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:33.375161118Z",
+  "model": "glm-5.2"
+}

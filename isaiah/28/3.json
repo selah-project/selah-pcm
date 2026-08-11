@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Dem go trample underfoot di crown of pride of di drunkards of Efrayim.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "underfoot"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "dem go trample"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "di crown"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "of pride"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "of di drunkards"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:38.074004305Z",
+  "model": "glm-5.2"
+}

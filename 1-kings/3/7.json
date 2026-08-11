@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And now, Yahweh my Elohim, you ⟨bin⟩ make your servant king under Dawid my papa; and I ⟨be⟩ small pikin, I no sabi ⟨how⟩ to go out and to come in.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "make king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your servant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "נער",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "I sabi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "to go out"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and to come in"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:01.927344285Z",
+  "model": "glm-5.2"
+}

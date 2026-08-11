@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di life-force of lazy person dey crave, and notin dey; but di life-force of diligent ones go dey fat.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "dey crave"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and notin dey"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "life-force"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "of lazy person"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "but life-force"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "of diligent ones"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "go dey fat"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:36.165703644Z",
+  "model": "glm-5.2"
+}

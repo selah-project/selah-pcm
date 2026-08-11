@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Di one wey ⟨get⟩ clean hands, and pure heart, wey no carry im life go notin, and wey no swear lie-lie.",
+  "tokens": [
+    {
+      "surface": "נְקִ֥י",
+      "gloss": "clean"
+    },
+    {
+      "surface": "כַפַּ֗יִם",
+      "gloss": "hands"
+    },
+    {
+      "surface": "וּֽבַר",
+      "gloss": "and pure"
+    },
+    {
+      "surface": "לֵ֫בָ֥ב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נָשָׂ֣א",
+      "gloss": "carry"
+    },
+    {
+      "surface": "לַשָּׁ֣וְא",
+      "gloss": "go notin"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "im life"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נִשְׁבַּ֣ע",
+      "gloss": "swear"
+    },
+    {
+      "surface": "לְמִרְמָֽה",
+      "gloss": "lie-lie"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:37.148524727Z",
+  "model": "glm-5.2"
+}

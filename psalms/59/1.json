@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "To di leader, ⟨Al-Tashchet⟩, for David, miktam, when Shaul send ⟨dem⟩, and dem watch ⟨את⟩ di house, to kill am.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-Tashchet"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "destroy not"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "when ⟨im⟩ send"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "and dem watch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "to kill am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:40.402501269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Di words of person wey dey backbite ⟨be⟩ like sweet ⟨food⟩ for mouth, and dem dey go down enter ⟨di⟩ inner rooms of di belly.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "words of"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "person wey dey backbite"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "like sweet ⟨food⟩ for mouth"
+    },
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dey go down"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "inner rooms of"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "di belly"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:26.547579583Z",
+  "model": "glm-5.2"
+}

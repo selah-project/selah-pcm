@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "Because you, Yahweh, ⟨na⟩ my shelter — Elyon, you don make your dwelling place.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "my shelter"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "you don make"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "your dwelling place"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:03.209587419Z",
+  "model": "glm-5.2"
+}

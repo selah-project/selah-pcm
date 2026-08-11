@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make you far from lie-lie matter, and ⟨for⟩ innocent person and righteous person, no kill, because I no go declare righteous ⟨a⟩ wicked person.",
+  "tokens": [
+    {
+      "surface": "מִדְּבַר",
+      "gloss": "from matter of"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "lie-lie"
+    },
+    {
+      "surface": "תִרְחָק",
+      "gloss": "make you far"
+    },
+    {
+      "surface": "וְנָקִי",
+      "gloss": "and innocent person"
+    },
+    {
+      "surface": "וְצַדִּיק",
+      "gloss": "and righteous person"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַהֲרֹג",
+      "gloss": "kill"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אַצְדִּיק",
+      "gloss": "I go declare righteous"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "wicked person"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:22.598836707Z",
+  "model": "glm-5.2"
+}

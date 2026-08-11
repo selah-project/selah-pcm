@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And na dia names: Ben-Chur, for hill of Efrayim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and dese"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "dia names"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:22.136834367Z",
+  "model": "glm-5.2"
+}

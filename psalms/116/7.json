@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Go back, my life-breath, to your rest; because Yahweh don treat you well.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "go back"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "to your rest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "don treat well"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.010291348Z",
+  "model": "glm-5.2"
+}

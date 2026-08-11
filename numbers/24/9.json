@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "⟨E⟩ bend down, ⟨e⟩ lie down like lion, and like lioness — who go raise am up? Di people wey dey bless you, dem dey blessed, and di people wey dey curse you, dem dey cursed.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "⟨E⟩ bend down"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "⟨e⟩ lie down"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "and like lioness"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "go raise am up"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "di people wey dey bless you"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "dem dey blessed"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "and di people wey dey curse you"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "dem dey cursed"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:58.706250245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "E bin square; dem fold ⟨את⟩ di breastplate double; one span na im length, and one span na im width — e bin folded.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "square"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bin"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "folded"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di breastplate"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "di breastplate"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "one span"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "na im length"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "and one span"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "na im width"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "folded"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:57.580969656Z",
+  "model": "glm-5.2"
+}

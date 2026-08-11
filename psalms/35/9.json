@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And my life-force go spin round for joy inside Yahweh, e go glad inside im salvation.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "And my life-force"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "go spin round for joy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "inside Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "inside im salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:05.573616906Z",
+  "model": "glm-5.2"
+}

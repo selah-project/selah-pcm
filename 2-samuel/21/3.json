@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And David bin talk to di Gibeonites: \"Wetin I go do for una? And wit wetin I go make atonement, so dat una go bless ⟨את⟩ di inheritance of Yahweh?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "di Gibeonites"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "and wit wetin"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "I go make atonement"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "so dat una go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di inheritance"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "inheritance of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:15.311907728Z",
+  "model": "glm-5.2"
+}

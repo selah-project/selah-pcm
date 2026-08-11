@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Where ⟨be⟩ your chesed-dem of old, Adonai, wey you swear to David for your faithfulness?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "where"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "your chesed-dem"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "of old"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "you swear"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "for your faithfulness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:08.032767214Z",
+  "model": "glm-5.2"
+}

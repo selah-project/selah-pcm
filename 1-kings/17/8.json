@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di word of Yahweh come to ⟨im⟩, sey:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and … come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to ⟨im⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:29.745246852Z",
+  "model": "glm-5.2"
+}

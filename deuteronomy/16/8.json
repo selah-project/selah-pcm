@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Six days you go chop unleavened bread, and for di seventh day ⟨na⟩ assembly for Yahweh una Elohim — you no go do any work.",
+  "tokens": [
+    {
+      "surface": "שֵׁשֶׁת",
+      "gloss": "Six"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "days"
+    },
+    {
+      "surface": "תֹּאכַל",
+      "gloss": "you go chop"
+    },
+    {
+      "surface": "מַצּוֹת",
+      "gloss": "unleavened bread"
+    },
+    {
+      "surface": "וּבַיּוֹם",
+      "gloss": "and for di"
+    },
+    {
+      "surface": "הַשְּׁבִיעִי",
+      "gloss": "seventh day"
+    },
+    {
+      "surface": "עֲצֶרֶת",
+      "gloss": "assembly"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַעֲשֶׂה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "מְלָאכָה",
+      "gloss": "any work"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:41.559115118Z",
+  "model": "glm-5.2"
+}

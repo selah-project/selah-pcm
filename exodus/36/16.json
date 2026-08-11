@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And ⟨he⟩ join ⟨את⟩ five curtain separately, and ⟨את⟩ six curtain separately.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "and ⟨he⟩ join"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "five curtain"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "curtain"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "separately"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "six curtain"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "curtain"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "separately"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:31.942430781Z",
+  "model": "glm-5.2"
+}

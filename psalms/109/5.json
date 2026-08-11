@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "And dem put bad tin on top me instead of good, and hate instead of my love.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "and hate"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "my love"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:26.063914637Z",
+  "model": "glm-5.2"
+}

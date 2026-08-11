@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And e talk, \"Come wit me ⟨את⟩, and see my zeal for Yahweh.\" And dem make am ride for im chariot ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wit me"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "my zeal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "and dem make am ride"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "for im chariot"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:40.251705784Z",
+  "model": "glm-5.2"
+}

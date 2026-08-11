@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "and ⟨את⟩ Ayin and ⟨את⟩ im grazing-land, and ⟨את⟩ Yutah and ⟨את⟩ im grazing-land, ⟨את⟩ Bet־Shemesh and ⟨את⟩ im grazing-land — nine cities from ⟨את⟩ two of dis tribe-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yutah"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yutah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nine"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "two of dis tribe-dem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "tribe-dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:45.769220601Z",
+  "model": "glm-5.2"
+}

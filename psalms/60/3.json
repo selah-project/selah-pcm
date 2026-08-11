@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "Elohim, You bin reject us, You bin break us open, You bin vex — go turn back to us!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "You bin reject us"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "You bin break us open"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "You bin vex"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "go turn back"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "to us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:17.672164361Z",
+  "model": "glm-5.2"
+}

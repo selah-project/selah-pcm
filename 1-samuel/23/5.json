@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So Dawud and im men go Keilah, and e fight against di Pelisitim, and e carry away ⟨את⟩ dia livestock, and e strike dem wit big blow; and Dawud save ⟨את⟩ di people wey dey live for Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "and im men"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and e fight"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "against di Pelisitim"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "and e carry away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia livestock"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dia livestock"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "blow"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "big"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "and save"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people wey dey live for Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey live"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "for Keilah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:51.391996821Z",
+  "model": "glm-5.2"
+}

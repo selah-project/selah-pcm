@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Den Dawid and di people wey ⟨dey⟩ ⟨wit⟩ ⟨am⟩ raise ⟨את⟩ dia voice and cry, sotey no power remain inside dem to cry again.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "den raise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "and di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨wit⟩ ⟨am⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia voice"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dia voice"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sotey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seedy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "inside dem"
+    },
+    {
+      "surface": "כח",
+      "gloss": "power"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "to cry"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:09.170656660Z",
+  "model": "glm-5.2"
+}

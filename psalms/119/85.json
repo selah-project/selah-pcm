@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Arrogant people dig pit for me, wey no dey according to ⟨di⟩ law of you.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "dem dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arrogant people"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "pit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "according to law of you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:56.539656984Z",
+  "model": "glm-5.2"
+}

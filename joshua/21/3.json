@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di pikin dem of Yisrael bin give to di Levi dem, from dia own inheritance, according to di mouth of Yahweh, ⟨את⟩ dis city dem here, and ⟨את⟩ di grazing-land dem of dem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem bin give"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "to di Levi dem"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "from dia own inheritance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "according to"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis city dem here"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dis city dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "here"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di grazing-land dem of dem"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "di grazing-land dem of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:09.277327159Z",
+  "model": "glm-5.2"
+}

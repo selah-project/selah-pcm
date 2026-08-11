@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Each man dey help ⟨את⟩ im neighbour, and to im brother e dey talk: 'Make you strong!'",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "dey help"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "and to im brother"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "e dey talk"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "make you strong"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:26.401916569Z",
+  "model": "glm-5.2"
+}

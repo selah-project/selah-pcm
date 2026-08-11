@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "For di first ⟨one⟩, for di fourteenth day of di month, ⟨e⟩ go be for una ⟨di⟩ Pesach — chag of seven days; matzot go dey ⟨be⟩ eaten.",
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "for di first"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "for di fourteenth"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨e⟩ go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨di⟩ Pesach"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chag"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "of seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go dey eaten"
+    }
+  ],
+  "timestamp": "2026-08-11T12:19:07.896558110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 32:22",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Dey ⟨be⟩ Ashur and all im assembly round about am — im graves; all of dem ⟨be⟩ pierced ones, wey fall by sword.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Dey"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "im assembly"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "round about am"
+    },
+    {
+      "surface": "קברתיו",
+      "gloss": "im graves"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "pierced ones"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "wey fall"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by sword"
+    }
+  ],
+  "timestamp": "2026-08-11T12:14:12.825667077Z",
+  "model": "glm-5.2"
+}

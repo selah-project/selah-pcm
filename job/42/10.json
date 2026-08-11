@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Yahweh turn back ⟨את⟩ di captivity of Iyov, as ⟨he⟩ bin dey pray for im friends; and Yahweh add ⟨את⟩ all wey bin belong to Iyov, to double.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "And Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captivity"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "captivity"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "of Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "as bin dey pray"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im friends"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "and add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "belong to Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "to double"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:35.818518625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And ⟨he⟩ put ⟨את⟩ di altar of burnt offering for di entrance of di Mishkan of di Ohel of Mo'ed, and ⟨he⟩ offer on top am ⟨את⟩ di burnt offering and ⟨את⟩ di grain offering, as Yahweh bin command ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altar of burnt offering"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of burnt offering"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨he⟩ put"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Mo'ed"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and ⟨he⟩ offer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burnt offering"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "grain offering"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "grain offering"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:53.332371495Z",
+  "model": "glm-5.2"
+}

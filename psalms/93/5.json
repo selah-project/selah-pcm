@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 93,
+  "translation": "Your testimonies dem, dem don stand firm well-well; holiness dey fit Your house, Yahweh, for length of days.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "Your testimonies dem"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "dem don stand firm"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "for Your house"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "dey fit"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "holiness"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "for length of"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:57.055257901Z",
+  "model": "glm-5.2"
+}

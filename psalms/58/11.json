@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Righteous man go glad, because ⟨e⟩ see revenge; im feet ⟨e⟩ go wash for blood of di wicked.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "revenge"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "im feet"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "go wash"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "for blood"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "of di wicked"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:20.177022629Z",
+  "model": "glm-5.2"
+}

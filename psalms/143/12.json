@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "And for inside your chesed, wipe out my enemies, and destroy all di people wey dey squeeze my life; because na me be your servant.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "and for inside your chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "wipe out"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "and destroy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "di people wey dey squeeze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "be your servant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:53.378630226Z",
+  "model": "glm-5.2"
+}

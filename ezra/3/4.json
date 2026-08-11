@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem do ⟨את⟩ feast of Sukkot as e bin dey write, and burnt offering of day for day, by number, as di rule, matter of day for im day.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feast of Sukkot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "feast"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "of Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "as e bin dey write"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "and burnt offering"
+    },
+    {
+      "surface": "יום",
+      "gloss": "of day"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "by number"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "as rule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "יום",
+      "gloss": "of day"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "for im day"
+    }
+  ],
+  "timestamp": "2026-08-11T13:46:17.679716926Z",
+  "model": "glm-5.2"
+}

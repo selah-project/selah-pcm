@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "For dat night, di king im sleep run away, and e talk sey make dem bring ⟨את⟩ book of di records, words of di days, and dem dey read am before di king.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "for dat night"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "run away"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sleep"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "to bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "book of di records"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "book"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "of di records"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "words of"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem dey"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "read"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:25.885876693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Ehud bin escape while dem dey delay, and e pass ⟨את⟩ di carving dem, and e escape go Seirath.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "and Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "bin escape"
+    },
+    {
+      "surface": "עד",
+      "gloss": "while"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "dem dey delay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di carving dem"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "di carving dem"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "and e escape"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "go Seirath"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:58.807535157Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di Kehatites bin set out, dem wey dey carry ⟨את⟩ di holy place, and ⟨dem⟩ go set up ⟨את⟩ di Mishkan until dem go reach.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "and bin set out"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "di Kehatites"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dem wey dey carry"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "and go set up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di Mishkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "באם",
+      "gloss": "dem go reach"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:02.008427829Z",
+  "model": "glm-5.2"
+}

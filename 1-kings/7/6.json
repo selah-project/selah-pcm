@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And ⟨את⟩ di porch of di pillar dem ⟨he⟩ make: fifty amah im length, and thirty amah im width; and ⟨a⟩ porch dey in front of dem, and pillar dem and ⟨a⟩ thick roof dey in front of dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di porch"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "porch"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "di pillar dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "and porch"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "front of dem"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "and pillar dem"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "and thick roof"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "front of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:48.549981477Z",
+  "model": "glm-5.2"
+}

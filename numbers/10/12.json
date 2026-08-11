@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di sons of Yisrael move out for dia journeys from Wilderness of Sinai, and di cloud settle for Wilderness of Paran.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "and move out"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "for dia journeys"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "from Wilderness"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "of Sinai"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "and settle"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "di cloud"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for Wilderness"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "of Paran"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:40.967817272Z",
+  "model": "glm-5.2"
+}

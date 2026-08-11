@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 9:18",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Through di anger of Yahweh of hosts, ⟨di⟩ land don become desolate, and di people come be like food of fire — man ⟨no go⟩ spare im brother.",
+  "tokens": [
+    {
+      "surface": "בעברת",
+      "gloss": "Through di anger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "נעתם",
+      "gloss": "don become desolate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כמאכלת",
+      "gloss": "like food"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨no go⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יחמלו",
+      "gloss": "spare"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:43.555640713Z",
+  "model": "glm-5.2"
+}

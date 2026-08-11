@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "If I wash ⟨myself⟩ wit snow, and I clean my two hand wit lye,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "I wash"
+    },
+    {
+      "surface": "במו",
+      "gloss": "wit"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snow"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "and I clean"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "wit lye"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my two hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:33.360387346Z",
+  "model": "glm-5.2"
+}

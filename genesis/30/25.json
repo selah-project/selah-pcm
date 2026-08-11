@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Na so e bin happen, wen Rachel bin born ⟨את⟩ Joseph, Ya'akov bin talk to Lavan, make you send me, make I go to my place and to my land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na so e bin happen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wen"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "make you send me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "make I go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "my place"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "and to my land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:15.531192532Z",
+  "model": "glm-5.2"
+}

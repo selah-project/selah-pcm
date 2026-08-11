@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Im left hand dey under my head, and im right hand dey hold me tight.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "im left hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dey under"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "and im right hand"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "dey hold me tight"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:11.198914770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dem take ⟨את⟩ di soot of di furnace, and dem stand before Paroh; and Moshe scatter am toward heaven, and boil wey dey burst out wit blisters come dey on man and on animal.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְח֞וּ",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di soot of di furnace"
+    },
+    {
+      "surface": "פִּ֣יחַ",
+      "gloss": "soot"
+    },
+    {
+      "surface": "הַכִּבְשָׁ֗ן",
+      "gloss": "of di furnace"
+    },
+    {
+      "surface": "וַיַּֽעַמְדוּ֙",
+      "gloss": "and dem stand"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "before"
+    },
+    {
+      "surface": "פַרְעֹ֔ה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וַיִּזְרֹ֥ק",
+      "gloss": "and scatter"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩ am",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "הַשָּׁמָ֑יְמָה",
+      "gloss": "toward heaven"
+    },
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "and come dey"
+    },
+    {
+      "surface": "שְׁחִין֙",
+      "gloss": "boil"
+    },
+    {
+      "surface": "אֲבַעְבֻּעֹ֔ת",
+      "gloss": "wit blisters"
+    },
+    {
+      "surface": "פֹּרֵ֕חַ",
+      "gloss": "wey dey burst out"
+    },
+    {
+      "surface": "בָּאָדָ֖ם",
+      "gloss": "on man"
+    },
+    {
+      "surface": "וּבַבְּהֵמָֽה",
+      "gloss": "and on animal"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:22.545379353Z",
+  "model": "glm-5.2"
+}

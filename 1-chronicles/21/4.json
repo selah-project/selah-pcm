@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "But di word of di king overpower Yo'av, so Yo'av go out and e waka through all Yisra'el, and e come enter Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "overpower"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'av"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "go out"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'av"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "waka through"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "come enter"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:50.904847629Z",
+  "model": "glm-5.2"
+}

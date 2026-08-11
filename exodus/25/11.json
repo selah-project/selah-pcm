@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go overlay ⟨את⟩ am wit pure gold — inside and outside you go overlay am; and you go make on top am crown of gold round about.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "and you go overlay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "inside"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "and outside"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "you go overlay am"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "זר",
+      "gloss": "crown"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:04.435277181Z",
+  "model": "glm-5.2"
+}

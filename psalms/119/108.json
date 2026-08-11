@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make you accept di willing offerings of my mouth, please, Yahweh, and make you teach me your judgments.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "di willing offerings"
+    },
+    {
+      "surface": "פי",
+      "gloss": "of my mouth"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "make you accept"
+    },
+    {
+      "surface": "נא",
+      "gloss": "please"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "and your judgments"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "make you teach me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:26.731302937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Because dem no bin meet ⟨את⟩ bnei-Yisra'el with bread and with water, and ⟨he⟩ bin hire against dem ⟨את⟩ Bilam to curse am; and Eloheinu turn di curse to blessing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "dem bin meet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bnei-Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "with bread"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "and with water"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "and ⟨he⟩ bin hire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "to curse am"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "and ⟨he⟩ turn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheinu"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "di curse"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "to blessing"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:12.833994587Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e bin happen, di next day, di people bin komot go di field, and dem tell Abimelek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di next day"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and bin komot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Abimelek"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:31.109546659Z",
+  "model": "glm-5.2"
+}

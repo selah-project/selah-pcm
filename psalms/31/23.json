@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "As for me, I bin talk for my haste, \"Dem don cut me off from before your eyes\" — but surely, you hear di voice of my pleadings, for my cry unto you.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "As for me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "for my haste"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "dem don cut me off"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "from before"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "your eyes"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "but surely"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "of my pleadings"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "for my cry"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "unto you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:02.378546865Z",
+  "model": "glm-5.2"
+}

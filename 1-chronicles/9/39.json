@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 9:39",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Ner bin born ⟨את⟩ Kish, and Kish bin born ⟨את⟩ Shaul, and Shaul bin born ⟨את⟩ Yehonatan, and ⟨את⟩ Malkishua, and ⟨את⟩ Avinadav, and ⟨את⟩ Eshbaal.",
+  "tokens": [
+    {
+      "surface": "וְנֵר֙",
+      "gloss": "and Ner"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Kish"
+    },
+    {
+      "surface": "קִ֔ישׁ",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "וְקִ֖ישׁ",
+      "gloss": "and Kish"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שָׁא֑וּל",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וְשָׁא֗וּל",
+      "gloss": "and Shaul"
+    },
+    {
+      "surface": "הוֹלִ֤יד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יְהֽוֹנָתָן֙",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מַלְכִּ֔ישׁוּעַ",
+      "gloss": "Malkishua"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אֲבִינָדָ֖ב",
+      "gloss": "⟨את⟩ Avinadav"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and",
+      "marks": "Eshbaal"
+    },
+    {
+      "surface": "אֶשְׁבָּֽעַל",
+      "gloss": "⟨את⟩ Eshbaal"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.845164550Z",
+  "model": "glm-5.2"
+}

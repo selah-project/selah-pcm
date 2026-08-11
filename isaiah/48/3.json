@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Di former tins, from dat time I bin declare am, and from my mouth dem komot, and I bin make dem hear; suddenly I do am, and dem come.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Di former tins"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "from dat time"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "I bin declare am"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "and from my mouth"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dem komot"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "and I bin make dem hear"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "suddenly"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I do am"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "and dem come"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:47.064900148Z",
+  "model": "glm-5.2"
+}

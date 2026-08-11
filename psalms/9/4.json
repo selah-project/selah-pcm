@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "When my enemies turn back, dem go stumble and perish from your presence.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "when"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "dem go stumble"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "and perish"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from your presence"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:17.027598046Z",
+  "model": "glm-5.2"
+}

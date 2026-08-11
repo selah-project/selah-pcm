@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Blessed ⟨be⟩ Yahweh, Elohim of Yisrael, from eternity and unto eternity. Amen, and amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "from eternity"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "eternity"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "and amen"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:50.816686023Z",
+  "model": "glm-5.2"
+}

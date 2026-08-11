@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "I bin dey see for di vision of my head on top my bed, and ⟨behold⟩, one watcher and one holy one bin come down from heaven.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "I bin dey see"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "I bin"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "for di vision"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "of my head"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "and ⟨behold⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "watcher"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "and holy one"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "bin come down"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:34.388084378Z",
+  "model": "glm-5.2"
+}

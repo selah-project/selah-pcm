@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨dem⟩ bin make Yisrael very poor because of Midyan, and di sons of Yisrael bin cry out to Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "and bin make poor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "and bin cry out"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:55.813856102Z",
+  "model": "glm-5.2"
+}

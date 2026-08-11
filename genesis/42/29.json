@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And dem come to Yaakov, dia papa, ⟨to⟩ di land of Kenaan, and dem tell am ⟨את⟩ all di tings wey happen to dem, ⟨את⟩ dem, to talk say:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨to⟩ land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "di tings wey happen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "to dem, to talk say"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk say"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:38.946619430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "⟨Na⟩ good man dey show favor and dey lend; im heart go sustain im matters wit judgment.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "dey show favor"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "and dey lend"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "go sustain"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "im matters"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "wit judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:37.017533113Z",
+  "model": "glm-5.2"
+}

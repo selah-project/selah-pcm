@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Di ones wey dey near and di ones wey dey far from you, dem go mock you; ⟨you wey⟩ dem defile ⟨your⟩ name, full ⟨of⟩ commotion.",
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "di ones wey dey near"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "and di ones wey dey far"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "dem go mock"
+    },
+    {
+      "surface": "בך",
+      "gloss": "you"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "⟨you wey⟩ dem defile"
+    },
+    {
+      "surface": "השם",
+      "gloss": "name"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "full"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "commotion"
+    }
+  ],
+  "timestamp": "2026-08-11T12:09:52.991547717Z",
+  "model": "glm-5.2"
+}

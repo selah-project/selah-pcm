@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh ⟨na⟩ good for di man wey dey wait, for di life wey dey seek am.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "for di man wey dey wait"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "for di life"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "wey dey seek am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:28.410914791Z",
+  "model": "glm-5.2"
+}

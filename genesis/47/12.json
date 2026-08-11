@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And Yosef dey sustain ⟨את⟩ im papa and ⟨את⟩ im broda-dem and ⟨את⟩ all di house of im papa, wit bread according to ⟨di mouth of⟩ di small pikin-dem.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "and dey sustain"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im broda-dem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di house of im papa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "small pikin-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:53.450327938Z",
+  "model": "glm-5.2"
+}

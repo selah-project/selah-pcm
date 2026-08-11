@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Sey na rebellious pipul ⟨dis⟩ be — pikin dem wey dey lie, pikin dem wey no gree hear torah of Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עַ֤ם",
+      "gloss": "pipol"
+    },
+    {
+      "surface": "מְרִי֙",
+      "gloss": "rebellious"
+    },
+    {
+      "surface": "ה֔וּא",
+      "gloss": "⟨dis⟩"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "pikin dem"
+    },
+    {
+      "surface": "כֶּחָשִׁ֑ים",
+      "gloss": "wey dey lie"
+    },
+    {
+      "surface": "בָּנִ֕ים",
+      "gloss": "pikin dem"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אָב֥וּ",
+      "gloss": "gree"
+    },
+    {
+      "surface": "שְׁמ֖וֹעַ",
+      "gloss": "hear"
+    },
+    {
+      "surface": "תּוֹרַ֥ת",
+      "gloss": "torah of"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:43.224286184Z",
+  "model": "glm-5.2"
+}

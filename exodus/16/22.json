@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 16:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e come to pass, for di sixth day, dem gather double food, two omer for one person, and all di leaders of di congregation come, and dem tell Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "di sixth"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "dem gather"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "double"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "for one person"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "leaders"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "of di congregation"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "to Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:31.401869468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And you go sanctify ⟨am⟩, because ⟨את⟩ bread of Elohim wey be your own na ⟨im⟩ dey bring near; holy ⟨im⟩ go be to you, because holy na me, Yahweh, wey dey sanctify una.",
+  "tokens": [
+    {
+      "surface": "וְקִדַּשְׁתּ֔וֹ",
+      "gloss": "and you go sanctify ⟨am⟩"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bread of Elohim wey be your own"
+    },
+    {
+      "surface": "לֶ֥חֶם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "of Elohim wey be your own"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "מַקְרִ֑יב",
+      "gloss": "dey bring near"
+    },
+    {
+      "surface": "קָדֹשׁ֙",
+      "gloss": "holy"
+    },
+    {
+      "surface": "יִֽהְיֶ֔ה",
+      "gloss": "⟨im⟩ go be"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "קָדֹ֛שׁ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְקַדִּשְׁכֶֽם",
+      "gloss": "wey dey sanctify una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:37.803963765Z",
+  "model": "glm-5.2"
+}

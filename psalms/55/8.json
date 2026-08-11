@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "See, I for move far away, I for lodge for inside di wilderness. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "I for move far away"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "wander"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "I for lodge"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for inside di wilderness"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:26.881805130Z",
+  "model": "glm-5.2"
+}

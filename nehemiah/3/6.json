@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 3:6",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨את⟩ di Old Gate, Yoyada son of Paseach and Meshullam son of Besodyah bin strong-hold; dem bin frame am, and dem bin stand up im doors and im locks and im bars.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di Old Gate"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Gate"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "di Old"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "bin strong-hold"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "and Meshullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "בסודיה",
+      "gloss": "Besodyah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "bin frame am"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "and dem bin stand up"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "im doors"
+    },
+    {
+      "surface": "ומנעליו",
+      "gloss": "and im locks"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "and im bars"
+    }
+  ],
+  "timestamp": "2026-08-11T13:49:34.687224935Z",
+  "model": "glm-5.2"
+}

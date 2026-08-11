@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Adam bin know again ⟨את⟩ im wife, and she born one son, and she call ⟨את⟩ im name Shet, sey: \"Elohim don put for me anoda seed instead of Hevel, because Kayin kill am.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "and bin know"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wife"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "and she call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שת",
+      "gloss": "don put"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kill am"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:00.613244988Z",
+  "model": "glm-5.2"
+}

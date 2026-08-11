@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "E go happen, when di Mitsrayim people see ⟨את⟩ you, dem go talk, 'Na im wife be dis,' and dem go kill ⟨את⟩ me, but ⟨את⟩ you dem go make ⟨you⟩ live.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E go happen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "dem go see"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "di Mitsrayim people"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "be dis"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "and dem go kill"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "dem go make live"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:10.372253370Z",
+  "model": "glm-5.2"
+}

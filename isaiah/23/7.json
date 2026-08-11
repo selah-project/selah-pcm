@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "⟨Na⟩ dis ⟨be⟩ una exulting city, wey from days of old, from antiquity, im own legs carry am from far to sojourn?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "exulting one"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "from days of"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "old"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "from antiquity"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "carry am"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "im own legs"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "to sojourn"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:10.899284502Z",
+  "model": "glm-5.2"
+}

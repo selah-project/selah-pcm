@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Because sey I lift you from di dust and I make you ruler over my people Yisra'el, but you waka for di way of Yarov'am and you make ⟨את⟩ my people Yisra'el sin, to provoke me to anger wit dia sins:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "because"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "I lift you"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "di dust"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "and I make you"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ruler"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "and you waka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di way of"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "and you make...sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people Yisra'el"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "to provoke me to anger"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "wit dia sins"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:16.510758725Z",
+  "model": "glm-5.2"
+}

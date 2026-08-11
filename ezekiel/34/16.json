@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 34:16",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "⟨את⟩ di lost one I go seek, and ⟨את⟩ di one wey dem drive away I go bring back, and di broken one I go bind up, and ⟨את⟩ di sick one I go strengthen; and ⟨את⟩ di fat one and ⟨את⟩ di strong one I go destroy. I go feed dem wit judgment.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lost one"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "di lost one"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "I go seek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di one wey dem drive away"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "di one wey dem drive away"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go bring back"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "and di broken one"
+    },
+    {
+      "surface": "אחבש",
+      "gloss": "I go bind up"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sick one"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "di sick one"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "I go strengthen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fat one"
+    },
+    {
+      "surface": "השמנה",
+      "gloss": "di fat one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di strong one"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "di strong one"
+    },
+    {
+      "surface": "אשמיד",
+      "gloss": "I go destroy"
+    },
+    {
+      "surface": "ארענה",
+      "gloss": "I go feed dem"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "wit judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T12:14:57.910713405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Dat time, Yehoshua bin build altar to Yahweh, Elohim of Yisrael, for Mount Eival.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dat time"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for Mount"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:56.843399959Z",
+  "model": "glm-5.2"
+}

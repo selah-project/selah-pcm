@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Bad ting dey wey I see under di sun, and e heavy well-well on top man.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "dey"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "and e heavy well-well"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:42.143391749Z",
+  "model": "glm-5.2"
+}

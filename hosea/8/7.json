@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Because wind dem dey sow, and storm dem go harvest. Standing grain — nottin dey for am; sprout no go produce flour. Even if e produce, strangers go swallow am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "dem dey sow"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "and storm"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "dem go harvest"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "standing grain"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nottin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "sprout"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "produce"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "flour"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Even if"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e produce"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "go swallow am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:59.409322348Z",
+  "model": "glm-5.2"
+}

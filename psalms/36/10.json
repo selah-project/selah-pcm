@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Because with you ⟨na⟩ di source of life; for your light we go see light.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "di source"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "of life"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "for your light"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "we go see"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:58.942489059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And to dis people you go talk: \"Thus Yahweh don talk: See, I dey put before una ⟨את⟩ di way of life and ⟨את⟩ di way of death.\"",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "I dey put"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di way of life"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di way of"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "life"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di way of death"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di way of"
+    },
+    {
+      "surface": "המות",
+      "gloss": "death"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:39.988844412Z",
+  "model": "glm-5.2"
+}

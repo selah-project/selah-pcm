@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di priest go burn dem on top di altar — bread of fire-offering for sweet smell to Yahweh. All fat ⟨na⟩ for Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "and di priest go burn dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "of fire-offering"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "for smell"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:18.494757069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And e bring out flowing streams from cliff, and e cause water come down like rivers.",
+  "tokens": [
+    {
+      "surface": "ושיוצא",
+      "gloss": "and e bring out"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "flowing streams"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "from cliff"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "and e cause come down"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "like rivers"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:55.664199921Z",
+  "model": "glm-5.2"
+}

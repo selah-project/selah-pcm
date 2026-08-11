@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "I bin say, I for blow dem away, I for make dia remembrance cease from among man.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin say"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "I for blow dem away"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "I for make cease"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "from among man"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "dia remembrance"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:14.690522851Z",
+  "model": "glm-5.2"
+}

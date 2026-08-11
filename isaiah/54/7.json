@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "For small moment I leave you, but with big-big compassion I go gather you back.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "For moment"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "I leave you"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "but with compassion"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "big-big"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "I go gather you back"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:00.741390857Z",
+  "model": "glm-5.2"
+}

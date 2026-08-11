@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and one bull and one ram for peace-offerings, to sacrifice before Yahweh, and grain-offering wey dem mix wit oil; because today Yahweh go appear to una.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "and bull"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "and ram"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "for peace-offerings"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "to sacrifice"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "and grain-offering"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "wey dem mix"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wit oil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "go appear"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:35.912287831Z",
+  "model": "glm-5.2"
+}

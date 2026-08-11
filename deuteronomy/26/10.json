@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And now, see, I don bring ⟨את⟩ di firstfruit of di fruit of di ground wey you give me, Yahweh; and you go put am down before Yahweh your Elohim, and you go bow down before Yahweh your Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "I don bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di firstfruit of di fruit of di ground"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "di firstfruit"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "you give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "and you go put am down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "and you go bow down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:41.632971239Z",
+  "model": "glm-5.2"
+}

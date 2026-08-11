@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 87,
+  "translation": "Yahweh dey love di gate-dem of Tziyon, pass all di dwelling-dem of Ya'akov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "dey love"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "di gate-dem of"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pass all"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "di dwelling-dem of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:42.036092288Z",
+  "model": "glm-5.2"
+}

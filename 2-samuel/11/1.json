@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 11:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "E come happen, for di turn of di year, for di time wey kings dey go out, Dawid bin send ⟨את⟩ Yoav and ⟨את⟩ im servants wit am, and ⟨את⟩ all Yisrael, and dem destroy ⟨את⟩ di sons of Ammon, and dem besiege Rabbah. But Dawid bin dey sit down for Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e come happen"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "for di turn of"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "di year"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "for di time of"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "to go out"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישחתו",
+      "gloss": "and dem destroy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "and dem besiege"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "but Dawid"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bin dey sit down"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:16.804117204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "'Di gods of di nations wey my papa-papa dem destroy — ⟨את⟩ ⟨dem⟩ save ⟨את⟩ dem? ⟨את⟩ Gozan, and ⟨את⟩ Haran, and Retzef, and di sons of Eden, wey dey for Telassar?'",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "save"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "di gods"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "of di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "destroy"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "my papa-papa dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "and Retzef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "of Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "dey for Telassar"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:39.894033227Z",
+  "model": "glm-5.2"
+}

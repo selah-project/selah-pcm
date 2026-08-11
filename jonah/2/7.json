@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I bin go down reach di root of di mountains, di earth with im bar dem bin close around me forever, but You bring my life up from di pit, Yahweh my Elohim.",
+  "tokens": [
+    {
+      "surface": "לְקִצְבֵ֤י",
+      "gloss": "reach di root of"
+    },
+    {
+      "surface": "הָרִים֙",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "יָרַ֔דְתִּי",
+      "gloss": "I bin go down"
+    },
+    {
+      "surface": "הָאָ֛רֶץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "בְּרִיחֶ֥יהָ",
+      "gloss": "with im bar dem"
+    },
+    {
+      "surface": "בַּעֲדִ֖י",
+      "gloss": "around me"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "וַתַּ֧עַל",
+      "gloss": "but You bring up"
+    },
+    {
+      "surface": "מִשַּׁ֛חַת",
+      "gloss": "from di pit"
+    },
+    {
+      "surface": "חַיַּ֖י",
+      "gloss": "my life"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:44.514558772Z",
+  "model": "glm-5.2"
+}

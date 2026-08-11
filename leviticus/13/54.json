@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "den di priest go command, and dem go wash ⟨את⟩ wetin dey inside am, di mark, and e go lock am again seven days time — second time.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "go command"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "dem go wash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dey inside am, di mark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dey inside am"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "di mark"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "go lock am again"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days time"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "second time"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:36.270038112Z",
+  "model": "glm-5.2"
+}

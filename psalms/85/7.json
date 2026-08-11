@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "No be so? You go turn back, you go make us live again, so that your people go rejoice inside you?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "No be so"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "go turn back"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "go make us live again"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "and your people"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "go rejoice"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:37.045685513Z",
+  "model": "glm-5.2"
+}

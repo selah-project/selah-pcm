@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and ⟨את⟩ Chukkok and ⟨את⟩ im grazing-land, and ⟨את⟩ Rechob and ⟨את⟩ im grazing-land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chukkok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Rechob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:10.304055876Z",
+  "model": "glm-5.2"
+}

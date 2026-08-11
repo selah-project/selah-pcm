@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "According to di plenty of di years, una go increase im price; and according to di fewness of di years, una go reduce im price; because na number of harvests im dey sell to una.",
+  "tokens": [
+    {
+      "surface": "לְפִ֣י",
+      "gloss": "according to"
+    },
+    {
+      "surface": "רֹ֣ב",
+      "gloss": "di plenty of"
+    },
+    {
+      "surface": "הַשָּׁנִ֗ים",
+      "gloss": "di years"
+    },
+    {
+      "surface": "תַּרְבֶּה֙",
+      "gloss": "una go increase"
+    },
+    {
+      "surface": "מִקְנָת֔וֹ",
+      "gloss": "im price"
+    },
+    {
+      "surface": "וּלְפִי֙",
+      "gloss": "and according to"
+    },
+    {
+      "surface": "מְעֹ֣ט",
+      "gloss": "di fewness of"
+    },
+    {
+      "surface": "הַשָּׁנִ֔ים",
+      "gloss": "di years"
+    },
+    {
+      "surface": "תַּמְעִ֖יט",
+      "gloss": "una go reduce"
+    },
+    {
+      "surface": "מִקְנָת֑וֹ",
+      "gloss": "im price"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "because"
+    },
+    {
+      "surface": "מִסְפַּ֣ר",
+      "gloss": "number of"
+    },
+    {
+      "surface": "תְבוּאֹ֔ת",
+      "gloss": "harvests"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מֹכֵ֖ר",
+      "gloss": "im dey sell"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:08.343842054Z",
+  "model": "glm-5.2"
+}

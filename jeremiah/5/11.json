@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Because betrayer betray ⟨me⟩, house of Yisra'el and house of Yehudah, oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "betrayer"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "betray"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and house"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:37.114706305Z",
+  "model": "glm-5.2"
+}

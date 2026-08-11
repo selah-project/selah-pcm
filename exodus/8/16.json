@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 8:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yahweh talk to Moshe: \"Make you rise early for morning, and stand before Paroh — look, ⟨e⟩ dey go out to di water — and you go tell am: 'Thus Yahweh don talk: Send ⟨את⟩ my people, make dem serve me!'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "make you rise early"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "⟨e⟩ dey go out"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "to di water"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "make dem serve me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:23.307726034Z",
+  "model": "glm-5.2"
+}

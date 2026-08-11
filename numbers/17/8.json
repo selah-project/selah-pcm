@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Moshe and Aharon come go to ⟨di front of⟩ ⟨di⟩ tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and come go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di front of"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:26:31.334799992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Haman take ⟨את⟩ di cloth and ⟨את⟩ di horse, and e clothe ⟨את⟩ Mordecai, and e ride am for inside di city square, and e call for im front: like dis dem go do for di man wey di king dey happy to honor!",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּ֤ח",
+      "gloss": "and ⟨he⟩ take"
+    },
+    {
+      "surface": "הָמָן֙",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di cloth"
+    },
+    {
+      "surface": "הַלְּב֣וּשׁ",
+      "gloss": "di cloth"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di horse"
+    },
+    {
+      "surface": "הַסּ֔וּס",
+      "gloss": "di horse"
+    },
+    {
+      "surface": "וַיַּלְבֵּ֖שׁ",
+      "gloss": "and ⟨he⟩ clothe"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מָרְדֳּכָ֑י",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "וַיַּרְכִּיבֵ֨הוּ֙",
+      "gloss": "and ⟨he⟩ ride am"
+    },
+    {
+      "surface": "בִּרְח֣וֹב",
+      "gloss": "for inside di square"
+    },
+    {
+      "surface": "הָעִ֔יר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "וַיִּקְרָ֣א",
+      "gloss": "and ⟨he⟩ call"
+    },
+    {
+      "surface": "לְפָנָ֔יו",
+      "gloss": "for im front"
+    },
+    {
+      "surface": "כָּ֚כָה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "יֵעָשֶׂ֣ה",
+      "gloss": "dem go do"
+    },
+    {
+      "surface": "לָאִ֔ישׁ",
+      "gloss": "for di man"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "חָפֵ֥ץ",
+      "gloss": "dey happy"
+    },
+    {
+      "surface": "בִּיקָרֽוֹ",
+      "gloss": "to honor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:28.599069977Z",
+  "model": "glm-5.2"
+}

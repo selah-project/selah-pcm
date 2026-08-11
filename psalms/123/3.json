@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 123,
+  "translation": "Show us favor, Yahweh, show us favor, because plenty-plenty we don satisfy with insult.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Show us favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "show us favor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רב",
+      "gloss": "plenty-plenty"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "we don satisfy"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "with insult"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:47.979804616Z",
+  "model": "glm-5.2"
+}

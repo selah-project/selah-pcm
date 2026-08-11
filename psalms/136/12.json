@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "Wit strong hand and wit arm wey ⟨dem⟩ stretch out, sey im chesed dey forever.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "and wit arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wey ⟨dem⟩ stretch out"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:10.924200243Z",
+  "model": "glm-5.2"
+}

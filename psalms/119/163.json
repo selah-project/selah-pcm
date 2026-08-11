@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Lie I hate and I abhor am; your law I love.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Lie"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "I hate"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "and I abhor am"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "your law"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "I love"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:42.637142663Z",
+  "model": "glm-5.2"
+}

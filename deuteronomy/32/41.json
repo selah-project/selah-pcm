@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 32:41",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "If I bin sharpen my sword like lightning, and my hand hold ⟨firm⟩ for judgment, I go return vengeance to my enemies, and to does wey hate me I go pay dem back.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "I bin sharpen"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "like lightning"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "my sword"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "and ⟨my hand⟩ go hold"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "for judgment"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go return"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vengeance"
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "to my enemies"
+    },
+    {
+      "surface": "ולמשנאי",
+      "gloss": "and to does wey hate me"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "I go pay dem back"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:03.833677158Z",
+  "model": "glm-5.2"
+}

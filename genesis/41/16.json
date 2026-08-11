@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Yosef answer Paroh, sey, \"E no dey my hand; Elohim go answer ⟨את⟩ di welfare of Paroh.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "answer"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "no dey my hand"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di welfare"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "welfare"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:28.549980965Z",
+  "model": "glm-5.2"
+}

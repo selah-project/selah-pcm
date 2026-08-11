@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Truly, like adam una go die, and like one of di princes una go fall.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "like adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "una go die"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "and like one of"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "di princes"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "una go fall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:41.820293961Z",
+  "model": "glm-5.2"
+}

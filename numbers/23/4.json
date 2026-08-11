@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Elohim come meet Bilam, and ⟨he⟩ talk to am, ⟨את⟩ di seven altar wey I arrange, and I go up bull and ram on top ⟨the⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "And come meet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di seven altar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "wey I arrange"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "and I go up"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bull"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "and ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "on top ⟨the⟩ altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:14.799266726Z",
+  "model": "glm-5.2"
+}

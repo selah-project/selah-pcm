@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh don stand up make ⟨e⟩ go quarrel, and ⟨e⟩ dey stand make ⟨e⟩ go judge ⟨di⟩ peoples.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "don stand up"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "make ⟨e⟩ go quarrel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "and ⟨e⟩ dey stand"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "make ⟨e⟩ go judge"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peoples"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:51.041943715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Amatsyahu im son, Azaryah im son, Yotam im son,",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:52.926793595Z",
+  "model": "glm-5.2"
+}

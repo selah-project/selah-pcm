@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "As deer dey pant for stream of water, so my life dey pant unto you, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "as deer"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "dey pant"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "stream of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "dey pant"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "unto you"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:43.908082149Z",
+  "model": "glm-5.2"
+}

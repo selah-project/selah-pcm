@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And dem make ⟨את⟩ di ark of Elohim ride on top new cart, from di house of Avinadav; and Uzza and im broda na dem dey drive di cart.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "dem make ride"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "cart"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "new"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from di house"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "and Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "and im broda"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "dey drive"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "di cart"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:23.039644462Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And she bin write for di letter dem, sey: Proclaim fast, and make una set Naboth for head of di people.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "and she bin write"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "for di letter dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "proclaim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fast"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "and make una set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naboth"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "for head of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:43.884627095Z",
+  "model": "glm-5.2"
+}

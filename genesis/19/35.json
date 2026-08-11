@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So for dat night too, dem make dia papa drink ⟨את⟩ wine, and di younger one stand up and lie down wit am; and im no know — for ⟨im⟩ lying down and for ⟨im⟩ standing up.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "dem make drink"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wine"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "and stand up"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "di younger one"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "and lie down"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "for lying down"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "and for standing up"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:35.612832123Z",
+  "model": "glm-5.2"
+}

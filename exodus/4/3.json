@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨im⟩ bin talk sey, throw am ground-ward! And ⟨im⟩ bin throw am ground-ward, and e bin turn to snake; and Mosheh bin run from front of am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "throw am"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ground-ward"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "and bin throw am"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ground-ward"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin turn"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "to snake"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "and bin run"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "from front of am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:25.886115568Z",
+  "model": "glm-5.2"
+}

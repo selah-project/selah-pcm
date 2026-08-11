@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Una go conceive dry grass, una go born stubble; una breath ⟨na⟩ fire, e go devour una.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "una go conceive"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "dry grass"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "una go born"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stubble"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "una breath"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "go devour una"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:00.122031330Z",
+  "model": "glm-5.2"
+}

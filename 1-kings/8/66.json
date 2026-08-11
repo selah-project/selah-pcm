@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-kings 8:66",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For di eighth day ⟨im⟩ send ⟨את⟩ di people go, and dem bless ⟨את⟩ di king, and dem go to dia tents, dey glad and good for heart, on top all di goodness wey Yahweh do for David im servant, and for Yisra'el im people.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "di eighth"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "and dem bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "to dia tents"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "dey glad"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "and good"
+    },
+    {
+      "surface": "לב",
+      "gloss": "for heart"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "di goodness"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "and for Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:32.772836142Z",
+  "model": "glm-5.2"
+}

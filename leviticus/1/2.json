@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Speak to ⟨di⟩ pikin-dem of Yisra'el, and you go tell dem: wen any person from among una bring offering to Yahweh, from ⟨di⟩ animal-dem — from ⟨di⟩ herd and from ⟨di⟩ flock — una go bring ⟨את⟩ una offering.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "any person"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "bring"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "from among una"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal-dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "di herd"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "una go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una offering"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "una offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:37.686142049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Dem don bring down to Sheol your pride, di sound of your harps; under you dem don spread maggot, and your covering ⟨na⟩ worm.",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "Dem don bring down"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "to Sheol"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "your pride"
+    },
+    {
+      "surface": "המית",
+      "gloss": "di sound"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "of your harps"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "under you"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "dem don spread"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "maggot"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "and your covering"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "worm"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:38.749167147Z",
+  "model": "glm-5.2"
+}

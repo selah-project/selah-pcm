@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "My eyes dey fail for your salvation, and for di word of your righteousness.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "My eyes"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dey fail"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "for your salvation"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "and for di word"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "of your righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:25.336850525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And wen you enter dere, look out for Yehu son of Yehoshafat son of Nimshi dere; and you go enter, and make am stand up from among im brodas, and you go carry ⟨את⟩ am enter inside room for inside room.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "and wen you enter"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and look out"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "of Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "of Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "and you go enter"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "and make am stand up"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from among"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "and you go carry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "room"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "inside room"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:56.558747172Z",
+  "model": "glm-5.2"
+}

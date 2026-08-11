@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Small and great, na dere dem dey; and servant ⟨don⟩ free from im master.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "and great"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "and servant"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "⟨don⟩ free"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "from im master"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:22.511845289Z",
+  "model": "glm-5.2"
+}

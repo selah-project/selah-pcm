@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di king make ⟨את⟩ wood of di algum dem into step-way for house of Yahweh and for house of di king, and lyre dem and harp dem for singer dem; and dem neva see anyting like dem before for land of Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and di king make"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wood of di algum dem"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "di algum dem"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "step-way"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "and for house of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "and lyre dem"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "and harp dem"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "for singer dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "dem see"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "like dem"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "before"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-11T14:07:43.277897884Z",
+  "model": "glm-5.2"
+}

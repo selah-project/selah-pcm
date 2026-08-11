@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And ⟨he⟩ go enter inside Hagar, and ⟨she⟩ get belleh, and ⟨she⟩ see sey ⟨she⟩ don get belleh, and im madam come dey look small for im eye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and (he) go enter inside"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "and (she) get belleh"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "and (she) see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "(she) don get belleh"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "and come dey look small"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "im madam"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "for im eye"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:23.111692463Z",
+  "model": "glm-5.2"
+}

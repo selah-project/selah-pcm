@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 80,
+  "translation": "Mountain dem cover with im shade, and im branch dem ⟨be⟩ like cedar of El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "⟨dem⟩ cover"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountain dem"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "im shade"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "and im branch dem"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar of"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:40.977572048Z",
+  "model": "glm-5.2"
+}

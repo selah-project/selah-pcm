@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Chizkiyahu di king rise early, and im gather ⟨את⟩ di rulers of di city, and im go up ⟨to⟩ house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "and im rise early"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "and im gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di rulers of di city"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di rulers"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and im go up"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:46.022147948Z",
+  "model": "glm-5.2"
+}

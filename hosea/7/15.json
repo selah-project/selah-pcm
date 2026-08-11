@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And I bin train dem, I bin make dia hand strong, and dem dey plan bad tins against me.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "I bin train"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "I bin make strong"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "dem dey plan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad tin"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:32.742347059Z",
+  "model": "glm-5.2"
+}

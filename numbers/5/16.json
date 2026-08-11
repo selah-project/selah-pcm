@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "and di priest go bring am near, and make am stand before Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "and go bring near"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "di priest"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "and make am stand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:00.732225795Z",
+  "model": "glm-5.2"
+}

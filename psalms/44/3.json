@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "You, wit ⟨your⟩ hand, you drive out di nations and you plant dem; you break di peoples and you send dem away.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "you drive out"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "and you plant dem"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "you break"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "di peoples"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "and you send dem away"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:59.281020511Z",
+  "model": "glm-5.2"
+}

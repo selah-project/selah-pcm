@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 23:37",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because dem commit adultery, and blood dey for dia hand, and ⟨את⟩ dia idols dem commit adultery; and even ⟨את⟩ dia children wey dem born for me, dem make pass to dem for food.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "dem commit adultery"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "and blood"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "dey for dia hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia idols"
+    },
+    {
+      "surface": "גלוליהן",
+      "gloss": "dia idols"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "dem commit adultery"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia children"
+    },
+    {
+      "surface": "בניהן",
+      "gloss": "dia children"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dem born"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "העבירו",
+      "gloss": "dem make pass"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "for food"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:47.398522476Z",
+  "model": "glm-5.2"
+}

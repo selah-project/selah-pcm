@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Nebuzaradan, chief of di executioners, take ⟨את⟩ dem, and lead ⟨את⟩ dem go meet king of Bavel for Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "di executioners"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and lead"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "for Rivlah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:02.623912882Z",
+  "model": "glm-5.2"
+}

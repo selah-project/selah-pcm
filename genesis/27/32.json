@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Yitschak im papa talk to am, Who you be? And e talk, ⟨Na⟩ me, your son, your firstborn, Esav.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יִצְחָ֥ק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אָבִ֖יו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "you"
+    },
+    {
+      "surface": "וַיֹּ֕אמֶר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אֲנִ֛י",
+      "gloss": "me"
+    },
+    {
+      "surface": "בִּנְךָ֥",
+      "gloss": "your son"
+    },
+    {
+      "surface": "בְכֹֽרְךָ֖",
+      "gloss": "your firstborn"
+    },
+    {
+      "surface": "עֵשָֽׂו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:12.908340952Z",
+  "model": "glm-5.2"
+}

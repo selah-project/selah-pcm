@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And Yahweh don do for am as im bin talk through my hand, and Yahweh don tear ⟨את⟩ di kingdom from your hand, and don give am to your neighbor, to David.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and don do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "through my hand"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "and don tear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kingdom"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "from your hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "and don give am"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "to your neighbor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:14.978593586Z",
+  "model": "glm-5.2"
+}

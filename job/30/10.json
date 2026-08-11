@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Dem dey hate me well well, dem don move far comot from me, and from my face dem no hold back spit.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "dem dey hate me"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "dem don move far"
+    },
+    {
+      "surface": "מני",
+      "gloss": "comot from me"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "and from my face"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "dem hold back"
+    },
+    {
+      "surface": "רק",
+      "gloss": "spit"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:26.441604406Z",
+  "model": "glm-5.2"
+}

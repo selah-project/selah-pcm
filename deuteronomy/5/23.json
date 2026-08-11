@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And e come happen, as una bin dey hear ⟨את⟩ di voice from inside di darkness — and di mountain bin dey burn wit fire — all di heads of una tribes and una elders bin come near to me.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "as una bin dey hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "di darkness"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "and di mountain"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bin dey burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "una bin come near"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "di heads"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "of una tribes"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "and una elders"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:41.135000317Z",
+  "model": "glm-5.2"
+}

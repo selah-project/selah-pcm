@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "If you dey send ⟨את⟩ our brother ⟨את⟩ ⟨wit⟩ us, we go go down and we go buy food for you.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "you dey"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our brother"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "our brother"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨wit⟩ us"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "we go go down"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "and we go buy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "food"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:29.890033999Z",
+  "model": "glm-5.2"
+}

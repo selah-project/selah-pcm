@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "And I bin reason to know dis one, e ⟨be⟩ toil for my eye dem.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "and I bin reason"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "toil"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:47.398271174Z",
+  "model": "glm-5.2"
+}

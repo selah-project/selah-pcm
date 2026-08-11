@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di king of Sedom talk to Avram, say, 'Give me di ⟨people⟩, and di property, carry am go for yua ⟨self⟩.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "תן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "di people"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "and di property"
+    },
+    {
+      "surface": "קח",
+      "gloss": "carry"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yua self"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:44.253633758Z",
+  "model": "glm-5.2"
+}

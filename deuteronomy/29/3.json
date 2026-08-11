@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "But Yahweh never give una ⟨a⟩ heart to know, and eye to see, and ear to hear, until dis day.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "but never"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "and eye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to see"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "and ear"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "to hear"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:28.172758926Z",
+  "model": "glm-5.2"
+}

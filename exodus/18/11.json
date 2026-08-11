@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Now I know sey Yahweh ⟨be⟩ greater pass all di elohim; sake of di mata wey dem do insolence against dem.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Now"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "greater"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pass all"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "dem do insolence"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "against dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:03.495433408Z",
+  "model": "glm-5.2"
+}

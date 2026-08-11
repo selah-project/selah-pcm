@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "My voice go reach Elohim, and I go cry out; my voice go reach Elohim, and ⟨im⟩ go listen to me.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "and I go cry out"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "and ⟨im⟩ go listen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:45.040410198Z",
+  "model": "glm-5.2"
+}

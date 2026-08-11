@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And Israel bin talk, sey why una do bad tin to me, to tell di man sey una still get brother?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "una do bad tin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "to tell"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una get"
+    },
+    {
+      "surface": "אח",
+      "gloss": "brother"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:49.880400069Z",
+  "model": "glm-5.2"
+}

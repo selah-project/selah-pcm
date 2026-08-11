@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Man wey dey show favor to poor man, dey lend to Yahweh, and ⟨im⟩ good deed ⟨im⟩ go pay am back.",
+  "tokens": [
+    {
+      "surface": "מַלְוֵה",
+      "gloss": "dey lend"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חוֹנֵן",
+      "gloss": "wey dey show favor"
+    },
+    {
+      "surface": "דָּל",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "וּגְמֻלוֹ",
+      "gloss": "and ⟨im⟩ good deed"
+    },
+    {
+      "surface": "יְשַׁלֶּם",
+      "gloss": "go pay back"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:16.936184887Z",
+  "model": "glm-5.2"
+}

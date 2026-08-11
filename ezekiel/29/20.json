@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 29:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Im work wey im do for am, I don give am ⟨את⟩ ⟨di⟩ land of Mitsrayim, as dia reward for wetin dem do for Me — oracle of Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "פעלתו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "im do"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give am"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land of Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for Me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:11.256334382Z",
+  "model": "glm-5.2"
+}

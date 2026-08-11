@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di fifth Shefatyah, for Avital; di sixth Yitream, for Eglah im wife.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "di fifth"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatyah"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "for Avital"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "di sixth"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "for Eglah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:02.386347989Z",
+  "model": "glm-5.2"
+}

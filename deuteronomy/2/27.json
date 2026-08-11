@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Make I pass through yua land; for di road, for di road I go waka; I no go turn aside, right or left.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "make I pass through"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "yua land"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go waka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "turn aside"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "or left"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:48.882046819Z",
+  "model": "glm-5.2"
+}

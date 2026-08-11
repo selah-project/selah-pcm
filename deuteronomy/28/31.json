@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 28:31",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Your ox — slaughtered before your eye, and you no go chop from am; your donkey — robbed from your front, and e no go return to you; your sheep — given to your enemy dem, and nobody dey to save you.",
+  "tokens": [
+    {
+      "surface": "שורך",
+      "gloss": "your ox"
+    },
+    {
+      "surface": "טבוח",
+      "gloss": "slaughtered"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "before your eye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "חמרך",
+      "gloss": "your donkey"
+    },
+    {
+      "surface": "גזול",
+      "gloss": "robbed"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "from your front"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "go return"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "your sheep"
+    },
+    {
+      "surface": "נתנות",
+      "gloss": "given"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "to your enemy dem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody dey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "to save you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:09.432436238Z",
+  "model": "glm-5.2"
+}

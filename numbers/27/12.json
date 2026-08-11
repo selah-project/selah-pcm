@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Yahweh bin talk to Moshe, say: climb go dis mountain of di Avarim, and look ⟨את⟩ di land wey I don give to di pikin-dem of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "climb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain of"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "di Avarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and look"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:46.453356840Z",
+  "model": "glm-5.2"
+}

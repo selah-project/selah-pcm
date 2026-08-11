@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Aharon bin talk, sey, \"Make ⟨my⟩ Oga no vex; you know ⟨את⟩ di people, sey ⟨dem⟩ ⟨dey⟩ for evil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make (no)"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "vex"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "for evil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dem (he/it)"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:29.287020697Z",
+  "model": "glm-5.2"
+}

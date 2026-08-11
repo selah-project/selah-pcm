@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem cry to Yahweh and talk say, We don sin, because we leave ⟨את⟩ Yahweh, and we serve ⟨את⟩ di Baalim and ⟨את⟩ di Ashtaroth; and now, save us from hand of we enemies, and we go serve you.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "and dem cry"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "we leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "and we serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "di Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Ashtaroth"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "di Ashtaroth"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "save us"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "we enemies"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "and we go serve you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:12.186778536Z",
+  "model": "glm-5.2"
+}

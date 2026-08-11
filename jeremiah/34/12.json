@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And ⟨di⟩ word of Yahweh come to Yirmeyahu from ⟨את⟩ Yahweh, sey:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "come to"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:59.488878707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And from ⟨את⟩ di assembly of di sons of Yisra'el im go take two he-goat of she-goat for sin-offering, and one ram for burnt-offering.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "and from ⟨את⟩",
+      "marks": "di assembly"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "im go take"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "he-goat of"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "she-goat"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "for sin-offering"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "and ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "for burnt-offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:43.696161175Z",
+  "model": "glm-5.2"
+}

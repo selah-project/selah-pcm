@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 87,
+  "translation": "And singers like pipers — all my springs ⟨dey⟩ inside You.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "And singers"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "like pipers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "my springs"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside You"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.640604954Z",
+  "model": "glm-5.2"
+}

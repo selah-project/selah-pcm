@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 10:17",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Because Yahweh una Elohim, ⟨na⟩ ⟨im⟩ be Elohim of di elohim, and Adonai of di adonim — di El, di great one, di mighty one, and di one wey dey make person fear — wey ⟨im⟩ no dey lift face, and ⟨im⟩ no dey take bribe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ ⟨im⟩ be"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "and Adonai of"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "di adonim"
+    },
+    {
+      "surface": "האל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "di great one"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "di mighty one"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "and di one wey dey make person fear"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "⟨im⟩ dey lift"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "⟨im⟩ dey take"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bribe"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:55.157114352Z",
+  "model": "glm-5.2"
+}

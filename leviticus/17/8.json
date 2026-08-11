@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And you go tell dem: Any man from house of Yisra'el, and from di stranger wey dey live among dem, wey go offer burnt offering or sacrifice",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "and to dem"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go tell"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "di stranger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "go offer"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:22.316236402Z",
+  "model": "glm-5.2"
+}

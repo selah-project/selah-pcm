@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Yusuf bin talk to im broda dem, \"Make una come near to me, abeg.\" And dem come near. And e bin talk, \"Na me be Yusuf, una broda, wey una sell ⟨את⟩ me go Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda dem"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Make una come near"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "And dem come near"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And e bin talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "una broda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "una sell"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "go Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:47.795379316Z",
+  "model": "glm-5.2"
+}

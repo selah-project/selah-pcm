@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Akhishar ⟨bin dey⟩ on top di house; and Adoniram, son of Avda, ⟨bin dey⟩ on top di levy.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "and Akhishar"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "and Adoniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "המס",
+      "gloss": "di levy"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:06.294211680Z",
+  "model": "glm-5.2"
+}

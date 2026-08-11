@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Wata wey dem thief dey sweet, and bread wey dem hide for secret dey pleasant.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "wey dem thief"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "dey sweet"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "and bread"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "wey dem hide for secret"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "dey pleasant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:28.359991002Z",
+  "model": "glm-5.2"
+}

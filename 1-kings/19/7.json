@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So messenger of Yahweh come back second time, and e touch am, and e talk sey, 'Make you stand up, make you chop, because di road plenty pass you.'",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "so e come back"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "second time"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "and e touch"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "קום",
+      "gloss": "make you stand up"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "make you chop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רב",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pass you"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:18.232410479Z",
+  "model": "glm-5.2"
+}

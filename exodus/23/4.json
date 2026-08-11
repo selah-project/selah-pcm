@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "If you meet di cow of your enemy or im donkey wey don lost, make you return am go give am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "If"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "you meet"
+    },
+    {
+      "surface": "שור",
+      "gloss": "di cow"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "of your enemy"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "im donkey"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "wey don lost"
+    },
+    {
+      "surface": "השב",
+      "gloss": "make you return"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go give am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:34.955012803Z",
+  "model": "glm-5.2"
+}

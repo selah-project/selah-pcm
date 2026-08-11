@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Nations don sink inside di pit wey dem make; for di net wey dis one dem hide, dia leg don catch.",
+  "tokens": [
+    {
+      "surface": "טָבְע֣וּ",
+      "gloss": "don sink"
+    },
+    {
+      "surface": "ג֭וֹיִם",
+      "gloss": "nations"
+    },
+    {
+      "surface": "בְּשַׁ֣חַת",
+      "gloss": "inside di pit"
+    },
+    {
+      "surface": "עָשׂ֑וּ",
+      "gloss": "wey dem make"
+    },
+    {
+      "surface": "בְּרֶֽשֶׁת",
+      "gloss": "for di net"
+    },
+    {
+      "surface": "ז֥וּ",
+      "gloss": "wey dis one"
+    },
+    {
+      "surface": "טָ֝מָ֗נוּ",
+      "gloss": "dem hide"
+    },
+    {
+      "surface": "נִלְכְּדָ֥ה",
+      "gloss": "don catch"
+    },
+    {
+      "surface": "רַגְלָֽם",
+      "gloss": "dia leg"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:53.146817244Z",
+  "model": "glm-5.2"
+}

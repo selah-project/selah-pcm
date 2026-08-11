@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "ten pikin dem of Haman, pikin of Hamdata, di enemy of di Yehuda pipul — dem kill dem; but for di plunder, dem no send dia hand.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin dem of"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehuda pipul"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dem kill"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "but for di plunder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dem send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dia hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:12.622407434Z",
+  "model": "glm-5.2"
+}

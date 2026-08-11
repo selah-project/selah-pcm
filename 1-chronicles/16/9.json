@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Make una sing for am, make una play music for am, make una dey talk of all im wonders.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "make una sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "make una play music"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "make una dey talk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "im wonders"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:03.079424331Z",
+  "model": "glm-5.2"
+}

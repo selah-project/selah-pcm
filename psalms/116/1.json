@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "I bin love, because Yahweh dey hear ⟨את⟩ my voice, my begging-prayer.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "I bin love"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dey hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my voice"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "my begging-prayer"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:38.930353809Z",
+  "model": "glm-5.2"
+}

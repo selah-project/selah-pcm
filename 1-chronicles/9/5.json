@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And from di Shiloni-dem: Asajah di firstborn and im son-dem.",
+  "tokens": [
+    {
+      "surface": "וּמִן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הַשִּׁ֣ילוֹנִ֔י",
+      "gloss": "di Shiloni-dem"
+    },
+    {
+      "surface": "עֲשָׂיָ֥ה",
+      "gloss": "Asajah"
+    },
+    {
+      "surface": "הַבְּכ֖וֹר",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "וּבָנָֽיו",
+      "gloss": "and im son-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:54.484837096Z",
+  "model": "glm-5.2"
+}

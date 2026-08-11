@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem go put ⟨את⟩ my name on top di children of Yisra'el, and me, I go bless dem.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "and dem go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my name"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "I go bless dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:09.879521114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 22:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Avraham bin talk, \"Elohim go provide for ⟨Himself⟩ di sheep for burnt offering, my son.\" And di two of dem bin waka together.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go provide"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ⟨Himself⟩"
+    },
+    {
+      "surface": "השה",
+      "gloss": "di sheep"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "for burnt offering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and bin waka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:32.083751195Z",
+  "model": "glm-5.2"
+}

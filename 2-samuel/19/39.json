@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 19:39",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di king talk sey, 'Kimham go cross ⟨את⟩ wit me, and I go do for am ⟨את⟩ di good for your eye. And evritin wey you choose from me, I go do for you.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and di king talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "wit me"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "go cross"
+    },
+    {
+      "surface": "כמהם",
+      "gloss": "Kimham"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di good"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "di good"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evritin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "you choose"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:25.981892601Z",
+  "model": "glm-5.2"
+}

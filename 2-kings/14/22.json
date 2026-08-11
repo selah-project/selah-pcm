@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Im bin build ⟨את⟩ Eylat, and im restore am give Yehudah, after di king don lie down with im papa-dem.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "and restore am"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "give Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "don lie down"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:59.344584231Z",
+  "model": "glm-5.2"
+}

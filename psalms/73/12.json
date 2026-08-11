@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "Look, ⟨na⟩ dis ⟨be⟩ di wicked, and di ones wey dey always for peace — dem don increase wealth.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "di wicked"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "and di ones wey dey for peace"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "always"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "dem don increase"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wealth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:50.369363843Z",
+  "model": "glm-5.2"
+}

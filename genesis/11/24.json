@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Nachor bin live nine and twenty year, and e born ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and bin live"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nine"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:22.961267946Z",
+  "model": "glm-5.2"
+}

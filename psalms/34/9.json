@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Taste am and see sey Yahweh ⟨na⟩ good; di blessings ⟨dey⟩ for di man wey dey trust for inside am.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Taste am"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "and see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "di blessings"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "for di man"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "wey dey trust"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:39.776567996Z",
+  "model": "glm-5.2"
+}

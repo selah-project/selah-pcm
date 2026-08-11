@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And twelve lion dem dey stand dia on top di six step dem, for dis side and for dat side; nobody never make like dat for any kingdom.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "and two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "lion dem"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "di step dem"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from dis side"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "and from dat side"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "⟨dem⟩ make"
+    },
+    {
+      "surface": "כן",
+      "gloss": "like dat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for any"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:41.741146643Z",
+  "model": "glm-5.2"
+}

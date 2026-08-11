@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "For di year thirty-seven of Yoash wey ⟨be⟩ king of Yehudah, Yehoash pikin of Yehoachaz come king upon Yisrael for Shomron, sixteen year.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "of Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "come king"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "of Yehoachaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-teen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:20.369380113Z",
+  "model": "glm-5.2"
+}

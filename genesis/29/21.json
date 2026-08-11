@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Yaakob bin tell Lavan, \"Give ⟨את⟩ my wife, because my days don full, make I go meet am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my wife"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "my wife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "don full"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my days"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "make I go meet"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:21.090996023Z",
+  "model": "glm-5.2"
+}

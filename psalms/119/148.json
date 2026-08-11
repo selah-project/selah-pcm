@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "My eyes bin go before di night-watches, to meditate for ⟨Your⟩ word.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "bin go before"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "di night-watches"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "to meditate"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "for Your word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938803872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨את⟩ all di cities of dis kings, and ⟨את⟩ all dia kings, Yehoshua capture, and e strike dem by di edge of sword — e devote ⟨את⟩ dem to destruction, as Moshe, servant of Yahweh, bin command.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di cities"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "of di kings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all dia kings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dia kings"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "capture"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by di edge of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "devote to destruction"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "command"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:53.993038820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "and from di top of ancient mountains, and with di precious tin of everlasting hills.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "and from di top of"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ancient"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "and with di precious tin of"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hills"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "everlasting"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:03.796977871Z",
+  "model": "glm-5.2"
+}

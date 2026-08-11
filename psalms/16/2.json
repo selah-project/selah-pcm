@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "I bin tell Yahweh, ⟨say⟩, 'Adonai, you ⟨na⟩ ⟨di one⟩; my goodness no dey apart from you.'",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "I bin tell"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "my goodness"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "apart from you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:34.290085242Z",
+  "model": "glm-5.2"
+}

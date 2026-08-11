@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨dem⟩ tell di people, say: \"Pass and march round ⟨את⟩ di city, and di armed men go pass for front of di ark of Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and ⟨dem⟩ tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pass"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "and march round"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "and di armed men"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "⟨dem⟩ go pass"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:35.342732995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Ester never bin tell im birthplace and ⟨את⟩ im people, as Mordecai bin charge am; and ⟨את⟩ word of Mordecai, Ester bin dey do, as she bin dey grow with ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "never bin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "tell"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "im birthplace"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "im people"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin charge"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "am"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "word of Mordecai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "word"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "of Mordecai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin dey do"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "she bin"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "dey grow"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:51.105454842Z",
+  "model": "glm-5.2"
+}

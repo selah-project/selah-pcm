@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Notin bin dey inside di aron except di two tablet wey Moshe bin put inside for Chorev, wey Yahweh bin cut ⟨as⟩ covenant wit ⟨di⟩ children of Yisra'el wen dem bin dey komot from Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אֵ֚ין",
+      "gloss": "notin"
+    },
+    {
+      "surface": "בָּֽאָר֔וֹן",
+      "gloss": "inside di aron"
+    },
+    {
+      "surface": "רַ֚ק",
+      "gloss": "except"
+    },
+    {
+      "surface": "שְׁנֵ֣י",
+      "gloss": "two"
+    },
+    {
+      "surface": "הַלֻּח֔וֹת",
+      "gloss": "di tablet"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "bin put"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בְּחֹרֵ֑ב",
+      "gloss": "for Chorev"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כָּרַ֤ת",
+      "gloss": "bin cut"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "children of"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בְּצֵאתָ֖ם",
+      "gloss": "wen dem bin dey komot"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "from Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:06:26.019421499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 10:13",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Mosheh stretch ⟨im⟩ staff over ⟨di⟩ land of Mitsrayim, and Yahweh drive east wind inside ⟨di⟩ land all dat day and all dat night; morning come and ⟨di⟩ east wind lift ⟨את⟩ ⟨di⟩ locust.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "and stretch"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im staff"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "im staff"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "drive"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "east"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "inside land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dat night"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morning come"
+    },
+    {
+      "surface": "היה",
+      "gloss": "and ⟨be⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and wind"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "di east"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di locust"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "di locust"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:00.423675527Z",
+  "model": "glm-5.2"
+}

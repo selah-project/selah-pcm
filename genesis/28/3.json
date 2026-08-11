@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And may El Shaddai (El wey dey sufficient) bless ⟨את⟩ you, and make you bear fruit, and make you plenty, make you become assembly of peoples.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "And El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "may im bless"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "and make you bear fruit"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "and make you plenty"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "make you become"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "assembly of"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peoples"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:16.285811219Z",
+  "model": "glm-5.2"
+}

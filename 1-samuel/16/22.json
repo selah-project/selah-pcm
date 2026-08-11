@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "So Shaul send go meet Yishai, sey: 'Make Dawud ⟨abide⟩ stand for my front, because e find favor for my eye.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "make stand"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨abide⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for my front"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "e find"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:57.502519143Z",
+  "model": "glm-5.2"
+}

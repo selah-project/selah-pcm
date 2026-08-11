@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Ya'akov look ⟨את⟩ di face of Lavan, and see, e no ⟨be⟩ wit am like yesterday, di day before yesterday.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and ⟨im⟩ look"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face of"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "e no ⟨be⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "like yesterday"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "di day before yesterday"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:11.798851943Z",
+  "model": "glm-5.2"
+}

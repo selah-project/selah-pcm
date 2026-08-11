@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "Im chesed don finish forever? Im word don end ⟨for⟩ generation ⟨and⟩ generation?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "don end"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "word"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "for generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "and generation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:13.367309074Z",
+  "model": "glm-5.2"
+}

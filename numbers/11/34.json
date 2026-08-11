@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨dem⟩ bin call ⟨את⟩ di name of dat place Kivrot-HaTa'avah, because for there dem bin bury ⟨את⟩ di people wey bin dey crave.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and ⟨dem⟩ bin call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "of di place"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivrot"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "HaTa'avah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "dem bin bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "wey bin dey crave"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:52.343054644Z",
+  "model": "glm-5.2"
+}

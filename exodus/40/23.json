@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e arrange on top am arrangement of bread before Yahweh, as Yahweh bin command ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "and e arrange"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "arrangement"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:40.051306900Z",
+  "model": "glm-5.2"
+}

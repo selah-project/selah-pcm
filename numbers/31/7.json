@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And dem go fight against Midyan, as Yahweh bin command ⟨את⟩ Moshe; and dem kill all di males.",
+  "tokens": [
+    {
+      "surface": "וַיִּצְבְּאוּ",
+      "gloss": "and dem go fight"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "against"
+    },
+    {
+      "surface": "מִדְיָן",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וַיַּהַרְגוּ",
+      "gloss": "and dem kill"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "di males"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:29.397622835Z",
+  "model": "glm-5.2"
+}

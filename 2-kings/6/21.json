@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di king of Yisra'el bin talk to Elisha, as im see ⟨את⟩ dem, \"My fada, I go strike ⟨את⟩ dem, I go strike ⟨את⟩ dem?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "as im see"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "I go strike"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "I go strike"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my fada"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:47.715576438Z",
+  "model": "glm-5.2"
+}

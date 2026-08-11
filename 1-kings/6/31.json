@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨את⟩ di entrance of di dvir e make doors of olive-wood; di post ⟨na⟩ five-sided.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "And ⟨את⟩",
+      "marks": "di entrance of di dvir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "of di dvir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e make"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "doors"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "of olive-wood"
+    },
+    {
+      "surface": "שמן",
+      "gloss": ""
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di post"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "doorpost"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "five-sided"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:19.275853341Z",
+  "model": "glm-5.2"
+}

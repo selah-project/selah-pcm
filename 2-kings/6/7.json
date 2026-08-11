@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Then e talk, 'Carry am.' And e stretchn im hand and e grab am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "then e talk"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "carry am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨for yourself⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and e stretchn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "and e grab am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:25.291581278Z",
+  "model": "glm-5.2"
+}

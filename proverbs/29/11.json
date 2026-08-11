@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Fool dey pour out all im spirit, but wise man dey hold am back till afterward.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "im spirit"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "dey pour out"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "but wise man"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "till afterward"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "dey hold am back"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:48.533275442Z",
+  "model": "glm-5.2"
+}

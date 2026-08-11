@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Why man wey dey alive dey complain, man ⟨dey complain⟩ because of im sin?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "dey complain"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wey dey alive"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "im sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:35.889406340Z",
+  "model": "glm-5.2"
+}

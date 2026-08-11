@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And im make ⟨את⟩ di ephod — gold, blue-blue, and purple, and worm of scarlet, and twisted fine linen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and im make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "di ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blue-blue"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "and purple"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "and worm of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and fine"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twisted linen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:29.258604596Z",
+  "model": "glm-5.2"
+}

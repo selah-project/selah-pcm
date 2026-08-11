@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Even now, stand and see ⟨את⟩ dis great tin wey Yahweh dey do before una eye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "stand"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "and see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis great tin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dis tin"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "before una eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:14.625691524Z",
+  "model": "glm-5.2"
+}

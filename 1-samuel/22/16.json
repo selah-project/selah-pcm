@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And di king talk, sey you go surely die, Achimelek, you and all your papa house.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "go surely die"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:32.269420739Z",
+  "model": "glm-5.2"
+}

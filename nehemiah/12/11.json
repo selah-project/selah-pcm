@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yoyada bin beget ⟨את⟩ Yonatan, and Yonatan bin beget ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "and Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin beget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "and Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin beget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-08-11T13:52:15.080625531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "⟨Im wey⟩ dey deliver me from my enemies, even from those wey dey rise against me, ⟨im⟩ dey lift me up; from man of violence ⟨im⟩ dey snatch me.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "⟨im wey⟩ dey deliver me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "from my enemies"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "those wey dey rise against me"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "⟨im⟩ dey lift me up"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "from man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "of violence"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "⟨im⟩ dey snatch me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:51.639077790Z",
+  "model": "glm-5.2"
+}

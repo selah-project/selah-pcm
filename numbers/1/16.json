@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Dis na dem wey dem call for di assembly, dem be di chief of di tribe of dia papa dem, ⟨dem be⟩ di head of di thousand of Yisrael.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis na"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "dem wey dem call"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "for di assembly"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "dem be di chief of"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "di tribe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "of dia papa dem"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "di head of"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "di thousand"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:32.037424281Z",
+  "model": "glm-5.2"
+}

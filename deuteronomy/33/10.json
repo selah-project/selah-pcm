@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 33:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Dem go teach your judgement dem to Ya'akov, and your Torah to Yisra'el; dem go put incense for your nose, and whole burnt sacrifice on top your altar.",
+  "tokens": [
+    {
+      "surface": "יורו",
+      "gloss": "dem go teach"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "your judgement dem"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Ya'akov"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "and your Torah"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "to Yisra'el"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "dem go put"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "incense"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "for your nose"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "and whole burnt sacrifice"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "your altar"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:58.751104449Z",
+  "model": "glm-5.2"
+}

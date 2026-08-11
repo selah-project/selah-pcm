@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And e make ⟨am⟩ fall for inside dia camp, round about dia tents.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "and e make fall"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "dia camp"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "dia tents"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:59.160015588Z",
+  "model": "glm-5.2"
+}

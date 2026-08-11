@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make your spirit no rush to vex, because vex dey rest for inside ⟨di⟩ bosom of fools.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ⟨...⟩ no"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "rush"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "your spirit"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "to vex"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "vex"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "of fools"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "dey rest"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:38.069812345Z",
+  "model": "glm-5.2"
+}

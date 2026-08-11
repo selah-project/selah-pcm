@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di pride of Yisrael go answer to im face, and Yisrael and Efrayim go stumble for dia iniquity; Yehudah too don stumble wit dem.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "and go answer"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pride"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "to im face"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "and Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "go stumble"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "for dia iniquity"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "stumble"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wit dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:53.727081913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Esav tok, say: \"Make I leave, abeg, with you some of di people wey dey with me.\" And im tok, say: \"Why dis one? Make I ⟨na⟩ just find favor for di eye of my Adonai.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tok"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "make I leave"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "מן",
+      "gloss": "some of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ dey with me",
+      "marks": "di people"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tok"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "make I find"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of my Adonai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:43.666877370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Re'uven, Shim'on, Levi, and Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:07.229018930Z",
+  "model": "glm-5.2"
+}

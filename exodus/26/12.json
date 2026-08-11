@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And ⟨as for⟩ di part wey remain over for di curtains of di tent, half of di curtain wey remain over go hang for di back of di tabernacle.",
+  "tokens": [
+    {
+      "surface": "וְסֶרַח",
+      "gloss": "and ⟨as for⟩ di part wey remain over"
+    },
+    {
+      "surface": "הָעֹדֵף",
+      "gloss": "wey remain"
+    },
+    {
+      "surface": "בִּירִיעֹת",
+      "gloss": "for di curtains"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "of di tent"
+    },
+    {
+      "surface": "חֲצִי",
+      "gloss": "half of"
+    },
+    {
+      "surface": "הַיְרִיעָה",
+      "gloss": "di curtain"
+    },
+    {
+      "surface": "הָעֹדֶפֶת",
+      "gloss": "wey remain over"
+    },
+    {
+      "surface": "תִּסְרַח",
+      "gloss": "go hang"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "אֲחֹרֵי",
+      "gloss": "di back of"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן",
+      "gloss": "di tabernacle"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:36.296886826Z",
+  "model": "glm-5.2"
+}

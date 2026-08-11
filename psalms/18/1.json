@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "To di choir master, for ⟨the⟩ servant of Yahweh, for David, wey im talk to Yahweh ⟨את⟩ di words of dis song, for di day wey Yahweh rescue ⟨את⟩ am from di palm of all im enemies and from di hand of Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir master"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "for ⟨the⟩ servant of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "im talk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di words of dis song"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words of"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dis song"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "from di palm of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "and from di hand of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:45.040253998Z",
+  "model": "glm-5.2"
+}

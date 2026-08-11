@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "For di road wey ⟨e⟩ come, for am ⟨e⟩ go turn back, and ⟨e⟩ no go come enter dis city — na so Yahweh talk.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨e⟩ come"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "⟨e⟩ go turn back"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨e⟩ go come enter"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so ... talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:31.002376803Z",
+  "model": "glm-5.2"
+}

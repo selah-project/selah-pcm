@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 7:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And dem go after dem reach Yarden, and ⟨behold⟩ all di road full wit clothes and tools wey Aram throw way for dia hurry-rush; and di messengers come back and tell di king.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "after dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full wit"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "clothes"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "and tools"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "throw way"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בהחפזם",
+      "gloss": "for dia hurry-rush"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and come back"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "di messengers"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:43.544213186Z",
+  "model": "glm-5.2"
+}

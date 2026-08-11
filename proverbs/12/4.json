@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Wife of strength, ⟨she be⟩ crown of ⟨her⟩ husband; but di one wey dey bring shame, ⟨she be⟩ like rot for ⟨im⟩ bones.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "of strength"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "crown"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "of ⟨her⟩ husband"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "but like rot"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "for ⟨im⟩ bones"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "di one wey dey bring shame"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:01.309747352Z",
+  "model": "glm-5.2"
+}

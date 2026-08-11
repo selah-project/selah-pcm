@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Because ⟨e⟩ don bring down di people wey dey sit down for height, ⟨di⟩ city wey dey lifted up; ⟨E⟩ go bring am down, ⟨E⟩ go bring am down reach ground; ⟨E⟩ go make am reach dust.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הֵשַׁח֙",
+      "gloss": "don bring down"
+    },
+    {
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "people wey dey sit down"
+    },
+    {
+      "surface": "מָר֔וֹם",
+      "gloss": "for height"
+    },
+    {
+      "surface": "קִרְיָ֖ה",
+      "gloss": "city"
+    },
+    {
+      "surface": "נִשְׂגָּבָ֑ה",
+      "gloss": "wey dey lifted up"
+    },
+    {
+      "surface": "יַשְׁפִּילֶ֤נָּה",
+      "gloss": "⟨E⟩ go bring am down"
+    },
+    {
+      "surface": "יַשְׁפִּילָהּ֙",
+      "gloss": "⟨E⟩ go bring am down"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "ground"
+    },
+    {
+      "surface": "יַגִּיעֶ֖נָּה",
+      "gloss": "⟨E⟩ go make am reach"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עָפָֽר",
+      "gloss": "dust"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:33.093728875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "na old tsaraʾat e be for di skin of im flesh, and di kohen go pronounce am unclean; e no go lock am up, because e dey unclean.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraʾat"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "old"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "for di skin"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "of im flesh"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "and go pronounce am unclean"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "lock am up"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dey unclean"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:24.431432156Z",
+  "model": "glm-5.2"
+}

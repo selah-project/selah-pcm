@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And king of Yisra'el answer and e talk sey: \"Like your word, my lord di king: na you get me and everytin wey ⟨be⟩ my own.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and e answer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "like your word"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my lord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na you get"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and everytin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לי",
+      "gloss": "be my own"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:09.172681541Z",
+  "model": "glm-5.2"
+}

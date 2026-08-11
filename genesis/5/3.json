@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Adam bin live thirty and one hundred year, and ⟨im⟩ born ⟨a son⟩ for im likeness, for im image, and ⟨im⟩ call ⟨את⟩ im name Shet.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִ֣י",
+      "gloss": "and bin live"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֤ים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "וּמְאַת֙",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "and ⟨im⟩ born"
+    },
+    {
+      "surface": "בִּדְמוּת֖וֹ",
+      "gloss": "for im likeness"
+    },
+    {
+      "surface": "כְּצַלְמ֑וֹ",
+      "gloss": "for im image"
+    },
+    {
+      "surface": "וַיִּקְרָ֥א",
+      "gloss": "and ⟨im⟩ call"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "שֵֽׁת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:41.619231128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "Man of tongue, ⟨e⟩ no go stand for di earth; man of violence — evil go hunt am, ⟨e⟩ go push am comot.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "of tongue"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "stand"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "of violence"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "go hunt am"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "⟨e⟩ go push am comot"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:20.158754125Z",
+  "model": "glm-5.2"
+}

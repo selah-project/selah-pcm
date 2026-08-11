@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "But as for me, I go seek to El, and to Elohim I go put my plea.",
+  "tokens": [
+    {
+      "surface": "אוּלָם",
+      "gloss": "but as for me"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אֶדְרֹשׁ",
+      "gloss": "go seek"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָשִׂים",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "דִּבְרָתִי",
+      "gloss": "my plea"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:48.923889922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "But Uriyah lie down for di entrance of di king house, ⟨with⟩ ⟨את⟩ all di servants of im master, and im no go down go im house.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "But lie down"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "for di entrance"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di servants of im master"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "di servants"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "of im master"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "go down"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:26.064844593Z",
+  "model": "glm-5.2"
+}

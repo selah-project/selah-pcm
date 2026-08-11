@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Yahweh go fight for una, and una go keep quiet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "go fight"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "go keep quiet"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:25.220554352Z",
+  "model": "glm-5.2"
+}

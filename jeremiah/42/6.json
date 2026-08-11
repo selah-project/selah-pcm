@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 42:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Whether e good or whether e bad, for di voice of Yahweh our Elohim wey we dey send you ⟨את⟩ to am, we go hear — so dat e go good for us, because we go hear for di voice of Yahweh our Elohim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or whether"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "for di voice of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "dey send"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you (object marker pointing to the person being sent)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "we go hear"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "e go good"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "we go hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "for di voice of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:57:09.858940317Z",
+  "model": "glm-5.2"
+}

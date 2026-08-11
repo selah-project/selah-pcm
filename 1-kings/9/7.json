@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "then I go cut off ⟨את⟩ Yisra'el from on top di face of di ground wey I don give dem, and ⟨את⟩ di house wey I don sanctify for my name, I go send away from my face; and Yisra'el go become proverb and byword among all di nation-dem.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "then I go cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face of"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "I don sanctify"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for my name"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "I go send away"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and go become"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "proverb"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "and byword"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "di nation-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:25.825885962Z",
+  "model": "glm-5.2"
+}

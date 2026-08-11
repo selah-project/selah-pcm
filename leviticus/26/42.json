@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "and I go remember ⟨את⟩ my covenant wit Ya'akov, and even ⟨את⟩ my covenant wit Yitschak, and even ⟨את⟩ my covenant wit Avraham I go remember; and ⟨את⟩ di land I go remember.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "and I go remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "and even"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "and even"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "I go remember"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "and di land"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "I go remember"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.872848649Z",
+  "model": "glm-5.2"
+}

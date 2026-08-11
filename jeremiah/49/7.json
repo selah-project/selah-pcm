@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 49:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Concerning Edom, na so Yahweh of hosts dey talk: Wisdom don finish for Teman? Counsel don perish from di people wey sabi? Dia wisdom don rot?",
+  "tokens": [
+    {
+      "surface": "לאדום",
+      "gloss": "concerning Edom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "האין",
+      "gloss": "don finish?"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "for Teman"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "counsel"
+    },
+    {
+      "surface": "מבנים",
+      "gloss": "from di people wey sabi"
+    },
+    {
+      "surface": "נסרחה",
+      "gloss": "don rot"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "dia wisdom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:59:39.162478599Z",
+  "model": "glm-5.2"
+}

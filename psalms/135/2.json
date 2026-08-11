@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 135,
+  "translation": "una wey dey stand for house of Yahweh, for di courtyards of house of Elohim we belong!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "una wey dey stand"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "for di courtyards"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "of Elohim we belong"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:53.405496719Z",
+  "model": "glm-5.2"
+}

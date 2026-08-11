@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And plenty pipo go stumble on top am, and dem go fall, and dem go break, and dem go enta trap, and dem go catch.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "and dem go stumble"
+    },
+    {
+      "surface": "בם",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty pipo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "and dem go fall"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "and dem go break"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "and dem go enta trap"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "and dem go catch"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:15.515635381Z",
+  "model": "glm-5.2"
+}

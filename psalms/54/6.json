@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Look, Elohim ⟨na⟩ helper for me; Adonai dey among di people wey dey hold my life.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "among di people wey dey hold"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:38.669753597Z",
+  "model": "glm-5.2"
+}

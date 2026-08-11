@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "House of Ya'akov, come, make we waka for inside di light of Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "House"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Ya'akov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "come"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "make we waka"
+    },
+    {
+      "surface": "באור",
+      "gloss": "for inside di light"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:02.171280032Z",
+  "model": "glm-5.2"
+}

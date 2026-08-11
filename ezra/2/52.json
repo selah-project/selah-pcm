@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "⟨Dem wey come from⟩ pikin of Bazluth, ⟨dem wey come from⟩ pikin of Mechida, ⟨dem wey come from⟩ pikin of Charsha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "Bazluth"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Mechida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Charsha"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:34.407035433Z",
+  "model": "glm-5.2"
+}

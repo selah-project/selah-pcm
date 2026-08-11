@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And dem carry ⟨את⟩ di women wey dey inside, from small pikin reach big person; dem no kill anybody at all, but dem lead dem go, and waka go dia way.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "and dem carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di women"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "di women"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "from small pikin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big person"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kill"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anybody"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "dem lead dem go"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and waka go"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "dia way"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:09.170398133Z",
+  "model": "glm-5.2"
+}

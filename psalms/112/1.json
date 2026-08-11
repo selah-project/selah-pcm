@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "Praise Yah! Happy ⟨be⟩ di man wey dey fear ⟨את⟩ Yahweh, wey dey delight well-well for im commandments.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Happy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "for im commandments"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dey delight"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.904607100Z",
+  "model": "glm-5.2"
+}

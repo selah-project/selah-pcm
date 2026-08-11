@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Mitsrayim bin dey bury ⟨את⟩ ⟨di ones⟩ wey Yahweh bin strike among dem, ⟨na⟩ all firstborn; and on top dia god-dem, Yahweh bin do judgment-dem.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "and Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "bin dey bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ones wey Yahweh bin strike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "bin strike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "and on top dia Elohim-dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judgment-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:12.387058898Z",
+  "model": "glm-5.2"
+}

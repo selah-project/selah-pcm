@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And you go take fine flour, and you go bake ⟨את⟩ am ⟨into⟩ twelve cakes; two-tenth ⟨ephah⟩ go dey for one cake.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "and you go bake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (the flour)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "cakes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tenth-parts"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "the cake"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:14.804898576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Make my life bless Yahweh. O Yahweh my Elohim, you bin make ⟨yourself⟩ very great, honor and majesty you don wear.",
+  "tokens": [
+    {
+      "surface": "בָּרֲכִ֥י",
+      "gloss": "make bless"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "my life"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְה֫וָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "אֱ֭לֹהַי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "גָּדַ֣לְתָּ",
+      "gloss": "you bin make great"
+    },
+    {
+      "surface": "מְּאֹ֑ד",
+      "gloss": "very"
+    },
+    {
+      "surface": "ה֭וֹד",
+      "gloss": "honor"
+    },
+    {
+      "surface": "וְהָדָ֣ר",
+      "gloss": "and majesty"
+    },
+    {
+      "surface": "לָבָֽשְׁתָּ",
+      "gloss": "you don wear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:35.776255901Z",
+  "model": "glm-5.2"
+}

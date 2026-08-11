@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di priest go sprinkle ⟨את⟩ di blood on top altar of Yahweh, for di entrance of Tent of Meeting, and make im burn di fat to become sweet smell to Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "and go sprinkle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blood"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance of"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tent of"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Meeting"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "and make im burn"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "to become smell"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:12.097887917Z",
+  "model": "glm-5.2"
+}

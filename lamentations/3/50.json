@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "till Yahweh look down and see from heaven.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "look down"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "from heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:06.829424854Z",
+  "model": "glm-5.2"
+}

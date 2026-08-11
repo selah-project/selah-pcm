@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "You go look for dem and you no go find dem — di people wey dey quarrel wit you. Dem go become like notin and like zero, di people wey dey fight war against you.",
+  "tokens": [
+    {
+      "surface": "תְּבַקְשֵׁם",
+      "gloss": "you go look for dem"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תִמְצָאֵם",
+      "gloss": "you go find dem"
+    },
+    {
+      "surface": "אַנְשֵׁי",
+      "gloss": "di people"
+    },
+    {
+      "surface": "מַצֻּתֶךָ",
+      "gloss": "wey dey quarrel wit you"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "dem go become"
+    },
+    {
+      "surface": "כְאַיִן",
+      "gloss": "like notin"
+    },
+    {
+      "surface": "וּכְאֶפֶס",
+      "gloss": "and like zero"
+    },
+    {
+      "surface": "אַנְשֵׁי",
+      "gloss": "di people"
+    },
+    {
+      "surface": "מִלְחַמְתֶּךָ",
+      "gloss": "wey dey fight war against you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:51.662165537Z",
+  "model": "glm-5.2"
+}

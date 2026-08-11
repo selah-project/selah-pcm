@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because di head of Aram na Damasek, and di head of Damasek na Retzin; and inside anoda sixty-five year, Efrayim go break, comot from being people.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "and head"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "and inside anoda"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sixty"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "go break"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "comot from being people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:49.172229010Z",
+  "model": "glm-5.2"
+}

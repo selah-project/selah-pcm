@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "I bin remember di days of old, I bin dey ponder all ⟨di⟩ work wey you do; for di work of your hand I dey muse.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "I bin remember"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di days"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "of old"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "I bin dey ponder"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "work wey you do"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "for di work of"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "I dey muse"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:21.462275891Z",
+  "model": "glm-5.2"
+}

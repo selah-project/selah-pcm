@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Balak do as Bilam talk, and ⟨im⟩ offer one bull and one ram on ⟨di⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and do"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and offer"
+    },
+    {
+      "surface": "פר",
+      "gloss": "one bull"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "and one ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "on ⟨di⟩ altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:33.893041715Z",
+  "model": "glm-5.2"
+}

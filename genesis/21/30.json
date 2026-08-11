@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And ⟨he⟩ bin talk, \"So dat you go take ⟨את⟩ di seven female sheep from my hand, make ⟨e⟩ go be witness for me say na me dig ⟨את⟩ dis well.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di seven female sheep"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "female sheep"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from my hand"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "make"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e go be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "witness"
+    },
+    {
+      "surface": "כי",
+      "gloss": "say"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "na me dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis well"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "di well"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:24.497191439Z",
+  "model": "glm-5.2"
+}

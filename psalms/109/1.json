@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "To di conductor, song of David. Elohim of my praise, no keep quiet.",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "to di conductor"
+    },
+    {
+      "surface": "לְדָוִ֣ד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "מִזְמ֑וֹר",
+      "gloss": "song"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "תְּהִלָּתִ֗י",
+      "gloss": "my praise"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תֶּחֱרַֽשׁ",
+      "gloss": "keep quiet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:56.351822526Z",
+  "model": "glm-5.2"
+}

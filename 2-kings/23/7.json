@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And ⟨he⟩ break down ⟨את⟩ di houses of di kədeshim wey dey for Beyt Yahweh, wey di women dey weave for dia houses for di Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "and ⟨he⟩ break down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di houses"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "di houses of"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "di kədeshim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for Beyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "di women"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "dey weave"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for dia"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "houses"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "for di Asherah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:37.258515210Z",
+  "model": "glm-5.2"
+}

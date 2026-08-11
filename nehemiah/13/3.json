@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e come pass, as dem bin hear ⟨את⟩ di Torah, dem separate all mixed-people from Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come pass"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "as dem bin hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "di Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "dem separate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mixed-people"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "from Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:12.834129350Z",
+  "model": "glm-5.2"
+}

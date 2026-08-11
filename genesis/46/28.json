@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And ⟨את⟩ Yehudah ⟨e⟩ bin send before am to Yosef, to direct before am to Goshen, and dem come enter di land of Goshen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "to direct"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "to Goshen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "enter di land"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "of Goshen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:33.920098396Z",
+  "model": "glm-5.2"
+}

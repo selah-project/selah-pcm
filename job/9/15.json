@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Even if say I bin dey right, I no go answer; to my judge I go beg for mercy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "even if"
+    },
+    {
+      "surface": "אם",
+      "gloss": "say"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "I bin dey right"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "to my judge"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "I go beg for mercy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:07.467415295Z",
+  "model": "glm-5.2"
+}

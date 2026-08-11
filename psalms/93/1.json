@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 93,
+  "translation": "Yahweh don become king, ⟨im⟩ don wear majesty; Yahweh don wear ⟨im⟩, e don belt imsef wit strength. Even so, di world dey stand firm, e no go shake at all.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "don become king"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "majesty"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "don wear"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "don wear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "e don belt imsef"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even so"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "dey stand firm"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "di world"
+    },
+    {
+      "surface": "בל",
+      "gloss": "at all"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "e go shake"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:32.645822897Z",
+  "model": "glm-5.2"
+}

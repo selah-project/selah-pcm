@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And dem go divide ⟨את⟩ am into seven portions — Yehudah go stand for im border for di south side, and Bet-Yosef go stand for dia border for di north side.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "and dem go divide"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di land)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "into seven"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "portions"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "im border"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "for di south side"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and Bet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "-Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "dia border"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "for di north side"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:09.198836147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨di⟩ pikin-dem of Yehallel'el: Zif, and Zifah, Tiryah, and Asar'el.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And ⟨di⟩ pikin-dem of"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Yehallel'el"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "and Zifah"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Tiryah"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "and Asar'el"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:40.962059857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And you no go answer against ⟨your⟩ neighbour ⟨as⟩ false witness.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "you go answer"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "against ⟨your⟩ neighbour"
+    },
+    {
+      "surface": "עד",
+      "gloss": "witness"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "false"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:13.053647064Z",
+  "model": "glm-5.2"
+}

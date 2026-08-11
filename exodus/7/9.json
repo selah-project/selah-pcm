@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Wen Paroh go tok to una, sey, 'Giv una ⟨a⟩ sign,' den you go tok to Aharon, sey, 'Tek ⟨את⟩ your staff and trow am down bifor Paroh, make e bikom ⟨a⟩ big snake.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "e go tok"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "sign"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go tok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your staff"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "your staff"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "and trow am down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bifor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make e bikom"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "big snake"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:29.978937186Z",
+  "model": "glm-5.2"
+}

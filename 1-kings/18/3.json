@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Achav bin call Obadyahu, di one wey dey on top di house; and Obadyahu bin dey fear ⟨את⟩ Yahweh well-well.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and e bin call"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di one wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "and Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:04.700398785Z",
+  "model": "glm-5.2"
+}

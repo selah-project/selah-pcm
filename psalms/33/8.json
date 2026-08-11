@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Make all di earth fear Yahweh; make all wey dey dwell for di world tremble from am.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "make … fear"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "make … tremble"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wey dey dwell for"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "di world"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:34.150180567Z",
+  "model": "glm-5.2"
+}

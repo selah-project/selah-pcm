@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "And e change ⟨את⟩ im prison cloths, and ⟨he⟩ dey chop bread before im face continually, all di days of im life.",
+  "tokens": [
+    {
+      "surface": "וְשִׁנָּ֕ה",
+      "gloss": "and e change"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "im prison cloths"
+    },
+    {
+      "surface": "בִּגְדֵ֣י",
+      "gloss": "cloths of"
+    },
+    {
+      "surface": "כִלְא֑וֹ",
+      "gloss": "im prison"
+    },
+    {
+      "surface": "וְאָכַ֨ל",
+      "gloss": "and ⟨he⟩ chop"
+    },
+    {
+      "surface": "לֶ֧חֶם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לְפָנָ֛יו",
+      "gloss": "before im face"
+    },
+    {
+      "surface": "תָּמִ֖יד",
+      "gloss": "continually"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יְמֵ֥י",
+      "gloss": "di days of"
+    },
+    {
+      "surface": "חַיָּֽו",
+      "gloss": "im life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:02.501875629Z",
+  "model": "glm-5.2"
+}

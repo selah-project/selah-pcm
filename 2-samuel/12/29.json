@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "So Dawud gather all di people and go Rabbah, and e fight against am, and e capture am.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gather"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "fight"
+    },
+    {
+      "surface": "בה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "capture am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:14.789680727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Rehavoam bin siddon for Yerushalayim, and e bin build town dem for fortification for Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bin siddon"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavoam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "town dem"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "for fortification"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "for Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:07:04.810115363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "How great ⟨is⟩ your goodness, which you have stored up for those who fear you, which you have worked for those who take refuge in you, in front of ⟨the⟩ sons of men.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "רב",
+      "gloss": "great"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "your goodness"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "you have stored up"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "for those who fear you"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "you have worked"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "for those who take refuge"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in you"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "men"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:56.885301236Z",
+  "model": "glm-5.2"
+}

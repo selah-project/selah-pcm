@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Yovel, e ⟨be⟩ di year of di fiftieth year, e go be for una; una no go sow, and una no go reap ⟨את⟩ wetin grow by imself, and una no go gather ⟨את⟩ im untrimmed grapes.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "of di fiftieth"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "go sow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "go reap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin grow by imself"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "wetin grow by imself"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "go gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im untrimmed grapes"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "im untrimmed grapes"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:59.388179127Z",
+  "model": "glm-5.2"
+}

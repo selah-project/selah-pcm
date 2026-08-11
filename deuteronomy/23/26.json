@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "When you enter ⟨di⟩ standing grain of your neighbor, den you fit pluck ears of grain wit your hand, but sickle you no go wave upon ⟨di⟩ standing grain of your neighbor.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "when"
+    },
+    {
+      "surface": "תָבֹא֙",
+      "gloss": "you enter"
+    },
+    {
+      "surface": "בְּקָמַ֣ת",
+      "gloss": "standing grain"
+    },
+    {
+      "surface": "רֵעֶ֔ךָ",
+      "gloss": "of your neighbor"
+    },
+    {
+      "surface": "וְקָטַפְתָּ֥",
+      "gloss": "den you fit pluck"
+    },
+    {
+      "surface": "מְלִילֹ֖ת",
+      "gloss": "ears of grain"
+    },
+    {
+      "surface": "בְּיָדֶ֑ךָ",
+      "gloss": "wit your hand"
+    },
+    {
+      "surface": "וְחֶרְמֵשׁ֙",
+      "gloss": "but sickle"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תָנִ֔יף",
+      "gloss": "go wave"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "קָמַ֥ת",
+      "gloss": "standing grain"
+    },
+    {
+      "surface": "רֵעֶֽךָ",
+      "gloss": "of your neighbor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:44.718591506Z",
+  "model": "glm-5.2"
+}

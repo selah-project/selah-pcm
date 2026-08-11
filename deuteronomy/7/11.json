@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So make you keep ⟨את⟩ di commandment, and ⟨את⟩ di statutes, and ⟨את⟩ di judgments, wey I dey command you today, make you do dem.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ֨",
+      "gloss": "So make you keep"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di commandment"
+    },
+    {
+      "surface": "הַמִּצְוָ֜ה",
+      "gloss": "di commandment"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di statutes"
+    },
+    {
+      "surface": "הַֽחֻקִּ֣ים",
+      "gloss": "di statutes"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di judgments"
+    },
+    {
+      "surface": "הַמִּשְׁפָּטִ֗ים",
+      "gloss": "di judgments"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אָנֹכִ֧י",
+      "gloss": "I"
+    },
+    {
+      "surface": "מְצַוְּךָ֛",
+      "gloss": "dey command you"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "today"
+    },
+    {
+      "surface": "לַעֲשׂוֹתָֽם",
+      "gloss": "make you do dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:57:32.442452141Z",
+  "model": "glm-5.2"
+}

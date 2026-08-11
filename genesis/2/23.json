@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di man talk sey: Dis one na bone from my bones and flesh from my flesh; to dis one dem go call woman, because from man dem take dis one.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "from my bones"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "and flesh"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "from my flesh"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to dis one"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dem go call"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "from man"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:28.342641307Z",
+  "model": "glm-5.2"
+}

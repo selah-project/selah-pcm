@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "To di chief musician, upon Shushan-Eduth, miktam of David, to teach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di chief musician"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "to teach"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:17.671737706Z",
+  "model": "glm-5.2"
+}

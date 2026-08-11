@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Im go make us live after two days; for di third day im go raise us up, and we go live before im.",
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "im go make us live"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "after two days"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "third"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "im go raise us up"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "and we go live"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before im"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:58.968974494Z",
+  "model": "glm-5.2"
+}

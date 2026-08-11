@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And as e bin dey speak wit me according to dis kind words, I put my face ⟨toward⟩ di ground, and I come dumb.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "and as e bin dey speak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wit me"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "according to ⟨di⟩ words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I put"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ground-ward"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "and I come dumb"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:45.479081887Z",
+  "model": "glm-5.2"
+}

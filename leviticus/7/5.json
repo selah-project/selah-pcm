@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di priest go burn ⟨את⟩ dem on top di altar, fire-offering to Yahweh; ⟨e⟩ ⟨be⟩ guilt-offering.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "and go burn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fire-offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "guilt-offering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:37.406853583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di time don reach for una — una wey dey siddon for una house dem wey dem panel, but dis house dey waste?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "di time"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "to dey siddon"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "for una house dem"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "wey dem panel"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "but dis house"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "dey waste"
+    }
+  ],
+  "timestamp": "2026-08-11T12:33:14.223338165Z",
+  "model": "glm-5.2"
+}

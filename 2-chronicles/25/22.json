@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Yehudah bin fall for front of Yisra'el, and evri man bin run go im tent.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "bin fall"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "bin run"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "go im tent"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:21.064350295Z",
+  "model": "glm-5.2"
+}

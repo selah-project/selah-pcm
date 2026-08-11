@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "\"And I take ⟨את⟩ una papa, ⟨את⟩ Avraham, from di oda side of di River, and I lead am go all di land of Kena'an, and I multiply ⟨את⟩ im seed, and I give am ⟨את⟩ Yitzchak.",
+  "tokens": [
+    {
+      "surface": "וָאֶקַּח",
+      "gloss": "and I take"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "una papa"
+    },
+    {
+      "surface": "אֲבִיכֶם",
+      "gloss": "una papa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מֵעֵבֶר",
+      "gloss": "from di oda side"
+    },
+    {
+      "surface": "הַנָּהָר",
+      "gloss": "of di River"
+    },
+    {
+      "surface": "וָאוֹלֵךְ",
+      "gloss": "and I lead"
+    },
+    {
+      "surface": "אוֹתוֹ",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "go all"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כְּנָעַן",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "and I multiply"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im seed"
+    },
+    {
+      "surface": "זַרְעוֹ",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "וָאֶתֶּן",
+      "gloss": "and I give"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "am"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yitzchak"
+    },
+    {
+      "surface": "יִצְחָק",
+      "gloss": "Yitzchak"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:49.726392480Z",
+  "model": "glm-5.2"
+}

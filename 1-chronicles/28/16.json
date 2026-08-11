@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "and ⟨את⟩ di gold — weight for di tables of arrangement, for table and table; and silver for di tables of silver.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di gold"
+    },
+    {
+      "surface": "הַזָּהָ֥ב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "מִשְׁקָ֛ל",
+      "gloss": "weight"
+    },
+    {
+      "surface": "לְשֻׁלְחֲנ֥וֹת",
+      "gloss": "for di tables"
+    },
+    {
+      "surface": "הַֽמַּעֲרֶ֖כֶת",
+      "gloss": "of arrangement"
+    },
+    {
+      "surface": "לְשֻׁלְחַ֣ן",
+      "gloss": "for table"
+    },
+    {
+      "surface": "וְשֻׁלְחָ֑ן",
+      "gloss": "and table"
+    },
+    {
+      "surface": "וְכֶ֖סֶף",
+      "gloss": "and silver"
+    },
+    {
+      "surface": "לְשֻׁלְחֲנ֥וֹת",
+      "gloss": "for di tables"
+    },
+    {
+      "surface": "הַכָּֽסֶף",
+      "gloss": "of silver"
+    }
+  ],
+  "timestamp": "2026-08-11T14:04:27.743676027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Now now, make pledge, abeg, ⟨with⟩ my master, ⟨with⟩ di king of Ashur, and I go give you two thousand horses — if you fit provide riders for dem!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "now now"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "make pledge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨with⟩",
+      "marks": "my master"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my master"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨with⟩",
+      "marks": "di king of Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "two thousand"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "horses"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "you fit"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "provide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "riders"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:02.575661818Z",
+  "model": "glm-5.2"
+}

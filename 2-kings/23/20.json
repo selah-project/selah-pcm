@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And ⟨im⟩ slaughter ⟨את⟩ all di priests of di high places wey dey there on top di altars, and ⟨im⟩ burn ⟨את⟩ human bones on top dem; and ⟨im⟩ return Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "and ⟨im⟩ slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di priests of di high places"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "priests of"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "di high places"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dey there"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "di altars"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "and ⟨im⟩ burn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "human bones"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bones of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "human\/person"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨im⟩ return"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:58.636262922Z",
+  "model": "glm-5.2"
+}

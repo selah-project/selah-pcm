@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Praise Yah! Praise ⟨את⟩ Yahweh from di heavens, praise am for di high places.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heavens"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise am"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "for di high places"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:17.420311586Z",
+  "model": "glm-5.2"
+}

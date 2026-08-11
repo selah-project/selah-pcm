@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Open correction better pass love wey dem hide.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "better pass"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "correction"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "open"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "pass love"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "wey dem hide"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:36.439755748Z",
+  "model": "glm-5.2"
+}

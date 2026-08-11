@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And from di sanctuary im no go comot, and im no go spoil ⟨את⟩ di sanctuary of im Elohim; because di dedication of di anointing oil of im Elohim ⟨dey⟩ on top am; me, I be Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "di sanctuary"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "im go comot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "im go spoil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sanctuary"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sanctuary"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "of im Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "di dedication"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "of di oil"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "of anointing"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "of im Elohim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me, I be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:41.888146512Z",
+  "model": "glm-5.2"
+}

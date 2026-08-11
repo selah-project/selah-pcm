@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "From inside ⟨trouble⟩ and from violence e go redeem dia life, and dia blood go ⟨be⟩ costly for im eye.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "and from violence"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "e go redeem"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "dia life"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "and dia blood go ⟨be⟩ costly"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dia blood"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im eye"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:28.940477702Z",
+  "model": "glm-5.2"
+}

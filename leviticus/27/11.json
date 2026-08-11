@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if ⟨e be⟩ any animal wey dey unclean, wey dem no dey present from am offering to Yahweh, den make ⟨im⟩ stand ⟨את⟩ di animal before di priest.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "wey dey unclean"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "dem dey present"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from am"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "den make ⟨im⟩ stand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di animal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:06.578092197Z",
+  "model": "glm-5.2"
+}

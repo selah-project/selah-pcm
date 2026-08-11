@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "When righteous people plenty, di people dey rejoice; and when wicked person dey rule, di people dey sigh.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "when plenty"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "dey rejoice"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "and when dey rule"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked person"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "dey sigh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:11.413266410Z",
+  "model": "glm-5.2"
+}

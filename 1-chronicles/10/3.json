@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Di war bin dey heavy on top Shaul, and di archers find am wit di bow, and e bin dey wound am from among di archers.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "bin dey heavy"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "di war"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "and dem find am"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "di archers"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "wit di bow"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "and e bin dey wound am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from among"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "di archers"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:30.571377880Z",
+  "model": "glm-5.2"
+}

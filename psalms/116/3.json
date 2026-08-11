@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Rope of death surround me, and distress of Sheol meet me; trouble and sorrow I ⟨bin⟩ find.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "surround me"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "rope of"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "and distress of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "meet me"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "and sorrow"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "I ⟨bin⟩ find"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:38.930713783Z",
+  "model": "glm-5.2"
+}

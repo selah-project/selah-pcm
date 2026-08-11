@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "See, I dey put spirit inside am, and e go hear report, and e go return to im land, and I go make am fall by sword for im land.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "See"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "I dey put"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "and e go hear"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "report"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and e go return"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "and I go make am fall"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by sword"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "for im land"
+    }
+  ],
+  "timestamp": "2026-08-11T16:18:34.779896448Z",
+  "model": "glm-5.2"
+}

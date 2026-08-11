@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Yahweh dey live, and blessed be my Rock, and make Elohim of my salvation go high.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "and blessed"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my Rock"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "and make ⟨am⟩ go high"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "of my salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:10.417123601Z",
+  "model": "glm-5.2"
+}

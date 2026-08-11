@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Cloud and thick darkness ⟨dey⟩ around am; righteousness and judgment ⟨be⟩ di foundation of im throne.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "cloud"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "and thick darkness"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "around am"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "and judgment"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "foundation"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "of im throne"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:05.377874277Z",
+  "model": "glm-5.2"
+}

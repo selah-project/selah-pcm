@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Im resemblance — like lion wey dey crave to tear ⟨prey⟩, and like young lion wey dey sit for hideouts.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "im resemblance"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "wey dey crave"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "to tear"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "and like young lion"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wey dey sit"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "for hideouts"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:15.544386677Z",
+  "model": "glm-5.2"
+}

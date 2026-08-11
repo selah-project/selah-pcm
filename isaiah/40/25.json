@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And to who una go compare me, and ⟨I go⟩ resemble? ⟨The⟩ Holy One dey talk.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "una go compare me"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "and ⟨I go⟩ resemble"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨The⟩ dey talk"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Holy One"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:29.615583261Z",
+  "model": "glm-5.2"
+}

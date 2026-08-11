@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "For ten pair of vineyard go produce one bat, and seed of one homer go produce one efah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "pair of"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "go produce"
+    },
+    {
+      "surface": "בת",
+      "gloss": "one bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "and seed of"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "one homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go produce"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "one efah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:16.338013501Z",
+  "model": "glm-5.2"
+}

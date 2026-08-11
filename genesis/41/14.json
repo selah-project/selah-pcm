@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "So Paroh send make dem call ⟨את⟩ Yosef, and dem make am run comot from di pit; and e shave, and e change im cloths, and e enter go meet Paroh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "so e send"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "make dem call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "and dem make am run"
+    },
+    {
+      "surface": "מן",
+      "gloss": "comot from"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "di pit"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "and e shave"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "and e change"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e enter go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:25.847474985Z",
+  "model": "glm-5.2"
+}

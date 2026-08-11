@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Dis one go be di torah of di metzora, for di day of im cleansing, and dem go bring am to di kohen.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "di torah of"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "di metzora"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day of"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "im cleansing"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "and dem go bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:56.003368431Z",
+  "model": "glm-5.2"
+}

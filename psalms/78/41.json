@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And dem turn back, and dem try El, and di Holy One of Yisra'el dem provoke.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "and dem turn back"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and dem try"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "and di Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "dem provoke"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:00.473781706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Tsillah too, ⟨she⟩ born ⟨את⟩ Tuval־Kayin, wey dey sharpen all who dey work copper and iron; and di sister of Tuval־Kayin na Na'amah.",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "and Tsillah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨she⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tuval־Kayin"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "wey dey sharpen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "who dey work"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "and iron"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "and di sister of"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Na'amah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:38.710478155Z",
+  "model": "glm-5.2"
+}

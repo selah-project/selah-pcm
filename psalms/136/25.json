@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "E dey give bread to all flesh, sey ⟨im⟩ chesed dey last forever.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "E dey give"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨im⟩ chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:04.494146275Z",
+  "model": "glm-5.2"
+}

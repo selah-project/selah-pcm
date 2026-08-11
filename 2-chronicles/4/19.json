@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Shelomoh bin make ⟨את⟩ all di instruments wey ⟨belong to⟩ ⟨the⟩ house of Elohim, and ⟨את⟩ di golden altar, and ⟨את⟩ di tables, and on top dem di bread of ⟨the⟩ face.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and bin make"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di instruments"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "di instruments"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di golden altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di golden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di tables"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "di tables"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "and on top dem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "of face"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:39.586179828Z",
+  "model": "glm-5.2"
+}

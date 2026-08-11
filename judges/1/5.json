@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem find ⟨את⟩ Adoni־Bezek for Bezek, and dem fight against am, and dem strike ⟨את⟩ di Kena'anite and ⟨את⟩ di Perizite.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "and dem find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "for Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "בו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kena'anite"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'anite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Perizite"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "di Perizite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:37.657532912Z",
+  "model": "glm-5.2"
+}

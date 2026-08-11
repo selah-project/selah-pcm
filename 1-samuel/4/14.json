@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ʿEli hear ⟨את⟩ di sound of di cry, and e talk, 'Wetin ⟨be⟩ dis sound of dis noise?' And di man quick quick come, and e come tell ʿEli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and ʿEli hear"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ʿEli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sound"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di sound"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "of di cry"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di sound"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "of dis noise"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "and di man"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "quick quick"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "come"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and e come tell"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ʿEli"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:56.132416215Z",
+  "model": "glm-5.2"
+}

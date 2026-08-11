@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Una wey dey hot among di el-im, under evri green tree, wey dey slaughter di pikin-dem for di valley-dem, under di crack-dem of di rock-dem?",
+  "tokens": [
+    {
+      "surface": "הַנֵּֽחָמִים֙",
+      "gloss": "wey dey hot"
+    },
+    {
+      "surface": "בָּֽאֵלִ֔ים",
+      "gloss": "among di el-im"
+    },
+    {
+      "surface": "תַּ֖חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "tree"
+    },
+    {
+      "surface": "רַעֲנָ֑ן",
+      "gloss": "green"
+    },
+    {
+      "surface": "שֹׁחֲטֵ֤י",
+      "gloss": "wey dey slaughter"
+    },
+    {
+      "surface": "הַיְלָדִים֙",
+      "gloss": "di pikin-dem",
+      "marks": "di pikin-dem"
+    },
+    {
+      "surface": "בַּנְּחָלִ֔ים",
+      "gloss": "for di valley-dem"
+    },
+    {
+      "surface": "תַּ֖חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "סְעִפֵ֥י",
+      "gloss": "di crack-dem"
+    },
+    {
+      "surface": "הַסְּלָעִֽים",
+      "gloss": "of di rock-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.880944230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Like lily among thorns, so my lover ⟨be⟩ among daughters.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "like lily"
+    },
+    {
+      "surface": "בין",
+      "gloss": "among"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "thorns"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "בין",
+      "gloss": "among"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "daughters"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:39.598902147Z",
+  "model": "glm-5.2"
+}

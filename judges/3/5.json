@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di pikin-dem of Yisra'el bin dey live among di Kena'ani, di Hiti, and di Emori, and di Perizi, and di Hivi, and di Yevusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bin dey live"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "among"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'ani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "and di Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "and di Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "and di Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "and di Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:15.875475168Z",
+  "model": "glm-5.2"
+}

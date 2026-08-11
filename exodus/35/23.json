@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And every man wey ⟨dem⟩ find ⟨את⟩ wit am blue thread, and purple, and scarlet worm-dye, and fine linen, and goat hair, and ram skin dem wey dem dye red, and badger skin dem, dem bring am.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and every"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "dem find"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wit am"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blue thread"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "and purple"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "and worm-dye of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and fine linen"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "and goat hair"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "and skin dem of"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ram"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wey dem dye red"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "and skin dem of"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "badger"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dem bring am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:28.669085919Z",
+  "model": "glm-5.2"
+}

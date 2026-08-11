@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Forty strokes dem go give am; make e no exceed, lest e exceed to beat am on top of dis one wit plenty strokes, and im brother come dey small for your eye.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "dem go strike am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "make e exceed"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "e exceed"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "to beat am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "stroke"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "and e come dey small"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "for your eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:52.893754282Z",
+  "model": "glm-5.2"
+}

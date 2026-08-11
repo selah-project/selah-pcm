@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "Because my heart bin turn sour, and ⟨for⟩ my kidneys, I bin dey pierce ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "because"
+    },
+    {
+      "surface": "יִתְחַמֵּ֣ץ",
+      "gloss": "bin turn sour"
+    },
+    {
+      "surface": "לְבָבִ֑י",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "וְ֝כִלְיוֹתַ֗י",
+      "gloss": "and my kidneys"
+    },
+    {
+      "surface": "אֶשְׁתּוֹנָֽן",
+      "gloss": "I bin dey pierce"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:49.025586022Z",
+  "model": "glm-5.2"
+}

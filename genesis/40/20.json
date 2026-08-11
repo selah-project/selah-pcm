@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e come happen for di third day, di day wey dem bin born Pharaoh, wey e bin make feast for all im servant dem; and e bin lift up ⟨את⟩ di head of chief of di cupbearer dem and ⟨את⟩ di head of chief of di baker dem among im servant dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e come happen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "third"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "wey dem bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pharaoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and bin make"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "feast"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "and bin lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head of chief of di cupbearer dem"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "di cupbearer dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "di baker dem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:12.720126741Z",
+  "model": "glm-5.2"
+}

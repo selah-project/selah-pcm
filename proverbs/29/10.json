@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Men of blood dey hate di blameless man, and di upright dem dey seek im life.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "dey hate"
+    },
+    {
+      "surface": "תם",
+      "gloss": "blameless man"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "and di upright"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:48.533144726Z",
+  "model": "glm-5.2"
+}

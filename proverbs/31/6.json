@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Give strong drink to di person wey dey perish, and wine to di person wey im ⟨nɛfɛsh⟩ dey bitter.",
+  "tokens": [
+    {
+      "surface": "תְּנוּ",
+      "gloss": "give"
+    },
+    {
+      "surface": "שֵׁכָ֣ר",
+      "gloss": "strong drink"
+    },
+    {
+      "surface": "לְאוֹבֵ֑ד",
+      "gloss": "to di person wey dey perish"
+    },
+    {
+      "surface": "וְ֝יַיִן",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "לְמָ֣רֵי",
+      "gloss": "to di person wey"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "im ⟨nɛfɛsh⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:54.963600338Z",
+  "model": "glm-5.2"
+}

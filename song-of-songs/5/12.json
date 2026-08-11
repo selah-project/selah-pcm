@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Im eye dem ⟨be⟩ like dove dem beside stream of water, wey dem wash wit milk, wey dem sit on top full socket.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "im eye dem"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "like dove dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "stream of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "wey dem wash"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "wit milk"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "wey dem sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "full socket"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:45.047543098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "six of dia name dem on top one stone, and ⟨את⟩ di name dem of di remaining six on top di second stone, according to dia birth dem.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "six"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "of dia name dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "di stone"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di name dem of di remaining six"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "di name dem"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "of di six"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "remaining"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "di stone"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "second"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "according to dia birth dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:11.879571436Z",
+  "model": "glm-5.2"
+}

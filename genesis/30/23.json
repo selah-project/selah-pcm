@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And she get belleh, and she born one son, and she talk say, Elohim don carry ⟨את⟩ my shame comot.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "and she get belleh"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk say"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "don carry comot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my shame"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "my shame"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:26.616712424Z",
+  "model": "glm-5.2"
+}

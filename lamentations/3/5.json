@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "(He) build against me, (he) surround me with poison and ⟨with⟩ trouble.",
+  "tokens": [
+    {
+      "surface": "בָּנָ֥ה",
+      "gloss": "(he) build against"
+    },
+    {
+      "surface": "עָלַ֛י",
+      "gloss": "me"
+    },
+    {
+      "surface": "וַיַּקַּ֖ף",
+      "gloss": "(he) surround"
+    },
+    {
+      "surface": "רֹ֥אשׁ",
+      "gloss": "poison"
+    },
+    {
+      "surface": "וּתְלָאָֽה",
+      "gloss": "trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:23.430729239Z",
+  "model": "glm-5.2"
+}

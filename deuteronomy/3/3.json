@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Yahweh wey be our Elohim give am inside our hand — even ⟨את⟩ Og king of Bashan, and ⟨את⟩ all im people; and we strike am sotey nothing remain for am at all — no survivor.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּן֩",
+      "gloss": "so give"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֜ינוּ",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "בְּיָדֵ֗נוּ",
+      "gloss": "inside our hand"
+    },
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Og king of Bashan"
+    },
+    {
+      "surface": "ע֥וֹג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "הַבָּשָׁ֖ן",
+      "gloss": "of Bashan"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all im people"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "im people"
+    },
+    {
+      "surface": "וַנַּכֵּ֕הוּ",
+      "gloss": "and we strike am"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "sotey"
+    },
+    {
+      "surface": "בִּלְתִּ֥י",
+      "gloss": "nothing"
+    },
+    {
+      "surface": "הִשְׁאִֽיר",
+      "gloss": "remain"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שָׂרִֽיד",
+      "gloss": "survivor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:17.008117382Z",
+  "model": "glm-5.2"
+}

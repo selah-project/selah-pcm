@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Why ⟨make⟩ di goyim talk say, 'Where now, abeg, ⟨be⟩ dia Elohim?'",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יֹאמְרוּ",
+      "gloss": "make dem talk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di goyim"
+    },
+    {
+      "surface": "איה",
+      "gloss": "where"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:58.959040215Z",
+  "model": "glm-5.2"
+}

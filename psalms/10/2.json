@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "For pride of wicked man, e dey hotly pursue di poor — make dem catch dem for di evil plan wey dem don plot.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "for pride"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "of wicked man"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "e dey hotly pursue"
+    },
+    {
+      "surface": "עני",
+      "gloss": "di poor"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "make dem catch dem"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "for di evil plan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "dem don plot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:08.501006018Z",
+  "model": "glm-5.2"
+}

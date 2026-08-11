@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "For every completion, I see end; your commandment ⟨be⟩ wide—well-well.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "for every"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "completion"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "end"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "wide"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "your commandment"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:30.701459542Z",
+  "model": "glm-5.2"
+}

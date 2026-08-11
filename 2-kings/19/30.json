@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di remnant wey escape, wey remain from di house of Yehudah, go again take root downward, and go bear fruit upward.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "and go again"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "di remnant wey escape"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "wey remain"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "take root"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "downward"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and go bear"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "upward"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:00.059886466Z",
+  "model": "glm-5.2"
+}

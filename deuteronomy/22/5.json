@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make ⟨no⟩ ⟨be⟩ man tin on top woman, and make ⟨no⟩ man wear woman dress, because to Yahweh ⟨wey be⟩ Elohim of you, abomination na everybody wey dey do dis tin dem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "wear"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "dress"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim of you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "everybody"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis tin dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:42.600651283Z",
+  "model": "glm-5.2"
+}

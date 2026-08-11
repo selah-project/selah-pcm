@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "⟨Im⟩ dey restrain di breath of leaders, ⟨im⟩ dey fearsome to kings of ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "יִ֭בְצֹר",
+      "gloss": "⟨Im⟩ dey restrain"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "breath"
+    },
+    {
+      "surface": "נְגִידִ֑ים",
+      "gloss": "of leaders"
+    },
+    {
+      "surface": "נ֝וֹרָ֗א",
+      "gloss": "⟨im⟩ dey fearsome"
+    },
+    {
+      "surface": "לְמַלְכֵי",
+      "gloss": "to kings"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "of ⟨di⟩ earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:35.189138202Z",
+  "model": "glm-5.2"
+}

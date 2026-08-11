@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨im⟩ bin talk say, Go, and you go tell dis pipo: Hear well-well, but make una no understand; and see well-well, but make una no know.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ bin talk say"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "you go tell"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to di pipo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "but make una no"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "understand"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "and see"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "but make una no"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "know"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:06.845805557Z",
+  "model": "glm-5.2"
+}

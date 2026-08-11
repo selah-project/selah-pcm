@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And five from among una go pursue one hundred, and one hundred from among una go pursue ten thousand, and una enemies go fall before una by sword.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "and dem go pursue"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "from among una"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "from among una"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ten thousand"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "dem go pursue"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "and dem go fall"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "by sword"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:12.689822652Z",
+  "model": "glm-5.2"
+}

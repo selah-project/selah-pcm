@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Wickedness im dey plan on top im bed; e dey stand for road wey no ⟨be⟩ good; evil e no dey reject.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "im dey plan"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "im bed"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "e dey stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "e dey reject"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:21.067335175Z",
+  "model": "glm-5.2"
+}

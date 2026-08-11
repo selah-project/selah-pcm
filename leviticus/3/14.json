@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e go present from am im offering, fire-offering to Yahweh: ⟨את⟩ di fat wey dey cover ⟨את⟩ di inside-belly, and ⟨את⟩ all di fat wey dey on top di inside-belly.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "and e go present"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "im offering"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fire-offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fat"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "wey dey cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di inside-belly"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "di inside-belly"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di fat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "di inside-belly"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:18.494434306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Bless Yahweh, una im messengers, mighty ones for power, wey dey do im word, to dey hear di voice of im word.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "una im messengers"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "mighty ones"
+    },
+    {
+      "surface": "כח",
+      "gloss": "for power"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "im word",
+      "marks": "im word"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "to dey hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di voice of"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "im word"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.840339960Z",
+  "model": "glm-5.2"
+}

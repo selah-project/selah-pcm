@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So after Moshe wey be servant of Yahweh bin die, Yahweh bin talk to Yehoshua, son of Nun, wey dey serve Moshe, sey:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so ⟨bin⟩ happen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨bin⟩ talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wey dey serve"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:09.703439768Z",
+  "model": "glm-5.2"
+}

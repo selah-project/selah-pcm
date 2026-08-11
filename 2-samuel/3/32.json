@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem bury ⟨את⟩ Avner for Chevron; and di king carry ⟨את⟩ im voice, and im cry reach grave of Avner, and all di people cry.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "And dem bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "for Chevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "and carry"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im voice"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "im voice"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "and im cry"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grave"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "of Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:05.039038392Z",
+  "model": "glm-5.2"
+}

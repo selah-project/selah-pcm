@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Rope of Sheol bin surround me; trap of death bin meet me front.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "rope of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bin surround me"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "bin meet me front"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "trap of"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:18.700830998Z",
+  "model": "glm-5.2"
+}

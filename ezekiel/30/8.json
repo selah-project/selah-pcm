@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And dem go know sey na me Yahweh, wen I put fire for Mitsrayim, and all im helpers go break.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "and dem go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "wen I put"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "and go break"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "im helpers"
+    }
+  ],
+  "timestamp": "2026-08-11T12:12:56.804930820Z",
+  "model": "glm-5.2"
+}

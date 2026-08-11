@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And after dis one, Dawid bin strike ⟨את⟩ Peleshtim and bin subdue dem; and Dawid bin take ⟨את⟩ Metheg-ammah from hand of Peleshtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e bin strike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "and e bin subdue dem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e bin take"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "-ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:46.876077012Z",
+  "model": "glm-5.2"
+}

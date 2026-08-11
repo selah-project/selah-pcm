@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Artachshasta, king of kings, to Ezra di priest, scribe of di law of Elah of heaven — complete, and ⟨so forth⟩.",
+  "tokens": [
+    {
+      "surface": "אַ֨רְתַּחְשַׁ֔סְתְּא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "מַלְכַיָּ֑א",
+      "gloss": "of kings"
+    },
+    {
+      "surface": "לְעֶזְרָ֣א",
+      "gloss": "to Ezra"
+    },
+    {
+      "surface": "כָ֠הֲנָא",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "סָפַ֨ר",
+      "gloss": "scribe"
+    },
+    {
+      "surface": "דָּתָ֜א",
+      "gloss": "of di law"
+    },
+    {
+      "surface": "דִּֽי",
+      "gloss": "of"
+    },
+    {
+      "surface": "אֱלָ֧הּ",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "שְׁמַיָּ֛א",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "גְּמִ֖יר",
+      "gloss": "complete"
+    },
+    {
+      "surface": "וּכְעֶֽנֶת",
+      "gloss": "and ⟨so forth⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:19.098569113Z",
+  "model": "glm-5.2"
+}

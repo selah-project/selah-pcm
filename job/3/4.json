@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make dat day turn to darkness; make Eloah no seek am from above, and make light no shine on top am.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make e turn to"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "seek am"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "from above"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make ... no"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "shine"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "light"
+    }
+  ],
+  "timestamp": "2026-08-11T16:42:43.315906192Z",
+  "model": "glm-5.2"
+}

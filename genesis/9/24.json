@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So Noach wake up from im wine, and e know ⟨את⟩ wetin im small pikin do to am.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "So wake up"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "from im wine"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "and e know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin im small pikin do to am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "di small one"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:19.624526037Z",
+  "model": "glm-5.2"
+}

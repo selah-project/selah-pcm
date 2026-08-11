@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "We no go hide am from dia pikin-dem, to di generation wey dey come, we dey tell di praise of Yahweh, and im power, and im wonder-dem wey ⟨he⟩ do.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "go hide"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "from dia pikin-dem"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to di generation"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wey dey come"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "we dey tell"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "di praise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "and im power"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "and im wonder-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:57.103254984Z",
+  "model": "glm-5.2"
+}

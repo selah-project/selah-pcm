@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Efrayim bin provoke am wit bitter bitterness, and im blood go dey on top am, and im reproach Adonai go return to am.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "bin provoke"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "bitter bitterness"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "and im blood"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "go leave\/cast"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "and im reproach"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "go return"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:07.490397374Z",
+  "model": "glm-5.2"
+}

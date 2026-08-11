@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "For dose days, I, Daniyel, bin dey mourn for three weeks of days.",
+  "tokens": [
+    {
+      "surface": "בַּיָּמִ֖ים",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "הָהֵ֑ם",
+      "gloss": "dose"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "I"
+    },
+    {
+      "surface": "דָֽנִיֵּאל֙",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "הָיִ֣יתִי",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "מִתְאַבֵּ֔ל",
+      "gloss": "mourn"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֥ה",
+      "gloss": "three"
+    },
+    {
+      "surface": "שָׁבֻעִ֖ים",
+      "gloss": "weeks"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "of days"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:02.601152907Z",
+  "model": "glm-5.2"
+}

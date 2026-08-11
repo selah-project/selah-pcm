@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Good sense go guard you, understanding go protect you,",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "good sense"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "go guard"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "you"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "understanding"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "go protect you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:45.807430647Z",
+  "model": "glm-5.2"
+}

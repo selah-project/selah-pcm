@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "With bed-cover I don spread my bed, with carving-dem, fine linen of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "with bed-cover dem"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "I don spread"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "carving dem"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "fine linen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:13.436692608Z",
+  "model": "glm-5.2"
+}

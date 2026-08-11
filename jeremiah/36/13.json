@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And Mikayahu bin tell dem ⟨את⟩ all di words wey im hear, wen Baruk bin dey read from di book for di ear of di people.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "im hear"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "wen bin dey read"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "from di book"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "for di ear of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:54:53.909946769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 32:43",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Make una shout for joy, O nations, ⟨with⟩ im people, because im servants ⟨'⟩ blood e go avenge, and vengeance e go return to im enemies, and im land e go make atonement for, ⟨even⟩ im people.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "make una shout for joy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "O nations"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "of im servants"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "e go avenge"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "and vengeance"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "e go return"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "to im enemies"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and e go make atonement for"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:03.834149532Z",
+  "model": "glm-5.2"
+}

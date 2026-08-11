@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Make una tremble, and make una no sin; talk for una heart on top una bed, and keep quiet. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "make una tremble"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "make una sin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "talk"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "for una heart"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "una bed"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "and keep quiet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:14.294013812Z",
+  "model": "glm-5.2"
+}

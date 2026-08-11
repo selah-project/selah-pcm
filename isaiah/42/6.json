@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Me, ⟨I⟩ be Yahweh; me don call you for righteousness, and me go hold your hand; and me go keep you, and me go make you ⟨to be⟩ covenant for di people, ⟨to be⟩ light for di nations.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "don call you"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "for righteousness"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "and go hold"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "and go keep you"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "and go make you"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨to be⟩ covenant for"
+    },
+    {
+      "surface": "עם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "⟨to be⟩ light for"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:32.248616225Z",
+  "model": "glm-5.2"
+}

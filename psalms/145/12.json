@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "To make know to di sons of man im mighty-acts, and di glory of di splendor of im kingdom.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "to make know"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di sons"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "im mighty-acts"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "and di glory"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "of di splendor"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "of im kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:43.227616175Z",
+  "model": "glm-5.2"
+}

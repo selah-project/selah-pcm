@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yahweh do so; and heavy swarm of flies enter inside di house of Pharaoh, and inside di house of im servants, and inside all di land of Mitsrayim; di land dey destroyed from di face of di swarm.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and enter"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swarm of flies"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "inside di house of"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and inside di house of"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and inside all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "dey destroyed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "di swarm"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:00.385492110Z",
+  "model": "glm-5.2"
+}

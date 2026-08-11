@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Abram fall on im face, and Elohim speak ⟨with⟩ ⟨את⟩ am, saying:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and speak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:16.048216526Z",
+  "model": "glm-5.2"
+}

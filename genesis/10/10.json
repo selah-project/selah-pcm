@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "⟨And⟩ di beginning of im kingdom ⟨bin be⟩ Bavel, and Erek, and Akad, and Kalneh, for di land of Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "⟨and⟩ bin ⟨be⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "di beginning"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "of im kingdom"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "and Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "and Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "and Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "of Shinar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:36.271689190Z",
+  "model": "glm-5.2"
+}

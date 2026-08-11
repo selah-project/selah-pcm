@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Good sense dey give favor, but di way of traitor dem ⟨na⟩ hard.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "sense"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "but di way"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "of traitor dem"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "hard"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:21.014091800Z",
+  "model": "glm-5.2"
+}

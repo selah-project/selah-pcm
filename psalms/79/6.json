@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Pour out your anger on top ⟨di⟩ nations wey no know you, and on top ⟨di⟩ kingdoms wey no call your name.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹךְ",
+      "gloss": "pour out"
+    },
+    {
+      "surface": "חֲמָתְךָ",
+      "gloss": "your anger"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יְדָעוּךָ",
+      "gloss": "know you"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "מַמְלָכוֹת",
+      "gloss": "kingdoms"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בְּשִׁמְךָ",
+      "gloss": "your name"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קָרָאוּ",
+      "gloss": "call"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:13.818865475Z",
+  "model": "glm-5.2"
+}

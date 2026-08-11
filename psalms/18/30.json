@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Because na by you I dey run against troop, and by my Elohim I dey jump ⟨over⟩ wall.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בך",
+      "gloss": "by you"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "I dey run"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "troop"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "and by my Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "I dey jump"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:55.955410653Z",
+  "model": "glm-5.2"
+}

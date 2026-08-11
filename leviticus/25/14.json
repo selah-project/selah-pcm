@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And if una dey sell something to una person, or if una dey buy from di hand of una person, make una no cheat — man ⟨את⟩ im brother.",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תִמְכְּר֤וּ",
+      "gloss": "una dey sell"
+    },
+    {
+      "surface": "מִמְכָּר֙",
+      "gloss": "something"
+    },
+    {
+      "surface": "לַעֲמִיתֶ֔ךָ",
+      "gloss": "to una person"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "or"
+    },
+    {
+      "surface": "קָנֹ֖ה",
+      "gloss": "una dey buy"
+    },
+    {
+      "surface": "מִיַּ֣ד",
+      "gloss": "from di hand of"
+    },
+    {
+      "surface": "עֲמִיתֶ֑ךָ",
+      "gloss": "una person"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תּוֹנ֖וּ",
+      "gloss": "make una cheat"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "man"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im brother"
+    },
+    {
+      "surface": "אָחִֽיו",
+      "gloss": "im brother"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:08.343560071Z",
+  "model": "glm-5.2"
+}

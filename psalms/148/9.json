@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Mountains, and all hill, fruit tree, and all cedar.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hill"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tree"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:52.318737118Z",
+  "model": "glm-5.2"
+}

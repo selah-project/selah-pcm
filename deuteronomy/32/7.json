@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Make una remember di days of old; make una understand di years of generation upon generation. Ask una papa and e go tell una; una elders and dem go talk to una.",
+  "tokens": [
+    {
+      "surface": "זְכֹר֙",
+      "gloss": "Make una remember"
+    },
+    {
+      "surface": "יְמ֣וֹת",
+      "gloss": "di days"
+    },
+    {
+      "surface": "עוֹלָ֔ם",
+      "gloss": "of old"
+    },
+    {
+      "surface": "בִּ֖ינוּ",
+      "gloss": "make una understand"
+    },
+    {
+      "surface": "שְׁנ֣וֹת",
+      "gloss": "di years"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "generation"
+    },
+    {
+      "surface": "וָד֑וֹר",
+      "gloss": "upon generation"
+    },
+    {
+      "surface": "שְׁאַ֤ל",
+      "gloss": "Ask"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "una papa"
+    },
+    {
+      "surface": "וְיַגֵּ֔דְךָ",
+      "gloss": "and e go tell una"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "una elders"
+    },
+    {
+      "surface": "וְיֹ֥אמְרוּ",
+      "gloss": "and dem go talk"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:56.082944983Z",
+  "model": "glm-5.2"
+}

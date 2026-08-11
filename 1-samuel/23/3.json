@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And David men dem talk to am, sey: \"See, we dey here for Yehudah we dey fear; talk less of make we go Keilah, to di battle-array dem of Pelishtim!\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men dem of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "for Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "talk less of"
+    },
+    {
+      "surface": "כי",
+      "gloss": "how much more"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "make we go"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "battle-array dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:16.997856400Z",
+  "model": "glm-5.2"
+}

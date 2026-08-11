@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And im take ⟨את⟩ di calf wey dem make, and im burn am for fire, and im grind am until e come turn to powder, and im scatter am on top di face of di water, and im make ⟨את⟩ di sons of Yisra'el drink am.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "And im take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di calf"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "di calf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem make"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "and im burn am"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for fire"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "and im grind am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דק",
+      "gloss": "e come powder"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "and im scatter am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "המים",
+      "gloss": "of di water"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and im make drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:20.094845433Z",
+  "model": "glm-5.2"
+}

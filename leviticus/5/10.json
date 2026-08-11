@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨את⟩ di second one e go make ⟨as⟩ burnt offering, as di custom ⟨be⟩; and di priest go make atonement on top am from im sin wey e sin, and dem go forgive am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di second one"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second one"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e go make"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "as di custom ⟨be⟩"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and go make atonement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "from im sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "e sin"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "and dem go forgive"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:48.863972003Z",
+  "model": "glm-5.2"
+}

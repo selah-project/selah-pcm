@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Boaz bin talk to di elders and all di people, \"Una be witnesses today sey I don buy ⟨את⟩ all wetin bin belong to Elimelech, and ⟨את⟩ all wetin bin belong to Kilyon and Machlon, from ⟨di⟩ hand of Naomi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "to di elders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "witnesses"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "I don buy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all wetin bin belong to Elimelech"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "belong to Elimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all wetin bin belong to Kilyon and Machlon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "belong to Kilyon"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "and Machlon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:28.619213531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 87,
+  "translation": "I go mention Rahav and Bavel to di pipul-dem wey sabi me; look — Peleshet, and Tzor, wit Kush: dis one, na for dere dem bon am.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "I go mention"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "and Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "to di pipul-dem wey sabi me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "and Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dem bon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for dere"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:42.036362938Z",
+  "model": "glm-5.2"
+}

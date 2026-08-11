@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Like sey na friend, like sey na broda to me, I dey waka about; like person wey dey mourn for im mama, I dey dark, I bow down.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "like sey na friend"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "like sey na broda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "I dey waka about"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "like person wey dey mourn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "I dey dark"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "I bow down"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:12.468239611Z",
+  "model": "glm-5.2"
+}

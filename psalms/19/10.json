@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Di fear of Yahweh clean, ⟨e⟩ dey stand forever; di judgments of Yahweh na truth, dem don show righteous together.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "di fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "clean"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "di judgments"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "dem don show righteous"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:17.385320147Z",
+  "model": "glm-5.2"
+}

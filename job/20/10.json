@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Im pikin-dem go beg di poor-dem, and im hand-dem go return im wealth.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "go beg"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "di poor-dem"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "and im hand-dem"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "go return"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "im wealth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:20.097055855Z",
+  "model": "glm-5.2"
+}

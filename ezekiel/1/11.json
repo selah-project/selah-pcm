@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dia face, and dia wings bin dey separate from above; two bin dey join, each ⟨to⟩ each, and two bin dey cover ⟨את⟩ dia body.",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "And dia face"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "and dia wings"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "bin dey separate"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "from above"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "two"
+    },
+    {
+      "surface": "שתים",
+      "gloss": ""
+    },
+    {
+      "surface": "חברות",
+      "gloss": "bin dey join"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "and two"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "bin dey cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia body"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "dia body"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:10.555177192Z",
+  "model": "glm-5.2"
+}

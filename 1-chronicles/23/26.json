@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And also to di Levites, ⟨dem⟩ no get ⟨work⟩ to carry ⟨את⟩ di tabernacle and ⟨את⟩ all im tools for im work.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "to di Levites"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tabernacle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im tools"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "for im work"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:14.264189557Z",
+  "model": "glm-5.2"
+}

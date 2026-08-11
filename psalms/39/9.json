@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "From all my transgressions, deliver me; ⟨make⟩ ⟨me⟩ no be di disgrace of di fool.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my transgressions"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "deliver me"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "disgrace"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "make me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:16.199640143Z",
+  "model": "glm-5.2"
+}

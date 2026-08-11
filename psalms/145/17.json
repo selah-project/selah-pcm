@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Yahweh ⟨be⟩ righteous for all im waka, and ⟨be⟩ kind for all im wok.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "im waka"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "and kind"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "im wok"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:03.581079539Z",
+  "model": "glm-5.2"
+}

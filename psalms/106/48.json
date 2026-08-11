@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Blessed ⟨be⟩ Yahweh, Elohim of Yisrael, from everlasting go everlasting; and make all di people talk, Amen. Halleluyah, praise Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and make ... talk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluyah, praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:44.204555709Z",
+  "model": "glm-5.2"
+}

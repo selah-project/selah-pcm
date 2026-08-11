@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Hear, Yahweh, and show me favor; Yahweh, be helper for me.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "and show me favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "be"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:31.613118475Z",
+  "model": "glm-5.2"
+}

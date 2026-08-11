@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And dem go wash dia hand and dia leg, so that dem no go die; and e go be ⟨na⟩ decree wey go last forever for am and for im seed, to dia generation dem.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "and dem go wash"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "and dia leg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "so that ... no"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "dem go die"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "חק",
+      "gloss": "decree"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wey go last forever"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "and for im seed"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "to dia generation dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:17.774387765Z",
+  "model": "glm-5.2"
+}

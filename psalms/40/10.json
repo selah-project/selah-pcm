@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "I bin proclaim righteousness for di big gathering; see, my lips I no hold back, Yahweh, You sabi am.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "I bin proclaim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "for di gathering"
+    },
+    {
+      "surface": "רב",
+      "gloss": "big"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lips"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "I hold back"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "You sabi am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:35.247666058Z",
+  "model": "glm-5.2"
+}

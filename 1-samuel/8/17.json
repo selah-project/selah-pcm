@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Im go take one-tenth of una flocks, and una go come be im servants.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "una flocks"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "⟨im⟩ go take one-tenth of"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "go come be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "for servants"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:49.106661335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Efrayim don come like dove wey dem don deceive, wey no get sense — Mitsrayim dem don call, Ashur dem don go.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "don come"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "like dove"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "wey dem don deceive"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sense"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dem don call"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "dem don go"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:56.144140402Z",
+  "model": "glm-5.2"
+}

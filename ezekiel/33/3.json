@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "and ⟨when⟩ ⟨he⟩ see ⟨את⟩ di sword dey come upon di land, and ⟨he⟩ blow di shofar, and ⟨he⟩ warn ⟨את⟩ di people —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and ⟨he⟩ see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sword"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "di sword"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "and ⟨he⟩ blow"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "di shofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "and ⟨he⟩ warn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:04.700040892Z",
+  "model": "glm-5.2"
+}

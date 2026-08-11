@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Make you no muzzle cow wen e dey thresh grain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "make you muzzle"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "wen e dey thresh grain"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:52.893876391Z",
+  "model": "glm-5.2"
+}

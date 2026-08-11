@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Charm na lie, and fine-face na notin; ⟨na⟩ woman wey get fear of Yahweh, na im go receive praise.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "na lie"
+    },
+    {
+      "surface": "החן",
+      "gloss": "Charm"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "and fine-face na notin"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "⟨beauty⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "wey get fear of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "go receive praise"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:59.278307259Z",
+  "model": "glm-5.2"
+}

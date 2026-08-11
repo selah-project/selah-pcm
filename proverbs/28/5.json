@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Awọn ọkùnrin búburú kò níye àdájọ́; àwọn tó ń wá Yahweh, wọn yèye gbogbo rẹ̀.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "awọn ọkùnrin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "búburú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kò"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "níye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "àdájọ́"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "àwọn tó ń wá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "wọn yèye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gbogbo rẹ̀"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:58.802532361Z",
+  "model": "glm-5.2"
+}

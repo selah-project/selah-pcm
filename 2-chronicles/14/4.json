@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "⟨Im⟩ comot from all di town dem of Yehudah ⟨את⟩ di high place dem and ⟨את⟩ di sun-image dem; and di kingdom bin quiet before am.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "comot"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "di town dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di high place dem"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "di high place dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sun-image dem"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "di sun-image dem"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "and bin quiet"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:19.498368575Z",
+  "model": "glm-5.2"
+}

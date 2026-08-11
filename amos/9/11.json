@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "For dat day, I go raise up ⟨את⟩ di booth of Dawid wey don fall, and I go block ⟨את⟩ im breaches; and im ruins I go raise up, and I go rebuild am like di days of old.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "For dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "I go raise up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di booth of Dawid"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "di booth"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "wey don fall"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "and I go block"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im breaches"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "im breaches"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "and im ruins"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "I go raise up"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "and I go rebuild am"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "of old"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:15.819243583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "No make hungry-eye ⟨for⟩ house of ⟨your⟩ neighbour, no make hungry-eye ⟨for⟩ wife of ⟨your⟩ neighbour, ⟨nor⟩ im servant-boy and im servant-girl and im bull and im donkey, and anytin wey ⟨dey⟩ belong to ⟨your⟩ neighbour.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "make hungry-eye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "⟨your⟩ neighbour"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "make hungry-eye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "⟨your⟩ neighbour"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "and im servant-boy"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "and im servant-girl"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "and im bull"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "and im donkey"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and every"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "belong to ⟨your⟩ neighbour"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:05.008370774Z",
+  "model": "glm-5.2"
+}

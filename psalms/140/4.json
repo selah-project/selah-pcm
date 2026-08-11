@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "Dem sharpen dia tongue like snake; poison of viper ⟨dey⟩ under dia lips. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "dem sharpen"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dia tongue"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "snake"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "poison"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "of viper"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dia lips"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:29.072262702Z",
+  "model": "glm-5.2"
+}

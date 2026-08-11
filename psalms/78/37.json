@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And dia heart no bin stand straight with Am, and dem no bin stay faithful inside ⟨im⟩ covenant.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "and dia heart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bin stand straight"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with Am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "dem bin stay faithful"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "inside ⟨im⟩ covenant"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:06.568894240Z",
+  "model": "glm-5.2"
+}

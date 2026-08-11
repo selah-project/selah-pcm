@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And you go know wit your heart, sey as man dey discipline ⟨את⟩ im son, na so Yahweh your Elohim dey discipline you.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "and you go know"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "man dey discipline"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im son"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "dey discipline you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:11.889771753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Work of righteous person dey lead to life; produce of wicked person dey lead to sin.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "work of"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous person"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "dey lead to life"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "produce of"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked person"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "dey lead to sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:38.087606423Z",
+  "model": "glm-5.2"
+}

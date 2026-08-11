@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Holy linen tunic im go wear, and linen trousers go dey on top im flesh, and with linen sash im go tie waist, and with linen turban im go wrap head; holy garments dem be, and im go wash ⟨את⟩ im flesh inside water, and put dem on.",
+  "tokens": [
+    {
+      "surface": "כְּתֹֽנֶת",
+      "gloss": "tunic"
+    },
+    {
+      "surface": "בַּ֨ד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "קֹ֜דֶשׁ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "יִלְבָּ֗שׁ",
+      "gloss": "im go wear"
+    },
+    {
+      "surface": "וּמִֽכְנְסֵי",
+      "gloss": "and trousers"
+    },
+    {
+      "surface": "בַּד֮",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "וּבְאַבְנֵ֥ט",
+      "gloss": "and with sash"
+    },
+    {
+      "surface": "בַּד֙",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יַחְגֹּ֔ר",
+      "gloss": "im go tie waist"
+    },
+    {
+      "surface": "וּבְמִצְנֶ֥פֶת",
+      "gloss": "and with turban"
+    },
+    {
+      "surface": "בַּ֖ד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יִצְנֹ֑ף",
+      "gloss": "im go wrap head"
+    },
+    {
+      "surface": "בִּגְדֵי",
+      "gloss": "garments"
+    },
+    {
+      "surface": "קֹ֣דֶשׁ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הֵ֔ם",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "וְרָחַ֥ץ",
+      "gloss": "and im go wash"
+    },
+    {
+      "surface": "בַּמַּ֛יִם",
+      "gloss": "inside water"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im flesh"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "וּלְבֵשָֽׁם",
+      "gloss": "and put dem on"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:28.654846041Z",
+  "model": "glm-5.2"
+}

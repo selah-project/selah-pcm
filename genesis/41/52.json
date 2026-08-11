@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And ⟨את⟩ di name of di second one im call Efrayim, sey, 'Elohim don make me bear fruit for di land of my suffering.'",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second one"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "im call"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "don make me bear fruit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "of my suffering"
+    }
+  ],
+  "timestamp": "2026-08-11T15:43:01.340945769Z",
+  "model": "glm-5.2"
+}

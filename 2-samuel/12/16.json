@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And David beg ⟨את⟩ Elohim on behalf of di boy; and David keep fast, and e go inside, and e sleep di night, and e lie down for ground.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "and beg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "on behalf of"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "and keep fast"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fast"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and go inside"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "and sleep di night"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "and lie down"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "for ground"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:58.272912363Z",
+  "model": "glm-5.2"
+}

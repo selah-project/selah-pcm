@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And one man from ⟨di⟩ house of Levi go, and e take ⟨את⟩ daughter of Levi ⟨as wife⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house of"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daughter of Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:13.040758883Z",
+  "model": "glm-5.2"
+}

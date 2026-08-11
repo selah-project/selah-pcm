@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And as dem enta Shomron, Elisha talk sey, Yahweh, open ⟨את⟩ di eye of dis dem, make dem see. And Yahweh open ⟨את⟩ dia eye, and dem see, and sey make una see — na for inside Shomron dem dey.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "as dem enta"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di eye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "eye"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "of dis"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "make dem see"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "and e open"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia eye"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dia eye"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and dem see"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and sey make una see"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:25.261733648Z",
+  "model": "glm-5.2"
+}

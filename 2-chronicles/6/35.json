@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "then make you hear from di heaven ⟨את⟩ dia prayer and ⟨את⟩ dia pleading, and make you do dia judgment.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "make you hear"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia prayer"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "dia prayer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia pleading"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "dia pleading"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and make you do"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dia judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T14:06:03.642900896Z",
+  "model": "glm-5.2"
+}

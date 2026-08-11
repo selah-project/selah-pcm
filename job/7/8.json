@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Di eye of my beholder no go look me again; your eyes ⟨dey⟩ upon me, and I no dey again.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "go look me"
+    },
+    {
+      "surface": "עין",
+      "gloss": "di eye"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "of my beholder"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "your eyes"
+    },
+    {
+      "surface": "בי",
+      "gloss": "upon me"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "and I no dey again"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:50.912499004Z",
+  "model": "glm-5.2"
+}

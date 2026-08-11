@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Woe unto dem wey dey decree decree of wickedness, and unto di writers wey dem don write trouble!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Woe"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "unto dem wey dey decree"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "decree"
+    },
+    {
+      "surface": "און",
+      "gloss": "of wickedness"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "and unto di writers"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "wey dem don write"
+    }
+  ],
+  "timestamp": "2026-08-11T16:15:30.169363448Z",
+  "model": "glm-5.2"
+}

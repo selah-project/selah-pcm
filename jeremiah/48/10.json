@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Cursed ⟨be⟩ person wey dey do Yahweh work wit slack hand, and cursed ⟨be⟩ person wey dey hold im sword back from blood.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "work"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wit slack hand"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "and cursed"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "wey dey hold back"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "im sword"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "from blood"
+    }
+  ],
+  "timestamp": "2026-08-11T11:57:47.020466944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Land wey you no go chop bread inside am with poverty, you no go lack anyting inside am; land wey ⟨im⟩ stones ⟨be⟩ iron, and from ⟨im⟩ mountains you go mine copper.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "with poverty"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "you go chop"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "you go lack"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anyting"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "im stones"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "and from im mountains"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "you go mine"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:08.169842397Z",
+  "model": "glm-5.2"
+}

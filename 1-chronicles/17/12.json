@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Na im go build ɔz fɔ Me, and I go establish ⟨את⟩ im throne till ɛva.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "go build"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fɔ Me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɔz"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "and I go establish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im throne"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "im throne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ɛva"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:45.846813135Z",
+  "model": "glm-5.2"
+}

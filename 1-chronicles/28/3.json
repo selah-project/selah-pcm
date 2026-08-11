@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "But Elohim talk to me say, 'You no go build house for My name, because you ⟨be⟩ man of wars and you bin shed blood.'",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "But Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "say, no"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "you go build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for My name"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "of wars"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you ⟨be⟩"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "and blood"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "you bin shed"
+    }
+  ],
+  "timestamp": "2026-08-11T15:07:54.164716435Z",
+  "model": "glm-5.2"
+}

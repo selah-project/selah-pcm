@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 138,
+  "translation": "And dem go sing for di ways of Yahweh, because di glory of Yahweh ⟨be⟩ great.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "and dem go sing"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "for di ways of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:57.053951724Z",
+  "model": "glm-5.2"
+}

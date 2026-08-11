@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Now as dem dey sit down for di table, word of Yahweh come meet ⟨את⟩ di prophet wey bring am back.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Now as"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dey sit down"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "come meet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "di prophet"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "bring am back"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:55.424865274Z",
+  "model": "glm-5.2"
+}

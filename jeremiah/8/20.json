@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Harvest don pass, summer don finish, and we — dem neva save us.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "don pass"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "Harvest"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "summer"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "and we"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "dem save us"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:19.950411649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Judge di weak person and orphan; ⟨give⟩ justice to di poor person and di person wey no get.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "judge"
+    },
+    {
+      "surface": "דל",
+      "gloss": "di weak person"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "and orphan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "to di poor person"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "and di person wey no get"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "⟨give⟩ justice"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:26.174404992Z",
+  "model": "glm-5.2"
+}

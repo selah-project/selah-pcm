@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And di people carry ⟨את⟩ dia dough before e ferment, dia kneading-bowls tie inside dia cloths on top dia shoulders.",
+  "tokens": [
+    {
+      "surface": "וַיִּשָּׂא",
+      "gloss": "and dem carry"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia dough"
+    },
+    {
+      "surface": "בְּצֵקוֹ",
+      "gloss": "dia dough"
+    },
+    {
+      "surface": "טֶרֶם",
+      "gloss": "before"
+    },
+    {
+      "surface": "יֶחְמָץ",
+      "gloss": "e ferment"
+    },
+    {
+      "surface": "מִשְׁאֲרֹתָם",
+      "gloss": "dia kneading-bowls"
+    },
+    {
+      "surface": "צְרֻרֹת",
+      "gloss": "tie"
+    },
+    {
+      "surface": "בְּשִׂמְלֹתָם",
+      "gloss": "inside dia cloths"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שִׁכְמָם",
+      "gloss": "dia shoulders"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:00.190971005Z",
+  "model": "glm-5.2"
+}

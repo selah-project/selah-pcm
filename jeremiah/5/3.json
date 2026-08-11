@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Yahweh, ⟨your⟩ eye-dem, no be to faithfulness ⟨dem dey look⟩? You strike ⟨את⟩ dem and dem no grieve; You finish dem, dem refuse to take correction; Dem make dia face-dem hard pass rock, dem refuse to turn back.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "⟨your⟩ eye-dem"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "to faithfulness"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "You strike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨dem⟩ no"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "grieve"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "You finish dem"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "dem refuse"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "to take"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "correction"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "Dem make hard"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dia face-dem"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "pass rock"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "dem refuse"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "to turn back"
+    }
+  ],
+  "timestamp": "2026-08-11T11:42:53.397674953Z",
+  "model": "glm-5.2"
+}

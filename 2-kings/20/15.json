@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨im⟩ bin talk say, \"Wetin dem see inside your house?\" And Chizkiyahu bin talk say, \"Dem see ⟨את⟩ all wetin dey inside my house — no ting bin dey wey I no show dem for my storehouses.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dem see"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "inside your house"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "dey inside my house"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dem see"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "I show dem"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "for my storehouses"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:56.974113149Z",
+  "model": "glm-5.2"
+}

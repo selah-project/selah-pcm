@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Land of Refaim dem ⟨na⟩ ⟨im⟩ too dey count as; Refaim dem bin dey live inside am before, and di Ammonites dem dey call dem Zamzumim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Land of"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim dem"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "dey count as"
+    },
+    {
+      "surface": "אף",
+      "gloss": "too"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim dem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bin dey live"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "before"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "and di Ammonites dem"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "dey call"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Zamzumim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:59.486110267Z",
+  "model": "glm-5.2"
+}

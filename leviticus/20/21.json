@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨if⟩ a man wey go take ⟨את⟩ di wife of im brother — ⟨na⟩ impurity ⟨e be⟩; nakedness of im brother im don expose; childless dem go be.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "And man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wife of im brother"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife of"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "impurity"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakedness of"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "im don expose"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "childless"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:49.295443520Z",
+  "model": "glm-5.2"
+}

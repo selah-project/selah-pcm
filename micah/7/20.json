@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "You go give truth to Ya'akov, chesed to Avraham, wey You swear to we papa dem from day of old.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "You go give"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Ya'akov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "to Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "You swear"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "to we papa dem"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "from day"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "of old"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:33.320404341Z",
+  "model": "glm-5.2"
+}

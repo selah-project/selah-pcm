@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So Dawid talk to Yo'av and to di chief dem of di people, sey: Una go, count ⟨את⟩ Yisra'el, from Be'er-Sheva reach Dan; and bring am come to me, make I sabi ⟨את⟩ dia number.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'av"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chief dem of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "una go"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "count"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "from Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "and bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "make I sabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia number"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "dia number"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:50.904529597Z",
+  "model": "glm-5.2"
+}

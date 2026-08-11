@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "I carry im shoulder comot from ⟨di⟩ load, im two hand dem pass out from di basket.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "I carry comot"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "from di load"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "im shoulder"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "im two hand dem"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "from di basket"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "dem pass out"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:11.139273068Z",
+  "model": "glm-5.2"
+}

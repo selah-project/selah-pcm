@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "then your elders and your judges go come out, and dem go measure go di cities wey dey surround di person wey dem kill —",
+  "tokens": [
+    {
+      "surface": "וְיָצְא֥וּ",
+      "gloss": "go come out"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "your elders"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֑יךָ",
+      "gloss": "and your judges"
+    },
+    {
+      "surface": "וּמָדְדוּ֙",
+      "gloss": "dem go measure"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "סְבִיבֹ֥ת",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "הֶחָלָֽל",
+      "gloss": "di person wey dem kill"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:33.003082912Z",
+  "model": "glm-5.2"
+}

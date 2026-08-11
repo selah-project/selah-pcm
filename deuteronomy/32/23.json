@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "I go heap evils on top dem; my arrows I go finish inside dem.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "I go heap"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "evils"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "my arrows"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "I go finish"
+    },
+    {
+      "surface": "בם",
+      "gloss": "inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:13.833195115Z",
+  "model": "glm-5.2"
+}

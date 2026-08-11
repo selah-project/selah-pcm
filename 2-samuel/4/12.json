@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Then Dawud command ⟨את⟩ di young men, and dem kill dem, and dem cut off ⟨את⟩ dia hands and ⟨את⟩ dia feet, and hang dem for di pool for Chevron. And ⟨את⟩ di head of Ish-Boshet dem take, and dem bury am for di grave of Avner for Chevron.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "then command"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young men"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "di young men"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "and dem kill dem"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "and dem cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hands"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hands"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia feet"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dia feet"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "and hang"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "di pool"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "for Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di head of Ish-Boshet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "and dem bury am"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "for di grave"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "of Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "for Chevron"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:30.791654217Z",
+  "model": "glm-5.2"
+}

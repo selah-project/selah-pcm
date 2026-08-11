@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Make I sing now for my beloved, song of my lover about im vineyard. Vineyard bin dey for my beloved for ⟨di⟩ horn, for son of oil.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Make I sing"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "for my beloved"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "song of"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "about im vineyard"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "Vineyard"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "for my beloved"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "for horn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:00.331229628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Water flow over my head; I talk say, ⟨na⟩ dem don cut me off.",
+  "tokens": [
+    {
+      "surface": "צָֽפוּ",
+      "gloss": "flow over"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "water"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רֹאשִׁ֖י",
+      "gloss": "my head"
+    },
+    {
+      "surface": "אָמַ֥רְתִּי",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "נִגְזָֽרְתִּי",
+      "gloss": "dem don cut me off"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:45.757059619Z",
+  "model": "glm-5.2"
+}

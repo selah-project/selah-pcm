@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 22:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Yitschak bin talk to Avraham im papa, and bin talk, \"My papa.\" And ⟨he⟩ bin talk, \"Here I dey, my son.\" And ⟨he⟩ bin talk, \"See di fire and di wood, but where ⟨is⟩ di sheep for burnt offering?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    },
+    {
+      "surface": "והעצים",
+      "gloss": "and di wood"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "but where"
+    },
+    {
+      "surface": "השה",
+      "gloss": "di sheep"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "for burnt offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:32.083610840Z",
+  "model": "glm-5.2"
+}

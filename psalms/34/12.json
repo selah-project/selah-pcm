@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Come, una children, hear me; fear of Yahweh I go teach una.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Come"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "una children"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "fear of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "I go teach una"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:39.777087752Z",
+  "model": "glm-5.2"
+}

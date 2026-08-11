@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "When you dey go out to war against your enemies, and Yahweh your Elohim don give dem ⟨enter⟩ your hand, and you don carry captive dem captive—",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "you dey go out"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "to war"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "and don give dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨enter⟩ your hand"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "and you don carry captive"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "dem captive"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:55.411191354Z",
+  "model": "glm-5.2"
+}

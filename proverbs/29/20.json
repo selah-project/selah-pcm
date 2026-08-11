@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "You don see man wey dey hurry wit im words? Hope dey for fool pass am.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "You don see"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "wey dey hurry"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "wit im words"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "hope dey"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "for fool"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pass am"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.788054746Z",
+  "model": "claude-opus-4-8"
+}

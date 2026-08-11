@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Vineyards you go plant and work, but wine you no go drink and you no go store, because di worm go chop am.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "vineyards"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "you go plant"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "and work"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "but wine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "you go drink"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "you go store"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "go chop am"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "di worm"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:37.932914499Z",
+  "model": "glm-5.2"
+}

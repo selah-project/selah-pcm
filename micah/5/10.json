@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go cut off di city-dem of your land, and I go pull down all your stronghold-dem.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "city-dem of"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "your land"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "and I go pull down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "your stronghold-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:32.606522153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And ⟨di⟩ sons of Naphtali ⟨na⟩: Yachtse'el, and Guni, and Yezer, and Shillem.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and sons of"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Yachtse'el"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "and Guni"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "and Yezer"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "and Shillem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:13.938488473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Im bin clear road for im anger; im no hold back dia life-force from death, and im bin hand over dia vitality to di pestilence.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Im bin clear"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "road"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "for im anger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "im hold back"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "from death"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "dia life-force"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "and dia vitality"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to di pestilence"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "im bin hand over"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.678079795Z",
+  "model": "glm-5.2"
+}

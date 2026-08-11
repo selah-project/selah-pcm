@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "⟨Di⟩ knowledge too wonderful, e pass me; e high well-well, I no fit reach am.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "wonderful"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pass me"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "e high"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "I fit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "reach am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:31.014930905Z",
+  "model": "glm-5.2"
+}

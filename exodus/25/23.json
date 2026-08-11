@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go make ⟨a⟩ table of wood of shitim, two cubit ⟨be⟩ im length, and one cubit ⟨be⟩ im width, and one cubit and half ⟨be⟩ im height.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "table"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "of wood"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "of shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "two cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "im height"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:29.635019710Z",
+  "model": "glm-5.2"
+}

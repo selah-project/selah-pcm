@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So Shelomo bin try to kill ⟨את⟩ Yarovam, and Yarovam bin stand up and bin run go Mitsrayim, to Shishak wey be king of Mitsrayim, and e bin dey for Mitsrayim until di death of Shelomo.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "bin try"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "to kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "and bin run"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "go Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin dey"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di death"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "of Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:43.666621600Z",
+  "model": "glm-5.2"
+}

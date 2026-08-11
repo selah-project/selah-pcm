@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "For Yahweh go hide me for im booth for di day of evil, e go hide me for di secret place of im tent, on top rock e go raise me high.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "e go hide me"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "for im booth"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "of evil"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "e go hide me"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "for di secret place"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "of im tent"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "on top rock"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "e go raise me high"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:44.545830210Z",
+  "model": "glm-5.2"
+}

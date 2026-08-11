@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di king bin answer and bin talk sey, \"Give am ⟨את⟩ di born pikin wey dey alive, and di dead one, no make am die — na she be im mama.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and bin answer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "give"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di born pikin"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "di born pikin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wey dey alive"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "and di dead one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "make am die"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na she"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:11.235259332Z",
+  "model": "glm-5.2"
+}

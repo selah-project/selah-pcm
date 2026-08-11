@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Yahweh bin talk to am, wetin ⟨be⟩ dis for your hand? And ⟨im⟩ talk sey, ⟨na⟩ staff.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wetin dis"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staff"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:25.885986575Z",
+  "model": "glm-5.2"
+}

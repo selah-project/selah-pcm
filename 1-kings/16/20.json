@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 16:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di rest of Zimri matter dem, and im conspiracy wey e conspire, no be so dem write am for di book of di matter dem of di day dem for di king dem of Yisra'el?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "and di rest"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "of matter"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "and im conspiracy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "e conspire"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "no be so"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "dem write"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "di book"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "of di matter"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "of di day"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "for di king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:59.158796352Z",
+  "model": "glm-5.2"
+}

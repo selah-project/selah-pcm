@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make e finish, ⟨na⟩ so, ⟨di⟩ evil of wicked people-dem, and make you establish di righteous; and Elohim wey dey test hearts and kidneys ⟨na⟩ righteous ⟨One⟩.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "make e finish"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩ so"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨di⟩ evil"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people-dem"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "and make you establish"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "and wey dey test"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hearts"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "and kidneys"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous ⟨One⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:04.470373313Z",
+  "model": "glm-5.2"
+}

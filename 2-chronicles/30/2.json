@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "So di king take counsel wit im chief dem and all di assembly for Yerushalayim, to do ⟨di⟩ Pesach for ⟨di⟩ second month.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "so e take counsel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "and im chief dem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨di⟩ Pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for ⟨di⟩ month"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:29.804271935Z",
+  "model": "glm-5.2"
+}

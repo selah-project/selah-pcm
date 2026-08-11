@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e talk sey, Throw am down. So dem throw am down, and ⟨some⟩ of ⟨im⟩ blood bin sprinkle on di wall and on di horses, and e trample am underfoot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "throw am down"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "so dem throw am down"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "and ⟨some⟩ bin sprinkle"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "of ⟨im⟩ blood"
+    },
+    {
+      "surface": "אל",
+      "gloss": "on"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and on"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "di horses"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "and e trample am underfoot"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:50.694401179Z",
+  "model": "glm-5.2"
+}

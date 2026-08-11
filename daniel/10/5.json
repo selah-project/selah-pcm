@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And I lift up ⟨את⟩ my eyes and I look, and behold, one man dressed for linen, and his waist dey gird with gold of Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "and I lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my eyes"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "and I look"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "dressed"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "linen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "and his waist"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "gird"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "with gold of"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-11T13:43:43.605101451Z",
+  "model": "glm-5.2"
+}

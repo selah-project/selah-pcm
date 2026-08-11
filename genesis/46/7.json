@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Im son-dem, and im son-dem im son-dem ⟨את⟩ am, im daughter-dem, and im son-dem im daughter-dem, and all im seed — ⟨im⟩ bring ⟨את⟩ am inside Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "im son-dem"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and (im) son-dem"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son-dem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "im daughter-dem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "and (im) son-dem"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son-dem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "(im) bring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:20.283234214Z",
+  "model": "glm-5.2"
+}

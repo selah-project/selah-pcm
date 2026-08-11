@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So I go send fire inside di wall of Azzah, and e go chop im palaces.",
+  "tokens": [
+    {
+      "surface": "וְשִׁלַּ֥חְתִּי",
+      "gloss": "So I go send"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בְּחוֹמַ֣ת",
+      "gloss": "inside di wall"
+    },
+    {
+      "surface": "עַזָּ֑ה",
+      "gloss": "of Azzah"
+    },
+    {
+      "surface": "וְאָכְלָ֖ה",
+      "gloss": "and e go chop"
+    },
+    {
+      "surface": "אַרְמְנֹתֶֽיהָ",
+      "gloss": "im palaces"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:54.876166473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Hadadezer bin send, and bring out ⟨את⟩ Aram wey dey beyond di river, and dem come enter Chelam; and Shovach, commander of Hadadezer im army, dey for dia front.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dey beyond"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "di river"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "enter Chelam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "and Shovach"
+    },
+    {
+      "surface": "שר",
+      "gloss": "commander"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "of army"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "of Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "for dia front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:12.942113018Z",
+  "model": "glm-5.2"
+}

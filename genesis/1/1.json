@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "For di beginning, Elohim bin create ⟨את⟩ ⟨di⟩ heaven and ⟨את⟩ ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "for di beginning"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bin create"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨di⟩ heaven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "⟨di⟩ earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:06.217964728Z",
+  "model": "glm-5.2"
+}

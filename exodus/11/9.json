@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yahweh bin tell Mosheh, \"Paroh no go hear una, so dat My wonders go plenti for inside di land of Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "go hear"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "go plenti"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "My wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for inside di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:25.268503374Z",
+  "model": "glm-5.2"
+}

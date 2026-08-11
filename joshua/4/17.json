@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Yehoshua command ⟨את⟩ di priests, sey, make una comot from di Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di priests"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "make una comot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:02.368786297Z",
+  "model": "glm-5.2"
+}

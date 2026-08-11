@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "But my chesed no go comot from am, as I comot am from Sha'ul, wey I remove from your front.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "but my chesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "go comot"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "I comot am"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "I remove"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "from your front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:05.956656889Z",
+  "model": "glm-5.2"
+}

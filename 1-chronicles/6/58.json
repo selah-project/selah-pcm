@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and ⟨את⟩ Ramoth and ⟨את⟩ im grazing-land, ⟨את⟩ Anem and ⟨את⟩ im grazing-land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:10.303733805Z",
+  "model": "glm-5.2"
+}

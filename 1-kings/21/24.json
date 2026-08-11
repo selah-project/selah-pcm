@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Di one wey die for Ahab for inside city, dogs go chop am; and di one wey die for inside field, bird of di heaven go chop am.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "di one wey die"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "for Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for inside city"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dogs"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "and di one wey die"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for inside field"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "bird"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of di heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:55.690577508Z",
+  "model": "glm-5.2"
+}

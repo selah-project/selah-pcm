@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Yahweh ⟨be⟩ King forever and ever; ⟨di⟩ nations don perish from ⟨Him⟩ land!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨be⟩ King"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and ever"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨di⟩ nations"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "from ⟨Him⟩ land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:46.767928060Z",
+  "model": "glm-5.2"
+}

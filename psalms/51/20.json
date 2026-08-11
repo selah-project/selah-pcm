@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Do good in your good pleasure ⟨to⟩ ⟨את⟩ Zion; build di walls of Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הֵיטִ֣יבָה",
+      "gloss": "do good"
+    },
+    {
+      "surface": "בִ֭רְצוֹנְךָ",
+      "gloss": "in your good pleasure"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Zion"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "תִּ֝בְנֶ֗ה",
+      "gloss": "build"
+    },
+    {
+      "surface": "חוֹמ֥וֹת",
+      "gloss": "walls"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:45.160286526Z",
+  "model": "glm-5.2"
+}

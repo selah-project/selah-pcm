@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And all di elders and all di people talk to am, \"No listen, and no gree.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "di elders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "listen"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "gree"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:16.908599485Z",
+  "model": "glm-5.2"
+}

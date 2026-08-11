@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And e set up ⟨את⟩ di altar of Yahweh, and e sacrifice on top am sacrifice of peace-offering and thanksgiving, and e tell Yehudah make dem serve ⟨את⟩ Yahweh, Elohim of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "and e set up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "and e sacrifice"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifice of"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "peace-offering"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "and thanksgiving"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "make dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:49.517265960Z",
+  "model": "glm-5.2"
+}

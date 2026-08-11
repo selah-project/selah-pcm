@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "E bin talk give dem, sey una know ⟨את⟩ Lavan, pikin wey im name na Nachor? Dem come talk sey, we know am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e bin talk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "give dem"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "sey una know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dem come talk"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "we know am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:05.130134460Z",
+  "model": "glm-5.2"
+}

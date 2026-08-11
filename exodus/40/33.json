@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And im bin set up ⟨את⟩ di courtyard around di tabernacle and di altar, and im bin put ⟨את⟩ di curtain of di gate of di courtyard; and Moshe bin finish ⟨את⟩ di work.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֣קֶם",
+      "gloss": "and im bin set up"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di courtyard"
+    },
+    {
+      "surface": "הֶחָצֵ֗ר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "סָבִיב֙",
+      "gloss": "around"
+    },
+    {
+      "surface": "לַמִּשְׁכָּ֣ן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "וְלַמִּזְבֵּ֔חַ",
+      "gloss": "and di altar"
+    },
+    {
+      "surface": "וַיִּתֵּ֕ן",
+      "gloss": "and im bin put"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di curtain"
+    },
+    {
+      "surface": "מָסַ֖ךְ",
+      "gloss": "di curtain"
+    },
+    {
+      "surface": "שַׁ֣עַר",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "הֶחָצֵ֑ר",
+      "gloss": "of di courtyard"
+    },
+    {
+      "surface": "וַיְכַ֥ל",
+      "gloss": "and bin finish"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "הַמְּלָאכָֽה",
+      "gloss": "di work"
+    }
+  ],
+  "timestamp": "2026-08-11T15:49:12.504215444Z",
+  "model": "glm-5.2"
+}

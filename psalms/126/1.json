@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 126,
+  "translation": "Song of di go-up. Wen Yahweh bring back ⟨את⟩ di return of Tsiyon, we bin be like people wey dey dream.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "of di go-up"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Wen ... bring back"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di return of Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "di return"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "of Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "we bin be"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "like people wey dey dream"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:35.488204825Z",
+  "model": "glm-5.2"
+}

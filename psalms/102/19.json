@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Dis one go be written for di last generation, and ⟨a⟩ people wey dem go create go praise Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "go be written"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dis one"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "for di generation"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "last"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and ⟨a⟩ people"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "wey dem go create"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "go praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:47.188260086Z",
+  "model": "glm-5.2"
+}

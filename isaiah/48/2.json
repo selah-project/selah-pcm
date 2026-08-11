@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "For dem dey call ⟨demself⟩ by ⟨di⟩ holy city, and dem dey lean on di Elohim of Yisra'el — Yahweh of hosts, ⟨na⟩ im name.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "by ⟨di⟩ city of"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "dem dey call"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "di Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "dem dey lean"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:47.064743933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "As for di heaven, heaven ⟨belong⟩ to Yahweh, but di earth ⟨im⟩ don give to pickin dem of human.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "As for di heaven"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "but di earth"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "don give"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to pickin dem of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "human"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:23.852552428Z",
+  "model": "glm-5.2"
+}

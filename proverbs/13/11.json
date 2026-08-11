@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Wealth wey come from nothing go shrink, but pesin wey dey gather little by little go increase am.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "wey come from nothing"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "go shrink"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "but pesin wey dey gather"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "go increase am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:58.883934463Z",
+  "model": "glm-5.2"
+}

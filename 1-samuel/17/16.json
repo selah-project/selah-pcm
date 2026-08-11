@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Pelishti-man bin dey come near, morning and evening, and bin dey stand im ground for forty days.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "and bin dey come near"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Pelishti-man"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "morning"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "and evening"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "and bin dey stand"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:15.698523461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 6:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di house, for im building, stone wey don complete, wey dem bring from quarry, na im dem build am; and hammer, and di axe, all iron tool, dem no hear am for di house for im building.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "and di house"
+    },
+    {
+      "surface": "בהבנתו",
+      "gloss": "for im building"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wey don complete"
+    },
+    {
+      "surface": "מסע",
+      "gloss": "wey dem bring from quarry"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "na im dem build am"
+    },
+    {
+      "surface": "ומקבות",
+      "gloss": "and hammer"
+    },
+    {
+      "surface": "והגרזן",
+      "gloss": "and di axe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tool"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "dem hear am"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "בהבנתו",
+      "gloss": "for im building"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:13.634861190Z",
+  "model": "glm-5.2"
+}

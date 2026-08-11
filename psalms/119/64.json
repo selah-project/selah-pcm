@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Your chesed, Yahweh, don fill ⟨di⟩ earth; your fixed law dem, teach me.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "don fill"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ earth"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "your fixed law dem"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "teach me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:21.173348104Z",
+  "model": "glm-5.2"
+}

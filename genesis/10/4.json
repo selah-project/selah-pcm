@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨di⟩ pikin-dem of Yavan: Elishah, and Tarshish, Kitim, and Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And ⟨di⟩ pikin-dem"
+    },
+    {
+      "surface": "יון",
+      "gloss": "of Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "and Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "and Dodanim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:49.738678306Z",
+  "model": "glm-5.2"
+}

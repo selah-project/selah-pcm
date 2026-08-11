@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Yosef talk to dem say, \"Na dis one be wetin I tell una say: 'Una be spies.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na dis one be"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I tell"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spies"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:10.963556458Z",
+  "model": "glm-5.2"
+}

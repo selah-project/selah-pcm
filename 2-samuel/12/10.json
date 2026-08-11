@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "So now, sword no go comot from your house till ⟨forever⟩, because you disesteem me and you take ⟨את⟩ di wife of Uriah di Hittite to be your wife.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "go comot"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "from your house"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "because"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "you disesteem me"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "and you take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wife"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "of Uriah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hittite"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "to be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "your"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "wife"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:57.686554713Z",
+  "model": "glm-5.2"
+}

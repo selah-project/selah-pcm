@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "for dat time, ⟨e for⟩ pass over our life — di water, di proud one dem!",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "for dat time"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨e for⟩ pass"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "our life"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "di proud one dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:36.109352772Z",
+  "model": "glm-5.2"
+}

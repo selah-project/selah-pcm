@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Night and day ⟨e⟩ no go quench; forever im smoke go dey rise; from generation to generation ⟨e⟩ go dey desolate; for eternity of eternities, nobody go pass through am.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "and day"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "go quench"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "go dey rise"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "im smoke"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "from generation"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "go dey desolate"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for eternity"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "of eternities"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nobody"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "go pass through"
+    },
+    {
+      "surface": "בה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:46.562618245Z",
+  "model": "glm-5.2"
+}

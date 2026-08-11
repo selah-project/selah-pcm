@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make you no quarrel with person for nothing, if ⟨e⟩ no do you evil.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "quarrel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "person"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "for nothing"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "⟨e⟩ do you"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "evil"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:42.466042527Z",
+  "model": "glm-5.2"
+}

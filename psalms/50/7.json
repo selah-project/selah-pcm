@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "Hear, my pipo, and I go speak; Yisrael, and I go bear witness against you: Elohim, your Elohim, na me.",
+  "tokens": [
+    {
+      "surface": "שִׁמְעָ֤ה",
+      "gloss": "Hear"
+    },
+    {
+      "surface": "עַמִּ֨י",
+      "gloss": "my pipo"
+    },
+    {
+      "surface": "וַאֲדַבֵּ֗רָה",
+      "gloss": "and I go speak"
+    },
+    {
+      "surface": "יִ֭שְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וְאָעִ֣ידָה",
+      "gloss": "and I go bear witness"
+    },
+    {
+      "surface": "בָּ֑ךְ",
+      "gloss": "against you"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהֶ֣יךָ",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "אָנֹֽכִי",
+      "gloss": "na me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:03.843841492Z",
+  "model": "glm-5.2"
+}

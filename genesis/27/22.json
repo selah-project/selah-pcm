@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Yaakob come near to Yitschak im papa, and im touch ⟨am⟩, and im talk, \"Di voice ⟨na⟩ voice of Yaakob, but di hand dem ⟨na⟩ hand of Esav.\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "and im come near"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "and im touch"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "but di hand dem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hand of"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:58.866435869Z",
+  "model": "glm-5.2"
+}

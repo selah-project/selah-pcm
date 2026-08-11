@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "Elohim, make you no far from me; my Elohim, quick come help me.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "far"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "come help me"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "quick"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:25.173506971Z",
+  "model": "glm-5.2"
+}

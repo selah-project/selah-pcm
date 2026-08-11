@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "Dat time, my enemies dem go turn back; for di day wey I go call, dis one I sabi — say Elohim ⟨be⟩ for me.",
+  "tokens": [
+    {
+      "surface": "אָ֥֨ז",
+      "gloss": "Dat time"
+    },
+    {
+      "surface": "יָ֘שׁ֤וּבוּ",
+      "gloss": "dem go turn back"
+    },
+    {
+      "surface": "אוֹיְבַ֣י",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "אָ֭חוֹר",
+      "gloss": "back"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "wey I go call"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "יָ֝דַ֗עְתִּי",
+      "gloss": "I sabi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:45.039141008Z",
+  "model": "glm-5.2"
+}

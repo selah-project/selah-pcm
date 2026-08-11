@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And im bin make im people to travel out like flock, and im bin guide dem like herd for di wilderness.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "And im bin make to travel out"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "and im bin guide dem"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "like herd"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.678320095Z",
+  "model": "glm-5.2"
+}

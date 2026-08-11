@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 125,
+  "translation": "But as for those wey dey turn aside go dia crooked ways, Yahweh go lead ⟨את⟩ dem wey dey do iniquity go — peace ⟨go dey⟩ upon Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "and those wey dey turn aside"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "dia crooked ways"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "go lead dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem wey dey do iniquity"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "האון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:46.167491093Z",
+  "model": "glm-5.2"
+}

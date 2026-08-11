@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Sarah die for Kiryat-Arba — dat one na Chevron — for di land of Kenaan; and Avraham bin come to mourn for Sarah and to cry for am.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "and ⟨she⟩ die"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "for Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat one ⟨na⟩"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "to mourn"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "for Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "and to cry for am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:44.280607306Z",
+  "model": "glm-5.2"
+}

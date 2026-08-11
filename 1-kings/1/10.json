@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But ⟨את⟩ Nathan di prophet, and Benaiah, and ⟨את⟩ di mighty men, and ⟨את⟩ Solomon im brother, e no call.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Nathan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "and Benaiah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di mighty men"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "di mighty men"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Solomon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "call"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:48.754418508Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di plan dem of righteous people ⟨na⟩ justice, but di scheming of wicked people ⟨na⟩ deceit.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "di plan dem"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "of righteous people"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "di scheming"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "deceit"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:03.779245014Z",
+  "model": "glm-5.2"
+}

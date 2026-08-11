@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e come to pass, wen dem come, sey im look ⟨את⟩ Eliav, and im talk sey, truly, before Yahweh ⟨na⟩ im Mashíaj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "wen dem come"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "im look"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "truly"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "im Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:21.223069245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And big cry go dey for di whole land of Mitsrayim, di kind wey never happen like am, and di kind wey go no happen like am again.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "and go dey"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "cry"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "big"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for di whole"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di kind wey"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "like am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "happen"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "and di kind wey like am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go no"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "happen again"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:31.082775699Z",
+  "model": "glm-5.2"
+}

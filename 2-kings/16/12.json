@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di king come from Damascus, and di king see ⟨את⟩ di altar, and di king draw near to di altar, and e go up on top am.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "from Damascus"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "and draw near"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:42.540523904Z",
+  "model": "glm-5.2"
+}

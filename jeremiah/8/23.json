@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Who go give my head ⟨to be⟩ water, and my eye fountain of tears, and I go cry day and night ⟨את⟩ di slain of daughter of my people?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "and my eye"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "fountain"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "of tears"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "and I go cry"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "day"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "and night"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di slain"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "di slain"
+    },
+    {
+      "surface": "בת",
+      "gloss": "of daughter"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:43:18.526225190Z",
+  "model": "glm-5.2"
+}

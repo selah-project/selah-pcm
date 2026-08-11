@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Your land ⟨na⟩ desolation; your cities, fire don burn dem; your soil, strangers dey chop ⟨את⟩ am for your front, and ⟨na⟩ desolation like overthrow of strangers.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "your land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "desolation"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "your cities"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "fire don burn dem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "your soil"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "for your front"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dey chop"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di soil)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "and desolation"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "like overthrow of"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:07.174814807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and ⟨את⟩ all wetin im do to di two kings of di Emori, wey dey across di Yarden—to Sichon, king of Cheshbon, and to Og, king of di Bashan, wey dey for Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im do"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "to di two"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "across"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "to Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "and to Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "di Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey for"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:21.808911440Z",
+  "model": "glm-5.2"
+}

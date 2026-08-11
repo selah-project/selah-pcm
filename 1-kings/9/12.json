@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Hiram komot from Tzor to go see ⟨את⟩ di town-dem wey Shelomoh give am, and dem no ⟨be⟩ straight for im eye-dem.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and komot"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "from Tzor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to go see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di town-dem"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "di town-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "⟨be⟩ straight"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im eye-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:47.591406006Z",
+  "model": "glm-5.2"
+}

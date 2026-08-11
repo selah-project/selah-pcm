@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "All ⟨di⟩ talk dem dey tired; nobody fit talk am finish; eye no dey satisfy to see, and ear no dey full from hearing.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨di⟩ talk dem"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "dey tired"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anybody"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "talk am finish"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "dey satisfy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to see"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dey full"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ear"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "from hearing"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:02.088281837Z",
+  "model": "glm-5.2"
+}

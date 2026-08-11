@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "And I go speak about ⟨di⟩ witness wey You give inside front of king-dem, and I no go shame.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "and I go speak"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "about ⟨di⟩ witness wey You give"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "inside front of"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "king-dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no go"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "shame"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:21.019381882Z",
+  "model": "glm-5.2"
+}

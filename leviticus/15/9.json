@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And any saddle wey di man wit discharge ride on top, e go dey unclean.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and any"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "di saddle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "e ride"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "di man wit discharge"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "e go dey unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:07.121455688Z",
+  "model": "glm-5.2"
+}

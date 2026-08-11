@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "I go spin round wit gladness and I go celebrate inside Your chesed, wey You see ⟨את⟩ my affliction; You know di trouble of my life-breath.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "I go spin round wit gladness"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "and I go celebrate"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "inside Your chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "You see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my affliction"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "my affliction"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "You know"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "di trouble"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "of my life-breath"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:13.532502877Z",
+  "model": "glm-5.2"
+}

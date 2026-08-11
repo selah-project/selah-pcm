@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Like dis Adonai Yahweh bin talk: I go make ⟨את⟩ di crowd of Mitsrayim stop, by di hand of Nevukhadretstsar, king of Bavel.",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "I go make stop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di crowd of Mitsrayim"
+    },
+    {
+      "surface": "הֲמ֣וֹן",
+      "gloss": "di crowd"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "by di hand"
+    },
+    {
+      "surface": "נְבוּכַדְרֶאצַּ֥ר",
+      "gloss": "Nevukhadretstsar"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "בָּבֶֽל",
+      "gloss": "of Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:16.495770878Z",
+  "model": "glm-5.2"
+}

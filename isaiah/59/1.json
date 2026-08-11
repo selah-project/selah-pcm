@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Look, di hand of Yahweh no bin short sey e no fit save, and im ear no bin heavy sey e no fit hear.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Look"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "bin short"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "sey e no fit save"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "bin heavy"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "im ear"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sey e no fit hear"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:14.372208794Z",
+  "model": "glm-5.2"
+}

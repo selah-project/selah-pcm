@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Like hired worker, like stranger e go stay wit you; until year of Jubilee e go work wit you.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "like hired worker"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "like stranger"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e go stay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year of"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Jubilee"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "e go work"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:39.559073237Z",
+  "model": "glm-5.2"
+}

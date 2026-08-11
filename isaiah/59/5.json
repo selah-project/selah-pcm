@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Dem dey hatch egg of viper, and dem dey weave web of spider; anybody wey chop from dia egg go die, and di one wey break am open, viper go burst out.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "egg"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "of viper"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "dem dey hatch"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "and web"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "of spider"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "dem dey weave"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "di one wey chop"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "from dia egg"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "go die"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "and di one wey break am open"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "go burst open"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "viper"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:05.203180509Z",
+  "model": "glm-5.2"
+}

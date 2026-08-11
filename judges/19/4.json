@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And im father-in-law, di papa of di young woman, hold am tight; and e siddon with ⟨את⟩ am three days; and dem chop and dem drink and dem sleep there.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "and e hold am tight"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "im father-in-law"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "di papa of"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "di young woman"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and e siddon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "and dem chop"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "and dem drink"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "and dem sleep"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    }
+  ],
+  "timestamp": "2026-08-11T10:34:16.881856243Z",
+  "model": "glm-5.2"
+}

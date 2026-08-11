@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "to bind im princes wit ⟨im⟩ life-force, and im elders ⟨e⟩ go make wise.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "to bind"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "im princes"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "wit ⟨im⟩ life-force"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "and im elders"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "⟨e⟩ go make wise"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:30.685080858Z",
+  "model": "glm-5.2"
+}

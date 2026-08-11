@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "On top dia hands dem go carry you, make your foot no jam stone.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "On top"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "hands"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "dem go carry you"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make...no"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "jam"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "your foot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:03.210195038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 99,
+  "translation": "Make high Yahweh we Elohim, and bow down to ⟨im⟩ holy mountain, because holy ⟨na⟩ Yahweh we Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "make high"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "we Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "להר",
+      "gloss": "to mountain"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨im⟩ holy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "we Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:04.863776021Z",
+  "model": "glm-5.2"
+}

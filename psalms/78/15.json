@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "E bin split rocks for wilderness, and e give dem drink like deep wey plenty.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "e bin split"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "rocks"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and e give drink"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "like deep"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wey plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:55.664081689Z",
+  "model": "glm-5.2"
+}

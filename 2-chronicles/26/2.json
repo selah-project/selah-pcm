@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "⟨Na⟩ im build ⟨את⟩ Eylot, and im return am to Yehudah, after di king lie down with im papa-dem.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "and im return am"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "to Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:22.246456826Z",
+  "model": "glm-5.2"
+}

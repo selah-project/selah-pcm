@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and you go strike ⟨את⟩ di house of Achav wey be your master, and I go avenge di blood of ⟨my⟩ servant dem, di prophet dem, and di blood of all servant dem of Yahweh, from hand of Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "and you go strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "of Achav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wey be your master"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "and I go avenge"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "of ⟨my⟩ servant dem"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di prophet dem"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "and di blood"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servant dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "of Izevel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:57.055317364Z",
+  "model": "glm-5.2"
+}

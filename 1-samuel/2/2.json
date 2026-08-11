@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "No bodi ⟨dey⟩ hollike Yahweh, because no bodi dey except you, and no rok dey like our Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "no bodi ⟨dey⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hol"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "like Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no bodi dey"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "except you"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rok"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "like our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:50.394208260Z",
+  "model": "glm-5.2"
+}

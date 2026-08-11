@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And dem bin travel from Mount Hor, through di road of Yam Suf, to go round ⟨את⟩ land of Edom; and ⟨di⟩ nepeš of di people bin cut short for di road.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bin travel"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "from Mount"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "through di road"
+    },
+    {
+      "surface": "ים",
+      "gloss": "of Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "to go round"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land of Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "of Edom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "bin cut short"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nepeš"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:32.937416237Z",
+  "model": "glm-5.2"
+}

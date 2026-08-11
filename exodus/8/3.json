@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di magicians bin do di same tin wit dia secret arts, and bin bring up ⟨את⟩ di frogs on top di land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and bin do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "di same tin"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "di magicians"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "wit dia secret arts"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "and bin bring up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di frogs"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "di frogs"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:41.270169272Z",
+  "model": "glm-5.2"
+}

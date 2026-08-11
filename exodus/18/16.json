@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Anytime wey dem get matta, dem dey come to me, and I dey judge between one man and im fellow, and I dey make ⟨את⟩ di law-dem of Elohim known, and ⟨את⟩ im teaching-dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "anytime wey"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dem get"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨for dem⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dem dey come"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "and I dey judge"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im fellow"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "and I dey make known"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di law-dem of Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "di law-dem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im teaching-dem"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "im teaching-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:20.899649768Z",
+  "model": "glm-5.2"
+}

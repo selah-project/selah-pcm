@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Make Elohim rise, make im enemies scatter, make dem too wey hate am run comot from im front.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "make ⟨im⟩ rise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "make ⟨dem⟩ scatter"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "make ⟨dem⟩ run comot"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "dem wey hate am"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "from im front"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:08.045231182Z",
+  "model": "glm-5.2"
+}

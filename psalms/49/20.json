@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "E go reach di generation of im papa-dem; till forever dem no go see light.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "e go reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "דור",
+      "gloss": "di generation"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "of im papa-dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "go see"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:08.872607910Z",
+  "model": "glm-5.2"
+}

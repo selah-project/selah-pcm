@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Also, Your testimonies ⟨na⟩ my delight, di men of my counsel.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Also"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Your testimonies"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "my delight"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "of my counsel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:06.864571288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Only, for your days I no go do am, for sake of David your papa; from hand of your son I go tear am.'",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "only"
+    },
+    {
+      "surface": "בְּיָמֶ֨יךָ֙",
+      "gloss": "for your days"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "אֶעֱשֶׂ֔נָּה",
+      "gloss": "I go do am"
+    },
+    {
+      "surface": "לְמַ֖עַן",
+      "gloss": "for sake of"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "בִּנְךָ֖",
+      "gloss": "your son"
+    },
+    {
+      "surface": "אֶקְרָעֶֽנָּה",
+      "gloss": "I go tear am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:16.007790993Z",
+  "model": "glm-5.2"
+}

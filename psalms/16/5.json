@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Yahweh, ⟨na⟩ ⟨im⟩ share wey dem measure give me, and ⟨na⟩ ⟨im⟩ cup; na You dey hold my lot make e no fall.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "share wey dem measure give"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "my portion"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "and my cup"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "You dey hold make e no fall"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "my lot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:30.231055434Z",
+  "model": "glm-5.2"
+}

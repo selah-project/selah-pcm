@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "Fool bin talk for im heart, 'No Elohim.' Dem don corrupt, and dem don do abominable wickedness; nobody dey do good.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "for im heart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "dem don corrupt"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "and dem don do abominable"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nobody"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:16.558082798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And dem cross ⟨את⟩ di Yarden, and dem camp for Aroer, for di right side of di city wey dey inside di wadi of Gad, and unto Yazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "and dem cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "for Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right side"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "di wadi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "of Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:07.688800404Z",
+  "model": "glm-5.2"
+}

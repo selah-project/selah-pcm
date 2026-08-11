@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Abi dem go tell am sey I wan talk? If man talk, abi dem go swallow am?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "abi dem go tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "I wan talk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "abi dem go"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "swallow am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:52.729129196Z",
+  "model": "glm-5.2"
+}

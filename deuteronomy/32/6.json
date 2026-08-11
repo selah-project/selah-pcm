@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Na so una dey repay Yahweh? ⟨be⟩ people wey dey foolish and wey no ⟨be⟩ wise? No be ⟨be⟩ Him ⟨be⟩ una Papa, wey get ⟨את⟩ una? Na Him make ⟨את⟩ una and establish ⟨את⟩ una.",
+  "tokens": [
+    {
+      "surface": "הֲ",
+      "gloss": "⟨question⟩"
+    },
+    {
+      "surface": "לַיְהוָה֙",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "תִּגְמְלוּ",
+      "gloss": "una dey repay"
+    },
+    {
+      "surface": "זֹ֔את",
+      "gloss": "so"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "people"
+    },
+    {
+      "surface": "נָבָ֖ל",
+      "gloss": "wey dey foolish"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "חָכָ֑ם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "Him"
+    },
+    {
+      "surface": "אָבִ֣יךָ",
+      "gloss": "una Papa"
+    },
+    {
+      "surface": "קָּנֶ֔ךָ",
+      "gloss": "wey get"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "Na Him"
+    },
+    {
+      "surface": "עָֽשְׂךָ֖",
+      "gloss": "make"
+    },
+    {
+      "surface": "וַֽיְכֹנְנֶֽךָ",
+      "gloss": "and establish"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:56.082776624Z",
+  "model": "glm-5.2"
+}

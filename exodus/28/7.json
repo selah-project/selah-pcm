@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Two shoulder-pieces joined together e go be for am, ⟨reaching⟩ to im two ends; and ⟨e⟩ go join ⟨together⟩.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "shoulder-pieces"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "joined"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e go be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "im ends"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "and ⟨e⟩ go join"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:23.236109181Z",
+  "model": "glm-5.2"
+}

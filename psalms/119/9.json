@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Wetin go make young man clear ⟨את⟩ im road? Make im keep am according to Your word.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "go clear"
+    },
+    {
+      "surface": "נער",
+      "gloss": "young man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im road"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "im road"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "make im keep"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "according to Your word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:07.967119051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨את⟩ di shafan, because im dey bring up cud, but im no dey split hoof — im dey unclean for una.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "di shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "im dey bring up"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "but hoof"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "im dey split"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:48.865872404Z",
+  "model": "glm-5.2"
+}

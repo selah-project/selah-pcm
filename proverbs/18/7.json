@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Mouth of fool na im ruin, and im lips na trap for im life.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mouth of"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ruin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨na⟩ im"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "and im lips"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "trap"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "for im life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:51.325079589Z",
+  "model": "glm-5.2"
+}

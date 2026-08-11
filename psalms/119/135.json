@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make yu face shine upon yu servant, and teach me ⟨את⟩ yu statutes.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "yu face"
+    },
+    {
+      "surface": "האר",
+      "gloss": "make shine"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "upon yu servant"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "and teach me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yu statutes"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "yu statutes"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:14.800291985Z",
+  "model": "glm-5.2"
+}

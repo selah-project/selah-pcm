@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Ah, Yahweh! For I ⟨be⟩ your servant, I ⟨be⟩ your servant, son of your female servant; you don open my bonds.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "of your female servant"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "you don open"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "my bonds"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:40.930840463Z",
+  "model": "glm-5.2"
+}

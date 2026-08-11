@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Beside ⟨di⟩ gate dem, for mouth of city, for entrance of opening dem, ⟨she⟩ dey cry loud.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "beside"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "⟨di⟩ gate dem"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "for mouth of"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "city"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "for entrance of"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "opening dem"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "⟨she⟩ dey cry loud"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:48.870771038Z",
+  "model": "glm-5.2"
+}

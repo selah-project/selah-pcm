@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Opposite di border, di ring dem go dey, for house of pole dem, to carry ⟨את⟩ di table.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "di border"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "di ring dem"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "for house of"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "pole dem"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:19.442793441Z",
+  "model": "glm-5.2"
+}

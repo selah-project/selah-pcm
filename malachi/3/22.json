@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Remember di Torah of Mosheh my servant, wey I command am for Horev upon all Yisra'el — ⟨na⟩ decrees and judgments.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "remember"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "di Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Mosheh"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I command"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "for Horev"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "for Horev"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "decrees"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "and judgments"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:11.971383890Z",
+  "model": "glm-5.2"
+}

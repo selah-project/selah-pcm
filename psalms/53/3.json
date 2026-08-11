@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "Elohim look down from heaven on top ⟨di⟩ children of men, to see weda anybody get understanding, anybody wey dey seek ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "from heaven"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "look down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "men"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to see"
+    },
+    {
+      "surface": "היש",
+      "gloss": "weda anybody dey"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wey get understanding"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "wey dey seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:16.558237490Z",
+  "model": "glm-5.2"
+}

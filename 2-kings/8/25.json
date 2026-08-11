@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For di year twelve, for Yoram pikin of Achab, wey ⟨be⟩ king of Yisra'el, Ahaziahu pikin of Yehoram wey ⟨be⟩ king of Yehudah, bin begin ⟨be⟩ king.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "for Yoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bin begin king"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:55.904421866Z",
+  "model": "glm-5.2"
+}

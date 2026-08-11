@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Even all im days, ⟨e⟩ dey chop for darkness, and anger plenty, and im sickness and fury.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Even"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "im days"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨e⟩ dey chop"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "and anger"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "and im sickness"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "and fury"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:32.315355914Z",
+  "model": "glm-5.2"
+}

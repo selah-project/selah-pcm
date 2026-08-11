@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yehonatan answer ⟨את⟩ Sha'ul im papa, and ⟨im⟩ talk to am sey, 'Why dem go kill am? Wetin ⟨im⟩ do?'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and ⟨im⟩ answer"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dem go kill am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨im⟩ do"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:10.856102341Z",
+  "model": "glm-5.2"
+}

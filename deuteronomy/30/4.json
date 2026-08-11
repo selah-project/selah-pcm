@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "If ⟨dem⟩ drive your outcast reach di edge of heaven, from right dere Yahweh your Elohim go gather you, and from right dere ⟨im⟩ go take you.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨dem⟩ go"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "drive your outcast"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "reach di edge"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from right dere"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "go gather you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "and from right dere"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "go take you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:02.457866985Z",
+  "model": "glm-5.2"
+}

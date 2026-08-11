@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Pharaoh bin call Mosheh and Aharon, and im talk sey, make una go, make una sacrifice to una Elohim for di land.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "and to Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "make una go"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "make una sacrifice"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "to una Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:27.704941663Z",
+  "model": "glm-5.2"
+}

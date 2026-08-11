@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And I self don hear ⟨את⟩ di cry of inside-pain wey come from ⟨di⟩ pikin-dem of Yisra'el, wey Mitsrayim dey make dem work like slave, and I don remember ⟨את⟩ my covenant.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and I self"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cry of inside-pain"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "cry of inside-pain"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "dey make dem work like slave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "and I don remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:36.829611640Z",
+  "model": "glm-5.2"
+}

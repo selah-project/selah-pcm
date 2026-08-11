@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Small town, and few men inside am; den one big king come meet am, surround ⟨את⟩ am, and build big siege-tower dem against am.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "town"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "small"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "and men"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "few"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "den come"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "meet am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "and surround"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "and build"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "siege-tower dem"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "big"
+    }
+  ],
+  "timestamp": "2026-08-11T16:46:09.617134866Z",
+  "model": "glm-5.2"
+}

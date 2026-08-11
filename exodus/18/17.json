@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Father-in-law of Moshe bin talk to am sey: ⟨na⟩ no good, di ting wey you dey do.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "father-in-law"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:15.159615073Z",
+  "model": "glm-5.2"
+}

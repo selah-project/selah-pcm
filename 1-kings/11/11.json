@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yahweh bin talk to Shelomoh, 'Because dis ting bin happen with you, and you no keep my covenant and my decrees wey I bin command you, I go surely tear ⟨את⟩ di kingdom from on top you, and I go give am to your servant.'",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨אמֶר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לִשְׁלֹמֹ֗ה",
+      "gloss": "to Shelomoh"
+    },
+    {
+      "surface": "יַ֚עַן",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הָֽיְתָה",
+      "gloss": "bin happen"
+    },
+    {
+      "surface": "זֹּ֣את",
+      "gloss": "dis ting"
+    },
+    {
+      "surface": "עִמָּ֔ךְ",
+      "gloss": "with you"
+    },
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שָׁמַ֨רְתָּ֙",
+      "gloss": "you keep"
+    },
+    {
+      "surface": "בְּרִיתִ֣י",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "וְחֻקֹּתַ֔י",
+      "gloss": "and my decrees"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צִוִּ֖יתִי",
+      "gloss": "I bin command"
+    },
+    {
+      "surface": "עָלֶ֑יךָ",
+      "gloss": "you"
+    },
+    {
+      "surface": "קָרֹ֨עַ",
+      "gloss": "tearing"
+    },
+    {
+      "surface": "אֶקְרַ֤ע",
+      "gloss": "I go tear"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di kingdom"
+    },
+    {
+      "surface": "הַמַּמְלָכָה֙",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "מֵֽעָלֶ֔יךָ",
+      "gloss": "from on top you"
+    },
+    {
+      "surface": "וּנְתַתִּ֖יהָ",
+      "gloss": "and I go give am"
+    },
+    {
+      "surface": "לְעַבְדֶּֽךָ",
+      "gloss": "to your servant"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:16.007660097Z",
+  "model": "glm-5.2"
+}

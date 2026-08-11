@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Dem no sabi, and dem no go understand, for darkness dem dey waka about; all di foundations of di earth go shake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dem sabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "dem go understand"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "dem dey waka about"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "go shake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "di foundations"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:41.819918857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No woman go lose ⟨im⟩ pikin and no barren woman go dey inside una land; ⟨את⟩ di number of una days I go fulfil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "woman wey go lose ⟨im⟩ pikin"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "and barren woman"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "inside una land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di number"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "di number"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "of una days"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "I go fulfil"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:45.659054405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨each⟩ man, ⟨את⟩ im holy tings, na im own dem go be; any man wetin e give to di kohen, na im own e go be.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im holy tings"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "im holy tings"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e go give"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "to di kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e go be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:32.797292158Z",
+  "model": "glm-5.2"
+}

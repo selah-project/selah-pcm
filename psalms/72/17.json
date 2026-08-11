@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Make im name dey last forever; before sun, make im name sprout, and make dem bless demself inside am; all nations go call am blessed.",
+  "tokens": [
+    {
+      "surface": "יְהִ֤י",
+      "gloss": "make e dey"
+    },
+    {
+      "surface": "שְׁמ֨וֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "לְֽעוֹלָ֗ם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "before"
+    },
+    {
+      "surface": "שֶׁמֶשׁ֮",
+      "gloss": "sun"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "make e sprout"
+    },
+    {
+      "surface": "שְׁ֫מ֥וֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "וְיִתְבָּ֥רְכוּ",
+      "gloss": "and make dem bless"
+    },
+    {
+      "surface": "ב֑וֹ",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גּוֹיִ֥ם",
+      "gloss": "nations"
+    },
+    {
+      "surface": "יְאַשְּׁרֽוּהוּ",
+      "gloss": "go call am blessed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:41.361898689Z",
+  "model": "glm-5.2"
+}

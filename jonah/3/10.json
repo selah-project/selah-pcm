@@ -1,0 +1,86 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Elohim see ⟨את⟩ dia work dem, sey dem turn from dia bad road; and Elohim change im mind about di bad thing wey e bin talk sey e go do to dem, and e no do am.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "And e see"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia work dem"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dia work dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dem turn"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "from dia road"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "wey bad"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "and e change im mind"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "di bad thing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e bin talk"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sey e go do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and e no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do am"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.783191750Z",
+  "model": "claude-opus-4-8"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Your righteousness ⟨na⟩ righteousness forever, and Your Torah ⟨na⟩ truth.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Your righteousness"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "and Your Torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:15.142601828Z",
+  "model": "glm-5.2"
+}

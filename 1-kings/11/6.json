@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Shelomah bin do wetin ⟨be⟩ bad for Yahweh im eye, and e no full-go afta Yahweh, like Dawid im papa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨bin do⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "di bad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for ⟨im⟩ eye of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨no⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨bin full⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "like Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:40.392139803Z",
+  "model": "glm-5.2"
+}

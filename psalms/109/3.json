@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "And words of hatred surround me, and dem fight me for nothing.",
+  "tokens": [
+    {
+      "surface": "וְדִבְרֵ֣י",
+      "gloss": "and words of"
+    },
+    {
+      "surface": "שִׂנְאָ֣ה",
+      "gloss": "hatred"
+    },
+    {
+      "surface": "סְבָב֑וּנִי",
+      "gloss": "surround me"
+    },
+    {
+      "surface": "וַיִּֽלָּחֲמ֥וּנִי",
+      "gloss": "and dem fight me"
+    },
+    {
+      "surface": "חִנָּֽם",
+      "gloss": "for nothing"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:56.352239562Z",
+  "model": "glm-5.2"
+}

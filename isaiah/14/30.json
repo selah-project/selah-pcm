@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di firstborn of poor people go graze, and ⟨di⟩ needy ones go lie down for safety; and I go kill your root wit hunger, and your remnant go die.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "and go graze"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "of poor people"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "and ⟨di⟩ needy ones"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "for safety"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "and I go kill"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "wit hunger"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "your root"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "and your remnant"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "go die"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:17.537259166Z",
+  "model": "glm-5.2"
+}

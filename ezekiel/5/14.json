@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 5:14",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go make you ⟨become⟩ desert and reproach among di nations wey dey around you, for di eye of evribody wey dey pass by.",
+  "tokens": [
+    {
+      "surface": "ואתנך",
+      "gloss": "and I go make you"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "⟨to become⟩ desert"
+    },
+    {
+      "surface": "ולחרפה",
+      "gloss": "and ⟨to become⟩ reproach"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "dey around you"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evribody"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "wey dey pass by"
+    }
+  ],
+  "timestamp": "2026-08-11T12:04:15.069398911Z",
+  "model": "glm-5.2"
+}

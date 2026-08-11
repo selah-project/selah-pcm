@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And dem bind ⟨את⟩ di breastpiece from im rings to di rings of di ephod wit cord of blue, make e go dey upon di woven band of di ephod, and di breastpiece no go shift from upon di ephod, as Yahweh bin command ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְכְּס֣וּ",
+      "gloss": "And dem bind"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di breastpiece"
+    },
+    {
+      "surface": "הַחֹ֡שֶׁן",
+      "gloss": "di breastpiece"
+    },
+    {
+      "surface": "מִטַּבְּעֹתָיו֩",
+      "gloss": "from im rings"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "טַבְּעֹ֨ת",
+      "gloss": "di rings"
+    },
+    {
+      "surface": "הָאֵפֹ֜ד",
+      "gloss": "of di ephod"
+    },
+    {
+      "surface": "בִּפְתִ֣יל",
+      "gloss": "wit cord"
+    },
+    {
+      "surface": "תְּכֵ֗לֶת",
+      "gloss": "of blue"
+    },
+    {
+      "surface": "לִֽהְיֹת֙",
+      "gloss": "make e go dey"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "חֵ֣שֶׁב",
+      "gloss": "di woven band"
+    },
+    {
+      "surface": "הָאֵפֹ֔ד",
+      "gloss": "of di ephod"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יִזַּ֣ח",
+      "gloss": "go shift"
+    },
+    {
+      "surface": "הַחֹ֔שֶׁן",
+      "gloss": "di breastpiece"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "from upon"
+    },
+    {
+      "surface": "הָאֵפֹ֑ד",
+      "gloss": "di ephod"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:04.432100678Z",
+  "model": "glm-5.2"
+}

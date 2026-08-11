@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And I bin find among dem one man wey go build wall and stand for di gap before Me, on behalf of di land, so dat I no go destroy am — and I no find any.",
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "and I bin find"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "wey go build"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "wall"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "for di gap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before Me"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "on behalf of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat ... no go"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "destroy am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "find any"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:29.800910485Z",
+  "model": "glm-5.2"
+}

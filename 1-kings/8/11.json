@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di priests no fit stand make dem serve, because of di cloud, because di glory of Yahweh bin fill ⟨את⟩ di house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "fit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stand"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "make dem serve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "di cloud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bin fill"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:40.570350682Z",
+  "model": "glm-5.2"
+}

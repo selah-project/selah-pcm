@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Di prayers of Dawid, pikin of Yishay, don finish.",
+  "tokens": [
+    {
+      "surface": "כָּלּ֥וּ",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "תְפִלּ֑וֹת",
+      "gloss": "prayers"
+    },
+    {
+      "surface": "דָּ֝וִ֗ד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יִשָֽׁי",
+      "gloss": "of Yishay"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:41.362459856Z",
+  "model": "glm-5.2"
+}

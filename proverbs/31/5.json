@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Make e no be sey ⟨dem⟩ go drink and forget wetin dem don decree, and ⟨dem⟩ go change di judgment of all di pikin-dem wey dey suffer.",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "make e no be sey"
+    },
+    {
+      "surface": "יִ֭שְׁתֶּה",
+      "gloss": "go drink"
+    },
+    {
+      "surface": "וְיִשְׁכַּ֣ח",
+      "gloss": "and forget"
+    },
+    {
+      "surface": "מְחֻקָּ֑ק",
+      "gloss": "wetin dem don decree"
+    },
+    {
+      "surface": "וִֽ֝ישַׁנֶּה",
+      "gloss": "and go change"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "di judgment"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "עֹֽנִי",
+      "gloss": "wey dey suffer"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:54.963413613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Make Yahweh add ⟨na⟩ for una, for una and for una pikin-dem.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "Make ... add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and for"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "una pikin-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:07.702475351Z",
+  "model": "glm-5.2"
+}

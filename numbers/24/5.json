@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "How fine ya tents ⟨be⟩, yaʿaqov, ya dwellings, yisraʾel!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "fine"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "ya tents"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaʿaqov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "ya dwellings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yisraʾel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:33.452940567Z",
+  "model": "glm-5.2"
+}

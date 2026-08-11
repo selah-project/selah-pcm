@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And make dem go keep ⟨את⟩ my watch, and dem no go carry sin on top am, and dem no go die inside am, if dem profane am; I ⟨be⟩ Yahweh, di One wey dey make dem holy.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "and make dem go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my watch"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "my watch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dem go carry"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "and dem no go die"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "dem profane am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "di One wey dey make dem holy"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:59.451466896Z",
+  "model": "glm-5.2"
+}

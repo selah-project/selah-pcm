@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Izebel bin send messenger to Eliyahu, to say: 'Like dis make Elohim do to me, and like dis make dem add, ⟨say⟩ tomorrow around dis time, I go put ⟨את⟩ your life like di life of one of dem.'",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to say"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "make dem do"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "and like dis"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "make dem add"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨say⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "around dis time"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your life"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "like di life"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "of one"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:27.477471627Z",
+  "model": "glm-5.2"
+}

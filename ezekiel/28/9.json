@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Abi you go dey talk, you go dey say, ⟨na⟩ Elohim ⟨I⟩ be, for di face of di one wey dey kill you? But you ⟨na⟩ man, and no be El, for ⟨di⟩ hand of dem wey dey wound you.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "abi you go dey talk"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go dey say"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for di face of"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "di one wey dey kill you"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "but you"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for ⟨di⟩ hand of"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "dem wey dey wound you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:12:41.546215951Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Only by lot ⟨dem⟩ go divide ⟨את⟩ di land; according to di names of di tribes of dia fadas dem go inherit.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "by lot"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "dem go divide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "according to di names"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "of di tribes"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "of dia fadas"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "dem go inherit"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:42.335332344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "House of wicked people go scatter; but tent of straight people go blossom.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "go scatter"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "but tent"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "of straight people"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "go blossom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:09.003768527Z",
+  "model": "glm-5.2"
+}

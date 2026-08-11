@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Di earth shake, even di heaven drop water from front of Elohim — na Sinai dis one ⟨be⟩ — from front of Elohim, Elohim of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "drop water"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.316908575Z",
+  "model": "glm-5.2"
+}

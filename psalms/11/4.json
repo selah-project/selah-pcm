@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Yahweh ⟨dey⟩ for im holy temple, Yahweh im throne ⟨dey⟩ for heaven, im eye dey see, im eyelid dey test, ⟨di⟩ children of man.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "im holy temple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "im throne"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "dey see"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "im eyelid"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "dey test"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨di⟩ children"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:32.861958932Z",
+  "model": "glm-5.2"
+}

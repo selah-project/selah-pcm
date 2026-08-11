@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 127,
+  "translation": "Like arrows for inside hand of mighty man, na so ⟨be⟩ children of youth.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Like arrows"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for inside hand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "of mighty man"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "of youth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:19.232240588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Shelomah bin start to build ⟨את⟩ house of Yahweh for Yerushalayim, for di mountain of Moriyah, wey ⟨im⟩ appear to Dawid wey be im papa, for di place wey Dawid don prepare, for di threshing-floor of Ornan di Jebusite.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "bin start"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "of Moriyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "appear"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "to Dawid"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "don prepare"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "for di place"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "for di threshing-floor"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "of Ornan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "di Jebusite"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:21.529807910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Trembling bin seize dem for there, pangs, like woman wey dey born.",
+  "tokens": [
+    {
+      "surface": "רְ֭עָדָה",
+      "gloss": "Trembling"
+    },
+    {
+      "surface": "אֲחָזָ֣תַם",
+      "gloss": "bin seize dem"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "חִ֝֗יל",
+      "gloss": "pangs"
+    },
+    {
+      "surface": "כַּיּוֹלֵֽדָה",
+      "gloss": "like woman wey dey born"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:28.140235650Z",
+  "model": "glm-5.2"
+}

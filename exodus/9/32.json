@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But di wheat and di spelt — dem no strike dem, because dem ⟨bin dey⟩ late-crop.\"",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "but di wheat"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "and di spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "dem strike dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "late-crop"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dem bin dey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:39.911853983Z",
+  "model": "glm-5.2"
+}

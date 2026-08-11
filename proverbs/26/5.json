@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Answer di fool according to im foolishness, make e no come ⟨be⟩ wise for im own eye.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Answer"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "di fool"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "according to im foolishness"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "come ⟨be⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im own eye"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:13.423642604Z",
+  "model": "glm-5.2"
+}

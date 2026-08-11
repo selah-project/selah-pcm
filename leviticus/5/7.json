@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 5:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And if im hand no reach enough for one sheep, e go bring ⟨את⟩ im guilt-offering wey e sin — two turtledove dem or two young pigeon dem — to Yahweh: one for sin-offering and one for burnt-offering.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תגיע",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "די",
+      "gloss": "enough"
+    },
+    {
+      "surface": "שה",
+      "gloss": "for one sheep"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "e go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im guilt-offering"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "im guilt-offering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "e sin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "turtledove dem"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "בני",
+      "gloss": "young"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "pigeon dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "for sin-offering"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "and one"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "for burnt-offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:22.559031626Z",
+  "model": "glm-5.2"
+}

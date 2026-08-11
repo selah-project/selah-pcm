@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Mahalalel bin live five year and sixty year, and im born ⟨את⟩ Jared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and im bin live"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "year"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "and sixty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "and im born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jared"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:16.804617465Z",
+  "model": "glm-5.2"
+}

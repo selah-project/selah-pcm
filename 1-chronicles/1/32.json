@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di sons of Keturah, Abraham im concubine: she born ⟨את⟩ Zimran, and Yokshan, and Medan, and Midyan, and Yishbak, and Shuach. And di sons of Yokshan: Sheva and Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "concubine"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "she born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "and Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "and Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "and Midyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "and Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "and Shuach"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "and Dedan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:53.255671421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Wen Adonai don wash ⟨את⟩ di dirt of di daughters of Tziyon, and ⟨את⟩ di blood of Yerushalayem e don comot from inside am, with spirit of judgment and with spirit of burning —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wen"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "don wash"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dirt of di daughters of Tziyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "dirt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "of di daughters"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di blood of Yerushalayem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blood"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayem"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "don comot"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "from inside am"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "with spirit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "of judgment"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "and with spirit"
+    },
+    {
+      "surface": "בער",
+      "gloss": "of burning"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:02.406414780Z",
+  "model": "glm-5.2"
+}

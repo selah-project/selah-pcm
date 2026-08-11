@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "⟨את⟩ di foreigner, you fit press am; but wetin dey with you, ⟨את⟩ your broda, your hand go release am.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di foreigner"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "di foreigner"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "you fit press am"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "but wetin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your broda"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your broda"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "go release"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:52.759883535Z",
+  "model": "glm-5.2"
+}

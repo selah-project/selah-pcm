@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Eliyahu take ⟨את⟩ im cloak and roll am together, and e strike ⟨את⟩ di water, and dem divide dis side and dat side, and di two of dem cross over on dry ground.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloak"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "im cloak"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "and roll am together"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "and dem divide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dis side"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and dat side"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "and dem cross over"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "on dry ground"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:15.216351999Z",
+  "model": "glm-5.2"
+}

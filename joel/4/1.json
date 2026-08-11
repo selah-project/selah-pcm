@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Because see! for dose days, and for dat time, wey I go turn back ⟨את⟩ di exile of Yehudah and Yerushalayim,",
+  "tokens": [
+    {
+      "surface": "כִּ֗י",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הִנֵּ֛ה",
+      "gloss": "see!"
+    },
+    {
+      "surface": "בַּיָּמִ֥ים",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "הָהֵ֖מָּה",
+      "gloss": "dose"
+    },
+    {
+      "surface": "וּבָעֵ֣ת",
+      "gloss": "and for di time"
+    },
+    {
+      "surface": "הַהִ֑יא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אָשׁ֥וּב",
+      "gloss": "I go turn back"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di exile"
+    },
+    {
+      "surface": "שְׁב֥וּת",
+      "gloss": "exile"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וִירוּשָׁלִָֽם",
+      "gloss": "and Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:51.862411497Z",
+  "model": "glm-5.2"
+}

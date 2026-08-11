@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "for di mountain, and for di lowland, and for di Arabah, and for di slopes, and for di wilderness, and for di Negev — ⟨di land of⟩ di Hitti, and di Amori, and di Kena'ani, di Perizzi, di Hivi, and di Yevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "and for di lowland"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "and for di Arabah"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "and for di slopes"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "and for di wilderness"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "and for di Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hitti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "and di Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "and di Kena'ani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "di Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "and di Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:22:29.171279519Z",
+  "model": "glm-5.2"
+}

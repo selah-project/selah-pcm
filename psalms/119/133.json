@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 133,
+  "ref": "psalms 119:133",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my steps stand firm for ⟨ins⟩ your word, and make no wickedness rule over me.",
+  "tokens": [
+    {
+      "surface": "פְּ֭עָמַי",
+      "gloss": "my steps"
+    },
+    {
+      "surface": "הָכֵ֣ן",
+      "gloss": "make stand firm"
+    },
+    {
+      "surface": "בְּאִמְרָתֶ֑ךָ",
+      "gloss": "for your word"
+    },
+    {
+      "surface": "וְֽאַל",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "תַּשְׁלֶט",
+      "gloss": "rule"
+    },
+    {
+      "surface": "בִּ֥י",
+      "gloss": "over me"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "any"
+    },
+    {
+      "surface": "אָֽוֶן",
+      "gloss": "wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T16:38:21.229267670Z",
+  "model": "glm-5.2"
+}

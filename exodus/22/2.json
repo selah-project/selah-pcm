@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If sun don shine on top am, blood-guilt dey for am; make e pay back in full. If e no get wetin e go use pay, dem go sell am for di ting wey e thief.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "shine"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood-⟨guilt⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "make e pay back"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "e go pay back"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "and dem go sell am"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "for im thiefry"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:19.580169081Z",
+  "model": "glm-5.2"
+}

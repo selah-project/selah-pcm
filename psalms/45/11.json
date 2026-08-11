@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Hear, O daughter, and look well, and bend ya ear; and forget ya people and ya papa house —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "hear"
+    },
+    {
+      "surface": "בת",
+      "gloss": "O daughter"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "and look well"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "and bend"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ya ear"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "and forget"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya people"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and house"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "of ya papa"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:31.827370152Z",
+  "model": "glm-5.2"
+}

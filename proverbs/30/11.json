@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Generation dey wey dey curse dia papa, and ⟨את⟩ dia mama dem no dey bless.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Generation dey"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wey dey curse dia papa"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia mama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dia mama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dem no dey"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bless"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:07.685851750Z",
+  "model": "glm-5.2"
+}

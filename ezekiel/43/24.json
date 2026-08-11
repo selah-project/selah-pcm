@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 43:24",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And you go bring dem near before Yahweh, and di priests go throw salt on top dem, and dem go offer ⟨את⟩ dem as burnt offering to Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "and you go bring dem near"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "and dem go throw"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "והעלו",
+      "gloss": "and dem go offer up"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di animals)"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "as burnt offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:57.837749400Z",
+  "model": "glm-5.2"
+}

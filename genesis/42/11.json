@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "All of us, ⟨we be⟩ son dem of one man; we ⟨be⟩ truthful dem; your servant dem no be spy dem.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "All of us"
+    },
+    {
+      "surface": "בני",
+      "gloss": "son dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "truthful dem"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היו",
+      "gloss": "be"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servant dem"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spy dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:55.596318733Z",
+  "model": "glm-5.2"
+}

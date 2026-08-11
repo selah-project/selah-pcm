@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Yehotsadaq bin go for exile, wen Yahweh bin carry ⟨את⟩ Yehudah and Yerushalaim go, by di hand of Nevukhadnetstsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "And Yehotsadaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "for exile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by di hand"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "of Nevukhadnetstsar"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:46.932573874Z",
+  "model": "glm-5.2"
+}

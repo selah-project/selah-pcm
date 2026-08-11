@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Make you no gather my nefesh together wit sinners, and together wit men of blood, my life.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "gather"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together wit"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sinners"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nefesh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and together wit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:17.772360777Z",
+  "model": "glm-5.2"
+}

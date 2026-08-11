@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "All ⟨dem⟩ wey hate ⟨me⟩ dey whisper together against ⟨me⟩; against ⟨me⟩ dem dey plan bad thing for ⟨me⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against ⟨me⟩"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "dem dey whisper"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wey hate ⟨me⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against ⟨me⟩"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "dem dey plan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad thing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for ⟨me⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:51.387871394Z",
+  "model": "glm-5.2"
+}

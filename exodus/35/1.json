@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And Mosheh gather ⟨את⟩ all di assembly of di pikin-dem of Yisra'el, and im talk to dem, \"Na dis be di word-dem wey Yahweh don command to do ⟨את⟩ dem.\"",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "and im gather"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di assembly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di word-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "to do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:40.507777138Z",
+  "model": "glm-5.2"
+}

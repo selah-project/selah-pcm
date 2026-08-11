@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Rich man dey rule over poor people, and borrower ⟨na⟩ servant to di man wey lend.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "rich man"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "⟨over⟩ poor people"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "dey rule"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "and servant"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "borrower"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to di man"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "wey lend"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:06.649741469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Elohim bin talk to Mosheh: \"Ehyeh asher Ehyeh.\" And ⟨e⟩ bin talk: \"Na so you go talk to ⟨di⟩ pipul of Yisra'el: 'Ehyeh don send me to una.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asher"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to ⟨di⟩ pipul"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "send me"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:14.419232265Z",
+  "model": "glm-5.2"
+}

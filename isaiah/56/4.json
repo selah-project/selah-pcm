@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "Because na so Yahweh bin talk: to di eunuchs wey go keep ⟨את⟩ my Sabbaths, and wey go choose wetin I desire, and wey dey hold my covenant strong —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "to di eunuchs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Sabbaths"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "my Sabbaths"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "and wey go choose"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "I desire"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "and wey dey hold strong"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "my covenant"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:43.369987380Z",
+  "model": "glm-5.2"
+}

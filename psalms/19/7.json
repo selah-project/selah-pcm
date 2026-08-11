@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "From end of di heaven na im e dey come out, and im orbit dey reach to di end of dem; and notin dey hide from im heat.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "from end of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "na im e dey come out"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "and im orbit"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey reach to"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "di end of dem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and notin"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "dey hide"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "from im heat"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:35.339873097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Yahweh bin talk to Mosheh, ⟨say⟩, 'Paroh heart heavy, ⟨he⟩ dey refuse to let di people go.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "⟨he⟩ dey refuse"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "to let go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:55.719552365Z",
+  "model": "glm-5.2"
+}

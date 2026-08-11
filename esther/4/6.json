@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So Hathakh bin go out to Mordekhai, to di open square of di city wey ⟨dey⟩ before di gate of di king.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "So bin go out"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "di open square"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "שער",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:24.952866412Z",
+  "model": "glm-5.2"
+}

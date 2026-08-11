@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "When David hear, e send ⟨את⟩ Joab and ⟨את⟩ all di army of di mighty men.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "when ⟨e⟩ hear"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "⟨e⟩ send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "di army"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "of di mighty men"
+    }
+  ],
+  "timestamp": "2026-08-11T16:52:54.215234023Z",
+  "model": "glm-5.2"
+}

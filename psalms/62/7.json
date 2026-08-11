@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Only, ⟨na⟩ im ⟨be⟩ my rock and my salvation, my high tower; I no go shake.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rock"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "and my salvation"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my high tower"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "I go shake"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:21.822774685Z",
+  "model": "glm-5.2"
+}

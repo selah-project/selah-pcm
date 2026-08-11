@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And ⟨he⟩ bend ⟨את⟩ di heart of all man of Judah like one man; and dem send to di king, sey: 'Come back, you and all your servants.'",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "and bend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Judah"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "like one"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "and dem send"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "come back"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:15.101347219Z",
+  "model": "glm-5.2"
+}

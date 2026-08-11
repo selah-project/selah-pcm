@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Dead ⟨dem⟩, dem no go live; Rephaim, dem no go stand up; na so you visit dem, you wipe dem comot, and you destroy all ⟨dem⟩ memory.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "dead ⟨dem⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "dem go live"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rephaim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "dem go stand up"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "you visit"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "you wipe dem comot"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "and you destroy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all ⟨dem⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "memory"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:38.919278535Z",
+  "model": "glm-5.2"
+}

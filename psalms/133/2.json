@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 133,
+  "translation": "Like di good oil wey dey run down on top di head, wey dey run down on top di beard, ⟨di⟩ beard of Aharon, wey dey run down on top di edge of im robes.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Like ⟨di⟩ oil"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "di good"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wey dey run down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "di beard"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "beard"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "wey dey run down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di edge"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "of im robes"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:50.216888158Z",
+  "model": "glm-5.2"
+}

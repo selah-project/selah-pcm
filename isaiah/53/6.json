@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "All of us like sheep we don wander, evri man turn to im own way; and Yahweh don cause ⟨am⟩ to land on am ⟨את⟩ di iniquity of all of us.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "all of us"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "like sheep"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "we don wander"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "to im own way"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "we turn"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "don cause to land"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di iniquity of all of us"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "of all of us"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:21.382191968Z",
+  "model": "glm-5.2"
+}

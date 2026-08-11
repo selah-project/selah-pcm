@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 121,
+  "translation": "Make ⟨im⟩ no let your foot slip, make ⟨im⟩ no slumber — ⟨di one⟩ wey dey guard you.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "no let"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "slip"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "your foot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "no slumber"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "wey dey guard you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:36.419205843Z",
+  "model": "glm-5.2"
+}

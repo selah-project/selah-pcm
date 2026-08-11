@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And una go keep ⟨את⟩ all my statutes, and ⟨את⟩ all my judgments, and una go do ⟨את⟩ dem — I ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "and una go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all my statutes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my statutes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all my judgments"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my judgments"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and una go do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:14.083505890Z",
+  "model": "glm-5.2"
+}

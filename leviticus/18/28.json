@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "So dat di land no go vomit out ⟨את⟩ una, wen una dey defile ⟨את⟩ am, as e bin vomit out ⟨את⟩ di nation wey ⟨dey⟩ before una.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "So dat no"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "go vomit out"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "wen una dey defile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "bin vomit out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nation"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "di nation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:32.974364875Z",
+  "model": "glm-5.2"
+}

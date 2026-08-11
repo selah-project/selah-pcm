@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Wen I dey look ⟨את⟩ yu heavens, ⟨את⟩ di work of yu fingers, ⟨את⟩ di moon and ⟨את⟩ di stars wey You don set in place —",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "אֶרְאֶ֣ה",
+      "gloss": "I dey look"
+    },
+    {
+      "surface": "שָׁ֭מֶיךָ",
+      "gloss": "yu heavens"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣י",
+      "gloss": "di work of"
+    },
+    {
+      "surface": "אֶצְבְּעֹתֶ֑יךָ",
+      "gloss": "yu fingers"
+    },
+    {
+      "surface": "יָרֵ֥חַ",
+      "gloss": "di moon"
+    },
+    {
+      "surface": "וְ֝כוֹכָבִ֗ים",
+      "gloss": "and di stars"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כּוֹנָֽנְתָּה",
+      "gloss": "You don set in place"
+    }
+  ],
+  "timestamp": "2026-08-11T16:35:11.696030976Z",
+  "model": "glm-5.2"
+}

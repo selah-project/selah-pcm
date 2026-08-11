@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yahweh raise up adversary for Shelomoh — ⟨את⟩ Hadad di Edomite, from di seed of di king, ⟨im be⟩ for Edom.",
+  "tokens": [
+    {
+      "surface": "וַיָּקֶם",
+      "gloss": "and ⟨im⟩ raise up"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שָׂטָן",
+      "gloss": "adversary"
+    },
+    {
+      "surface": "לִשְׁלֹמֹה",
+      "gloss": "for Shelomoh"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad di Edomite"
+    },
+    {
+      "surface": "הֲדַד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הָאֲדֹמִי",
+      "gloss": "di Edomite"
+    },
+    {
+      "surface": "מִזֶּרַע",
+      "gloss": "from di seed"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨im be⟩"
+    },
+    {
+      "surface": "בֶּאֱדוֹם",
+      "gloss": "for Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:44.268763717Z",
+  "model": "glm-5.2"
+}

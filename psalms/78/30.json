@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Dem no turn away from dia own craving; dia food still dey inside dia mouth,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "Dem turn away"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "from dia own craving"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dia food"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "inside dia mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:58.827013321Z",
+  "model": "glm-5.2"
+}

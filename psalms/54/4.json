@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Elohim, hear my prayer; listen well to di words of my mouth.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "listen well"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "to di words"
+    },
+    {
+      "surface": "פי",
+      "gloss": "of my mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:32.594557382Z",
+  "model": "glm-5.2"
+}

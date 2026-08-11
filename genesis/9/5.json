@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But ⟨na⟩ ⟨me⟩ go demand ⟨את⟩ una blood, wey ⟨na⟩ una life; from hand of evri animal I go demand am; and from hand of man, from hand of im broda, I go demand ⟨את⟩ life of man.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "But ⟨na⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una blood"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "una blood"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "wey ⟨na⟩ una life"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "I go demand"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "I go demand am"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "and from hand of"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "איש",
+      "gloss": "im"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broda"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "I go demand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "life of man"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of man"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:00.455753934Z",
+  "model": "glm-5.2"
+}

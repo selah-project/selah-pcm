@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Dat time ⟨im⟩ go speak to dem inside im anger, and for im burning fury ⟨im⟩ go make dem tremble.",
+  "tokens": [
+    {
+      "surface": "אָ֤ז",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "יְדַבֵּ֣ר",
+      "gloss": "go speak"
+    },
+    {
+      "surface": "אֵלֵ֣ימוֹ",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "בְאַפּ֑וֹ",
+      "gloss": "inside im anger"
+    },
+    {
+      "surface": "וּֽבַחֲרוֹנ֥וֹ",
+      "gloss": "and for im burning fury"
+    },
+    {
+      "surface": "יְבַהֲלֵֽמוֹ",
+      "gloss": "go make dem tremble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:35.395535134Z",
+  "model": "glm-5.2"
+}

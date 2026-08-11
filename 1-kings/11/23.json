@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Elohim come raise satan for am, Rezon, pikin of Elyada, wey run comot from ⟨את⟩ Hadadezer, king of Tsovah, wey be im oga.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "come raise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "run comot"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im oga"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:02.211676729Z",
+  "model": "glm-5.2"
+}

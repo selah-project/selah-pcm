@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Wake up, una wey dey drink, and cry, and howl, all una wey dey drink wine, on top ⟨di⟩ sweet grape-juice, because dem don cut am off from una mouth!",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "una wey dey drink"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "and howl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wey dey drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "sweet grape-juice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "dem don cut off"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "from una mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:13.201172168Z",
+  "model": "glm-5.2"
+}

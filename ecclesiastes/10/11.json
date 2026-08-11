@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "If snake dey bite without incantation, den no advantage dey for di master of di tongue.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dey bite"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "snake"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "without"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "incantation"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "den no"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "advantage dey"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for di master"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "of di tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:21.935255787Z",
+  "model": "glm-5.2"
+}

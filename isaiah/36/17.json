@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Until I come and I go carry una go ⟨את⟩ one land wey ⟨be⟩ like una own land — land of grain and new wine, land of bread and vineyards.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בֹּאִ֕י",
+      "gloss": "I come"
+    },
+    {
+      "surface": "וְלָקַחְתִּ֥י",
+      "gloss": "and I go carry"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כְּאַרְצְכֶ֑ם",
+      "gloss": "like una own land"
+    },
+    {
+      "surface": "אֶ֤רֶץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "דָּגָן֙",
+      "gloss": "of grain"
+    },
+    {
+      "surface": "וְתִיר֔וֹשׁ",
+      "gloss": "and new wine"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "וּכְרָמִֽים",
+      "gloss": "and vineyards"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:44.138979167Z",
+  "model": "glm-5.2"
+}

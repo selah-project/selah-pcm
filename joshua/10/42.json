@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨את⟩ all dis kings and ⟨את⟩ dia land Yehoshua capture one time, because Yahweh, Elohim of Yisra'el, bin fight for Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֨ת",
+      "gloss": "⟨את⟩",
+      "marks": "all dis kings"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַמְּלָכִ֤ים",
+      "gloss": "dis kings"
+    },
+    {
+      "surface": "הָאֵ֨לֶּה֙",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia land"
+    },
+    {
+      "surface": "אַרְצָ֔ם",
+      "gloss": "dia land"
+    },
+    {
+      "surface": "לָכַ֥ד",
+      "gloss": "capture"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֖עַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פַּ֣עַם",
+      "gloss": "time"
+    },
+    {
+      "surface": "אֶחָ֑ת",
+      "gloss": "one"
+    },
+    {
+      "surface": "כִּ֗י",
+      "gloss": "because"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נִלְחָ֖ם",
+      "gloss": "bin fight"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵֽל",
+      "gloss": "for Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T15:59:26.869501003Z",
+  "model": "glm-5.2"
+}

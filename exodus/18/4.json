@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And di name of di oda one ⟨be⟩ Eliezer, because Elohim of my papa ⟨be⟩ my help, and e save me from sword of Paroh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "and di name"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "of di oda one"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "of my papa"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "⟨be⟩ my help"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "and e save me"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "from sword"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:14.868096832Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And ⟨he⟩ send letters to all di Jews — to seven and twenty and hundred provinces of di kingdom of Achashverosh — words of peace and truth.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and ⟨he⟩ send"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Jews"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "and hundred"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinces"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "words"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "of peace"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "and truth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:39:12.652473291Z",
+  "model": "glm-5.2"
+}

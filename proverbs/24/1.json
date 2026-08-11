@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Make you no envy bad-bad people, and make you no wish to dey ⟨with⟩ ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "envy"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "people"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad-bad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make you no"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "wish"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "to dey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:53.611843381Z",
+  "model": "glm-5.2"
+}

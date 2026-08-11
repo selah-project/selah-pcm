@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Dawud talk, \"Yahweh, Elohim of Yisrael, your servant don truly hear sey Shaul dey find to come to Qeilah, to destroy di town because of me.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "truly hear"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "dey find"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "to come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di town"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "because of me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:51.256598540Z",
+  "model": "glm-5.2"
+}

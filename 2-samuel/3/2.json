@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem bin born sons for Dawid for Chevron; and im firstborn bin ⟨be⟩ Amnon, for Achinoam di Yizreelite.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "and dem born"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for Dawid"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "for Chevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "im firstborn"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "for Achinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "di Yizreelite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:51.471266440Z",
+  "model": "glm-5.2"
+}

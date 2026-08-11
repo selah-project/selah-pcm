@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And di land bin dey defile, and I bin visit ⟨את⟩ iniquity of am upon am, and di land bin vomit out ⟨את⟩ im inhabitants.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "and bin dey defile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "and I bin visit"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "iniquity of am"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "upon am"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "and bin vomit out"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im inhabitants"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "im inhabitants"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:32.973724962Z",
+  "model": "glm-5.2"
+}

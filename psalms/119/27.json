@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make me understand di way of your precepts, and I go dey meditate on your wonders.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "di way"
+    },
+    {
+      "surface": "פִּקּוּדֶ֥יךָ",
+      "gloss": "of your precepts"
+    },
+    {
+      "surface": "הֲבִינֵ֑נִי",
+      "gloss": "make me understand"
+    },
+    {
+      "surface": "וְ֝אָשִׂ֗יחָה",
+      "gloss": "and I go dey meditate"
+    },
+    {
+      "surface": "בְּנִפְלְאוֹתֶֽיךָ",
+      "gloss": "on your wonders"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:56.970254276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 22:6",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And ⟨im⟩ call Shelomah im pikin, and ⟨im⟩ command am make ⟨im⟩ build house for Yahweh, Elohim of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and call"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "and command am"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:24.820245815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "If ⟨he⟩ want to quarrel wit am, ⟨he⟩ no go answer am one out of ⟨one⟩ thousand.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "want"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "to quarrel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "go answer am"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "מני",
+      "gloss": "out of"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:28.889419511Z",
+  "model": "glm-5.2"
+}

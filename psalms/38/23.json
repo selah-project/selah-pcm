@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Hurry come to my help, Adonai, my rescue!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Hurry come"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "to my help"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "my rescue"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:04.955697764Z",
+  "model": "glm-5.2"
+}

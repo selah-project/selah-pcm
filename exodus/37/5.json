@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And im come put ⟨את⟩ di poles inside di rings for di side of di ark, to carry ⟨את⟩ di ark.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and im come put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poles"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di poles"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "inside di rings"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "di side"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "of di ark"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "di ark"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:38.184247646Z",
+  "model": "glm-5.2"
+}

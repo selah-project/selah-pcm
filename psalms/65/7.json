@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Di one wey dey set mountains fast with im power, wey dey gird ⟨imself⟩ with might.",
+  "tokens": [
+    {
+      "surface": "מֵכִין",
+      "gloss": "di one wey dey set fast"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "בְּכֹחוֹ",
+      "gloss": "with im power"
+    },
+    {
+      "surface": "נֶאְזָר",
+      "gloss": "wey dey gird"
+    },
+    {
+      "surface": "בִּגְבוּרָה",
+      "gloss": "with might"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:55.467972966Z",
+  "model": "glm-5.2"
+}

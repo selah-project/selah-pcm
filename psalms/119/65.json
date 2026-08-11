@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Good tin you do wit ⟨im⟩ wey be your servant, Yahweh, according to your word.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "good tin"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you do"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "according to your word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:50.890568463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And she go pursue ⟨את⟩ di ones wey dey love am, but she no go catch ⟨את⟩ dem; and she go find dem, but she no go see dem. And she go talk: 'Make I go and make I return to my first husband, because ⟨e bin⟩ better for me den pass now.'",
+  "tokens": [
+    {
+      "surface": "וְרִדְּפָ֤ה",
+      "gloss": "and she go pursue"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di ones wey dey love am"
+    },
+    {
+      "surface": "מְאַהֲבֶ֨יהָ֙",
+      "gloss": "di ones wey dey love am"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "but she no go"
+    },
+    {
+      "surface": "תַשִּׂ֣יג",
+      "gloss": "catch"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וּבִקְשָׁ֖תַם",
+      "gloss": "and she go find dem"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "but she no go"
+    },
+    {
+      "surface": "תִמְצָ֑א",
+      "gloss": "see dem"
+    },
+    {
+      "surface": "וְאָמְרָ֗ה",
+      "gloss": "and she go talk"
+    },
+    {
+      "surface": "אֵלְכָ֤ה",
+      "gloss": "make I go"
+    },
+    {
+      "surface": "וְאָשׁ֨וּבָה֙",
+      "gloss": "and make I return"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אִישִׁ֣י",
+      "gloss": "my husband"
+    },
+    {
+      "surface": "הָֽרִאשׁ֔וֹן",
+      "gloss": "di first one"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "ט֥וֹב",
+      "gloss": "⟨e bin⟩ better"
+    },
+    {
+      "surface": "לִ֛י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אָ֖ז",
+      "gloss": "den"
+    },
+    {
+      "surface": "מֵעָֽתָּה",
+      "gloss": "pass now"
+    }
+  ],
+  "timestamp": "2026-08-11T16:30:00.954940295Z",
+  "model": "glm-5.2"
+}

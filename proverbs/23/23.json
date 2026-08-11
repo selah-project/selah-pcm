@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Buy truth, and no sell am — wisdom, and discipline, and understanding.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "buy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "sell"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "and discipline"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "and understanding"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:16.153545332Z",
+  "model": "glm-5.2"
+}

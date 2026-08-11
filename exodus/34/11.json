@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Keep for yourself ⟨את⟩ wetin I dey command you today; look, I dey drive out from your front ⟨את⟩ di Emori, and di Kenaani, and di Chiti, and di Perizzi, and di Chivi, and di Yevusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "keep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin I dey command you today"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dey command you"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "look, I"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "dey drive out"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from your front"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "and di Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "and di Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "and di Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "and di Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "and di Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:57.014903542Z",
+  "model": "glm-5.2"
+}

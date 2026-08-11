@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ talk sey, no come near here, pull ⟨your⟩ sandal comot from ⟨your⟩ foot, because di place wey you dey stand on top, na holy ground ⟨im⟩ ⟨be⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "come near"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "here"
+    },
+    {
+      "surface": "של",
+      "gloss": "pull comot"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "your sandal"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "your foot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ground"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩ ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:29.496363832Z",
+  "model": "glm-5.2"
+}

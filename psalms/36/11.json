@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Draw out your chesed to those wey sabi you, and your righteousness to those wey get upright heart.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "draw out"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "to those wey sabi you"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "and your righteousness"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "to those wey get upright"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:58.942625937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ bin talk: \"Tomorrow.\" And ⟨he⟩ bin talk: \"According to your word, so that you go know sey nobody dey like Yahweh our Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Tomorrow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "According to your word"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so that"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "you go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nobody dey"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "like Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:31.367911605Z",
+  "model": "glm-5.2"
+}

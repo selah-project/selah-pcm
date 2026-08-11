@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And ⟨את⟩ Izevel, di dogs go chop am for di plot of Yizre'el, and nobody go bury am. And im open di door and im run.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "di dogs"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "for di plot"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "of Yizre'el"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "go bury am"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and im open"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "di door"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "and im run"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:27.676008667Z",
+  "model": "glm-5.2"
+}

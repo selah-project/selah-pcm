@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "For command upon command, command upon command; line upon line, line upon line; small here, small there.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "צו",
+      "gloss": "command"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "upon command"
+    },
+    {
+      "surface": "צו",
+      "gloss": "command"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "upon command"
+    },
+    {
+      "surface": "קו",
+      "gloss": "line"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "upon line"
+    },
+    {
+      "surface": "קו",
+      "gloss": "line"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "upon line"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "small"
+    },
+    {
+      "surface": "שם",
+      "gloss": "here"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "small"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:16.044635188Z",
+  "model": "glm-5.2"
+}

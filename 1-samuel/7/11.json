@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di men of Yisraël komot from haMitspah, and dem pursue ⟨את⟩ Pelishtim, and dem strike dem down unto under Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "and komot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "haMitspah"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "and pursue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "and strike dem down"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:46.410148776Z",
+  "model": "glm-5.2"
+}

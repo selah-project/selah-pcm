@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And dem find one Mitsri man for inside field, and dem carry ⟨את⟩ am to Dawud; and dem give am bread, and im chop; and dem make am drink water.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "and dem find"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for inside field"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem carry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "and im chop"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "and dem make am drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:13.205377245Z",
+  "model": "glm-5.2"
+}

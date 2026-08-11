@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Look na! ⟨Na⟩ im bed, wey be Shelomo im own — sixti strong warrior dem dey surround am, from di warrior dem of Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Look na!"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "im bed"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "wey be Shelomo im own"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sixti"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "strong warrior dem"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "from di warrior dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T15:00:38.624130735Z",
+  "model": "glm-5.2"
+}

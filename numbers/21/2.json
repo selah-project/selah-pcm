@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yisrael bin vow vow to Yahweh, and ⟨dem⟩ bin talk sey, If you go truly give ⟨את⟩ dis people for my hand, den I go totally destroy ⟨את⟩ dia cities.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "bin vow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vow"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "truly give"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "you go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨di⟩ people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "for my hand"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "I go totally destroy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia cities"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "dia cities"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:32.937022746Z",
+  "model": "glm-5.2"
+}

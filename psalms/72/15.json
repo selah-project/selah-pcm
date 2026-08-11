@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "And e go live, and dem go give am from di gold of Sheba, and dem go pray for am continually; all di day dem go bless am.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and e go live"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and dem go give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "from di gold"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "of Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "and dem go pray"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continually"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "י ברכנהו",
+      "gloss": "dem go bless am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:28.940639138Z",
+  "model": "glm-5.2"
+}

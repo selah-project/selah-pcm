@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And she come tell dem sey: Na so Yahweh, Elohim of Yisra'el, talk: Tell di man wey send una to me,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "and she come tell"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "to me"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:30.991985721Z",
+  "model": "glm-5.2"
+}

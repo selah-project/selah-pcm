@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And each man go siddon under im own grapevine, and under im own fig tree, and nobody go make dem fear; for mouth of Yahweh Tsavaot don speak am.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "and dem go siddon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "im own grapevine"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "and under"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "im own fig tree"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "go make dem fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsavaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don speak am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:00.107048032Z",
+  "model": "glm-5.2"
+}

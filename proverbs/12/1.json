@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Whoever love discipline love knowledge, but whoever hate correction ⟨be⟩ animal.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "love"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "love"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "and hate"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "correction"
+    },
+    {
+      "surface": "בער",
+      "gloss": "animal"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:02.741488182Z",
+  "model": "glm-5.2"
+}

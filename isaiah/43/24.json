@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "You no buy sweet cane for me wit silver, and you no satisfy me wit di fat of your sacrifice dem. Na only your sin dem make me serve, your iniquity dem tire me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "you buy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "wit silver"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sweet cane"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "and di fat"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "of your sacrifice dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "you satisfy me"
+    },
+    {
+      "surface": "אך",
+      "gloss": "na only"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "you make me serve"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "with your sin dem"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "you tire me"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "with your iniquity dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:29.872901919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I don reason ⟨את⟩ my ways, and I don turn my feet go ⟨di side of⟩ your testimonies.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "I don reason",
+      "marks": "my ways"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my ways"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "and I don turn"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my feet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "your testimonies"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:08.320252843Z",
+  "model": "glm-5.2"
+}

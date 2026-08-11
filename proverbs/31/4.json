@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "No be for king dem, Lemuel, no be for king dem to drink wine; and for oga dem wey dey rul, make dem dey hunger for strong drink.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no be for"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "king dem"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no be for"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "king dem"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "to drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "and for oga dem wey dey rul"
+    },
+    {
+      "surface": "או",
+      "gloss": "make dem dey hunger for"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "strong drink"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:17.732573522Z",
+  "model": "glm-5.2"
+}

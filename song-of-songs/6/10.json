@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Who ⟨be⟩ dis one, wey dey look out like dawn, fine like moon, pure like sun, fearsome like army-dem wey carry banner?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "wey dey look out"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "like moon"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pure"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "like sun"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "fearsome"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "like army-dem wey carry banner"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:02.086869227Z",
+  "model": "glm-5.2"
+}

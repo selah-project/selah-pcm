@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And wen e turn behind am, e see me, and e call unto me, and I talk say, here I dey.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "and wen e turn"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "behind am"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "e see me"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "unto me"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    }
+  ],
+  "timestamp": "2026-08-11T16:06:45.697061483Z",
+  "model": "glm-5.2"
+}

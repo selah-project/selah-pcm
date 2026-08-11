@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Praise wey dey exalt El ⟨dey⟩ for dia throat, and two-edge sword for dia hand.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "praise wey dey exalt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "for dia throat"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "and sword"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "two-edge"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "for dia hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:51.111400545Z",
+  "model": "glm-5.2"
+}

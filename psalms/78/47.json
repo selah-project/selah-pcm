@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "E kill dia grapevine with hail, and dia sycamore tree with ice-storm.",
+  "tokens": [
+    {
+      "surface": "יַהֲרֹ֣ג",
+      "gloss": "E kill"
+    },
+    {
+      "surface": "בַּבָּרָ֣ד",
+      "gloss": "with hail"
+    },
+    {
+      "surface": "גַּפְנָ֑ם",
+      "gloss": "dia grapevine"
+    },
+    {
+      "surface": "וְ֝שִׁקְמוֹתָ֗ם",
+      "gloss": "and dia sycamore tree"
+    },
+    {
+      "surface": "בַּֽחֲנָמַֽל",
+      "gloss": "with ice-storm"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.200796213Z",
+  "model": "glm-5.2"
+}

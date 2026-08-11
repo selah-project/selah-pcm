@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Because ⟨na⟩ your people and your inheritance dem be, wey you bring out from Mitsrayim, from inside di furnace of iron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "and your inheritance"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "you bring out"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "כור",
+      "gloss": "furnace"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "of iron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:41.325893067Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 118,
+  "translation": "You bin push me hard make I fall, but Yahweh bin help me.",
+  "tokens": [
+    {
+      "surface": "דַּחֹ֣ה",
+      "gloss": "you bin push hard"
+    },
+    {
+      "surface": "דְחִיתַ֣נִי",
+      "gloss": "you push me"
+    },
+    {
+      "surface": "לִנְפֹּ֑ל",
+      "gloss": "make I fall"
+    },
+    {
+      "surface": "וַ֖יהוָ֣ה",
+      "gloss": "but Yahweh"
+    },
+    {
+      "surface": "עֲזָרָֽנִי",
+      "gloss": "bin help me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:41.253993398Z",
+  "model": "glm-5.2"
+}

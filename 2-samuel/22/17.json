@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "⟨E⟩ send from high, ⟨E⟩ catch me; ⟨E⟩ pull me from plenty water.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "⟨E⟩ send"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "from high"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "⟨E⟩ catch me"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "⟨E⟩ pull me"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "from water"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:32.218839429Z",
+  "model": "glm-5.2"
+}

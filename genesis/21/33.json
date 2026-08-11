@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And ⟨im⟩ plant one tamarisk tree for Be'er-Sheva, and ⟨im⟩ call dia for in di name of Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "and ⟨im⟩ plant"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "tamarisk tree"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "for Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and ⟨im⟩ call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for in di name of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:36.404373129Z",
+  "model": "glm-5.2"
+}

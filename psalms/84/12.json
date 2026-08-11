@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 84,
+  "translation": "Because sun and shield ⟨na⟩ Yahweh Elohim; favor and glory Yahweh ⟨dey⟩ give; ⟨He⟩ no go hold back good tin from dose wey dey walk inside completeness.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "and shield"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "and glory"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨dey⟩ give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "go hold back"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good tin"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "from dose wey dey walk"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "inside completeness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:03.905605538Z",
+  "model": "glm-5.2"
+}

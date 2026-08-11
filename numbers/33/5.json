@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "So di pikin-dem of Yisra'el bin komot from Ra'meses, and dem bin kamp for Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bin komot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Ra'meses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bin kamp"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:49.734841949Z",
+  "model": "glm-5.2"
+}

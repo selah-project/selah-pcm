@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Di people bin stand far, and Moshe bin draw near go ⟨the⟩ thick darkness wey Elohim bin dey ⟨there⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "bin stand"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "far"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "and Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bin draw near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "thick darkness"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:56.609794266Z",
+  "model": "glm-5.2"
+}

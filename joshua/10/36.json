@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 10:36",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yehoshua go up from Eglon, and all Yisra'el with am, go Chevron, and dem fight against am.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "מעגלונה",
+      "gloss": "from Eglon"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:24.759094834Z",
+  "model": "glm-5.2"
+}

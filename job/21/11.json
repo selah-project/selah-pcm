@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 21:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Dey send dia small pikin-dem out like flock, and dia children dey dance.",
+  "tokens": [
+    {
+      "surface": "יְשַׁלְּח֣וּ",
+      "gloss": "dey send out"
+    },
+    {
+      "surface": "כַ֭צֹּאן",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "עֲוִילֵיהֶ֑ם",
+      "gloss": "dia small pikin-dem"
+    },
+    {
+      "surface": "וְיַלְדֵיהֶ֗ם",
+      "gloss": "and dia children"
+    },
+    {
+      "surface": "יְרַקֵּדֽוּן",
+      "gloss": "dey dance"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:37.805408558Z",
+  "model": "glm-5.2"
+}

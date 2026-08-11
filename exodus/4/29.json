@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Mosheh and Aharon go, and dem gather ⟨את⟩ all di elders of di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "elders"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:33.455527515Z",
+  "model": "glm-5.2"
+}

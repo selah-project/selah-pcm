@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Chiram bin send ⟨with⟩ di ships ⟨את⟩ im servants — men of ships, people wey sabi di sea — with servants of Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "with di ships"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ships"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "people wey sabi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants of"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:04.916672321Z",
+  "model": "glm-5.2"
+}

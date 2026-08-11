@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Take my instruction and no ⟨be⟩ silver, and knowledge ⟨from⟩ refined gold wey dem choose.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "take"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "my instruction"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "and knowledge"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "⟨from⟩ refined gold"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "wey dem choose"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:30.230742798Z",
+  "model": "glm-5.2"
+}

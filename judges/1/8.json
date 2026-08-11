@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di pikin of Yehudah fight against Yerushalayim, and dem grab am, and dem strike am wit mouth of sword, and ⟨את⟩ di city dem send inside fire.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "against Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "and dem grab"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "wit mouth of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dem send"
+    },
+    {
+      "surface": "באש",
+      "gloss": "inside fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:37.658109460Z",
+  "model": "glm-5.2"
+}

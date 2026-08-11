@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And now, as dis letter come reach una, ⟨and⟩ ⟨את⟩ una dey with una ⟨di⟩ sons of una masters, and ⟨את⟩ di chariot dem and di horse dem dey with una, plus one fortified city, and di weapon dem:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "as e come reach"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "dis letter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una dey with una"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "una masters"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "di chariot dem and di horse dem dey with una"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariot dem"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "and di horse dem"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "plus city"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortified"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "and di weapon dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:19.352966334Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Una go talk sey, 'Na sacrifice of Pesach ⟨e be⟩ to Yahweh, wey pass over di houses of di children of Yisrael for Mitsrayim, wen im strike ⟨את⟩ Mitsrayim and ⟨את⟩ our houses, im rescue.' And di people bow down and worship.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "una go talk"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "of Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e be⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pass over"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨over⟩"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "di houses"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "wen im strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "our houses"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "our houses"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "im rescue"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and worship"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:59.633154959Z",
+  "model": "glm-5.2"
+}

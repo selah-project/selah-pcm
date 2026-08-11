@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "For six month-dem Yoav bin siddon there, and all Yisra'el, until dem cut off all male for Edom.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שֵׁשֶׁת",
+      "gloss": "six"
+    },
+    {
+      "surface": "חֳדָשִׁים",
+      "gloss": "month-dem"
+    },
+    {
+      "surface": "יָשַׁב",
+      "gloss": "bin siddon"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "there"
+    },
+    {
+      "surface": "יוֹאָב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הִכְרִית",
+      "gloss": "dem cut off"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "male"
+    },
+    {
+      "surface": "בֶּאֱדוֹם",
+      "gloss": "for Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:44.269118852Z",
+  "model": "glm-5.2"
+}

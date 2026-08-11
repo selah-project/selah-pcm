@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di priest give to di commanders of di hundreds ⟨את⟩ di spear and ⟨את⟩ di shields wey belong to Dawid di king, wey dey for house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨he⟩ give"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "to di commanders of"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "di hundreds"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di spear"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "di spear"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di shields"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "di shields"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "belong to di king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dey for house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:22.776600500Z",
+  "model": "glm-5.2"
+}

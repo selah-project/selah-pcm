@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So Yehoachaz bin lie down wit im papa-dem, and dem bury am for Shomron, and Yoash im pikin come king for im position.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "bin lie down"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "and dem bury am"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im position"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:20.369127535Z",
+  "model": "glm-5.2"
+}

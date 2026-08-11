@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Trouble for us! Who go save us from di hand of dis mighty Elohim? Na dis Elohim be di one wey bin strike ⟨את⟩ Mitsrayim wit evri plague for di wilderness.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "go save us"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of di Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "di mighty"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na dis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "be di one"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "wey bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit evri"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "plague"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:44.586673372Z",
+  "model": "glm-5.2"
+}

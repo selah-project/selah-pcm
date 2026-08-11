@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Elisha die, and dem bury am. And raiding bands of Moab dey come enter di land when di year come.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "and die"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "and dem bury am"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "and raiding bands of"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "enter di land"
+    },
+    {
+      "surface": "בא",
+      "gloss": "when come"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di year"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:11.812275812Z",
+  "model": "glm-5.2"
+}

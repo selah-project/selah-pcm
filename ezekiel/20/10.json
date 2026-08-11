@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "So I bring dem out from di land of Mitsrayim, and I lead dem enter di wilderness.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "so I bring dem out"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "and I lead dem enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:08:46.355153812Z",
+  "model": "glm-5.2"
+}

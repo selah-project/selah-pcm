@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Make una bring out ⟨your⟩ case — bring ⟨am⟩ out with ⟨את⟩ your padi; and di secret of anoda pesin, no make am bare.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "your case"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your padi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "your padi"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "and di secret"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "make bare"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:46.049121597Z",
+  "model": "glm-5.2"
+}

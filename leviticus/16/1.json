@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Yahweh bin speak to Moshe, afta di death of di two sons of Aharon, wen dem come near bifo Yahweh, and dem die.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di death"
+    },
+    {
+      "surface": "שני",
+      "gloss": "di two"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "wen dem come near"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bifo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "and dem die"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:01.580111042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If dem find di thief as e dey dig through, and dem beat am and e die, no blood-guilt dey for am.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "for di digging-through"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "dem go find"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "di thief"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "and dem beat"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and e die"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood-⟨guilt⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:19.579912108Z",
+  "model": "glm-5.2"
+}

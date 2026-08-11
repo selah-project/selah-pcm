@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And if any man put blemish for im fellow body — as e do, so dem go do to am.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "And man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨e⟩ put"
+    },
+    {
+      "surface": "מום",
+      "gloss": "blemish"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "for im fellow body"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dem go do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:31.770788185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Yahweh tok to am, \"Go, return to your road, di wilderness side of Damasek; and you go enter, and you go anoint ⟨את⟩ Chaza'el as king over Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "return"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "to your road"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "di wilderness side"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "of Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "and you go enter"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "and you go anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaza'el"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chaza'el"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:50.415144879Z",
+  "model": "glm-5.2"
+}

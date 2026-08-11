@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Wen e dey good for righteous pipu, city dey jump for joy; wen bad pipu perish, shoute dey.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "wen e dey good"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "for righteous pipu"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "dey jump for joy"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "city"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "and wen perish"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bad pipu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "shoute"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:36.678868217Z",
+  "model": "glm-5.2"
+}

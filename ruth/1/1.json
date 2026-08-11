@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 1:1",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Now e bin happen for di days wey di judges bin dey judge, say hunger bin dey for di land; and one man from Bet־Lechem for Yehudah go sojourn for di fields of Moav — im sef and im wife and im two sons.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "wey … dey judge"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "di judges"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and hunger bin dey"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨im⟩ go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "go sojourn"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "for di fields"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im sef"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "and two"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sons of am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:36.650976035Z",
+  "model": "glm-5.2"
+}

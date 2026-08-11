@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Yehoshafat bin talk sey, ⟨Na⟩ im get ⟨את⟩ di word of Yahweh. And di king wey dey for Yisrael and Yehoshafat and di king wey dey for Edom bin go down meet am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨na⟩ im get"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "and bin go down"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "meet am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "and Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "and king"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:13.241298137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 110,
+  "translation": "Song of Dawid. Oracle of Yahweh to my lord: \"Sit for my right hand, until I make your enemies ⟨a⟩ footstool for your feet.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "to my lord"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sit"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "for my right hand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "I make"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "footstool"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "for your feet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:46.346058030Z",
+  "model": "glm-5.2"
+}

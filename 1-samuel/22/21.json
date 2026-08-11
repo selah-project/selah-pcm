@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Abiathar tell David sey Saul don kill ⟨את⟩ di priests of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kill"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di priests"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:19.744577717Z",
+  "model": "glm-5.2"
+}

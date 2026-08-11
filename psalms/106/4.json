@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Remember me, Yahweh, for di favor of Your people; look after me for Your salvation.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Remember me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "for di favor"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "of Your people"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "look after me"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "for Your salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:19.399290724Z",
+  "model": "glm-5.2"
+}

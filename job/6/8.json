@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Who go make sey my request come, and Eloah go grant my hope?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Who"
+    },
+    {
+      "surface": "יִ֭תֵּן",
+      "gloss": "go make sey"
+    },
+    {
+      "surface": "תָּב֣וֹא",
+      "gloss": "come"
+    },
+    {
+      "surface": "שְׁאֵלָתִ֑י",
+      "gloss": "my request"
+    },
+    {
+      "surface": "וְ֝תִקְוָתִ֗י",
+      "gloss": "and my hope"
+    },
+    {
+      "surface": "יִתֵּ֥ן",
+      "gloss": "go grant"
+    },
+    {
+      "surface": "אֱלֽוֹהַּ",
+      "gloss": "Eloah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:25.704651034Z",
+  "model": "glm-5.2"
+}

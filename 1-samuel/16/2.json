@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Shemuel talk, \"How I go go? If Shaʾul hear, e go kill me.\" And Yahweh talk, \"One young cow from di herd you go take for your hand, and you go talk sey, 'To do sacrifice to Yahweh I bin come.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And e talk"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "איך",
+      "gloss": "How"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go go"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "If im hear"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʾul"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "and e go kill me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And e talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "One young cow"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "from di herd"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go talk"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "to do sacrifice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "I bin come"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:52.950562328Z",
+  "model": "glm-5.2"
+}

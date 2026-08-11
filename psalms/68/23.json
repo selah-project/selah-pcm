@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Adonai talk say, \"From Bashan I go bring back, I go bring back from di depth of sea.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "From Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go bring back"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go bring back"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "from di depth"
+    },
+    {
+      "surface": "ים",
+      "gloss": "of sea"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:29.748760590Z",
+  "model": "glm-5.2"
+}

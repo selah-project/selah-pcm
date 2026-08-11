@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Yehoyada grow old, and im days full, and e die — ⟨im bin be⟩ son of one hundred and thirty years for im death.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "and e grow old"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "and im days full"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and e die"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "for im death"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:31.517651571Z",
+  "model": "glm-5.2"
+}

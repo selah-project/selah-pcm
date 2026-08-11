@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Entrance of di middle side-room dey for shoulder of di house, di right side; and with winding-stairs dem go up on top di middle one, and from di middle one to di third.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "of di side-room"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "di middle one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "shoulder"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "di right side"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "and with winding-stairs"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dem go up"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "di middle one"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "di middle one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "di third"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:13.635041172Z",
+  "model": "glm-5.2"
+}

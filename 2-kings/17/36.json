@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Instead, ⟨na⟩ ⟨את⟩ Yahweh, wey bring una comot from di land of Mitsrayim wit great power and wit arm wey dem stretch out — ⟨am⟩ una go fear, and to ⟨am⟩ una go bow down, and to ⟨am⟩ una go sacrifice.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Instead"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bring comot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "wit power"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "and wit arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wey dem stretch out"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "una go fear"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "and to ⟨am⟩"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "una go bow down"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "and to ⟨am⟩"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "una go sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:00.816161003Z",
+  "model": "glm-5.2"
+}

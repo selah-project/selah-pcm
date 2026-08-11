@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 18:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Yitro, wey be in-law of Moshe, bin come wit im sons and im wife go meet Moshe, go di wilderness wey e dey camp, for there for di mountain of Elohim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "in-law"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di wilderness"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "dey camp"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:54.419939025Z",
+  "model": "glm-5.2"
+}

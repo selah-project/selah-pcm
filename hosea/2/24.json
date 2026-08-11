@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di earth go answer ⟨את⟩ di grain, and ⟨את⟩ di new wine, and ⟨את⟩ di oil; and dem go answer ⟨את⟩ Yizre'el.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "and di earth"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di grain"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "di grain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di new wine"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "di new wine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di oil"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "di oil"
+    },
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizre'el"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:24.760290375Z",
+  "model": "glm-5.2"
+}

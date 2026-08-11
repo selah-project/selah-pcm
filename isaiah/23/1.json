@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Di burden of Tzor. Howl, una ship-dem of Tarshish, because dem don destroy am — no house, no entrance: from di land of Kittim dem don reveal am to dem.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "di burden"
+    },
+    {
+      "surface": "צר",
+      "gloss": "of Tzor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "howl"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "una ship-dem"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "of Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dem don destroy am"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "no house"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "no entrance"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "of Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "dem don reveal am"
+    },
+    {
+      "surface": "למו",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:05.507890205Z",
+  "model": "glm-5.2"
+}

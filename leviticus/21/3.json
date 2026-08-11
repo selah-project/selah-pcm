@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "and for im sister, di virgin wey dey near am, wey neva bin belong to any man — for her ⟨im⟩ go make imself dirty.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "and for im sister"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "di virgin"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "wey dey near"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "belong to any man"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for her"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "go make imself dirty"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:17.096643590Z",
+  "model": "glm-5.2"
+}

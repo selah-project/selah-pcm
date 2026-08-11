@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And di people quarrel wit Mosheh, and dem talk, sey: Make we for don die as our broda-dem bin die before Yahweh!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "and ⟨he⟩ quarrel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "if only"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "we for don die"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "as ⟨bin⟩ die"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "our broda-dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:49.505108849Z",
+  "model": "glm-5.2"
+}

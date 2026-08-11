@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Because of dat, I regard all your precepts as ⟨right⟩ for evri tin; evri false road I hate.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "your precepts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "I regard as ⟨right⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "road"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "false"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "I hate"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.923530624Z",
+  "model": "glm-5.2"
+}

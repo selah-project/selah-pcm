@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yahweh give Yisra'el ⟨את⟩ all di land wey ⟨He⟩ swear to give to dia papa-dem; and dem inherit am, and dem settle inside am.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "to Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "⟨He⟩ swear"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "to dia papa-dem"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "and dem inherit am"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and dem settle"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:55.954481969Z",
+  "model": "glm-5.2"
+}

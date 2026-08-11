@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And ⟨את⟩ Yehu pikin of Nimshi you go anoint as king over Yisra'el; and ⟨את⟩ Elisha pikin of Shafat, from Avel-Mecholah, you go anoint as prophet for your place.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "of Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "you go anoint"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "of Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "from Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "-Mecholah"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "you go anoint"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "as prophet"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "for your place"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:50.415302468Z",
+  "model": "glm-5.2"
+}

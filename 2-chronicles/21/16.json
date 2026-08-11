@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yahweh stir up against Yehoram ⟨את⟩ di spirit of di Pelishtim and of di Arabians wey ⟨dey⟩ near di Kushim.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "and ⟨He⟩ stir up"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di spirit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "of di Pelishtim"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "and of di Arabians"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "near"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand of"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "di Kushim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.329861692Z",
+  "model": "glm-5.2"
+}

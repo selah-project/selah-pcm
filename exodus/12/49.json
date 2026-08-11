@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "One torah ⟨go⟩ dey for di person wey bin born for di land, and for di stranger wey dey sojourn among una.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "for di person wey bin born for di land"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "and for di stranger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wey dey sojourn"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "among una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:48.711861687Z",
+  "model": "glm-5.2"
+}

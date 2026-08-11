@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And evri woman wey ⟨get⟩ wise heart, ⟨dem⟩ spin with dia hand, and ⟨dem⟩ bring wetin dem spin: ⟨את⟩ di blue, and ⟨את⟩ di purple, ⟨את⟩ di scarlet worm, and ⟨את⟩ di fine linen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "with dia hand"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "spin"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "and ⟨dem⟩ bring"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "wetin dem spin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blue"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "di blue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di purple"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "di purple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di scarlet worm"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "scarlet worm"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fine linen"
+    },
+    {
+      "surface": "השש",
+      "gloss": "di fine linen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:45.721111118Z",
+  "model": "glm-5.2"
+}

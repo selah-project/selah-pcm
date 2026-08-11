@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "So Yehoshua bin cut covenant for di people for dat day, and e bin set for dem decree and judgment for Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "bin cut"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for di people"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "bin set"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "חק",
+      "gloss": "decree"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "and judgment"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "for Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:46.031772059Z",
+  "model": "glm-5.2"
+}

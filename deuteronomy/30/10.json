@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Because you go hear di voice of Yahweh your Elohim, to keep im commandment dem and im rule dem, di one wey dem write for dis book of Torah here, because you go return to Yahweh your Elohim wit all your heart and wit all your ⟨life⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "you go hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di voice of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "to keep"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "im commandment dem"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "and im rule dem"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "di one wey dem write"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "for book of"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis here"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "you go return"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and wit all"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your ⟨life⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:44.837253469Z",
+  "model": "glm-5.2"
+}

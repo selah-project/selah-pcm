@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Ya'akov, dia fada, bin talk to dem, 'Me una don bereave: Yosef no dey, and Shim'on no dey, and ⟨את⟩ Binyamin una go take; upon me all ⟨these⟩ don come.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia fada"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "una don bereave"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "and Shim'on"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "una go take"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon me"
+    },
+    {
+      "surface": "היו",
+      "gloss": "don come"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "all"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:28.066013806Z",
+  "model": "glm-5.2"
+}

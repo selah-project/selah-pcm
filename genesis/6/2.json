@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "⟨Di⟩ sons of Elohim bin see ⟨את⟩ daughters of mankind, sey dem fine; and dem take wives for demself, from all wey dem choose.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daughters"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "daughters"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of mankind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "fine"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for demself"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wives"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "dem choose"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:04.461721132Z",
+  "model": "glm-5.2"
+}

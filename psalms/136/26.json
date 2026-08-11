@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "Make una give thanks to El of ⟨di⟩ heavens, sey ⟨im⟩ chesed dey last forever.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Make una give thanks"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨di⟩ heavens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨im⟩ chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:04.494367618Z",
+  "model": "glm-5.2"
+}

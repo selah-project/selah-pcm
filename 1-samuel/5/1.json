@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di Filistim dem bin take ⟨את⟩ di ark of Elohim, and dem carry am from Eben-ha-Ezer go Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "and di Filistim dem"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "and dem carry am"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "go Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:10.361883697Z",
+  "model": "glm-5.2"
+}

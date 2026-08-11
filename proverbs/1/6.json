@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Make ⟨a person⟩ understand proverb and dark saying — words of wise men, and dia riddles.",
+  "tokens": [
+    {
+      "surface": "לְהָבִ֣ין",
+      "gloss": "make understand"
+    },
+    {
+      "surface": "מָ֭שָׁל",
+      "gloss": "proverb"
+    },
+    {
+      "surface": "וּמְלִיצָ֑ה",
+      "gloss": "and dark saying"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "words of"
+    },
+    {
+      "surface": "חֲ֝כָמִ֗ים",
+      "gloss": "wise men"
+    },
+    {
+      "surface": "וְחִידֹתָֽם",
+      "gloss": "and dia riddles"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:38.016550923Z",
+  "model": "glm-5.2"
+}

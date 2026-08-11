@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because im know ⟨di⟩ road wey I dey follow; wen im test me, I go come out like gold.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "im know"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wey I dey follow"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "wen im test me"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "like gold"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "I go come out"
+    }
+  ],
+  "timestamp": "2026-08-11T16:43:39.693608725Z",
+  "model": "glm-5.2"
+}

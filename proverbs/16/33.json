@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Dem dey throw ⟨את⟩ di lot inside ⟨di⟩ lap, but all im judgment come from Yahweh.",
+  "tokens": [
+    {
+      "surface": "בַּ֭חֵיק",
+      "gloss": "inside ⟨di⟩ lap"
+    },
+    {
+      "surface": "יוּטַ֣ל",
+      "gloss": "dem dey throw"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di lot"
+    },
+    {
+      "surface": "הַגּוֹרָ֑ל",
+      "gloss": "di lot"
+    },
+    {
+      "surface": "וּ֝מֵיְהוָ֗ה",
+      "gloss": "but from Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִשְׁפָּטֽוֹ",
+      "gloss": "im judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:43.495972022Z",
+  "model": "glm-5.2"
+}

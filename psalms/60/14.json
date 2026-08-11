@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "For Elohim we go do valiantly, and na ⟨Him⟩ go trample down our enemies.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "For Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valiantly"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and na ⟨Him⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "go trample down"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "our enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:17.504691263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Remember, Yahweh, wetin don happen to us; look well, and see ⟨את⟩ ⟨our⟩ disgrace.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "Remember"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "don happen"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "to us"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "look well"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disgrace"
+    },
+    {
+      "surface": "חֶרְפָּתֵֽנוּ",
+      "gloss": "our disgrace"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:56.170400371Z",
+  "model": "glm-5.2"
+}

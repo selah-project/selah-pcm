@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "⟨Dem⟩ dey crush your people, Yahweh, and ⟨dem⟩ dey oppress your inheritance.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "⟨dem⟩ dey crush"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "and your inheritance"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "⟨dem⟩ dey oppress"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:09.492796706Z",
+  "model": "glm-5.2"
+}

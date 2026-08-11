@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Because you test us, Elohim; you refine us, like how dem dey refine silver.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "you test us"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "you refine us"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "like how dem dey refine"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:19.494821792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "You wey dey fear Yahweh, praise am; all ⟨di⟩ seed of Ya'akov, honor am; and fear am, all ⟨di⟩ seed of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "you wey dey fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "honor am"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "and fear am"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨am⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:32.975843197Z",
+  "model": "glm-5.2"
+}

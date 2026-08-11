@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Mosheh komot from wit Paroh, from ⟨את⟩ di siti, and im stret im two hand dem go Yahweh; and di thunder dem and di hail stop, and rain no pore put again on top ground.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and im komot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from wit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di siti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di siti"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "and im stret"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "im two hand dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "and dem stop"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "di thunder dem"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "and di hail"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "and rain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "pore put"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "on top ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:23.864354873Z",
+  "model": "glm-5.2"
+}

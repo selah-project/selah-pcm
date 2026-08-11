@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And e bin happen, wen Izevel bin dey cut off ⟨את⟩ di prophets of Yahweh, Obadyahu bin take hundred prophets, and e hide dem — fifty man for cave — and e dey feed dem wit bread and water.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "wen dem bin dey cut off"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di prophets of Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "di prophets"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e bin take"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prophets"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "and e hide dem"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "for cave"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "and e dey feed dem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wit bread"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "and water"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:04.700599648Z",
+  "model": "glm-5.2"
+}

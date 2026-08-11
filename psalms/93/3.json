@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 93,
+  "translation": "Di rivers bin lift up, Yahweh; di rivers bin lift up dia voice; di rivers go lift up dia pounding.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "bin lift up"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "di rivers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bin lift up"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "di rivers"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dia voice"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "go lift up"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "di rivers"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "dia pounding"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:32.646162672Z",
+  "model": "glm-5.2"
+}

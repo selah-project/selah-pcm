@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Dem dey search out wickedness; \"We don perfect ⟨a⟩ search,\" dem talk, ⟨a⟩ deep search. And ⟨di⟩ inward part of man, and ⟨di⟩ heart, ⟨be⟩ deep.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "dem dey search out"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "we don perfect"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "search"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "deep search"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "and inward part"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "and heart"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "deep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:28.248743234Z",
+  "model": "glm-5.2"
+}

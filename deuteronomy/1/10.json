@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Yahweh, una Elohim, don make una plenty, and see, una dis day ⟨be⟩ like di stars of heaven for number.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "don make plenty"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "una"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "and see"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dis day"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "like di stars of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "for number"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:35.513408816Z",
+  "model": "glm-5.2"
+}

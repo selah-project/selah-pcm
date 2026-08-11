@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "⟨E⟩ send Mosheh, im servant, Aharon wey ⟨E⟩ choose.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "⟨E⟩ send"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "⟨E⟩ choose"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:34.568059994Z",
+  "model": "glm-5.2"
+}

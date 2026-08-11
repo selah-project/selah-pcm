@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh go strike you wit consumption, and wit fever, and wit inflammation, and wit fiery heat, and wit sword, and wit blight, and wit mildew; and dem go pursue you until you perish.",
+  "tokens": [
+    {
+      "surface": "יַכְכָ֣ה",
+      "gloss": "go strike"
+    },
+    {
+      "surface": "יְהוָ֠ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בַּשַּׁחֶ֨פֶת",
+      "gloss": "wit consumption"
+    },
+    {
+      "surface": "וּבַקַּדַּ֜חַת",
+      "gloss": "and wit fever"
+    },
+    {
+      "surface": "וּבַדַּלֶּ֗קֶת",
+      "gloss": "and wit inflammation"
+    },
+    {
+      "surface": "וּבַֽחַרְחֻר֙",
+      "gloss": "and wit fiery heat"
+    },
+    {
+      "surface": "וּבַחֶ֔רֶב",
+      "gloss": "and wit sword"
+    },
+    {
+      "surface": "וּבַשִּׁדָּפ֖וֹן",
+      "gloss": "and wit blight"
+    },
+    {
+      "surface": "וּבַיֵּרָק֑וֹן",
+      "gloss": "and wit mildew"
+    },
+    {
+      "surface": "וּרְדָפ֖וּךָ",
+      "gloss": "and dem go pursue you"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אָבְדֶֽךָ",
+      "gloss": "you perish"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.598315300Z",
+  "model": "glm-5.2"
+}

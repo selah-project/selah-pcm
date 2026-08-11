@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Precious for di eyes of Yahweh ⟨na⟩ di death of ⟨im⟩ devoted ones.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "precious"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eyes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "di death"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "of ⟨im⟩ devoted ones"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:40.930728795Z",
+  "model": "glm-5.2"
+}

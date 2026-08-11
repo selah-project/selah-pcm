@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and dia brodas, according to dia generations, nine hundred and fifty-six; all dis men ⟨na⟩ heads of papa dem, according to ⟨di⟩ house of dia papa dem.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "and dia brodas"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "according to dia generations"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nine"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "and fifty"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "and six"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "heads of"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "papa dem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "according to ⟨di⟩ house of"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "dia papa dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:19.544112430Z",
+  "model": "glm-5.2"
+}

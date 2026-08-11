@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Even as I dey waka for valley of death-shadow, I no go fear bad tin: because you dey with me; your staff and your walking-stick, na dem dey console me.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I dey waka"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "for valley of"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "death-shadow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "I go fear"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "dey with me"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "your staff"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "and your walking-stick"
+    },
+    {
+      "surface": "המה",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "dey console me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:03.607167540Z",
+  "model": "glm-5.2"
+}

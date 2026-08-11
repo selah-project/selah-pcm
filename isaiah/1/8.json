@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And daughter of Tziyon go remain like hut for vineyard, like shed for cucumber farm, like city wey dem surround.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "and go remain"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "like hut for"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "like shed for"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "cucumber farm"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "like city"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "wey dem surround"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:07.174979579Z",
+  "model": "glm-5.2"
+}

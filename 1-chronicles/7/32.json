@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Chever born ⟨את⟩ Yaflet, and ⟨את⟩ Shomer, and ⟨את⟩ Chotam, and ⟨את⟩ Shu'a, dia sister.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "and Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shu'a"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shu'a"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dia sister"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:08.145504931Z",
+  "model": "glm-5.2"
+}

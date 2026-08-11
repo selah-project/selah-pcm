@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di king tell am, \"Wetin happen to you?\" And im talk, \"Dis woman talk to me, 'Give ⟨את⟩ your son, make we chop am today, and ⟨את⟩ my son we go chop tomorrow.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tell am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wetin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "happen to you"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "And im talk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your son"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "your son"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "make we chop am"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "we go chop"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:41.822965273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "If dem dig inside Sheol, from there my hand go take dem; and if dem climb go heaven, from there I go bring dem down.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "dem dig"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "inside Sheol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from there"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "go take dem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dem climb"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from there"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "I go bring dem down"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:45.292643792Z",
+  "model": "glm-5.2"
+}

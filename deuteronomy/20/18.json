@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make dem no teach una to do all dia detestable tinz wey dem do for dia elohim, and make una no come sin against Yahweh your Elohim.",
+  "tokens": [
+    {
+      "surface": "לְמַ֗עַן",
+      "gloss": "make"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יְלַמְּד֤וּ",
+      "gloss": "dem teach"
+    },
+    {
+      "surface": "אֶתְכֶם֙",
+      "gloss": "⟨את⟩ una",
+      "marks": "una (object of 'to do')"
+    },
+    {
+      "surface": "לַעֲשׂ֔וֹת",
+      "gloss": "to do"
+    },
+    {
+      "surface": "כְּכֹל֙",
+      "gloss": "all"
+    },
+    {
+      "surface": "תּֽוֹעֲבֹתָ֔ם",
+      "gloss": "dia detestable tinz"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עָשׂ֖וּ",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "לֵֽאלֹהֵיהֶ֑ם",
+      "gloss": "for dia elohim"
+    },
+    {
+      "surface": "וַחֲטָאתֶ֖ם",
+      "gloss": "and make una come sin"
+    },
+    {
+      "surface": "לַיהוָ֥ה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:39.933033590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 96,
+  "translation": "Make di heavens glad, and make di earth rejoice; make di sea roar, and all di fullness of am.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "make ⟨di⟩ glad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heavens"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "and make ⟨di⟩ rejoice"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "make ⟨di⟩ roar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "and all di fullness of am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:46.027032552Z",
+  "model": "glm-5.2"
+}

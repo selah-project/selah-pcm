@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Because anybodi wey dey do dis tin ⟨na⟩ detestable tin to Yahweh, and because of dis ⟨kind⟩ detestable tins Yahweh your Elohim dey drive ⟨את⟩ dem comot from your front.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תוֹעֲבַ֥ת",
+      "gloss": "detestable tin"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "anybodi"
+    },
+    {
+      "surface": "עֹ֣שֵׂה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "אֵ֑לֶּה",
+      "gloss": "dis tin"
+    },
+    {
+      "surface": "וּבִגְלַל֙",
+      "gloss": "and because of"
+    },
+    {
+      "surface": "הַתּוֹעֵבֹ֣ת",
+      "gloss": "di detestable tins"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מוֹרִ֥ישׁ",
+      "gloss": "dey drive comot"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מִפָּנֶֽיךָ",
+      "gloss": "from your front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:22.870507566Z",
+  "model": "glm-5.2"
+}

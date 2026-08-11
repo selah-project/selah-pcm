@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨di⟩ pikin-dem of Yerachmeel, firstborn of Chetsron, ⟨bin⟩ ⟨be⟩: Ram di firstborn, and Bunah, and Oren, and Otzem, Achiyah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "and ⟨bin⟩ ⟨be⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "and Bunah"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "and Oren"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "and Otzem"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyah"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:51.438595073Z",
+  "model": "glm-5.2"
+}

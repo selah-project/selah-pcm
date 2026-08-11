@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "King of Eglon, one; king of Gezer, one;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:18.613617542Z",
+  "model": "glm-5.2"
+}

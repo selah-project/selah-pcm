@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And make Chizkiyahu no make ⟨את⟩ una trust Yahweh, dey say: Yahweh go surely save us; and dem no go give ⟨את⟩ dis city inside di hand of di king of Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "and make...no"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "trust"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey say"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "surely save"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "⟨im⟩ go save us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "dem go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:01.389085706Z",
+  "model": "glm-5.2"
+}

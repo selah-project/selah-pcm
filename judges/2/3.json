@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So I also bin talk say, I no go drive ⟨את⟩ dem comot from una front, and dem go siddon for una side as ⟨trouble⟩, and dia gods go bi snare for una.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "So I also"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "bin talk say"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "I go drive comot"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "from una front"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and dem go bi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "as trouble for una side"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "and dia gods"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go bi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "snare"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:15.025933092Z",
+  "model": "glm-5.2"
+}

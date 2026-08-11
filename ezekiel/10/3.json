@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di kerubim ⟨bin dey⟩ stand for di right side of di house as di man enter, and di cloud fill ⟨את⟩ di inner courtyard.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "and di kerubim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stand"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "for di right side"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "as ⟨im⟩ enter"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "and di cloud"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di inner courtyard"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "inner"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:15.861916278Z",
+  "model": "glm-5.2"
+}

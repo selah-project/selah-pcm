@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "All di hand dem go slack, and all knee dem go turn to water.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "di hand dem"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "go slack"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "knee dem"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "go turn to"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T12:03:45.934885359Z",
+  "model": "glm-5.2"
+}

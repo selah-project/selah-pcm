@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And for Yerushalayim, some of di sons of Yehudah, and some of di sons of Binyamin, and some of di sons of Efrayim and Menasheh bin dey stay.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "and for Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dem bin dey stay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "some of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and some of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and some of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "and Menasheh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:57.190212057Z",
+  "model": "glm-5.2"
+}

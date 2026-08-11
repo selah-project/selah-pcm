@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And you bin see ⟨את⟩ di trouble of we papa dem for Mitsrayim, and ⟨את⟩ dia cry you hear for di side of Sea of Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "and you bin see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di trouble"
+    },
+    {
+      "surface": "עני",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "of we papa dem"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "dia cry"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "על",
+      "gloss": "for di side of"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Sea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "of Suf"
+    }
+  ],
+  "timestamp": "2026-08-11T13:51:10.766953494Z",
+  "model": "glm-5.2"
+}

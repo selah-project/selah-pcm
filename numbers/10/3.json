@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And when dem blow dem, all di assembly go gather demselves to you for di entrance of di tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "And when dem blow"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "go gather demselves"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of di tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:14.212715147Z",
+  "model": "glm-5.2"
+}

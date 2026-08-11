@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 33:28",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And I go make ⟨את⟩ di land desolate and destroyed, and di pride of im power go stop; and di mountains of Yisrael go become desolate, sotey nobody wey dey pass go pass.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "desolate"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "and destroyed"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "and go stop"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "di pride"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "of im power"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "and go become desolate"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "sotey nobody"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "wey dey pass"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:05.575861944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "We go sing for joy inside your salvation, and for di name of Elohim we go raise ⟨im⟩ banner; make Yahweh fill all wetin you ask.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "we go sing for joy"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "inside your salvation"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "and for di name"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "we go raise ⟨im⟩ banner"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "make Yahweh fill"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "wetin you ask"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:37.695047247Z",
+  "model": "glm-5.2"
+}

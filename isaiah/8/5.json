@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yahweh bin add to speak to me again, to talk sey:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "and bin add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "to speak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:40.133642062Z",
+  "model": "glm-5.2"
+}

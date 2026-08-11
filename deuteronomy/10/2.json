@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "and I go write on top ⟨di⟩ tablet dem ⟨את⟩ di word dem wey bin dey on top di first tablet dem wey you bin break, and you go put dem inside di ark.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "and I go write"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "di tablet dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word dem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di word dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "di tablet dem"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "di first one dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "you bin break"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "and you go put dem"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "inside di ark"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:54.068070728Z",
+  "model": "glm-5.2"
+}

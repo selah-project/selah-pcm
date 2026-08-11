@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "Your tongue dey plan destruction, like sharp razor wey dem sharpen, wey dey do treachery.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "destruction"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "⟨it⟩ dey plan"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "your tongue"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "like razor"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "wey dem sharpen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "treachery"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:28.438650035Z",
+  "model": "glm-5.2"
+}

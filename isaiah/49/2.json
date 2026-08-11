@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "And im come make my mouth like sharp sharp-sword, for inside shadow of im hand im hide me; and im come put me like polished arrow, for inside im quiver im conceal me.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and im come make"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "like sword"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "sharp"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "for inside shadow"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "of im hand"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "im hide me"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "and im come put me"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "like arrow"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "polished"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "for inside im quiver"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "im conceal me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:36.576000414Z",
+  "model": "glm-5.2"
+}

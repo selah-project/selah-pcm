@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And ⟨he⟩ bend di heavens come down, and thick darkness dey under im feet.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "and bend"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di heavens"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "come down"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "and thick darkness"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dey under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im feet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:57.260636551Z",
+  "model": "glm-5.2"
+}

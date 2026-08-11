@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 4:6",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "and ⟨the⟩ sons of Yehudah and ⟨the⟩ sons of Yerushalayim una sell to ⟨the⟩ sons of ⟨the⟩ Yevanim, so that una go push dem far from dia border.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and ⟨the⟩ sons of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and ⟨the⟩ sons of"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "una sell"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to ⟨the⟩ sons of"
+    },
+    {
+      "surface": "היונים",
+      "gloss": "⟨the⟩ Yevanim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so that"
+    },
+    {
+      "surface": "הרחיקם",
+      "gloss": "una go push dem far"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "dia border"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:48.364980205Z",
+  "model": "glm-5.2"
+}

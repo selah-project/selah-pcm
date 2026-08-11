@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di head dem of di papa dem of Yehudah and Binyamin, and di kohanim dem, and di Leviyim dem, stand up—everyone wey Elohim don stir ⟨את⟩ im spirit, make ⟨he⟩ go up make ⟨he⟩ build ⟨את⟩ house of Yahweh wey dey for Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "and dem stand up"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "head dem of"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "di papa dem"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "and Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "and di kohanim dem"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Leviyim dem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wey im stir"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im spirit"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "im spirit"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "make he go up"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "make he build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "dey for Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:14.457548868Z",
+  "model": "glm-5.2"
+}

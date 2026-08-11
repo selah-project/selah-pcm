@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Yaakov bin love ⟨את⟩ Rachel, and im talk sey, 'I go serve you seven years for Rachel, your small daughter.'",
+  "tokens": [
+    {
+      "surface": "ואהב",
+      "gloss": "and bin love"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "I go serve you"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "year"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "for Rachel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "your daughter"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "di small one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:51.467438752Z",
+  "model": "glm-5.2"
+}

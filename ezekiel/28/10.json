@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 28:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Death of uncircumcised people you go die, for ⟨di⟩ hand of strangers; for na me don speak, ⟨na⟩ oracle of Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "מותי",
+      "gloss": "death of"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "uncircumcised people"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "you go die"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for ⟨di⟩ hand of"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "don speak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:12:41.546515137Z",
+  "model": "glm-5.2"
+}

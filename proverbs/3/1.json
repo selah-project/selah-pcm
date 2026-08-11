@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "My son, no forget my torah, and my commandments make your heart guard:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my torah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "forget"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "and my commandments"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "make ⟨am⟩ guard"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "your heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:38.853225618Z",
+  "model": "glm-5.2"
+}

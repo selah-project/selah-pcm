@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Make you make me hear joy and gladness; make bones wey you crush dance for joy.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "make you make me hear"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "joy"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "and gladness"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "make ⟨dem⟩ dance for joy",
+      "notes": "feminine plural suffix dey agree wit bones; copula no dey for Hebrew"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bones"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "⟨wey⟩ you crush"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:35.870520030Z",
+  "model": "glm-5.2"
+}

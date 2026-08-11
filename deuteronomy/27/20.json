@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Cursed ⟨be⟩ ⟨im⟩ wey dey lie wit im papa wife, because ⟨im⟩ don uncover im papa skirt, and all di people go talk Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wey dey lie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "don uncover"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "skirt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and go talk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:17.429571670Z",
+  "model": "glm-5.2"
+}

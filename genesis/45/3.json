@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Yusuf bin talk to im broda dem, \"Na me be Yusuf. Abi my papa still dey alive?\" And im broda dem no fit ansa am, ⟨na⟩ because dem bin dey tremble from im presence.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey alive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "And no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "fit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda dem"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "to ansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bin dey tremble"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "from im presence"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:47.795155928Z",
+  "model": "glm-5.2"
+}

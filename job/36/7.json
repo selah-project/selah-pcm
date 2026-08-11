@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Im eye no dey withdraw from ⟨di⟩ righteous person, and ⟨את⟩ kings ⟨na⟩ for throne, and e make dem sit down forever, and dem lift dem up.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "dey withdraw"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "from righteous person"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kings"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "for throne"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "and e make dem sit down"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "and dem lift dem up"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:09.654770757Z",
+  "model": "glm-5.2"
+}

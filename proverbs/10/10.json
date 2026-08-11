@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Person wey dey squeeze eye go bring pain; and foolish-lip person go fall.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Person wey dey squeeze"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go bring"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "pain"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "and foolish"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "-lip person"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "go fall"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:53.113595608Z",
+  "model": "glm-5.2"
+}

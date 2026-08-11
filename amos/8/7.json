@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Yahweh don swear by di pride of Ya'akov, 'I no go ever forget any of dia deeds.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "don swear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "by di pride of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "I go forget"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ever"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any of"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dia deeds"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:14.688831090Z",
+  "model": "glm-5.2"
+}

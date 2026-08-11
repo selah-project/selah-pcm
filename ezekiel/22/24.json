@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Son of man, tell am: ⟨את⟩ you be land wey dem no purify, she no be land wey rain fall upon for day of indignation.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "you be land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "dem purify"
+    },
+    {
+      "surface": "היא",
+      "gloss": "she"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "rain fall upon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "of indignation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:13.997109809Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Di chesed wey Yahweh get, I go sing am forever; from generation go reach generation, I go make known ⟨את⟩ ya faithfulness wit my mouth.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "di chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "I go sing"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "and generation"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "I go make known"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ya faithfulness",
+      "marks": "ya faithfulness"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "wit my mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:17.595296999Z",
+  "model": "glm-5.2"
+}

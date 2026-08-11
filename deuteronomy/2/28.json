@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Food for silver, sell me, and I go chop; and water for silver, give me, and I go drink; only, make I pass through on my feet.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "food"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for silver"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "sell me"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "and I go chop"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "and water"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for silver"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "and I go drink"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "make I pass through"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "on my feet"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:48.882172534Z",
+  "model": "glm-5.2"
+}

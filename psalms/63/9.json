@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "My life dey hold tight behind You; Your right hand dey sustain me.",
+  "tokens": [
+    {
+      "surface": "דָּבְקָ֣ה",
+      "gloss": "dey hold tight"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "my life"
+    },
+    {
+      "surface": "אַחֲרֶ֑יךָ",
+      "gloss": "behind You"
+    },
+    {
+      "surface": "בִּ֝֗י",
+      "gloss": "me"
+    },
+    {
+      "surface": "תָּמְכָ֥ה",
+      "gloss": "dey sustain"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "Your right hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:13.970854126Z",
+  "model": "glm-5.2"
+}

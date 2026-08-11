@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Saul bin dey ⟨be⟩ son of one year for im kingdom, and two years im don reign on top Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "for im kingdom"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "and two"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "im don reign"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:22.329540802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "Make ⟨make⟩ your priests clothe righteousness, and your faithful ones go shout for joy.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "your priests"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "make ⟨make⟩ clothe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "and your faithful ones"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "go shout for joy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:29.189805752Z",
+  "model": "glm-5.2"
+}

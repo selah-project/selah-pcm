@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 39:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And e come to pass, as im hear sey I lift up my voice and I shout, im leave im cloth beside me, and im run and im comot go outside.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כשמעו",
+      "gloss": "as im hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "I lift up"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "and I shout"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "im leave"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "im cloth"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "beside me"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "and im run"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and im comot"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "go outside"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:39.665654863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go make am wasteland; dem no go prune am, and dem no go hoe am; and thorn and brier go grow up; and I go command di clouds say make dem no drop rain on top am.",
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "and I go make am"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "wasteland"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "dem go prune am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "dem go hoe am"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "and go grow up"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "thorn"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "and brier"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "di clouds"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "I go command"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "make dem no drop rain"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rain"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:40.227840024Z",
+  "model": "glm-5.2"
+}

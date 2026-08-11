@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Then I wash you with water, and I rinse your blood comot from on top you, and I rub you with oil.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "Then I wash you"
+    },
+    {
+      "surface": "במים",
+      "gloss": "with water"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "and I rinse comot"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "your blood"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "from on top you"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "and I rub you"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "with oil"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:32.990791281Z",
+  "model": "glm-5.2"
+}

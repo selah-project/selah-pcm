@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Look at me, answer me, Yahweh my Elohim! Make my eyes shine, lest I sleep ⟨di⟩ sleep of death,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "look at me"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "make ⟨you⟩ shine"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "I sleep"
+    },
+    {
+      "surface": "המות",
+      "gloss": "of death"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:10.924567853Z",
+  "model": "glm-5.2"
+}

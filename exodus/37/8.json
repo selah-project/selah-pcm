@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "One cherub from dis end, and one cherub from dat end; from ⟨את⟩ di mercy seat im make ⟨את⟩ di cherubim from two of im end.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "one cherub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "from end"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "of dis side"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "and one cherub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "from end"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "of dat side"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "di mercy seat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cherubim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "di cherubim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "from two"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "of im end"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:38.184772876Z",
+  "model": "glm-5.2"
+}

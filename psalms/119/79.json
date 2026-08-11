@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make dem wey dey fear You turn to me, and dem wey know yor testimonies.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "make dem turn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "dem wey dey fear You"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "and dem wey know"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "yor testimonies"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:21.204498868Z",
+  "model": "glm-5.2"
+}

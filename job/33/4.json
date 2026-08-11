@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Spirit of El bin make me, and di breath of Shaddai dey keep me alive.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Spirit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "of El"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "bin make me"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "and di breath"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "of Shaddai"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "dey keep me alive"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:41.916577272Z",
+  "model": "glm-5.2"
+}

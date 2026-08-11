@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dem talk to Yehoshua: \"Your servants we be.\" And Yehoshua talk to dem: \"Na who una be, and from where una dey come?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "And dem talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Your servants"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we be"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Na who"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "be, and from where"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "una dey come"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:09.083699917Z",
+  "model": "glm-5.2"
+}

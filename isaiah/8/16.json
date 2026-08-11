@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Bind up di testimony, seal di Torah among my disciple dem.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "bind up"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "di testimony"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "seal"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "di Torah"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "among my disciple dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:15.515738853Z",
+  "model": "glm-5.2"
+}

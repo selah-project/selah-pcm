@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "And ⟨e⟩ bin make fruitful ⟨את⟩ im people well-well, and ⟨e⟩ bin make dem strong pass dia enemies.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "And ⟨e⟩ bin make fruitful"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "and ⟨e⟩ bin make am strong"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "pass dia enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:30.685321699Z",
+  "model": "glm-5.2"
+}

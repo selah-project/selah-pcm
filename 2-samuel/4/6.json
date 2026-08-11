@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 4:6",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And see, dem come reach middle of di house, ⟨as⟩ taker dem of wheat, and dem strike am for ⟨di⟩ belly, and Rekab and Baanah im brother escape.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem come"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "middle of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "taker dem of"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wheat"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and dem strike am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "⟨di⟩ belly"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "and Rekab"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "and Baanah"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "escape"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:17.175276356Z",
+  "model": "glm-5.2"
+}

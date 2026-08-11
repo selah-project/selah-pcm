@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Yehudah and Yisrael ⟨bin⟩ plenty, like sand wey dey on top di sea for multitude, dey chop, and dey drink, and dey glad.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "like sand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "for multitude"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "dey chop"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "and dey drink"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "and dey glad"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:52.995514948Z",
+  "model": "glm-5.2"
+}

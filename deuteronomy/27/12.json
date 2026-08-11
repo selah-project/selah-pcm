@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Dis dem go stand to bless ⟨את⟩ di people on Mount Gerizim, wen una cross ⟨את⟩ di Yarden: Shim'on, and Levi, and Yehudah, and Yissaskhar, and Yosef, and Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis dem"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "to bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Mount"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "wen una cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "and Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "and Yissaskhar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "and Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "and Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:57.031953830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "hand",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di one wey no put im heart to di word of Yahweh leave ⟨את⟩ im servant dem and ⟨את⟩ im animal dem for di farm.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "and di one wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "put"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servant dem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im animal dem"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "im animal dem"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di farm"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.765613584Z",
+  "model": "claude-opus-4-8"
+}

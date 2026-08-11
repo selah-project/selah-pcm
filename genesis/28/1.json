@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "So Yitschak bin call Yaakob, and im bless am, and im command am, and im tell am sey, make you no take wife from di daughters of Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "bin call"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "and im bless"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "and im command am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "make you take"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wife"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "from di daughters of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:16.285447726Z",
+  "model": "glm-5.2"
+}

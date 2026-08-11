@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "For as di sound of thorn-bushes under di pot, na so di laughter of di fool ⟨be⟩ — and even dis one na hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "as di sound of"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "thorn-bushes"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "di pot"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "di laughter"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "of di fool"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:44.124958030Z",
+  "model": "glm-5.2"
+}

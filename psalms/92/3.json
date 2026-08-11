@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "To dey tell about your chesed for morning, and your faithfulness for night time.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "to dey tell about"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "and your faithfulness"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "for night time"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:24.845304327Z",
+  "model": "glm-5.2"
+}

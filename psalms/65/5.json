@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "How happy ⟨be⟩ di one wey you choose, and you bring near, make ⟨e⟩ go siddon for your courtyards! We go satisfied with di goodness of your house, di holy place of your temple.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "how happy"
+    },
+    {
+      "surface": "תִּֽבְחַר",
+      "gloss": "you choose"
+    },
+    {
+      "surface": "וּתְקָרֵב",
+      "gloss": "and you bring near"
+    },
+    {
+      "surface": "יִשְׁכֹּן",
+      "gloss": "make ⟨e⟩ go siddon"
+    },
+    {
+      "surface": "חֲצֵרֶיךָ",
+      "gloss": "your courtyards"
+    },
+    {
+      "surface": "נִשְׂבְּעָה",
+      "gloss": "we go satisfied"
+    },
+    {
+      "surface": "בְּטוּב",
+      "gloss": "with di goodness"
+    },
+    {
+      "surface": "בֵּיתֶךָ",
+      "gloss": "of your house"
+    },
+    {
+      "surface": "קְדֹשׁ",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "הֵיכָלֶךָ",
+      "gloss": "of your temple"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:55.467546151Z",
+  "model": "glm-5.2"
+}

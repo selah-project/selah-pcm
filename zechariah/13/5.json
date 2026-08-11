@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e go talk sey, 'No be prophet I be; man wey dey work ground I be, because man buy me from my youth.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "and e go talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prophet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wey dey work"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ground"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "buy me"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "from my youth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:35:51.060583664Z",
+  "model": "glm-5.2"
+}

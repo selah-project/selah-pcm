@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "All di sinners of my people wey dey talk sey 'Evil no go reach us, e no go come meet us' — na by sword dem go die.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "by sword"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "dem go die"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "di sinners"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wey dey talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תגיש",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "ותקדים",
+      "gloss": "e no go come meet"
+    },
+    {
+      "surface": "בעדינו",
+      "gloss": "us"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "evil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:15.819091857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And you go bring ⟨את⟩ Aharon and ⟨את⟩ im sons near to di entrance of ohel moed, and you go wash ⟨את⟩ ⟨dem⟩ with water.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "and you go bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "and you go wash"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨dem⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "with water"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:08.476902777Z",
+  "model": "glm-5.2"
+}

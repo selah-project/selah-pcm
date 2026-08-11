@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And she talk to am, sey, Give me blessing, because you bin give me land of di Negev; so make you too give me pool of water. And Kalev give am ⟨את⟩ upper pool and ⟨את⟩ lower pool.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blessing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "di Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "you bin give me"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "so make you too give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "pool"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upper pool"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "pool"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "upper"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "lower pool"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "pool"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "lower"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:59.340633636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di people wey dey stay for Jebus talk to David, sey: 'You no go enter here.' But David capture ⟨את⟩ di strong place of Zion, na im be city of David.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey stay"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "you go enter"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "here"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and ⟨im⟩ capture"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di strong place of Zion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "strong place"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na im be"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:37.243175686Z",
+  "model": "glm-5.2"
+}

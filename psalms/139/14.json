@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "I go praise You sake of sey wit fear I bin dey set apart; Your work dem too wonderful, and my throat dey know am well-well.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "I go praise You"
+    },
+    {
+      "surface": "על",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "wit fear"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "I bin dey set apart"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "too wonderful"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Your work dem",
+      "marks": "Your work dem"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "and my throat"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "dey know"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.829518132Z",
+  "model": "glm-5.2"
+}

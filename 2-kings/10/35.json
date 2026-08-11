@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yehu lie down with im papa-dem, and dem bury ⟨את⟩ am for Shomron, and Yehoachaz im son come king under am.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "And lie down"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:13:12.520148124Z",
+  "model": "glm-5.2"
+}

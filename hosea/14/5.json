@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "I go heal dia turning-back, I go love dem freely; because my anger don turn away from am.",
+  "tokens": [
+    {
+      "surface": "אֶרְפָּא֙",
+      "gloss": "I go heal"
+    },
+    {
+      "surface": "מְשׁוּבָתָ֔ם",
+      "gloss": "dia turning-back"
+    },
+    {
+      "surface": "אֹהֲבֵ֖ם",
+      "gloss": "I go love dem"
+    },
+    {
+      "surface": "נְדָבָ֑ה",
+      "gloss": "freely"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "because"
+    },
+    {
+      "surface": "שָׁ֥ב",
+      "gloss": "don turn away"
+    },
+    {
+      "surface": "אַפִּ֖י",
+      "gloss": "my anger"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:13.104671761Z",
+  "model": "glm-5.2"
+}

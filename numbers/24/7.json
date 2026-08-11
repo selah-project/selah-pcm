@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 24:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Water go dey flow from im buckets, and im seed ⟨go⟩ dey for many waters, and im king go high pass Agag, and im kingdom go lift up.",
+  "tokens": [
+    {
+      "surface": "יִֽזַּל",
+      "gloss": "go dey flow"
+    },
+    {
+      "surface": "מַ֨יִם֙",
+      "gloss": "water"
+    },
+    {
+      "surface": "מִדָּ֣לְיָ֔ו",
+      "gloss": "from im buckets"
+    },
+    {
+      "surface": "וְזַרְע֖וֹ",
+      "gloss": "and im seed"
+    },
+    {
+      "surface": "בְּמַ֣יִם",
+      "gloss": "for waters"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "many"
+    },
+    {
+      "surface": "וְיָרֹ֤ם",
+      "gloss": "and ⟨he⟩ go high"
+    },
+    {
+      "surface": "מֵֽאֲגַג֙",
+      "gloss": "pass Agag"
+    },
+    {
+      "surface": "מַלְכּ֔וֹ",
+      "gloss": "im king"
+    },
+    {
+      "surface": "וְתִנַּשֵּׂ֖א",
+      "gloss": "and go lift up"
+    },
+    {
+      "surface": "מַלְכֻתֽוֹ",
+      "gloss": "im kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:09.560680079Z",
+  "model": "glm-5.2"
+}

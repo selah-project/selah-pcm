@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "So Tsidkijah pikin of Kenaanah make ⟨for imsef⟩ horn dem of iron, and im tok, \"Na so Yahweh bin tok: 'Wit dis one dem you go siddon go but ⟨את⟩ Aram until you finish dem.'\"",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "So im make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨for imsef⟩"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "of Kenaanah"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn dem"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tok"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Wit dis one dem"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "you go siddon go but"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "you finish dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:52.926960834Z",
+  "model": "glm-5.2"
+}

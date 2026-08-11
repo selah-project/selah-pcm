@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Voice of Yahweh ⟨dey⟩ on top di waters, El of glory dey thunder, Yahweh ⟨dey⟩ on top plenty waters.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di waters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "of glory"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dey thunder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:47.195022038Z",
+  "model": "glm-5.2"
+}

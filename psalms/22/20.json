@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "But You, Yahweh, no make You far; my strength, make You hurry come help me.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "But You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "make You far"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "come help me"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "make You hurry"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:54.265393740Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "After dis one, Dawid bin strike ⟨את⟩ Peleshtim dem and e bin make dem bow down, and e bin take ⟨את⟩ Gath and ⟨di⟩ town dem wey belong to am from hand of Peleshtim dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bin ⟨be⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleshtim dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim dem"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "and bin make dem bow down"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "and town dem of am"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtim dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:55.726569109Z",
+  "model": "glm-5.2"
+}

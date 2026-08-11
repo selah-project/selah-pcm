@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And she bin go up, and she bin lay am on top di bed of di man of Elohim, and she bin lock ⟨di door⟩ behind am, and she bin comot.",
+  "tokens": [
+    {
+      "surface": "וַתַּ֨עַל֙",
+      "gloss": "and she bin go up"
+    },
+    {
+      "surface": "וַתַּשְׁכִּבֵ֔הוּ",
+      "gloss": "and she bin lay am"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מִטַּ֖ת",
+      "gloss": "di bed"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "of di man"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "וַתִּסְגֹּ֥ר",
+      "gloss": "and she bin lock"
+    },
+    {
+      "surface": "בַּעֲד֖וֹ",
+      "gloss": "behind am"
+    },
+    {
+      "surface": "וַתֵּצֵֽא",
+      "gloss": "and she bin comot"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:44.938890924Z",
+  "model": "glm-5.2"
+}

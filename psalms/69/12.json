@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "And I bin make sackcloth my cloth, and I bin become proverb to dem.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "and I bin make"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "my cloth"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sackcloth"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "and I bin become"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "proverb"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:27.329041866Z",
+  "model": "glm-5.2"
+}

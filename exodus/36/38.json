@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "and ⟨את⟩ im five pillars, and ⟨את⟩ dem hooks, and im overlay dem tops and dem bands ⟨na⟩ gold; and dem five bases ⟨na⟩ copper.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im five pillars"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "im pillars"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dem hooks"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "dem hooks"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "and im overlay"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dem tops"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "and dem bands"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "and dem bases"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.841984283Z",
+  "model": "glm-5.2"
+}

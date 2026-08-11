@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "⟨Dem⟩ dey fill our barn well-well, ⟨dem⟩ dey bring out food from one kind to anoda kind; our flock dey multiply by thousands, by ten thousands for our streets.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "our barn"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "⟨dem⟩ dey fill"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "⟨dem⟩ dey bring out"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "from kind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "זן",
+      "gloss": "kind"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "our flock"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "dey multiply by thousands"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "by ten thousands"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "for our streets"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:42.352448877Z",
+  "model": "glm-5.2"
+}

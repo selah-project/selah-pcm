@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And dis na di torah of di asham, ⟨im⟩ na kedosh-kodashim.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "and dis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "of di asham"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedosh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:51.062543334Z",
+  "model": "glm-5.2"
+}

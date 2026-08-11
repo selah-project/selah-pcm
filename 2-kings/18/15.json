@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Chizkiyah give ⟨am⟩ ⟨את⟩ all di silver wey dem find for di house of Yahweh, and for di storehouse of di house of di king.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and he give"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di silver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wey dem find"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "and for di storehouse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:45.762209013Z",
+  "model": "glm-5.2"
+}

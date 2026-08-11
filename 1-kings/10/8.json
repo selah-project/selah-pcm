@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Happy ⟨be⟩ yɔr men, happy ⟨be⟩ yɔr servants, dis ones wey dey stand before yɔu continually, di ones wey dey hear ⟨את⟩ yɔr wisdom!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "happy"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "yɔr men"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "happy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yɔr servants"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis ones"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wey dey stand"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before yɔu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continually"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "di ones wey dey hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yɔr wisdom"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "yɔr wisdom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:11.331683440Z",
+  "model": "glm-5.2"
+}

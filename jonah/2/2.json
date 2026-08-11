@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Jonah bin pray to Yahweh, im Elohim, from inside di belly of di fish.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "And bin pray"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "im Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "from inside di belly"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "of di fish"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:38.459502326Z",
+  "model": "glm-5.2"
+}

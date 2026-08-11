@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Who go stand up for me against di doers-of-bad? Who go stand firm for me against di workers-of-nothing?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "go stand up"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "against"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "di doers-of-bad"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "go stand firm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "against"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "di workers-of"
+    },
+    {
+      "surface": "און",
+      "gloss": "nothing"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:23.936260544Z",
+  "model": "glm-5.2"
+}

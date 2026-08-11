@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And I bin talk sey, I no go shepherd ⟨את⟩ una: make di one wey dey die, make ⟨e⟩ die; and di one wey dey destroyed, make ⟨e⟩ dey destroyed; and di ones wey remain, make dem dey chop, each woman ⟨את⟩ di flesh of her neighbour.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "and I bin talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "I go shepherd"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "di one wey dey die"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "make e die"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "and di one wey dey destroyed"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "make e dey destroyed"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "and di ones wey remain"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "make dem dey chop"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "each woman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di flesh"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "of her neighbour"
+    }
+  ],
+  "timestamp": "2026-08-11T12:35:23.770156853Z",
+  "model": "glm-5.2"
+}

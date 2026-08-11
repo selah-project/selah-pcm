@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Praise Yah, sey e good make una dey sing praise to our Elohim, sey e sweet and praise dey fine.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "make una dey sing praise"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "dey fine"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "praise"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:08.377606705Z",
+  "model": "glm-5.2"
+}

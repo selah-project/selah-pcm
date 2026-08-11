@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di people wey bin dey encamp hear sey Zimri don conspire, and e don also strike ⟨את⟩ di king; and all Yisra'el make Omri wey ⟨be⟩ commander of di army king upon Yisra'el for dat day, for di camp.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "wey bin dey encamp"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "don conspire"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "e don strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "and make ... king"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "commander"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "of di army"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "for di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:57.576384510Z",
+  "model": "glm-5.2"
+}

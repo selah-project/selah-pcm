@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "If you afflict ⟨את⟩ my daughters, and if you take wives on top my daughters — no man dey with us; look, Elohim ⟨na⟩ witness between me and you.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "you afflict"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my daughters"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "my daughters"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you take"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wives"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "my daughters"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "with us"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "witness"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and between you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:01.963285513Z",
+  "model": "glm-5.2"
+}

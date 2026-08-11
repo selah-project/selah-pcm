@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And wetin una go do for di day of visitation, and for di destruction wey ⟨e⟩ dey come from far? On top who una go run for help? And where una go leave una glory?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "for di day of"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "visitation"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "and for di destruction"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e dey come"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "una go run"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "for help"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "and where"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "una go leave"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "una glory"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:19.259574168Z",
+  "model": "glm-5.2"
+}

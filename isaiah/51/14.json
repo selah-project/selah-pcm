@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Di one wey dey hurry go wander — make ⟨them⟩ open ⟨am⟩; and ⟨he⟩ no go die for di pit, and im bread no go lack.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "di one wey dey hurry"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "go wander"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "make ⟨them⟩ open ⟨am⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "⟨he⟩ go die"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "for di pit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "go lack"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "im bread"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:31.358595777Z",
+  "model": "glm-5.2"
+}

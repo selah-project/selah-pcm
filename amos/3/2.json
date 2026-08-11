@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Only una I know, from all di family-dem of di earth; so I go punish ⟨את⟩ all una iniquity-dem.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Only"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "di family-dem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "על",
+      "gloss": "so"
+    },
+    {
+      "surface": "כן",
+      "gloss": "therefore"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "I go punish"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "against una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all una iniquity-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "una iniquity-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:55.609343788Z",
+  "model": "glm-5.2"
+}

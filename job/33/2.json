@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Look, I don open my mouth, my tongue don speak for inside my palate.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨now⟩"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "I don open"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "don speak"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tongue"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "for inside my palate"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:41.916318857Z",
+  "model": "glm-5.2"
+}

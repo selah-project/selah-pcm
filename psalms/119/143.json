@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Trouble and distress bin find me, Your commandments ⟨na⟩ my delight.",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "Trouble"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "and distress"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "bin find me"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Your commandments"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "my delight"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:15.142760418Z",
+  "model": "glm-5.2"
+}

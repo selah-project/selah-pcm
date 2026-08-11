@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "So David collect from her hand ⟨את⟩ wetin she bring give am, and im tell her say, Go up in peace to your house; see, I don hear your voice, and I don lift ⟨up⟩ your face.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "so collect"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "from her hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin she bring give am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "she bring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "give am"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "and to her"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go up"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in peace"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "to your house"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "see"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "I don hear"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "your voice"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "and I don lift"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:03.890303896Z",
+  "model": "glm-5.2"
+}

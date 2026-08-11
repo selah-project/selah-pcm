@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And im brothers bin dey jealous of am, but im papa keep ⟨את⟩ di matter for mind.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "and bin dey jealous"
+    },
+    {
+      "surface": "בו",
+      "gloss": "of am"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brothers"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "but im papa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:24.238872990Z",
+  "model": "glm-5.2"
+}

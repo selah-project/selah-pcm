@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Speak to di pikin-dem of Yisra'el, and tell dem: if any man make special vow, ⟨as⟩ ⟨im⟩ value person-dem to Yahweh,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "make special"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vow"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "⟨as⟩ ⟨im⟩ value"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "person-dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:26.501663111Z",
+  "model": "glm-5.2"
+}

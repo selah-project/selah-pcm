@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And wen una dey reap ⟨את⟩ di harvest of una land, make you no finish di corner of your field as you dey reap, and di leftover of your harvest make you no gather; for di poor and for di stranger you go leave ⟨את⟩ dem. Na me Yahweh, Elohim of una.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "and wen una dey reap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di harvest"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "harvest"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "of una land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "make you no finish"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "corner"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "of your field"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "as you dey reap"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "and leftover"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "of your harvest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "make you no gather"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "for di poor"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "and for di stranger"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "you go leave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim of una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:18.611425228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 128,
+  "translation": "and ⟨make you⟩ see ⟨di⟩ children of your children! Shalom ⟨be⟩ upon Yisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and make ⟨you⟩ see"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "children"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "of your children"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:43.115173576Z",
+  "model": "glm-5.2"
+}

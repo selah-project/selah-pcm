@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 44:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And im search, start wit ⟨את⟩ di big one, finish wit di small one, and dem find ⟨את⟩ di cup for Binyamin bag.",
+  "tokens": [
+    {
+      "surface": "וַיְחַפֵּ֕שׂ",
+      "gloss": "and im search"
+    },
+    {
+      "surface": "בַּגָּד֣וֹל",
+      "gloss": "di big one"
+    },
+    {
+      "surface": "הֵחֵ֔ל",
+      "gloss": "start wit"
+    },
+    {
+      "surface": "וּבַקָּטֹ֖ן",
+      "gloss": "di small one"
+    },
+    {
+      "surface": "כִּלָּ֑ה",
+      "gloss": "finish wit"
+    },
+    {
+      "surface": "וַיִּמָּצֵא֙",
+      "gloss": "dem find"
+    },
+    {
+      "surface": "הַגָּבִ֔יעַ",
+      "gloss": "di cup"
+    },
+    {
+      "surface": "בְּאַמְתַּ֖חַת",
+      "gloss": "for bag"
+    },
+    {
+      "surface": "בִּנְיָמִֽן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:40.439972315Z",
+  "model": "glm-5.2"
+}

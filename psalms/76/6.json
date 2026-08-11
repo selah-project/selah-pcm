@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "Di mighty-hearted dem don lose everything; dia sleep don end, and all di men of power neva find dia hand dem.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "don lose everything"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hearted dem"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "dia sleep"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "don end"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and neva"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "find"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "power"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:20.643849458Z",
+  "model": "glm-5.2"
+}

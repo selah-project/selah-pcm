@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Make una rejoice ⟨את⟩ Jerusalem, and make una glad inside am, all una wey love am! Make una rejoice ⟨את⟩ ⟨together⟩ wit am wit joy, all una wey dey mourn for am!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "make una rejoice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "and make una glad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "una wey love am"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "make una rejoice"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨together⟩ wit am"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "wit joy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "una wey dey mourn"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:31.811152693Z",
+  "model": "glm-5.2"
+}

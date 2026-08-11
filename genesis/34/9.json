@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Make una join blood ⟨את⟩ wit us, una go give us una daughters, and ⟨את⟩ our daughters una go take for una sef.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "make una join blood"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wit us"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "una daughters"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "una go give"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "our daughters"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "our daughters"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "una go take"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una sef"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:09.470494756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So Yehu ride ⟨im⟩ chariot and go Yizre'el; because Yoram bin dey lie down there. And Achazyah king of Yehudah bin go down to see ⟨את⟩ Yoram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "so ride"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizre'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "bin dey lie down"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "and Achazyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bin go down"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:18.732684957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "Wen wicked people dem dey sprout like grass, and all di people wey dey do bad tin dem dey flourish — na so dem go dey destroyed forever.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "wen ... dey sprout"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people dem"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "and ... dey flourish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "people wey dey do"
+    },
+    {
+      "surface": "און",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "make dem dey destroyed"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ever"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:21.230471769Z",
+  "model": "glm-5.2"
+}

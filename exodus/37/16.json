@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e make ⟨את⟩ di vessel dem wey ⟨dey⟩ on top di table — ⟨את⟩ im plate dem and ⟨את⟩ im cup dem and ⟨את⟩ im bowl dem and ⟨את⟩ di cover dem wey dem go dey pour with dem — of pure gold.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di vessel dem"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "di vessel dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im plate dem"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "im plate dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im cup dem"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "im cup dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im bowl dem"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "im bowl dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di cover dem"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "di cover dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "dem go dey pour"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "with dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:08.171166238Z",
+  "model": "glm-5.2"
+}

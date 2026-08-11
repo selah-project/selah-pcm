@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Stranger I bin become to my brothers, and foreigner to di sons of my mama.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I bin become"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "to my brothers"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "and foreigner"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di sons"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "of my mama"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:27.328625501Z",
+  "model": "glm-5.2"
+}

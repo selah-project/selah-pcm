@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "⟨Na⟩ finish my life-breath dey reach for your salvation, for your word I bin hope.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "⟨Na⟩ finish dey reach"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "for your salvation"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "for your word"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "I bin hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.033410949Z",
+  "model": "glm-5.2"
+}

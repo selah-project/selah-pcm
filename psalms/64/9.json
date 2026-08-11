@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "And dem make am stumble, dia own tongue dey against dem; everybody wey see dem go shake head.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "and dem make am stumble"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dia own tongue"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "go shake head"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wey see"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:57.299800514Z",
+  "model": "glm-5.2"
+}

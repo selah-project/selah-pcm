@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 12:15",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Abdon, pikin of Hillel, di Piratonite, bin die, and dem bury am for Piraton, for land of Efrayim, for hill of di Amalekite.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "and bin die"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "di Piratonite"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "for Piraton"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill of"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "di Amalekite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:58.004526935Z",
+  "model": "glm-5.2"
+}

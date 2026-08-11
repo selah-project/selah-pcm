@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Rebels una bin ⟨be⟩ with Yahweh, from di day wey I know una.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Rebels"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "una bin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "from di day"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "wey I know"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:39.859531513Z",
+  "model": "glm-5.2"
+}

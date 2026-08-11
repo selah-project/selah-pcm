@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 4:9",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "I bin strike una wit ⟨את⟩ scorch-wind and wit mildew; di plenty wey dey for una gardens and una vineyards and una fig-trees and una olive-trees, di locust bin chop ⟨am⟩; and una no return come to me — na so Yahweh don talk.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "I bin strike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una (object of di strike — wit scorch-wind and mildew)"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "wit scorch-wind"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "and wit mildew"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "di plenty"
+    },
+    {
+      "surface": "גנותיכם",
+      "gloss": "of una gardens"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "and una vineyards"
+    },
+    {
+      "surface": "ותאניכם",
+      "gloss": "and una fig-trees"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "and una olive-trees"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bin chop"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "di locust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "una return"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "come to me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so im don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:43.118915840Z",
+  "model": "glm-5.2"
+}

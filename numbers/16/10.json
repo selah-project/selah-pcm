@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And ⟨e⟩ don bring ⟨את⟩ you near, and ⟨את⟩ all una brothers, di sons of Levi, ⟨את⟩ wit you; and una still dey seek even di priesthood?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "and don bring near"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all una brothers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "una brothers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "of Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wit you"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "and una dey seek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "di priesthood"
+    }
+  ],
+  "timestamp": "2026-08-11T09:54:57.892841346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem go bring up assembly against you, and dem go stone ⟨את⟩ you wit stones, and dem go cut you wit dia swords.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "and dem go bring up"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "assembly"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "and dem go stone"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ you",
+      "marks": "you"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "wit stones"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "and dem go cut you"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "wit dia swords"
+    }
+  ],
+  "timestamp": "2026-08-11T12:07:41.896478080Z",
+  "model": "glm-5.2"
+}

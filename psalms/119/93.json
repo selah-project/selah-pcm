@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Till ⟨ever⟩, I no go forget your orders, because by dem you bin make me live.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "till ⟨ever⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "go forget"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "your orders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בם",
+      "gloss": "by dem"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "you bin make me live"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:30.701035933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yehonatan and David cut covenant, because e love ⟨את⟩ am like im own nefesh.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "and cut"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "and David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "because e love"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "like im own nefesh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:27.848761659Z",
+  "model": "glm-5.2"
+}

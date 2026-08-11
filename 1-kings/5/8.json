@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di barley and di straw for di horses and for di fast horse dem, dem go carry am reach di place wey ⟨he⟩ go dey, each man according to im duty.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "And di barley"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "and di straw"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "for di horses"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "and for di fast horse dem"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "dem go carry am reach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "according to im duty"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:53.031640546Z",
+  "model": "glm-5.2"
+}

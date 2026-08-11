@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 127,
+  "translation": "Look! ⟨Na⟩ inheritance from Yahweh ⟨be⟩ children; ⟨na⟩ di fruit of ⟨di⟩ womb, ⟨na⟩ reward.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Look!"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "inheritance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "children"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "reward"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "of di womb"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:19.232115263Z",
+  "model": "glm-5.2"
+}

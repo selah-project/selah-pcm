@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Make you no slaughter on top ⟨wetin don⟩ sour ⟨את⟩ di blood of my sacrifice, and di sacrifice of di festival of Pesach no go remain till morning.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִשְׁחַט",
+      "gloss": "make you slaughter"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "חָמֵץ",
+      "gloss": "⟨wetin don⟩ sour"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "זִבְחִי",
+      "gloss": "of my sacrifice"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "go remain"
+    },
+    {
+      "surface": "לַבֹּקֶר",
+      "gloss": "till morning"
+    },
+    {
+      "surface": "זֶבַח",
+      "gloss": "di sacrifice"
+    },
+    {
+      "surface": "חַג",
+      "gloss": "of di festival"
+    },
+    {
+      "surface": "הַפָּסַח",
+      "gloss": "of Pesach"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:11.051491269Z",
+  "model": "glm-5.2"
+}

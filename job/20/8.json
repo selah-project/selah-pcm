@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "like dream ⟨he⟩ go fly away and dem no go find am; and dem go drive am away like night vision.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "like dream"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "go fly away"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "dem go find am"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "and dem go drive am away"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "like vision"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "of night"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:20.698890710Z",
+  "model": "glm-5.2"
+}

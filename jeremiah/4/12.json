@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Wind wey full — from dis ⟨wan⟩ — go come to Me; now sef I go speak judgments against ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Wind"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wey full"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "from dis ⟨wan⟩"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "go speak"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "judgments"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:15.922993975Z",
+  "model": "glm-5.2"
+}

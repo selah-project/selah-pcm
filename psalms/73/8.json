@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "Dem dey mock, and dem dey talk evil wit oppression; from high place dem dey speak.",
+  "tokens": [
+    {
+      "surface": "יָמִ֤יקוּ",
+      "gloss": "dem dey mock"
+    },
+    {
+      "surface": "וִידַבְּר֣וּ",
+      "gloss": "and dem dey talk"
+    },
+    {
+      "surface": "בְרָ֣ע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "עֹ֑שֶׁק",
+      "gloss": "wit oppression"
+    },
+    {
+      "surface": "מִמָּר֥וֹם",
+      "gloss": "from high place"
+    },
+    {
+      "surface": "יְדַבֵּֽרוּ",
+      "gloss": "dem dey speak"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:52.098175384Z",
+  "model": "glm-5.2"
+}

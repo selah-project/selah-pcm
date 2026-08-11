@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Now dis na di lineage of Esav — na ⟨im⟩ be Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Now dis"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "na di lineage"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:47.201219737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So make ⟨say⟩ you hear, Yisra'el, and make you keep, so ⟨say⟩ you do wetin ⟨go⟩ good for you, and ⟨say⟩ you Plenty well-well, as Yahweh, Elohim of ⟨your⟩ papa-dem, don talk to you — land wey dey flow wit milk and honey.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "so make you hear"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "and make you keep"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "so say you do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "go good"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and say"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "you plenty"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "your papa-dem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "wey dey flow"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "milk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "and honey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:22.532856793Z",
+  "model": "glm-5.2"
+}

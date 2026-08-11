@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Also, ⟨your⟩ servant don get warning from dem; for keeping of dem, ⟨there be⟩ great reward.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "servant"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "don get warning"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "for keeping of dem"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "reward"
+    },
+    {
+      "surface": "רב",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:17.385625404Z",
+  "model": "glm-5.2"
+}

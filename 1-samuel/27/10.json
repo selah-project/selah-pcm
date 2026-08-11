@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Akish bin talk, ⟨say⟩, 'Una no raid today?' And Dawid bin talk, ⟨say⟩, 'Against di south of Yehudah, and against di south of di Yerachmeeli, and ⟨against⟩ di south of direni.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "una raid"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "di south"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "di south"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "di Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and ⟨against⟩"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "di south"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "direni"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:41.208488359Z",
+  "model": "glm-5.2"
+}

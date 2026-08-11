@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "and ⟨את⟩ di pot-dem, and ⟨את⟩ di shovel-dem, and ⟨את⟩ di fork-dem, and ⟨את⟩ all dia vessel-dem — Ḥuram im papa make am for King Shelomah, for ⟨di⟩ house of Yahweh, polished copper.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pot-dem"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "di pot-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di shovel-dem"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "di shovel-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fork-dem"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "di fork-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all dia vessel-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "dia vessel-dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Ḥuram"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "for King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "polished"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:36.890815807Z",
+  "model": "glm-5.2"
+}

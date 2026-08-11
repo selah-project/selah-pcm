@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "O my trampled-one, and son of my threshing-floor — wetin wey I hear from ⟨את⟩ Yahweh of host, Elohim of Yisrael, I don tell una.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "O my trampled-one"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "and son"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "of my threshing-floor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin wey"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "I hear"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh of host"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of host"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "I don tell"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:32.921096576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 110,
+  "translation": "Your people, freewill offerings, for di day of your power — for holy splendor. From womb of dawn, to you belong dew of your youth.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "freewill offerings"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day of"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "your power"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "for splendor of"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "from womb of"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "טל",
+      "gloss": "dew"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "of your youth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:46.346466119Z",
+  "model": "glm-5.2"
+}

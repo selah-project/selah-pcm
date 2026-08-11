@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon and ⟨את⟩ im open land, ⟨את⟩ Gat־Rimon and ⟨את⟩ im open land — four cities.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat־Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:34.721900548Z",
+  "model": "glm-5.2"
+}

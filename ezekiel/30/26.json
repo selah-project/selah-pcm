@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 30:26",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I go scatter ⟨את⟩ Mitsrayim among di nations, and I go spread dem among di lands, and dem go know sey na me ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "and I go scatter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "and I go spread"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "among di lands"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "and dem go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:30.585392186Z",
+  "model": "glm-5.2"
+}

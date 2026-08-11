@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And di porches round about round about: five and twenty cubit ⟨na⟩ di length, and five cubit ⟨na⟩ di breadth.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "and di porches"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "length"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "and breadth"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:53.926129171Z",
+  "model": "glm-5.2"
+}

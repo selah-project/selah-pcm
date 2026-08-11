@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Naked, dem dey sleep without clothe, and no covering for cold.",
+  "tokens": [
+    {
+      "surface": "עָר֣וֹם",
+      "gloss": "naked"
+    },
+    {
+      "surface": "יָ֭לִינוּ",
+      "gloss": "dem dey sleep"
+    },
+    {
+      "surface": "מִבְּלִ֣י",
+      "gloss": "without"
+    },
+    {
+      "surface": "לְב֑וּשׁ",
+      "gloss": "clothe"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "כְּ֝ס֗וּת",
+      "gloss": "covering"
+    },
+    {
+      "surface": "בַּקָּרָֽה",
+      "gloss": "for cold"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:39.296380104Z",
+  "model": "glm-5.2"
+}

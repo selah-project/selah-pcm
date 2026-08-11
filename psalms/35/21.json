@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And dem bin wide ⟨im⟩ mouth against me, dem talk, Aha! Aha! Our eye don see am.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "and dem bin wide"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "⟨im⟩ mouth"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "don see"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "our eye"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.709006134Z",
+  "model": "glm-5.2"
+}

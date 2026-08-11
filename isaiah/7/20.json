@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "For dat day, Adonai go shave with razor wey dem hire — for di oda side of di River, with di king of Ashur — ⟨את⟩ di head and di hair of di legs, and ⟨e⟩ go also scrape off ⟨את⟩ di beard.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הַה֡וּא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יְגַלַּ֣ח",
+      "gloss": "go shave"
+    },
+    {
+      "surface": "אֲדֹנָי֩",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בְּתַ֨עַר",
+      "gloss": "with razor"
+    },
+    {
+      "surface": "הַשְּׂכִירָ֜ה",
+      "gloss": "wey dem hire"
+    },
+    {
+      "surface": "בְּעֶבְרֵ֤י",
+      "gloss": "for di oda side"
+    },
+    {
+      "surface": "נָהָר֙",
+      "gloss": "of di River"
+    },
+    {
+      "surface": "בְּמֶ֣לֶךְ",
+      "gloss": "with di king"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "הָרֹ֖אשׁ",
+      "gloss": "di head"
+    },
+    {
+      "surface": "וְשַׂ֣עַר",
+      "gloss": "and di hair"
+    },
+    {
+      "surface": "הָרַגְלָ֑יִם",
+      "gloss": "of di legs"
+    },
+    {
+      "surface": "וְגַ֥ם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di beard"
+    },
+    {
+      "surface": "הַזָּקָ֖ן",
+      "gloss": "di beard"
+    },
+    {
+      "surface": "תִּסְפֶּֽה",
+      "gloss": "go scrape off"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:18.804026444Z",
+  "model": "glm-5.2"
+}

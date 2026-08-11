@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "When una blow alarm, di camps wey dey encamp for di east side go move.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "when una blow"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "alarm"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "go move"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "di camps"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "wey dey encamp"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "for di east side"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:02.426029408Z",
+  "model": "glm-5.2"
+}

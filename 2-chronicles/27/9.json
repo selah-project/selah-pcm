@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Yotam bin lie down wit im papa-dem, and dem bury ⟨את⟩ am for di city of David, and Akhaz im pikin come king for im place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "bin lie down"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dem bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "come king"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:08.119336026Z",
+  "model": "glm-5.2"
+}

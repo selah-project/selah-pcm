@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Because na me be Yahweh, I no change; and una, sons of Yaakov, una no finish.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "I change"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "una ⟨have⟩ finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:23.667917053Z",
+  "model": "glm-5.2"
+}

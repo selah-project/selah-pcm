@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Novach bin go and e capture ⟨את⟩ Kenat and ⟨את⟩ im daughter-villages, and e call am Novach, with im own name.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "And Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and e capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im daughter-villages"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "im daughter-villages"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "with im own name"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:52.737890069Z",
+  "model": "glm-5.2"
+}

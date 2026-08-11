@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "lion wey ⟨be⟩ mighty among beast, and ⟨im⟩ no go turn back from face of evri ting;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "lion"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "among beast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "go turn back"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from face of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri ting"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:37.637817084Z",
+  "model": "glm-5.2"
+}

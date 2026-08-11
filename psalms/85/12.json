@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "Truth go sprout from ⟨di⟩ earth, and righteousness from heaven go look down.",
+  "tokens": [
+    {
+      "surface": "אֶ֭מֶת",
+      "gloss": "Truth"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "from earth"
+    },
+    {
+      "surface": "תִּצְמָ֑ח",
+      "gloss": "go sprout"
+    },
+    {
+      "surface": "וְ֝צֶ֗דֶק",
+      "gloss": "and righteousness"
+    },
+    {
+      "surface": "מִשָּׁמַ֥יִם",
+      "gloss": "from heaven"
+    },
+    {
+      "surface": "נִשְׁקָֽף",
+      "gloss": "go look down"
+    }
+  ],
+  "timestamp": "2026-08-11T16:37:11.167462182Z",
+  "model": "glm-5.2"
+}

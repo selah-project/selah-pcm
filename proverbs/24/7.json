@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wisdom don too high for fool; for di gate im no go open im mouth.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "don too high"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "for fool"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "for di gate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "go open"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:37.758201530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Dem just create dem now, and no be from dat time; and before today you never hear dem, make you no talk say, \"See, I bin know dem.\"",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "dem just create dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "from dat time"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "and before"
+    },
+    {
+      "surface": "יום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "you never"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "hear dem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "talk say"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "I bin know dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:44.095781643Z",
+  "model": "glm-5.2"
+}

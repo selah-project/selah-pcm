@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "if dem profane my chukim, and my mitzvot dem no keep,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my chukim"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "dem profane"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "and my mitzvot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "dem keep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:22.918878791Z",
+  "model": "glm-5.2"
+}

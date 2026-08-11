@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 5:29",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "⟨Dem⟩ dey roar like lioness, and dem dey roar like young lions, and dem dey growl, and dem go seize ⟨di⟩ prey, and dem go carry am go, and nobody go fit rescue.",
+  "tokens": [
+    {
+      "surface": "שְׁאָגָ֥ה",
+      "gloss": "roar"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "⟨for am⟩"
+    },
+    {
+      "surface": "כַּלָּבִ֑יא",
+      "gloss": "like lioness"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "and dem dey roar"
+    },
+    {
+      "surface": "כַּכְּפִירִ֤ים",
+      "gloss": "like young lions"
+    },
+    {
+      "surface": "וְיִנְהֹם֙",
+      "gloss": "and dem dey growl"
+    },
+    {
+      "surface": "וְיֹאחֵ֣ז",
+      "gloss": "and dem go seize"
+    },
+    {
+      "surface": "טֶ֔רֶף",
+      "gloss": "prey"
+    },
+    {
+      "surface": "וְיַפְלִ֖יט",
+      "gloss": "and dem go carry am go"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "מַצִּֽיל",
+      "gloss": "go fit rescue"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:14.200707119Z",
+  "model": "glm-5.2"
+}

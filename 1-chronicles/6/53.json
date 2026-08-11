@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and ⟨את⟩ Yokmeam, and ⟨את⟩ im grazing-land, and ⟨את⟩ Bet־Choron, and ⟨את⟩ im grazing-land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yokmeam"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yokmeam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:22.559818162Z",
+  "model": "glm-5.2"
+}

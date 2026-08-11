@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "When my throat dey faint inside me, I remember ⟨את⟩ Yahweh, and my prayer come enter to You, reach ⟨di⟩ holy temple of Your holiness.",
+  "tokens": [
+    {
+      "surface": "בְּהִתְעַטֵּ֤ף",
+      "gloss": "When ... dey faint"
+    },
+    {
+      "surface": "עָלַי֙",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "נַפְשִׁ֔י",
+      "gloss": "my throat"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זָכַ֫רְתִּ֥י",
+      "gloss": "I remember"
+    },
+    {
+      "surface": "וַתָּבֹ֥א",
+      "gloss": "and ... come enter"
+    },
+    {
+      "surface": "אֵלֶ֨יךָ֙",
+      "gloss": "to You"
+    },
+    {
+      "surface": "תְּפִלָּתִ֔י",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הֵיכַ֖ל",
+      "gloss": "⟨di⟩ temple"
+    },
+    {
+      "surface": "קָדְשֶֽׁךָ",
+      "gloss": "of Your holiness"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:44.514796488Z",
+  "model": "glm-5.2"
+}

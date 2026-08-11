@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Na to Him I bin call with my mouth, and ⟨exaltation⟩ dey under my tongue.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "to Him"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I bin call"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "and ⟨exaltation⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:22.345138291Z",
+  "model": "glm-5.2"
+}

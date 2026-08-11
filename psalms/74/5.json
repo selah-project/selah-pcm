@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Dem dey known as pesin wey dey carry go up, for inside thicket of tree — axe dem.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dem dey known"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "as pesin wey dey carry"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "for inside thicket"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "of tree"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "axe dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:10.199606253Z",
+  "model": "glm-5.2"
+}

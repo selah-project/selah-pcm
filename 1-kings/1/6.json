@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And im papa never bin vex am from im days, dey talk say, \"Why you do like dis?\" And e sef ⟨be⟩ very fine fine for face; and am ⟨na⟩ im mama born after Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "And never"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "bin vex am"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "from im days"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey talk say"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Why"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you do"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "And sef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fine"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "for face"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "im mama born"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:54.444372126Z",
+  "model": "glm-5.2"
+}

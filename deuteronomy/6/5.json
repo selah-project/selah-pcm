@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And you go love Yahweh wey be your Elohim, wit all your heart, and wit all your life-force, and wit all your power.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "and you go love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and wit all"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life-force"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and wit all"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "your power"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:17.523324308Z",
+  "model": "glm-5.2"
+}

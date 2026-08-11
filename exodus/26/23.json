@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And two plank dem you go make for di two corner dem of ⟨את⟩ di Mishkan, for di two side dem.",
+  "tokens": [
+    {
+      "surface": "וּשְׁנֵ֤י",
+      "gloss": "and two"
+    },
+    {
+      "surface": "קְרָשִׁים֙",
+      "gloss": "plank dem"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֔ה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "לִמְקֻצְעֹ֖ת",
+      "gloss": "for di two corner dem"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֑ן",
+      "gloss": "of di Mishkan"
+    },
+    {
+      "surface": "בַּיַּרְכָתָֽיִם",
+      "gloss": "for di two side dem"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.843298217Z",
+  "model": "glm-5.2"
+}

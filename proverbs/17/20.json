@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Person wey ⟨im⟩ heart dey bend, no go fit find good; and di one wey ⟨im⟩ tongue dey turn, go fall inside bad thing.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "wey dey bend"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "go fit find"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "and wey dey turn"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "⟨im⟩ tongue"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "inside bad thing"
+    }
+  ],
+  "timestamp": "2026-08-11T16:40:31.648194107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "⟨He⟩ send one man before dem — Yosef, wey dem sell am make ⟨im⟩ be slave.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "make ⟨im⟩ be slave"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "wey dem sell am"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:19.014137741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And Paroh im cup bin dey for my hand; I bin take ⟨את⟩ di grapes and I bin press ⟨את⟩ dem inside Paroh im cup, and I bin put ⟨את⟩ di cup on top Paroh im palm.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "and cup"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "for my hand"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "I bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di grapes"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "di grapes"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "and I bin press"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cup"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "and I bin put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cup"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "di cup"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:55.449680206Z",
+  "model": "glm-5.2"
+}

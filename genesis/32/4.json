@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Ya'akov bin send messenger-dem before am to Esav im broda, to di land of Se'ir, di field of Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messenger-dem"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land of"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "field of"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:22.022802665Z",
+  "model": "glm-5.2"
+}

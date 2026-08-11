@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "David come talk am sey, if you waka pass ⟨את⟩ wit me, you go turn to burden on top me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "you waka pass"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "wit me"
+    },
+    {
+      "surface": "והית",
+      "gloss": "you go be"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "to burden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:07.252514388Z",
+  "model": "glm-5.2"
+}

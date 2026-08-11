@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So Yehoshua call di twelve man wey e bin prepare from di son-dem of Yisra'el, one man, one man from each tribe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "So ... call"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "e bin prepare"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from di son-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "from each tribe"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:57.798130045Z",
+  "model": "glm-5.2"
+}

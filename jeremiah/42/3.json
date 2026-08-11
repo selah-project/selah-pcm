@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "make Yahweh wey be una Elohim tell us ⟨את⟩ di road wey we go waka, and ⟨את⟩ di word wey we go do.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "make ⟨im⟩ tell"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di road"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "we go waka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:45:34.082578419Z",
+  "model": "glm-5.2"
+}

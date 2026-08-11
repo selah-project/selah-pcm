@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Shaul talk say, \"Una don collect blessing from Yahweh, because una show pity on top me.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And im talk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "una don collect blessing"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "una show pity"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:29.260044566Z",
+  "model": "glm-5.2"
+}

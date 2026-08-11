@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Elohim talk say: Dis na di sign of di covenant wey I dey give between me and una, and between evri living creature wey ⟨dey⟩ ⟨את⟩ una, for generations wey ⟨last⟩ forever.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אות",
+      "gloss": "sign"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "of di covenant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "and between una"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "creature"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "living"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "for generations"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:39.150690683Z",
+  "model": "glm-5.2"
+}

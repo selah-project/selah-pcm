@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e come happen, as di people move from dia tent, to cross ⟨את⟩ Yarden, and di priests wey dey carry ⟨את⟩ di ark of di covenant ⟨dey go⟩ before di people,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "as ⟨dem⟩ move"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "from dia tent"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "to cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "and di priests"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wey dey carry"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "of di covenant"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:31.665119274Z",
+  "model": "glm-5.2"
+}

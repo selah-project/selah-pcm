@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And e come be, because di pikin-dem of Yisra'el bin sin against Yahweh, dia Elohim — di One wey bin bring ⟨את⟩ dem from di land of Mitsrayim, from under di hand of Paroh, king of Mitsrayim — and dem bin fear oda elohim,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bin sin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "di One wey bin bring up"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di pikin-dem of Yisra'el)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "di hand"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "and dem bin fear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:25.830260951Z",
+  "model": "glm-5.2"
+}

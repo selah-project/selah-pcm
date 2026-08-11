@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make you no talk, sey 'Wetin happen wey di former days bin better pass dis ones?' because no be from wisdom you ask about dis one.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ⟨...⟩ no"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "happen"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "sey di days"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "di former ones"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "better"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "pass dis ones"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "from wisdom"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "you ask"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:38.070384997Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "But as for you, Yahweh, you go dey laugh ⟨at⟩ dem; you go dey mock all di nation dem.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "but as for you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "you go dey laugh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨at⟩ dem"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "you go dey mock"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nation dem"
+    }
+  ],
+  "timestamp": "2026-08-11T16:36:50.213793795Z",
+  "model": "glm-5.2"
+}

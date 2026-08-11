@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Yahweh dey guard ⟨di⟩ people wey no get sense; I bin come down, and ⟨e⟩ save me.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "dey guard"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "people wey no get sense"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "I bin come down"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "and to me"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "⟨e⟩ save"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.010154330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And if one woman vow vow to Yahweh, and bind bond for ⟨di⟩ house of im papa, for im youth time,",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "and if one woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "vow"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vow"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "and bind"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "bond"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for ⟨di⟩ house"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "of im papa"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "for im youth time"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:43.363432210Z",
+  "model": "glm-5.2"
+}

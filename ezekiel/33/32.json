@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And see, you be to dem like singer of love-songs wey get fine voice and dey play well; and dem go hear ⟨את⟩ your words, but dem no dey do ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "and see"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "like singer"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "of love-songs"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "and wey dey play well"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "musician"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "and dem go hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your words"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "your words"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "do"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "dem no dey"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "your words (implied)"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:29.136267858Z",
+  "model": "glm-5.2"
+}

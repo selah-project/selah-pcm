@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Before di silver cord go cut, and di golden bowl go crush, and di jar go break on top di spring, and di wheel go crush inside di cistern;",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "before"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יֵרָחֵק",
+      "gloss": "⟨e⟩ go cut"
+    },
+    {
+      "surface": "חֶבֶל",
+      "gloss": "cord"
+    },
+    {
+      "surface": "הַכֶּסֶף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "וְתָרֻץ",
+      "gloss": "and ⟨e⟩ go crush"
+    },
+    {
+      "surface": "גֻּלַּת",
+      "gloss": "bowl"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "di golden"
+    },
+    {
+      "surface": "וְתִשָּׁבֵר",
+      "gloss": "and ⟨e⟩ go break"
+    },
+    {
+      "surface": "כַּד",
+      "gloss": "jar"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הַמַּבּוּעַ",
+      "gloss": "di spring"
+    },
+    {
+      "surface": "וְנָרֹץ",
+      "gloss": "and ⟨e⟩ go crush"
+    },
+    {
+      "surface": "הַגַּלְגַּל",
+      "gloss": "di wheel"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הַבּוֹר",
+      "gloss": "di cistern"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:22.525140262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Before mountains bin sink down, before hills, ⟨na⟩ dem born me.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "before"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "sink down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hills"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "dem born me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:17.108868659Z",
+  "model": "glm-5.2"
+}

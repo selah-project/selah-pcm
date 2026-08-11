@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Make you no oppress person wey dem hire wey ⟨be⟩ poor and needy, from your brodas or from di stranger wey dey inside your land, inside your gates.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "make you oppress"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "person wey dem hire"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "from your brodas"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "from di stranger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "inside your land"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "inside your gates"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:43.940806253Z",
+  "model": "glm-5.2"
+}

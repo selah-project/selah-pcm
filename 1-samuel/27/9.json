@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Dawid bin strike ⟨את⟩ di land, and e no dey keep man or woman alive, and e bin take sheep, and cow, and donkey, and camel, and cloth; and e bin go back and e bin come to Akish.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "dey keep alive"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "and woman"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "and cow"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "and donkey"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "and camel"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "and cloth"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin go back"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:41.208199853Z",
+  "model": "glm-5.2"
+}

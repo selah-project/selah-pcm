@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Torah of your mouth dey good for me pass thousands of gold and silver.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dey good"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "of your mouth"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "pass thousands"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "and silver"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:29.335402021Z",
+  "model": "glm-5.2"
+}

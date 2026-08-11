@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and e build ⟨את⟩ twenty cubit for di back part of di house with plank-dem of cedar; from di floor reach di wall-dem, and e build for inside, for di inner room, for di holy of holies.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and e build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twenty cubit"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "for di back part"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "with plank-dem"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "of cedar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "di floor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "di wall-dem"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and e build"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "for di inner room"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "for di holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "of holies"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:20.417412719Z",
+  "model": "glm-5.2"
+}

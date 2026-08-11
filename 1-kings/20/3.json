@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e tell am sey: \"Like dis Ben־Hadad talk: Your silver and your gold — na im be my own. And your wife dem and your son dem, di fine one dem — na dem be my own.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "your silver"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "and your gold"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my own"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "be"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "and your wife dem"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "and your son dem"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "di fine one dem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my own"
+    },
+    {
+      "surface": "הם",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:09.172560394Z",
+  "model": "glm-5.2"
+}

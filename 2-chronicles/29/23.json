@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And dem bin carry ⟨את⟩ di he-goats of sin-offering come near before di king and di congregation, and dem bin lay dia hands on top dem.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "and dem bin carry come near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di he-goats of sin-offering"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "di he-goats of"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sin-offering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "and di congregation"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "and dem bin lay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hands"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.878533369Z",
+  "model": "glm-5.2"
+}

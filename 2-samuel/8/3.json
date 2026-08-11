@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Dawid bin strike ⟨את⟩ Hadadezer son of Rechov, king of Tsovah, wen e bin dey go to restore im hand for di River.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and e bin strike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "wen e bin dey go"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "to restore"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "for di River"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:46.876502035Z",
+  "model": "glm-5.2"
+}

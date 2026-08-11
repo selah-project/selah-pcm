@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Your hand go find all your enemies; your right hand go find ⟨di⟩ ⟨ones⟩ wey hate you.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "go find"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "your right hand"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "go find"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wey hate you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:25.521282571Z",
+  "model": "glm-5.2"
+}

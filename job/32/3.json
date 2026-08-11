@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And against im three friend dem im anger burn, because dem no find answer, and dem declare ⟨את⟩ Iyov guilty.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "and against di three"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "im friend dem"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "burn"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "im anger"
+    },
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "dem find"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "answer"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "and dem declare guilty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:52.857616537Z",
+  "model": "glm-5.2"
+}

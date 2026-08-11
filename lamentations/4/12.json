@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "King-dem of di earth, and all wey dey live for di world, no believe say enemy and adversary go enter inside di gate-dem of Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "believe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "King-dem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "for di world"
+    },
+    {
+      "surface": "כי",
+      "gloss": "say"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "צר",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "and adversary"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "inside di gate-dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:54.103027255Z",
+  "model": "glm-5.2"
+}

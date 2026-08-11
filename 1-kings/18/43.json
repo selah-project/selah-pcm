@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 18:43",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "and e bin tell im boy: \"Please go up, look toward sea road.\" And e bin go up, and e bin look, and e bin talk: \"Notting dey.\" And e bin talk: \"Go back seven times.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "im boy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "נא",
+      "gloss": "please"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "look"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "bin look"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "notting"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:23.192320251Z",
+  "model": "glm-5.2"
+}

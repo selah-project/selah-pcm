@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "⟨Di⟩ sin of my youth and my rebellion, no remember; according to chesed of you, remember me — na you, for di sake of di goodness of you, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "sin"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "of my youth"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "and my rebellion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "according to chesed of you"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "goodness of you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:23.620508021Z",
+  "model": "glm-5.2"
+}

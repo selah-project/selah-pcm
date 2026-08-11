@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "For di day wey di guards of di house go shake, and di strong men go bend down, and di grinding ones stop because dem don reduce, and di ones wey dey look through di loku go dark —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "wey go shake"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "di guards of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "and go bend down"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "strength"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "and stop"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "di grinding ones"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "dem don reduce"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "and go dark"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "di ones wey dey look"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "through di loku"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:14.571500228Z",
+  "model": "glm-5.2"
+}

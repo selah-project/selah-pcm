@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "And beside di border of Menashsheh, from di east side reach di west side, Efrayim, one.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "and beside"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "border"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "from di side"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "east"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "side"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "west"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:20:31.257497054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "I no bin send ⟨את⟩ di prophets, and dem bin run; I no bin speak to dem, and dem bin prophesy.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שָׁלַ֥חְתִּי",
+      "gloss": "I bin send"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di prophets"
+    },
+    {
+      "surface": "הַנְּבִאִ֖ים",
+      "gloss": "di prophets"
+    },
+    {
+      "surface": "וְהֵ֣ם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "רָ֑צוּ",
+      "gloss": "bin run"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דִבַּ֥רְתִּי",
+      "gloss": "I bin speak"
+    },
+    {
+      "surface": "אֲלֵיהֶ֖ם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "וְהֵ֥ם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "נִבָּֽאוּ",
+      "gloss": "bin prophesy"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:29.496336016Z",
+  "model": "glm-5.2"
+}

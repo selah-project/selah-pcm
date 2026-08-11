@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Wait for Yahweh — make you strong, and make your heart take courage; and wait for Yahweh!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "wait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "make you strong"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "and make take courage"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "and wait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:01.224600819Z",
+  "model": "glm-5.2"
+}

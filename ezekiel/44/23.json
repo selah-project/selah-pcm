@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And ⟨dem⟩ go teach ⟨את⟩ my people di difference between holy thing and common thing, and between unclean thing and clean thing, dem go make dem know am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "dem go teach"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy thing"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "and common thing"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean thing"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "and clean thing"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "dem go make dem know"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:05.686392409Z",
+  "model": "glm-5.2"
+}

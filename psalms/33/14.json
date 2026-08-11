@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "From di place of im dwelling ⟨im⟩ dey gaze toward all di people wey dey live for di earth.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "from di place"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "of im dwelling"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "dey gaze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey live"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "for di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:00.942848019Z",
+  "model": "glm-5.2"
+}

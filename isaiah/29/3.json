@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And I go camp like circle round you, and I go besiege you ⟨with⟩ garrison, and I go raise siege-works against you.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "and I go camp"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "like circle"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "round you"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "and I go besiege you"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "⟨with⟩ garrison"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "and I go raise"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "siege-works"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:42.632026566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "To di conductor, one instructive ⟨poem⟩, for di sons of Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di conductor"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "instructive ⟨poem⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di sons of"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:43.907846779Z",
+  "model": "glm-5.2"
+}

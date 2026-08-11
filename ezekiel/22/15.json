@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And I go scatter ⟨את⟩ you among di nation dem, and I go disperse you among di land dem, and I go finish yor uncleanness comot from you.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "and I go scatter"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nation dem"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "and I go disperse you"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "among di land dem"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "and I go finish"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "yor uncleanness"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "comot from you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:32.411776970Z",
+  "model": "glm-5.2"
+}

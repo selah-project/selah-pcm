@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "If ya broda come poor, and e sell from im inheritance, and im redeemer wey dey near am come, den e go redeem ⟨את⟩ wetin im broda sell —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "come poor"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya broda"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "and e sell"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "from im inheritance"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "im redeemer"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wey dey near"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "den e go redeem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin im broda sell"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "di sale"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "of im broda"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:27.278166738Z",
+  "model": "glm-5.2"
+}

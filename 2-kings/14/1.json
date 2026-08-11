@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "For di second year of Yoash son of Yoachaz, king of Yisra'el, Amatsyahu son of Yoash, king of Yehudah, bin begin reign.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year of"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoachaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bin begin reign"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:56.511712935Z",
+  "model": "glm-5.2"
+}

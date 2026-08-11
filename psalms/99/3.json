@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 99,
+  "translation": "Make dem praise your name — big and terrifying; holy ⟨na⟩ im.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "make dem praise"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name",
+      "marks": "your name"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "and terrifying"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.833046733Z",
+  "model": "glm-5.2"
+}

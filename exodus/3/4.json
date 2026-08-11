@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh see sey im don turn side make im look; Elohim come call am from inside di bush, im come talk sey, 'Mosheh! Mosheh!' Im come talk sey, 'Here I dey.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "see"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "סר",
+      "gloss": "don turn side"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "make im look"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "come call"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "di bush"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Here I dey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:45.809392971Z",
+  "model": "glm-5.2"
+}

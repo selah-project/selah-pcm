@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 5:14",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Im hands ⟨be⟩ rod of gold, wey dem fill wit Tarshish-stone; im body na work of ivory, wey dem cover wit sapphire.",
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "im hands"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "rod of"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "ממלאים",
+      "gloss": "wey dem fill"
+    },
+    {
+      "surface": "בתרשיש",
+      "gloss": "wit Tarshish-stone"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "im body"
+    },
+    {
+      "surface": "עשת",
+      "gloss": "work of"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ivory"
+    },
+    {
+      "surface": "מעלפת",
+      "gloss": "wey dem cover"
+    },
+    {
+      "surface": "ספירים",
+      "gloss": "wit sapphire"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:28.052397110Z",
+  "model": "glm-5.2"
+}

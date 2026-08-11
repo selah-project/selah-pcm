@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨את⟩ dem wey dey bow down on top di rooftops to di army of heaven, and ⟨את⟩ dem wey dey bow down, wey dey swear by Yahweh, and wey dey swear by Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem wey dey bow down"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dem wey dey bow down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "di rooftops"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "to di army"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem wey dey bow down"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dem wey dey bow down"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "wey dey swear"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "by Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "and wey dey swear"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "by Malkam"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:39.358844301Z",
+  "model": "glm-5.2"
+}

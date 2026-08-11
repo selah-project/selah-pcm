@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 24:19",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Dis dem be dia postings for dia work, to dey enter ⟨את⟩ house of Yahweh according to dia ordinance, for hand of Aharon dia papa, as Yahweh, Elohim of Yisrael, bin command am.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "postings of-dem"
+    },
+    {
+      "surface": "לעבדתם",
+      "gloss": "for work of-dem"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "to enter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Yahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨to⟩ house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "according to ordinance of-dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "papa of-dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bin command am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:30.664431458Z",
+  "model": "glm-5.2"
+}

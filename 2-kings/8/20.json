@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For im days Edom rebel from under hand of Yehudah, and dem put king on top dem.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "for im days"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rebel"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "and dem put king"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:04.713236251Z",
+  "model": "glm-5.2"
+}

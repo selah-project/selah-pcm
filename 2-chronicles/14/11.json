@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yahweh bin strike ⟨את⟩ di Kushites before Asa and before Yehudah, and di Kushites run.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kushites"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "di Kushites"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "and before"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and dem run"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "di Kushites"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:01.488915469Z",
+  "model": "glm-5.2"
+}

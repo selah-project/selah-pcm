@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Elohim — for im palaces dem, ⟨dem⟩ know am as refuge.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "for im palaces dem"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨dem⟩ know am"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "as refuge"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:14.339389645Z",
+  "model": "glm-5.2"
+}

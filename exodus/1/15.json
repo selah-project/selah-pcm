@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di king of Mitsrayim bin talk to di Hebrew women wey dey deliver woman of pikin — di name of di one na Shifrah, and di name of di second na Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "to di women wey dey deliver woman of pikin"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "di Hebrew"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "of di one"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and name"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "of di second"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:55.371917Z",
+  "model": "glm-5.2"
+}

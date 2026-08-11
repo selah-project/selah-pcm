@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Violent witness dem go stand up; wetin I no know, na im dem dey ask me.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "go stand up"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "witness dem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "dem dey ask me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:05.573962742Z",
+  "model": "glm-5.2"
+}

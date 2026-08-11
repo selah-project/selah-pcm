@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "All moving thing wey ⟨e⟩ dey alive, go be for una for food; like green grass I don give ⟨am⟩ to una, ⟨את⟩ all.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "moving thing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey alive"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "for food"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "like green"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:28.839224080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "Our help ⟨dey⟩ for di Name of Yahweh, Maker of heaven and earth.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Our help"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Maker of"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "and earth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:36.109892388Z",
+  "model": "glm-5.2"
+}

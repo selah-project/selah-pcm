@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Sun go shine, dem go gather ⟨demself⟩ together, and for dia dens dem go lie down.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "go shine"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "dem go gather"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and for"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "dia dens"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "dem go lie down"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:13.038672571Z",
+  "model": "glm-5.2"
+}

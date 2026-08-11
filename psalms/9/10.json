@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Yahweh go be high refuge for di oppressed, high refuge for times for trouble.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and go be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "high refuge"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "for di oppressed"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "high refuge"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "for times"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "for trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:28.830615459Z",
+  "model": "glm-5.2"
+}

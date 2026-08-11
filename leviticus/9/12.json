@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e slaughter ⟨את⟩ di burnt offering, and di sons of Aharon bring come meet am ⟨את⟩ di blood, and e sprinkle am on top di altar all around.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "and e slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di burnt offering"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "and dem bring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "come meet am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blood"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "and e sprinkle am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:49.056231302Z",
+  "model": "glm-5.2"
+}

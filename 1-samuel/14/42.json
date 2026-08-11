@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Shaul bin talk, ⟨sey⟩ make dem throw lot between me and Yonatan my pikin, and dem bin catch Yonatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And ⟨he⟩ bin talk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "make dem throw ⟨lot⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and ⟨he⟩ bin catch"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:04.011431573Z",
+  "model": "glm-5.2"
+}

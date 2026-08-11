@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨make⟩ sabbath of di land be for una for food — for you, and for your servant, and for your female servant, and for your hired worker, and for di stranger wey dey stay with you.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "and ⟨make⟩ be"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbath"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "for food"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "and for your servant"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "and for your female servant"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "and for your hired worker"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "and for di stranger"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:42.122378952Z",
+  "model": "glm-5.2"
+}

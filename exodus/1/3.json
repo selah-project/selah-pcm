@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Yissaskhar, Z'vulun, and Binyamin.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Z'vulun"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "and Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:07.229130669Z",
+  "model": "glm-5.2"
+}

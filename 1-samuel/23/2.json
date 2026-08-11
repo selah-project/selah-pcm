@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So David ask Yahweh, sey: \"Make I go and make I strike dis Pelishtim dem?\" And Yahweh talk to David, sey: \"Go, strike ⟨את⟩ di Pelishtim dem, and you go save Keilah.\"",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "so ⟨he⟩ ask"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "make I go"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "and make I strike"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "⟨against⟩ Pelishtim dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨He⟩ talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelishtim dem"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "and you go save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keilah"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:16.997671798Z",
+  "model": "glm-5.2"
+}

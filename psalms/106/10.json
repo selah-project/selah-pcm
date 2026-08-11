@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "And ⟨im⟩ save dem from hand of di one wey hate dem, and ⟨im⟩ redeem dem from hand of enemy.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "and ⟨im⟩ save dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "di one wey hate dem"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "and ⟨im⟩ redeem dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:38.513911360Z",
+  "model": "glm-5.2"
+}

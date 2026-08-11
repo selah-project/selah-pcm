@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "For outside you go stand, and di man wey you dey lend am, na im go bring ⟨את⟩ di pledge outside give you.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "for outside"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "you go stand"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "and di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "dey lend"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "na im go bring out"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "give you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pledge"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "di pledge"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "outside"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:02.279627348Z",
+  "model": "glm-5.2"
+}

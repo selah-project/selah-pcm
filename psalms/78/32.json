@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "In spite of all dis, dem still sin, and dem no believe for im wonderful works.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "In spite of all"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dem sin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "believe"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "for im wonderful works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:58.827280895Z",
+  "model": "glm-5.2"
+}

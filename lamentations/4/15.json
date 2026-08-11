@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 4:15",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "⟨Dem⟩ shout give dem, 'Comot! Unclean!' Dem dey cry, 'Comot! Comot! No touch!' Because dem flee, dem sef waka about; dem talk among di nation dem, 'Dem no go add to sojourn dia again.'",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Comot!"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "Unclean!"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "⟨Dem⟩ shout"
+    },
+    {
+      "surface": "למו",
+      "gloss": "give dem"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "Comot!"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "Comot!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "No"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "touch!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "נצו",
+      "gloss": "dem flee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dem sef"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "waka about"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nation dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "go add"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "to sojourn"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:58.156400121Z",
+  "model": "glm-5.2"
+}

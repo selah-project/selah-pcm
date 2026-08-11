@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "For di king go hear, to deliver im handmaid from di hand of di man wey wan destroy ⟨את⟩ me and ⟨את⟩ my son together, from di inheritance of Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "will hear"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "the king"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "to deliver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im handmaid"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "his handmaid"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "from the hand"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "of the man"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "from the inheritance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:39.601481775Z",
+  "model": "glm-5.2"
+}

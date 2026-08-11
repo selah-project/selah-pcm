@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Dis one na di sons of Efrayim by dia families: for Shuthelach, di family of di Shuthalchi; for Bekher, di family of di Bekhri; for Tachan, di family of di Tachani.",
+  "tokens": [
+    {
+      "surface": "אֵ֣לֶּה",
+      "gloss": "Dis one na"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אֶפְרַיִם֮",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָם֒",
+      "gloss": "by dia families"
+    },
+    {
+      "surface": "לְשׁוּתֶ֗לַח",
+      "gloss": "for Shuthelach"
+    },
+    {
+      "surface": "מִשְׁפַּ֨חַת֙",
+      "gloss": "di family of"
+    },
+    {
+      "surface": "הַשֻּׁ֣תַלְחִ֔י",
+      "gloss": "di Shuthalchi"
+    },
+    {
+      "surface": "לְבֶ֕כֶר",
+      "gloss": "for Bekher"
+    },
+    {
+      "surface": "מִשְׁפַּ֖חַת",
+      "gloss": "di family of"
+    },
+    {
+      "surface": "הַבַּכְרִ֑י",
+      "gloss": "di Bekhri"
+    },
+    {
+      "surface": "לְתַ֕חַן",
+      "gloss": "for Tachan"
+    },
+    {
+      "surface": "מִשְׁפַּ֖חַת",
+      "gloss": "di family of"
+    },
+    {
+      "surface": "הַֽתַּחֲנִֽי",
+      "gloss": "di Tachani"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:28.101409760Z",
+  "model": "glm-5.2"
+}

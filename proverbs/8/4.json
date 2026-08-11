@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Una, men dem, ⟨I⟩ dey call; and my voice ⟨reach⟩ children of mankind.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "men dem"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "⟨I⟩ dey call"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "and my voice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨reach⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mankind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:48.870884760Z",
+  "model": "glm-5.2"
+}

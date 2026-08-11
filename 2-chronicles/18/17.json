@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Di king of Yisra'el bin talk to Yehoshafat, \"No be sey I bin tell you sey im no go prophesy good ting on top my head, but only bad ting?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "no be sey"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin tell"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "go prophesy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top my head"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good ting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "only"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bad ting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:58.167119854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Mosheh talk say, chop am today, because today ⟨na⟩ Shabbat to Yahweh; today una no go find am for inside di field.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "chop am"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "una go find am"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for inside di field"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:24.596412716Z",
+  "model": "glm-5.2"
+}

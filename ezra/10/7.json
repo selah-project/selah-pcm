@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem pass one voice across Yehudah and Yerushalayim, to all di sons of di exile, say make dem gather ⟨demself⟩ for Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "dem pass"
+    },
+    {
+      "surface": "קול",
+      "gloss": "one voice"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "across Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "of di exile"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "say make dem gather"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "for Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:47:32.530153254Z",
+  "model": "glm-5.2"
+}

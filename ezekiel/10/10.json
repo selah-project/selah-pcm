@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dia appearance — one form for di four of dem, like how one wheel dey inside di other wheel.",
+  "tokens": [
+    {
+      "surface": "וּמַרְאֵיהֶם",
+      "gloss": "and dia appearance"
+    },
+    {
+      "surface": "דְּמוּת",
+      "gloss": "form"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּם",
+      "gloss": "for di four of dem"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "like how"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "⟨dey⟩"
+    },
+    {
+      "surface": "הָאוֹפַן",
+      "gloss": "di wheel"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הָאוֹפָן",
+      "gloss": "di wheel"
+    }
+  ],
+  "timestamp": "2026-08-11T12:05:03.393263155Z",
+  "model": "glm-5.2"
+}

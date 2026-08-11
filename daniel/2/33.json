@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "im legs ⟨na⟩ iron, im feet, some ⟨part⟩ of dem na iron, and some ⟨part⟩ of dem na clay.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "im legs"
+    },
+    {
+      "surface": "די",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "im feet"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "some of dem"
+    },
+    {
+      "surface": "די",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "and some of dem"
+    },
+    {
+      "surface": "די",
+      "gloss": "na"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "clay"
+    }
+  ],
+  "timestamp": "2026-08-11T13:40:14.223992398Z",
+  "model": "glm-5.2"
+}

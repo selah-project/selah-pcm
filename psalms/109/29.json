@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make my enemies wear shame, and make dem wrap demself like garment with dia disgrace.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "make dem wear"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "and make dem wrap"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "like garment"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "dia disgrace"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:32.057865397Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "From before you, let my judgment go out; your eyes, may ⟨they⟩ see uprightness.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "from before you"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my judgment"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "let go out"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "your eyes"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "may see"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "uprightness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:37.584853704Z",
+  "model": "glm-5.2"
+}

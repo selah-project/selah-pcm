@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Because as di height of di heaven dey above di earth, na so im chesed don prevail above those wey dey fear am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "as di height"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "of di heaven"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey above"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "don prevail"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "above"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "those wey dey fear am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:17.766214653Z",
+  "model": "glm-5.2"
+}

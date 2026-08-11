@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "For who ⟨be⟩ El apart from Yahweh? And who ⟨be⟩ rock apart from our Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rock"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:48.189315683Z",
+  "model": "glm-5.2"
+}

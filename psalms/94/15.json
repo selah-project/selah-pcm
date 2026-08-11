@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Because judgment go return to righteousness, and all di straight-of-heart ⟨dem⟩ go follow behind-am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "return"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "and behind-am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "straight-of"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:23.936115330Z",
+  "model": "glm-5.2"
+}

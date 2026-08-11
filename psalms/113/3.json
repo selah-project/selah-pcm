@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 113,
+  "translation": "From where sun dey rise reach where e dey set, di name of Yahweh ⟨dey⟩ praised.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "from where sun dey rise"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "where e dey set"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "⟨dey⟩ praised"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:24.604239946Z",
+  "model": "glm-5.2"
+}

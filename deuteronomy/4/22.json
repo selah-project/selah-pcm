@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Because I ⟨be⟩ dey die for dis land, I no dey cross ⟨את⟩ Yarden; but una go cross and una go possess ⟨את⟩ dis good land.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨be⟩ dey die"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for ⟨dis⟩ land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "I no dey"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "but una"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "go cross"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "and una go possess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis good land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dis land"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:55.867783438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Yahweh bin dey with Yehoshafat, because im bin waka for di way dem of Dawid, im papa, di first one dem, and im no find di Baal dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin waka"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "for di way dem of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "di first one dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "find"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "di Baal dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.612549278Z",
+  "model": "glm-5.2"
+}

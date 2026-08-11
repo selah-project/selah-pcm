@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "For di breadth of di wall of di courtyard, for di east side road, near di front of di separated area and near di front of di building, ⟨were⟩ rooms.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "for di breadth of"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "of di courtyard"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "di east side"
+    },
+    {
+      "surface": "אל",
+      "gloss": "near"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di front of"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "di separated area"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and near"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di front of"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "di building"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "rooms"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:25.273821409Z",
+  "model": "glm-5.2"
+}

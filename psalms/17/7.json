@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Make you show your chesed wey dey stand out, you wey dey rescue dem wey dey trust — by your right hand, from dem wey dey stand up against.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "make you show wey dey stand out"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "you wey dey rescue"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "dem wey dey trust"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "from dem wey dey stand up against"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "by your right hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:23.064148636Z",
+  "model": "glm-5.2"
+}

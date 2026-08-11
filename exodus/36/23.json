@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And e make ⟨את⟩ di boards for di Mishkan: twenty boards for di south side, toward di south.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di boards"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "di boards"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "for di Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "boards"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "for di side"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "south"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "toward di south"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:32.416043366Z",
+  "model": "glm-5.2"
+}

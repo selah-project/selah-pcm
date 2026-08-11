@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And e bin build ⟨את⟩ di House of di Forest of Lebanon — one hundred cubit im length, and fifty cubit im width, and thirty cubit im height — on top four row of cedar pillar, and cedar beam wey dem cut on top di pillar dem.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and e bin build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di House of di Forest of Lebanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "House"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Forest"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "of Lebanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "and fifty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "four"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "row of"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "and beam wey dem cut"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "di pillar dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:43.312576212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "As I dey live—na oracle of Adonai Yahweh—Sedom your sista no do, she and im daughter-dem, like wetin you do, you and your daughter-dem.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "as I dey live"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "do"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "your sista"
+    },
+    {
+      "surface": "היא",
+      "gloss": "she"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "and im daughter-dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "like wetin"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you do"
+    },
+    {
+      "surface": "את",
+      "gloss": "you",
+      "marks": "you (2fs pronoun, not DOM)"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "and your daughter-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.866613549Z",
+  "model": "glm-5.2"
+}

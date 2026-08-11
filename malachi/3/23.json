@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Look, I dey send to una ⟨את⟩ Eliyahu di prophet, before di coming of di day of Yahweh, di great and di terrible one.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dey send"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu di prophet"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "di coming"
+    },
+    {
+      "surface": "יום",
+      "gloss": "of di day"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "di great"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "and di terrible one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:11.971528704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "una small-pikin dem, una wife dem, and ⟨im⟩ stranger wey dey inside ⟨your⟩ camp, from di man wey dey cut ⟨your⟩ wood reach di man wey dey draw ⟨your⟩ water —",
+  "tokens": [
+    {
+      "surface": "טַפְּכֶ֣ם",
+      "gloss": "una small-pikin dem"
+    },
+    {
+      "surface": "נְשֵׁיכֶ֔ם",
+      "gloss": "una wife dem"
+    },
+    {
+      "surface": "וְגֵ֣רְךָ֔",
+      "gloss": "and ⟨im⟩ stranger"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "מַחֲנֶ֑יךָ",
+      "gloss": "⟨your⟩ camp"
+    },
+    {
+      "surface": "מֵחֹטֵ֣ב",
+      "gloss": "from di man wey dey cut"
+    },
+    {
+      "surface": "עֵצֶ֔יךָ",
+      "gloss": "⟨your⟩ wood"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "שֹׁאֵ֥ב",
+      "gloss": "di man wey dey draw"
+    },
+    {
+      "surface": "מֵימֶֽיךָ",
+      "gloss": "⟨your⟩ water"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:48.792135822Z",
+  "model": "glm-5.2"
+}

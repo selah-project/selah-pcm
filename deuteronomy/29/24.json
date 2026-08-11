@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "and dem go talk, 'Because dem abandon ⟨את⟩ di covenant of Yahweh, Elohim of dia papa, wey im cut wit dem, wen im bring ⟨את⟩ dem comot from land of Mitsrayim,'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "and dem go talk"
+    },
+    {
+      "surface": "על",
+      "gloss": "say"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dem abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di covenant"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "di covenant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "of dia papa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "im cut"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "wen im bring comot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.608582314Z",
+  "model": "glm-5.2"
+}

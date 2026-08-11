@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and if no, make fire come out from Avimelek, and make e chop ⟨את⟩ di lords of Shekhem and ⟨את⟩ Beth-Milo; and make fire come out from di lords of Shekhem and from Beth-Milo, and make e chop ⟨את⟩ Avimelek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "make e come out"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "from Avimelek"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and make e chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lords of Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "di lords"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "of Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Beth-Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "and make fire come out"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "from di lords"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "of Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "and from Beth"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and make e chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    }
+  ],
+  "timestamp": "2026-08-11T10:29:51.191682775Z",
+  "model": "glm-5.2"
+}

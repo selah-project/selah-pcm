@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "From beyond di rivas of Kush, ⟨di⟩ piple wey dey beg me, ⟨di⟩ daughter of my scattered ones, dem go carry come my offering.",
+  "tokens": [
+    {
+      "surface": "מֵעֵ֖בֶר",
+      "gloss": "from beyond"
+    },
+    {
+      "surface": "לְנַֽהֲרֵי",
+      "gloss": "di rivas of"
+    },
+    {
+      "surface": "כוּשׁ֑",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "עֲתָרַי֙",
+      "gloss": "⟨di⟩ piple wey dey beg me"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "⟨di⟩ daughter of"
+    },
+    {
+      "surface": "פוּצַ֔י",
+      "gloss": "my scattered ones"
+    },
+    {
+      "surface": "יוֹבִל֖וּן",
+      "gloss": "dem go carry come"
+    },
+    {
+      "surface": "מִנְחָתִֽי",
+      "gloss": "my offering",
+      "marks": "my offering"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.883201439Z",
+  "model": "glm-5.2"
+}

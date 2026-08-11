@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Righteous person sabi di life of im animal, but di pity wey wicked people get ⟨na⟩ cruel.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Righteous person"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "di life"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "of im animal"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "but di pity"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "cruel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:00.987706261Z",
+  "model": "glm-5.2"
+}

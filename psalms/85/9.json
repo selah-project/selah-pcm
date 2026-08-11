@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "Ah go hear wetin El Yahweh go talk, because ⟨im⟩ go talk shalom to ⟨im⟩ people, and to ⟨im⟩ khasidim, make dem no turn back go folly.",
+  "tokens": [
+    {
+      "surface": "אֶשְׁמְעָ֗ה",
+      "gloss": "Ah go hear"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יְדַבֵּר֮",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "הָאֵ֪ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יְה֫וָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "because"
+    },
+    {
+      "surface": "יְדַבֵּ֬ר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "שָׁל֗וֹם",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עַמּ֥וֹ",
+      "gloss": "⟨im⟩ people"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "חֲסִידָ֑יו",
+      "gloss": "⟨im⟩ khasidim"
+    },
+    {
+      "surface": "וְֽאַל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יָשׁ֥וּבוּ",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "לְכִסְלָֽה",
+      "gloss": "go folly"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:43.386567220Z",
+  "model": "glm-5.2"
+}

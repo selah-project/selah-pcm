@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "For evri tin ⟨na⟩ im time, and season for evri desire under ⟨di⟩ heaven.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "for evri tin"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "time"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "and season"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "desire"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:44.163128032Z",
+  "model": "glm-5.2"
+}

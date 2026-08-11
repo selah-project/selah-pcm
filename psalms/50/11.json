@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "I sabi all di birds of di mountains, and di moving creatures of di field ⟨dey⟩ with me.",
+  "tokens": [
+    {
+      "surface": "יָדַעְתִּי",
+      "gloss": "I sabi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עוֹף",
+      "gloss": "birds"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "of di mountains"
+    },
+    {
+      "surface": "וְזִיז",
+      "gloss": "and moving creatures"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "עִמָּדִי",
+      "gloss": "with me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:37.271906135Z",
+  "model": "glm-5.2"
+}

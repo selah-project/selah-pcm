@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ tear down ⟨את⟩ di tower of Penuel, and ⟨he⟩ kill ⟨את⟩ di men of di city.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di tower"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tower"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "tear down"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "and kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di men"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:49.339144803Z",
+  "model": "glm-5.2"
+}

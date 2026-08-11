@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨את⟩ di base-dem ⟨he⟩ make, and ⟨את⟩ di basin-dem ⟨he⟩ make on top of di base-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di base-dem"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "di base-dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di basin-dem"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "di basin-dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "di base-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:36.890486763Z",
+  "model": "glm-5.2"
+}

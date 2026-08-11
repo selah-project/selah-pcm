@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem go camp against dem, and dem go destroy ⟨את⟩ di produce of di land, as far as your entering Azzah; and dem no go leave any sustenance for Yisra'el — not sheep, not cow, not donkey.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem go camp"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "and dem go destroy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di produce"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "produce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "your entering"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no go"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "leave"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "any sustenance"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisra'el"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "not sheep"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "not cow"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "not donkey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:28:52.487932225Z",
+  "model": "glm-5.2"
+}

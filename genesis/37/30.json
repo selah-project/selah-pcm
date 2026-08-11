@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e go back go ⟨im⟩ brodas, and e talk sey, Di boy no dey again, and me, where I dey go?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and e go back"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no dey again"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "where"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey go"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:10.673074059Z",
+  "model": "glm-5.2"
+}

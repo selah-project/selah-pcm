@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And di people complain against Moshe, sey: \"Wetin we go drink?\"",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "and ⟨dem⟩ complain"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "we go drink"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:23.106228489Z",
+  "model": "glm-5.2"
+}

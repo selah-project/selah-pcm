@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Lavan bin give am ⟨את⟩ Zilpah im servant-woman, to Leah im daughter, ⟨as⟩ servant-woman.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "And bin give"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpah im servant-woman"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "im servant-woman"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "to Leah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "im daughter"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "servant-woman"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:21.091523737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Evil wey I see under di sun, like mistake wey ⟨e⟩ come out from before di ruler —",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "רָעָ֔ה",
+      "gloss": "evil"
+    },
+    {
+      "surface": "רָאִ֖יתִי",
+      "gloss": "wey I see"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "כִּשְׁגָגָ֕ה",
+      "gloss": "like mistake"
+    },
+    {
+      "surface": "שֶׁיֹּצָ֖א",
+      "gloss": "wey ⟨e⟩ come out"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "from before"
+    },
+    {
+      "surface": "הַשַּׁלִּֽיט",
+      "gloss": "di ruler"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:56.685662825Z",
+  "model": "glm-5.2"
+}

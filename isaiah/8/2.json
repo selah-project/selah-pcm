@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And I go make ⟨faithful⟩ witnesses testify for me, ⟨את⟩ Uriyah di priest and ⟨את⟩ Zekaryahu, son of Yevarekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "and I go make testify"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "witnesses"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "⟨faithful⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Zekaryahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yevarekhyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:51.342802592Z",
+  "model": "glm-5.2"
+}

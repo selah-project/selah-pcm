@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And dem go destroy di wall dem of Tsor, and dem go break down im tower dem; and I go scrape im dust comot from am, and I go make ⟨את⟩ am to bare surface of rock.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "and dem go destroy"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "di wall dem"
+    },
+    {
+      "surface": "צר",
+      "gloss": "of Tsor"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "and dem go break down"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "im tower dem"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "and I go scrape"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "im dust"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "comot from am"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "am (Tsor)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "to bare surface"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "of rock"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:48.490496387Z",
+  "model": "glm-5.2"
+}

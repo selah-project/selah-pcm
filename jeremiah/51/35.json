@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 51:35",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "⟨Make⟩ ⟨di⟩ violence wey dem do me and my flesh fall on Bavel, na so ⟨di⟩ woman wey dey stay for Tsiyon go talk; and my blood ⟨fall⟩ on di pipul wey dey stay for Kasdim, na so Yerushalayim go talk.",
+  "tokens": [
+    {
+      "surface": "חֲמָסִ֤י",
+      "gloss": "di violence wey dem do me"
+    },
+    {
+      "surface": "וּשְׁאֵרִי֙",
+      "gloss": "and my flesh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "fall on"
+    },
+    {
+      "surface": "בָּבֶ֔ל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "תֹּאמַ֖ר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "יֹשֶׁ֣בֶת",
+      "gloss": "di woman wey dey stay"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "for Tsiyon"
+    },
+    {
+      "surface": "וְדָמִי֙",
+      "gloss": "and my blood"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "fall on"
+    },
+    {
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "di pipul wey dey stay"
+    },
+    {
+      "surface": "כַשְׂדִּ֔ים",
+      "gloss": "for Kasdim"
+    },
+    {
+      "surface": "תֹּאמַ֖ר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:48.459906032Z",
+  "model": "glm-5.2"
+}

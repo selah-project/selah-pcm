@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And we pray to Elohim of us, and we station guard on top dem day and night because of dem.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "and we pray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim of us"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "and we station"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "guard"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "day"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "and night"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "because of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:49:31.188876051Z",
+  "model": "glm-5.2"
+}

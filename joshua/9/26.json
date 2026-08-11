@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So ⟨e⟩ do like dat for dem, and ⟨e⟩ rescue ⟨את⟩ dem from hand of sons of Yisra'el, and dem no kill dem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨e⟩ do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "like dat"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "and ⟨e⟩ rescue"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "kill dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:52.816666701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "For your chesed ⟨dey⟩ before my eye, and I don dey waka for your truth.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "before"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "and I don dey waka"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "for your truth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:02.068020264Z",
+  "model": "glm-5.2"
+}

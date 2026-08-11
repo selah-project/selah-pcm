@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "See, dem no carry ⟨את⟩ im blood enter inside di holy place — for inside di holy place una for suppose chop ⟨את⟩ am, as I bin command una.",
+  "tokens": [
+    {
+      "surface": "הֵ֚ן",
+      "gloss": "see"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוּבָ֣א",
+      "gloss": "dem carry enter"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im blood"
+    },
+    {
+      "surface": "דָּמָ֔הּ",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הַקֹּ֖דֶשׁ",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "פְּנִ֑ימָה",
+      "gloss": "inside"
+    },
+    {
+      "surface": "אָכ֨וֹל",
+      "gloss": "chop"
+    },
+    {
+      "surface": "תֹּאכְל֥וּ",
+      "gloss": "una for chop"
+    },
+    {
+      "surface": "אֹתָ֛הּ",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "בַּקֹּ֖דֶשׁ",
+      "gloss": "for di holy place"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צִוֵּֽיתִי",
+      "gloss": "I bin command"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:02.726015183Z",
+  "model": "glm-5.2"
+}

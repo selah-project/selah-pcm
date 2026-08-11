@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 100,
+  "translation": "Make una serve ⟨את⟩ Yahweh with gladness; make una enter im presence with singing.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "make una serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "with gladness"
+    },
+    {
+      "surface": "באו",
+      "gloss": "make una enter"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "im presence"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "with singing"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:44.227421498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 1:22",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And e bin send letter dem to all di province dem of di king, to province and province according to im writing, and to people and people according to im tongue, make evri man dey rule for im own house and dey speak according to di tongue of im people.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letter dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "di province dem of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "province"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "and province"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "according to im writing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and people"
+    },
+    {
+      "surface": "כלשונו",
+      "gloss": "according to im tongue"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "make"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "dey rule"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "for im own house"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "and dey speak"
+    },
+    {
+      "surface": "כלשון",
+      "gloss": "according to di tongue of"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:01.335229967Z",
+  "model": "glm-5.2"
+}

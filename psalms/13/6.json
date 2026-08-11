@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "But as for me, for your chesed Ah don trust; my heart go glad for your salvation; Ah go sing to Yahweh, because ⟨e⟩ don do well for me.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "but as for me"
+    },
+    {
+      "surface": "בְּחַסְדְּךָ֣",
+      "gloss": "for your chesed"
+    },
+    {
+      "surface": "בָטַחְתִּי֮",
+      "gloss": "Ah don trust"
+    },
+    {
+      "surface": "יָ֤גֵ֥ל",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "לִבִּ֗י",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "בִּֽישׁוּעָ֫תֶ֥ךָ",
+      "gloss": "for your salvation"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "Ah go sing"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "because"
+    },
+    {
+      "surface": "גָמַ֣ל",
+      "gloss": "⟨e⟩ don do well"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:36.989881967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So all di people cross ⟨את⟩ Yardén, and di king cross. And di king kiss Barzillai and bless am, and e go back to im place.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "so ⟨dem⟩ cross"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cross"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and ⟨e⟩ kiss"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "and bless am"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨e⟩ go back"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "to im place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:25.982060220Z",
+  "model": "glm-5.2"
+}

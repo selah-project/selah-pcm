@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di king come tok: 'Dis one dey tok, \"Na my son be ⟨di⟩ living one, and your own be ⟨di⟩ dead one.\" And dis oda one dey tok, \"No o! Na your own be ⟨di⟩ dead one, and na my own be ⟨di⟩ living one.\"'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "come tok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dey tok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "החי",
+      "gloss": "di living one"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "and your own son"
+    },
+    {
+      "surface": "המת",
+      "gloss": "di dead one"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "and dis oda one"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dey tok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "No o!"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בנך",
+      "gloss": "your own son"
+    },
+    {
+      "surface": "המת",
+      "gloss": "di dead one"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and my own son"
+    },
+    {
+      "surface": "החי",
+      "gloss": "di living one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:36.208003153Z",
+  "model": "glm-5.2"
+}

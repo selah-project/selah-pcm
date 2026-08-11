@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 134,
+  "translation": "Make una lift up una hands ⟨to⟩ holiness, and make una bless ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "make una lift up"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "una hands"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨to⟩ holiness"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "and make una bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:49.019096981Z",
+  "model": "glm-5.2"
+}

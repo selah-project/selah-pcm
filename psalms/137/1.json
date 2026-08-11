@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "Beside di rivers of Bavel, dere we sit down, we bin cry, wen we remember ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivers"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "we sit down"
+    },
+    {
+      "surface": "גם",
+      "gloss": "we bin"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "cry"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "wen we remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:34.669186505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Ya'akov tell Rachel sey na brother of im papa e be, and sey na son of Rivkah e be, and she run go tell im papa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brother"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "of im papa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "and sey"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "of Rivkah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "and she run"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "go tell"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:05.524360941Z",
+  "model": "glm-5.2"
+}

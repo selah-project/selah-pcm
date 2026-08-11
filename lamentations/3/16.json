@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨he⟩ crush wit gravel my teeth, ⟨he⟩ press me down for ash.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "And ⟨he⟩ crush"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "wit gravel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "my teeth"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "⟨he⟩ press me down"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "for ash"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:07.885712683Z",
+  "model": "glm-5.2"
+}

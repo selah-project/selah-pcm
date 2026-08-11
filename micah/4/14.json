@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 4:14",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Now you go gash yourself, daughter of troop — siege dem don put on top us; wit rod dem go strike for di cheek ⟨את⟩ judge of Yisrael.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Now"
+    },
+    {
+      "surface": "תתגדדי",
+      "gloss": "you go gash yourself"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "of troop"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "siege"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dem don put"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "on top us"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "wit rod"
+    },
+    {
+      "surface": "יכו",
+      "gloss": "dem go strike"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "di cheek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "judge"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:26.445775407Z",
+  "model": "glm-5.2"
+}

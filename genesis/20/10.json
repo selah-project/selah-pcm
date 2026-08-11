@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Abimelek come talk to Avraham, \"Wetin you see, sey you do ⟨את⟩ dis tin?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "you see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis tin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di tin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:17.964035910Z",
+  "model": "glm-5.2"
+}

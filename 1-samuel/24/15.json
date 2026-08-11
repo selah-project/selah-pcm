@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "After who king of Yisrael come out? After who you dey pursue? After dead dog, after one single flea!",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "come out"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "dey pursue"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "dog"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dead"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "flea"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one single"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:26.066608987Z",
+  "model": "glm-5.2"
+}

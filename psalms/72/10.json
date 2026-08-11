@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Kings of Tarshish and di islands go bring tribute; kings of Sheba and Seba go present gift.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kings of"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "and di islands"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribute"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "go bring"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings of"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "and Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "gift"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "go present"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:01.436548889Z",
+  "model": "glm-5.2"
+}

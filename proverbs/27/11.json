@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "My pikin, be wise, and make my heart glad, so dat I fit answer my reproacher ⟨one⟩ word.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "be wise"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "and make glad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "and I go answer"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "my reproacher"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:40.394805255Z",
+  "model": "glm-5.2"
+}

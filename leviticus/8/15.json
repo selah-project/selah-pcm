@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨dem⟩ slaughter am, and Mosheh take ⟨את⟩ di blood, and put am on top di horns of di altar round about wit im finger, and e purify ⟨את⟩ di altar; and ⟨את⟩ di blood e pour for di foundation of di altar, and e sanctify am, to make atonement upon am.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "and ⟨dem⟩ slaughter am"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blood"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and put am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "di horns"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "wit im finger"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "and e purify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di blood"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "e pour"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "di foundation"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "and e sanctify am"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "to make atonement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "upon am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:53.153141077Z",
+  "model": "glm-5.2"
+}

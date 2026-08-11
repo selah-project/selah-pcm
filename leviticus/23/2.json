@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Speak to di pikin-dem of Yisra'el, and tell dem sey: ⟨Dis⟩ ⟨na⟩ di appointed time-dem of Yahweh, wey una go call ⟨את⟩ dem holy gathering-dem. ⟨Dis⟩ ⟨na⟩ my appointed time-dem.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "appointed time-dem of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "una go call"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "gathering-dem of"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "my appointed time-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:43.429225551Z",
+  "model": "glm-5.2"
+}

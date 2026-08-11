@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di way of fool, ⟨e dey⟩ straight for im eye; but ⟨di person⟩ wey dey hear advice, na wise ⟨person⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "di way"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "of fool"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "straight"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im eye"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "but wey dey hear"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "advice"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:20.153110305Z",
+  "model": "glm-5.2"
+}

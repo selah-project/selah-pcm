@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 21:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "if three years hunger, or if three months wey dem go sweep away from di face of your enemies, and sword of your enemy dey reach you; or if three days, sword of Yahweh and pestilence for di land, and messenger of Yahweh dey destroy for all di border of Yisra'el — and now, see wetin I go return ⟨את⟩ di word to am wey send me.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "three"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or if"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "months"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "dem go sweep away"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "and sword"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "of your enemy"
+    },
+    {
+      "surface": "למשגת",
+      "gloss": "dey reach"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or if"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "and pestilence"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "and messenger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "dey destroy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "di border"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go return"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "to am wey send"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:51.190692699Z",
+  "model": "glm-5.2"
+}

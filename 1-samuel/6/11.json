@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Dem put ⟨את⟩ ark of Yahweh on top di cart, and ⟨את⟩ di box, and ⟨את⟩ di gold rats, and ⟨את⟩ di figures of dia tumors.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂ֛מוּ",
+      "gloss": "dem put"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ark"
+    },
+    {
+      "surface": "אֲר֥וֹן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הָעֲגָלָ֑ה",
+      "gloss": "di cart"
+    },
+    {
+      "surface": "וְאֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "di box"
+    },
+    {
+      "surface": "הָאַרְגַּ֗ז",
+      "gloss": "di box"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "⟨את⟩",
+      "marks": "di gold rats"
+    },
+    {
+      "surface": "עַכְבְּרֵ֣י",
+      "gloss": "rats"
+    },
+    {
+      "surface": "הַזָּהָ֔ב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "di figures"
+    },
+    {
+      "surface": "צַלְמֵ֥י",
+      "gloss": "figures"
+    },
+    {
+      "surface": "טְחֹרֵיהֶֽם",
+      "gloss": "of dia tumors"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:25.698944273Z",
+  "model": "glm-5.2"
+}

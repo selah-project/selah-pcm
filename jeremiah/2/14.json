@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Israel, ⟨na⟩ slave ⟨im⟩ be? If ⟨na⟩ born for inside house ⟨im⟩ be? Wetin come make am turn to plunder?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for inside house"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "come make"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "turn to plunder"
+    }
+  ],
+  "timestamp": "2026-08-11T16:20:25.288971627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And ⟨he⟩ pass through mount Efrayim, and ⟨he⟩ pass through land of Shalisha, and dem no find ⟨dem⟩. And dem pass through land of Shaʿalim, and ⟨nothing⟩. And ⟨he⟩ pass through land of Yemini, and dem no find ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "and ⟨he⟩ pass through"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mount"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and ⟨he⟩ pass through"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Shalisha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "dem find"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "and dem pass through"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Shaʿalim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨nothing⟩"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and ⟨he⟩ pass through"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "dem find"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:48.575022405Z",
+  "model": "glm-5.2"
+}

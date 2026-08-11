@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "My faithfulness and my chesed ⟨be⟩ with am, and for inside my name im horn go lift up.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "and my faithfulness"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "and my chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "and for inside my name"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "go lift up"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "im horn"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:57.546404144Z",
+  "model": "glm-5.2"
+}

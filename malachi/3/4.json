@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di grain offering of Yehudah and Yerushalayim go sweet to Yahweh, like di days of old and like di former years.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "And ... go sweet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "di grain offering"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "of old"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "and like di years"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "former"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:06.407777779Z",
+  "model": "glm-5.2"
+}

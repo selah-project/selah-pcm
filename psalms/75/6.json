@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 75,
+  "translation": "Make una no lift up una horn for high; make una no talk wit stiff neck.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "make una lift up"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "for high"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "una horn"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "make una talk"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "wit neck"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "stiff"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:21.783487045Z",
+  "model": "glm-5.2"
+}

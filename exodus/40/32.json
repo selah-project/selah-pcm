@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "When dem enter inside di Ohel of Mo'ed and when dem near di altar, dem dey wash, as Yahweh bin command ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "when dem enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Mo'ed"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "and when dem near"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "dem dey wash"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:53.332904299Z",
+  "model": "glm-5.2"
+}

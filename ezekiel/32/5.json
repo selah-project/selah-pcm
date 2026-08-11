@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And I go put ⟨את⟩ your flesh on top di mountains, and I go fill di valleys with your dead-body heap.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your flesh"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "your flesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "and I go fill"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "di valleys"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "your dead-body heap"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:59.798017179Z",
+  "model": "glm-5.2"
+}

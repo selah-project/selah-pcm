@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So Yahweh put one word for im mouth, and e talk say, Go back go meet Balak, and na so you go talk.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "so (im) put"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "for im mouth"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk say"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "and na so"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "you go talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:16.465700452Z",
+  "model": "glm-5.2"
+}

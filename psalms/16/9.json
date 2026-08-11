@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "So my heart dey glad, and my glory dey rejoice; even my flesh go dwell for safety.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "dey glad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "and dey rejoice"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my glory"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my flesh"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "go dwell"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "for safety"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:03.044256012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Since you bin precious for my eye, you bin honored, and I love you; I go give man instead of you, and nation dem instead of your life.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "since"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "you bin precious"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "you bin honored"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "love you"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "I go give"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "instead of you"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "and nation dem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.426713573Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And ⟨את⟩ di ram of ordination you go take, and you go boil ⟨את⟩ im flesh for ⟨a⟩ holy place.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ram of ordination"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "of ordination"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "and you go boil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im flesh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "for place"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:25.178180755Z",
+  "model": "glm-5.2"
+}

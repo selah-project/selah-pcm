@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Make you no abandon me, Yahweh; Elohim wey be ⟨my⟩, make you no far commot from me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ⟨you⟩ no"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandon me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨my⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ⟨you⟩ no"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "far commot"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:04.955563892Z",
+  "model": "glm-5.2"
+}

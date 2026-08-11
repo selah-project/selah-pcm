@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And you go consume ⟨את⟩ all di people-dem wey Yahweh your Elohim dey give you; your eye no go pity dem, and you no go serve ⟨את⟩ dia god-dem, because na trap ⟨e⟩ be for you.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "And you go consume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "di people-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "go pity"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "your eye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "you go serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia god-dem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia god-dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "na trap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩ be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:25.093299259Z",
+  "model": "glm-5.2"
+}

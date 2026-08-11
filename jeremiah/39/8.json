@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And ⟨את⟩ di house of di king, and ⟨את⟩ di house of di people, di Kasdim burn am wit fire; and ⟨את⟩ di wall of Yerushalayim, dem tear down.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di house of di king"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di house of di people"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dem burn"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "di Kasdim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di wall of Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dem tear down"
+    }
+  ],
+  "timestamp": "2026-08-11T11:55:38.402679108Z",
+  "model": "glm-5.2"
+}

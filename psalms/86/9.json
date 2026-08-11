@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "All di nations wey you make go come, and dem go bow down before you, Adonai, and dem go honor your name.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you make"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "go come"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and dem go bow down"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "and dem go honor"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:36.131938567Z",
+  "model": "glm-5.2"
+}

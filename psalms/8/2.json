@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai wey be we own, how ⟨im⟩ grand ⟨be⟩ your name for all di earth, you wey ⟨don⟩ put your splendor on top ⟨di⟩ heavens!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wey be we own"
+    },
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "grand"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "you wey"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "⟨don⟩ put"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "your splendor"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨di⟩ heavens"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:55.851258681Z",
+  "model": "glm-5.2"
+}

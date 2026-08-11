@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And you go cover ⟨את⟩ am with pure gold — ⟨את⟩ im top and ⟨את⟩ im walls round about and ⟨את⟩ im horns; and you go make for am border of gold round about.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "and you go cover"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im top"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "im top"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im walls"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "im walls"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im horns"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "im horns"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "זר",
+      "gloss": "border"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:50.305813738Z",
+  "model": "glm-5.2"
+}

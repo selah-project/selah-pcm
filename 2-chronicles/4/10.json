@@ -1,0 +1,46 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨את⟩ di Sea, e put am for di right shoulder for east side, opposite di south.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di Sea"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e put am"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "for di shoulder"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "di right one"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "for east side"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "di south"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.794599183Z",
+  "model": "claude-opus-4-8"
+}

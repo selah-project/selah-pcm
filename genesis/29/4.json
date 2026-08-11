@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Ya akov bin tell dem, \"My brodas, where una come from?\" And dem bin talk, \"We come from Haran.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya akov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my brodas"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "where"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una come from"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem bin talk"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "we come from Haran"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:47.424895778Z",
+  "model": "glm-5.2"
+}

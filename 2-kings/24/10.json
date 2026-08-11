@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "For dat time, servant dem of Nevukhadnetstsar, king of Bavel, bin march go up against Yerushalaim, and di city enter ⟨under⟩ siege.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "march go up"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servant dem of"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "against Yerushalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "and e enter"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "under siege"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:56.466893432Z",
+  "model": "glm-5.2"
+}

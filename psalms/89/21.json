@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "I bin find David, ⟨im⟩ wey be ⟨my⟩ servant; wit my holy oil I don anoint am.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "I bin find"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wit oil"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "my holy"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "I don anoint am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:35.817489401Z",
+  "model": "glm-5.2"
+}

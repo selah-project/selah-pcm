@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "dey face di twenty ⟨cubit⟩ wey belong to di inner courtyard, and dey face di stone floor wey belong to di outer courtyard — gallery dey face gallery for di third story.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "di twenty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey belong to"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "di inner"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "and dey face"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "di stone floor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey belong to"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "di outer"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "gallery"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "gallery"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "for di third story"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:17.839552016Z",
+  "model": "glm-5.2"
+}

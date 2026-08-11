@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And dem load ⟨את⟩ dia grain on top dia donkeys, and dem comot from there.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "and dem load"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia grain"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "dia grain"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dia donkeys"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem comot"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from there"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:25.588443085Z",
+  "model": "glm-5.2"
+}

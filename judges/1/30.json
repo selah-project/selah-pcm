@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Zevulun no drive out ⟨את⟩ di people wey dey stay for Kitron, and ⟨את⟩ di people wey dey stay for Nahalol; and di Kena'ani bin stay among dem, and dem come be tributary.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "drive out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people wey dey stay for Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "di people wey dey stay"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di people wey dey stay for Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "di people wey dey stay"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin stay"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'ani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem come be"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tributary"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:05.465856507Z",
+  "model": "glm-5.2"
+}

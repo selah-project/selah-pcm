@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "For Yahweh dey turn back ⟨את⟩ di pride of Ya'akov, like di pride of Yisra'el; for emptiers don empty dem out, and dia branches dem don ruin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dey turn back"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pride"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "di pride"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Ya'akov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "like di pride"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "emptiers"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "don empty dem out"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "and dia branches"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dem don ruin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:15.130705034Z",
+  "model": "glm-5.2"
+}

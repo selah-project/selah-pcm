@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di woman conceive, and born son; and she see ⟨את⟩ am, sey ⟨im⟩ ⟨be⟩ fine, and she hide am three month.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "and conceive"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "and hide am"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "month"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:13.041042068Z",
+  "model": "glm-5.2"
+}

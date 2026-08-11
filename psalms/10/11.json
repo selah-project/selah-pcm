@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "E talk for im heart, \"El don forget; im don hide im face; im no go ever see.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "for im heart"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "don forget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "im don hide"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "בל",
+      "gloss": "im no go"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ever see"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨forever⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:39.631327869Z",
+  "model": "glm-5.2"
+}

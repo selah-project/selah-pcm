@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "⟨E⟩ come call ⟨את⟩ im boy wey dey serve am, and ⟨e⟩ talk say, make una send ⟨את⟩ dis one comot from my side go outside, and lock di door behind am.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "⟨E⟩ come call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im boy"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "im boy"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "wey dey serve am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "make una send"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis one"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "from my side"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "go outside"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "and lock"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "di door"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "behind am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:11.026156846Z",
+  "model": "glm-5.2"
+}

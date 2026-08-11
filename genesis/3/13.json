@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh Elohim bin talk to di woman, \"Wetin be dis wey you don do?\" Di woman bin talk, \"Di snake deceive me, and I chop.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "to di woman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "you don do"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "di snake"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "deceive me"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "and I chop"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:42.538542562Z",
+  "model": "glm-5.2"
+}

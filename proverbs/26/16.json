@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Lazy man, e dey wise for im own eye pass seven men wey sabi answer well.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "e dey wise"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lazy man"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im own eye"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "pass seven"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "men wey sabi answer"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "well"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:15.208177222Z",
+  "model": "glm-5.2"
+}

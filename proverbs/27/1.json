@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Make you no dey shine for tomorrow, because you no sabi wetin ⟨one⟩ day go born.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "dey shine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "you sabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "go born"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:40.213307555Z",
+  "model": "glm-5.2"
+}

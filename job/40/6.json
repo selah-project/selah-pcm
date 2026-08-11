@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And Yahweh answer ⟨את⟩ Iyyov from inside di storm, and ⟨im⟩ talk say:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and Yahweh answer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "di storm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk say"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:06.038452216Z",
+  "model": "glm-5.2"
+}

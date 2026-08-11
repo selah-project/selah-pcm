@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "To di chief musician, upon Almuth Laben, song of Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di chief musician"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "upon Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:17.027100944Z",
+  "model": "glm-5.2"
+}

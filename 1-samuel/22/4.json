@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e bin lead dem ⟨את⟩ before di face of di king of Moab, and dem bin stay wit am all di days wey Dawud bin dey for di strong-place.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "bin lead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "before di face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "before di face"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bin stay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "היות",
+      "gloss": "wey bin dey"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "for di strong-place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:33.699770792Z",
+  "model": "glm-5.2"
+}

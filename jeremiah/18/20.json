@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 18:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Abi dem dey repay evil for good? For dem dig pit for my life. Remember how I stand before You to speak good for dem, to turn ⟨את⟩ Your anger comot from dem.",
+  "tokens": [
+    {
+      "surface": "הישלם",
+      "gloss": "Abi dem dey repay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "evil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "dem dig"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "pit"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "for my life"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "how I stand"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before You"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to speak"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "to turn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Your anger"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Your anger"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "comot from dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:47:25.030978657Z",
+  "model": "glm-5.2"
+}

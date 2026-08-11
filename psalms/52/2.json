@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "When Doeg di Edomite come, and e bin tell Saul, and e bin talk to am sey, David bin come to di house of Achimelek.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "when ⟨im⟩ come"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "di Edomite"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and e bin tell"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "to Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e bin talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨im⟩ bin come"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "of Achimelek"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:28.438363815Z",
+  "model": "glm-5.2"
+}

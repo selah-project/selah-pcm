@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For booth dem una go stay seven days; evri native-born for Yisrael go stay for booth dem.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "for booth dem"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "una go stay"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "native-born"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "⟨dem⟩ go stay"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "for booth dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:12.315334685Z",
+  "model": "glm-5.2"
+}

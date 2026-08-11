@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh bin talk to di fish, and e vomit ⟨את⟩ Jonah onto di dry land.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לַדָּ֑ג",
+      "gloss": "to di fish"
+    },
+    {
+      "surface": "וַיָּקֵ֥א",
+      "gloss": "and e vomit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jonah"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "onto"
+    },
+    {
+      "surface": "הַיַּבָּשָֽׁה",
+      "gloss": "di dry land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:03.868219909Z",
+  "model": "glm-5.2"
+}

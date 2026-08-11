@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Efrayim bin dey oppressed, dem crush ⟨am⟩ for judgment, because e willingly bin waka follow command.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "dey oppressed"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "dem crush"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "for judgment"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "e willingly"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin waka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "follow"
+    },
+    {
+      "surface": "צו",
+      "gloss": "command"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:35.201018078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But as for you and your servant dem, I know sey unu never fear ⟨di⟩ face of Yahweh Elohim yet.\"",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "but as for you"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "and your servant dem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "yet"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "unu never fear"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:39.911600276Z",
+  "model": "glm-5.2"
+}

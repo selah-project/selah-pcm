@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And if ox gore ⟨את⟩ a man or ⟨את⟩ a woman, and die, dem go stone am, make dem surely stone di ox; and nobody go chop ⟨את⟩ im flesh; and di owner of di ox go dey innocent.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a woman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a woman"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and die"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "stone"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "make dem surely stone"
+    },
+    {
+      "surface": "השור",
+      "gloss": "di ox"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im flesh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "and di owner"
+    },
+    {
+      "surface": "השור",
+      "gloss": "of di ox"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "go dey innocent"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:43.814645502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Person wey dey work im ground go satisfy wit bread, but person wey dey pursue empty things, heart dey lack am.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Person wey dey work"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "im ground"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "go satisfy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wit bread"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "but person wey dey pursue"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "empty things"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dey lack"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:00.987853650Z",
+  "model": "glm-5.2"
+}

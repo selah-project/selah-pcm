@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I beg ⟨את⟩ your face wit all my heart, show me favor as your word talk.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "I beg",
+      "marks": "your face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לב",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "show me favor"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "as your word talk"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:08.320091888Z",
+  "model": "glm-5.2"
+}

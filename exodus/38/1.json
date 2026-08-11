@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And e bin make ⟨את⟩ di altar of burnt offering, ⟨from⟩ wood of acacia: five cubit ⟨na⟩ im length, and five cubit ⟨na⟩ im width — square; and three cubit ⟨na⟩ im height.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar of burnt offering"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of burnt offering"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "square"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "im height"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:12.598790693Z",
+  "model": "glm-5.2"
+}

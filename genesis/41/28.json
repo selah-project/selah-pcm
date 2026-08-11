@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Na di matter wey I bin tell Paroh: wetin Elohim dey do, ⟨He⟩ don show ⟨את⟩ Paroh am.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I bin tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "don show"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:23.717797780Z",
+  "model": "glm-5.2"
+}

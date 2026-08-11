@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨im⟩ bring near ⟨את⟩ di second ram, di ram of ordination; and Aharon and im sons press dia hands on top di head of di ram.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "and bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di second ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "of ordination"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "and press"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hands"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hands"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "of di ram"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:50.184114945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Dia heart don thick like fat; me, for your torah I don take delight.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "don thick"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "like fat"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "your torah"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "I don take delight"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:37.445823502Z",
+  "model": "glm-5.2"
+}

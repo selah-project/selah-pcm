@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Make dem turn aside poor people from judgment, and make dem snatch di right of di afflicted ones of my people, make widows become dia spoil, and make dem plunder ⟨את⟩ di fatherless ones.",
+  "tokens": [
+    {
+      "surface": "לְהַטּ֤וֹת",
+      "gloss": "make dem turn aside"
+    },
+    {
+      "surface": "מִדִּין֙",
+      "gloss": "from judgment"
+    },
+    {
+      "surface": "דַּלִּ֔ים",
+      "gloss": "poor people"
+    },
+    {
+      "surface": "וְלִגְזֹ֕ל",
+      "gloss": "and make dem snatch"
+    },
+    {
+      "surface": "מִשְׁפַּ֖ט",
+      "gloss": "di right"
+    },
+    {
+      "surface": "עֲנִיֵּ֣י",
+      "gloss": "of di afflicted ones"
+    },
+    {
+      "surface": "עַמִּ֑י",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "לִהְי֤וֹת",
+      "gloss": "make dem become"
+    },
+    {
+      "surface": "אַלְמָנוֹת֙",
+      "gloss": "widows"
+    },
+    {
+      "surface": "שְׁלָלָ֔ם",
+      "gloss": "dia spoil"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di fatherless ones"
+    },
+    {
+      "surface": "יְתוֹמִ֖ים",
+      "gloss": "di fatherless ones"
+    },
+    {
+      "surface": "יָבֹֽזּוּ",
+      "gloss": "make dem plunder"
+    }
+  ],
+  "timestamp": "2026-08-11T16:15:38.526664261Z",
+  "model": "glm-5.2"
+}

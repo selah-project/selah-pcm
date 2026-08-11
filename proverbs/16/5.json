@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "An abomination to Yahweh ⟨be⟩ evri person wey get high heart; hand to hand, ⟨im⟩ no go go free.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "high"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "to hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "go free"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:03.237791101Z",
+  "model": "glm-5.2"
+}

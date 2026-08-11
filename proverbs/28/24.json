@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Whoever rob im papa and im mama, and talk sey, ⟨'e⟩ no be transgression — na companion e be to man wey dey destroy.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "rob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "and im mama"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "be transgression"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "companion"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to man"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wey dey destroy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:15.825215748Z",
+  "model": "glm-5.2"
+}

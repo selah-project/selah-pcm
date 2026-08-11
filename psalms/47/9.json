@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "Elohim don become king for di nations; Elohim dey siddon on top ⟨di⟩ throne of im holiness.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "don become king"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dey siddon"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "⟨di⟩ throne"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "of im holiness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:13.056079940Z",
+  "model": "glm-5.2"
+}

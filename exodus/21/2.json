@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "If you buy Hebrew servant, six years e go serve, and for di seventh year e go comot go free, notin go hold am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "you buy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrew"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "e go serve"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "and for di seventh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e go comot"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "go free"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "notin go hold am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:22.161694941Z",
+  "model": "glm-5.2"
+}

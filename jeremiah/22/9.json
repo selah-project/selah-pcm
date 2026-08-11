@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And dem go talk say, na because sey dem abandon ⟨את⟩ di covenant of Yahweh, dia Elohim, and dem bow down to oda elohim and serve dem.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "and dem go talk"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "dem abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di covenant"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and dem bow down"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "and serve dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:35.005379481Z",
+  "model": "glm-5.2"
+}

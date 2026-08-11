@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Because of dat, all hand dem go slack, and all heart of mortal man go melt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hand dem"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "go slack"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "of mortal man"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "go melt"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:12.274317150Z",
+  "model": "glm-5.2"
+}

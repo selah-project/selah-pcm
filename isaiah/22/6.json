@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Elam bin carry quiver with chariots of man, horsemen, and Kir bin expose shield.",
+  "tokens": [
+    {
+      "surface": "וְעֵילָם֙",
+      "gloss": "And Elam"
+    },
+    {
+      "surface": "נָשָׂ֣א",
+      "gloss": "bin carry"
+    },
+    {
+      "surface": "אַשְׁפָּ֔ה",
+      "gloss": "quiver"
+    },
+    {
+      "surface": "בְּרֶ֥כֶב",
+      "gloss": "with chariots"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "פָּֽרָשִׁ֑ים",
+      "gloss": "horsemen"
+    },
+    {
+      "surface": "וְקִ֥יר",
+      "gloss": "and Kir"
+    },
+    {
+      "surface": "עֵרָ֖ה",
+      "gloss": "bin expose"
+    },
+    {
+      "surface": "מָגֵֽן",
+      "gloss": "shield"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:34.137692287Z",
+  "model": "glm-5.2"
+}

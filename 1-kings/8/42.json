@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "(for dem go hear ⟨את⟩ your great name, and ⟨את⟩ your strong hand, and your arm wey you stretch out) and ⟨im⟩ come make ⟨im⟩ pray to dis house —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "dem go hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your great name"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your strong hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "and your arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "wey you stretch out"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "make im pray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:13.395194598Z",
+  "model": "glm-5.2"
+}

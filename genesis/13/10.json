@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 13:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Lot lift ⟨im⟩ eyes and ⟨im⟩ look ⟨את⟩ all di plain of HaYarden, sey e all dey well-watered, before Yahweh destroy ⟨את⟩ Sedom and ⟨את⟩ Amorah — like garden of Yahweh, like land of Mitsrayim, as you dey enter Tsoar.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and lift"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im eyes"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "eyes"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and look"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di plain of HaYarden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "di plain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "of HaYarden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "e all"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "dey well-watered"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "destroy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Amorah"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "like garden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "like land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "as you dey enter"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:51.643401613Z",
+  "model": "glm-5.2"
+}

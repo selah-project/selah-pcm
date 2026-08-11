@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And ⟨e⟩ give charge ⟨את⟩ Yehoshua son of Nun, and e talk: Strong and courageous! Because you go bring ⟨את⟩ di sons of Yisra'el enter di land wey I swear to dem, and I, I go dey with you.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and give charge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נון",
+      "gloss": "of Nun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "and courageous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "I swear"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "I go dey"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:00.949115962Z",
+  "model": "glm-5.2"
+}

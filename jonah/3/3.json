@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Yunah bin stand up, and e bin go go Nineveh, as di word of Yahweh bin talk. Nineveh bin ⟨be⟩ big city to Elohim — waka of three days.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin stand up"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "as di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "and Nineveh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "big"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "waka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:13.073452814Z",
+  "model": "glm-5.2"
+}

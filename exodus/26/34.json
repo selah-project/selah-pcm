@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And you go put ⟨את⟩ di cover on top ⟨di⟩ ark of di testimony, inside holy of holies.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cover"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "di cover"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "of di testimony"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "inside holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "of holies"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:07.831551842Z",
+  "model": "glm-5.2"
+}

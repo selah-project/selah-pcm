@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And after some time, sons of Ammon fight against Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and after"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "some time"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dem fight"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "against"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:31:34.243080595Z",
+  "model": "glm-5.2"
+}

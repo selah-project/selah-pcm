@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di people come to Moshe and dem talk say, \"We don sin, because we speak against Yahweh and against you. Pray to Yahweh make ⟨e⟩ carry ⟨את⟩ di snake comot from on top us.\" And Moshe bin pray for di people.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "we speak"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "and against you"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "pray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "make ⟨e⟩ carry comot"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "from on top us"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di snake"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "di snake"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "and bin pray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:03.233355896Z",
+  "model": "glm-5.2"
+}

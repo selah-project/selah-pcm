@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 135,
+  "translation": "⟨To⟩ Sichon, king of di Emori, and ⟨to⟩ Og, king of di Bashan, and ⟨to⟩ all di kingdoms of Kenaan;",
+  "tokens": [
+    {
+      "surface": "לְסִיחוֹן",
+      "gloss": "to Sichon"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "הָאֱמֹרִי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "וּלְעוֹג",
+      "gloss": "and to Og"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "הַבָּשָׁן",
+      "gloss": "of di Bashan"
+    },
+    {
+      "surface": "וּלְכֹל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "מַמְלְכוֹת",
+      "gloss": "di kingdoms"
+    },
+    {
+      "surface": "כְּנָעַן",
+      "gloss": "of Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:36.842368680Z",
+  "model": "glm-5.2"
+}

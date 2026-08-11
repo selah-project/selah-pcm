@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 121,
+  "translation": "Song of ascents. I dey lift my eye go di mountain, from where my help go come?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "of ascents"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "I dey lift"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "from where"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "my help"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:36.418675215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e build ⟨את⟩ Tadmor for di wilderness, and ⟨את⟩ all di store-cities wey e bin build for Ḥamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and e build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di store-cities"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "of store"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "e bin build"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "for Ḥamat"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.335514306Z",
+  "model": "glm-5.2"
+}

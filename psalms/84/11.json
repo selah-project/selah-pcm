@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 84,
+  "translation": "Because one day for your courtyards ⟨be⟩ better pass a thousand — I don choose say I go dey stand for di doorway of di house of my Elohim, pass say I go dey stay for di tents of wickedness.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "better pass"
+    },
+    {
+      "surface": "יום",
+      "gloss": "one day"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "for your courtyards"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "pass a thousand"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "I don choose"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "say I go dey stand for di doorway"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "of my Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "pass say I go dey stay"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "for di tents"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "of wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:03.905470804Z",
+  "model": "glm-5.2"
+}

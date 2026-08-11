@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "⟨Na⟩ lamp for my foot ⟨na⟩ your word, and light for my path.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "for my foot"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "your word"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "and light"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "for my path"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:26.730711780Z",
+  "model": "glm-5.2"
+}

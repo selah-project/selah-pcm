@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And why una go make ⟨את⟩ una heart heavy, as Mitsrayim and Pharaoh bin make ⟨את⟩ dia heart heavy? No be so as e bin deal wit dem thoroughly, and dem bin send dem comot and dem go?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "and why"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "una go make heavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una heart"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "una heart"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "dem bin make heavy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "and Pharaoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia heart"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no be so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "e bin deal wit dem thoroughly"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "and dem bin send dem comot"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    }
+  ],
+  "timestamp": "2026-08-11T16:03:27.819580231Z",
+  "model": "glm-5.2"
+}

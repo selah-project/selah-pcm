@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "Blessed ⟨be⟩ ⟨di⟩ person wey go do dis ting, and ⟨di⟩ son of man wey go hold am strong: ⟨di⟩ person wey dey keep Sabbath from to spoil am, and wey dey keep im hand from to do any bad ting.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "person"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wey go do"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis ting"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "and son of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "wey go hold strong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "am"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wey dey keep"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "from to spoil am"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "and wey dey keep"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "from to do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad ting"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:43.369626094Z",
+  "model": "glm-5.2"
+}

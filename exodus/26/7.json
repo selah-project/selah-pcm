@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And make goat-hair curtain dem for tent on top di tabernacle; eleven curtain dem make ⟨you⟩ ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and make"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "goat"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "for tent"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "eleven"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di eleven curtain dem)"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:56.228189356Z",
+  "model": "glm-5.2"
+}

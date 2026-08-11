@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e go be, wen e lie down, make you sabi ⟨את⟩ di place wey e go lie down there, and make you come, and make you uncover im feet, and make you lie down; and na im go tell you ⟨את⟩ wetin you go do.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "wen e lie down"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "make you sabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di place"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "e go lie down"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "and make you come"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "and make you uncover"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "im feet"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "and make you lie down"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and na"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "im go tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "you go do"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:44.212799523Z",
+  "model": "glm-5.2"
+}

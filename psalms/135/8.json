@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 135,
+  "translation": "Wey ⟨he⟩ strike di firstborn of Mitsrayim, from man reach animal.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "wey ⟨he⟩ strike"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "from man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:49.439879303Z",
+  "model": "glm-5.2"
+}

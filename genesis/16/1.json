@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Now Sarai, wife of Abram, neva bear ⟨for⟩ am; and ⟨she get⟩ one slave-woman, one Mitsrite, and her name ⟨na⟩ Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Now Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife of"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bear"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨for⟩ am"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "and ⟨she get⟩"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "one slave-woman"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "one Mitsrite"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "and her name"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "⟨na⟩ Hagar"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:06.392052090Z",
+  "model": "glm-5.2"
+}

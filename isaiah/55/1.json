@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Ho! evribodi wey dey thirsty, come go di water; and di one wey no get silver, come, buy and eat; yes, come, buy wine and milk witout silver and witout price.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evribodi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "wey dey thirsty"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "come"
+    },
+    {
+      "surface": "למים",
+      "gloss": "go di water"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and di one wey"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨am⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "come"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "buy"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "and eat"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "yes, come"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "buy"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "witout"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "and witout"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "price"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "and milk"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:04.838300136Z",
+  "model": "glm-5.2"
+}

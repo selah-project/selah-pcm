@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Yahweh bin talk to Mosheh, sey:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:55:42.114016028Z",
+  "model": "glm-5.2"
+}

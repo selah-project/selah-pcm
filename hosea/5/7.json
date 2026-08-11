@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Against Yahweh dem don deal treacherously, for sake of sey strange children dem don born; now one new moon go devour ⟨את⟩ dia portions.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "dem don deal treacherously"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "children"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strange"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dem don born"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "go devour dem"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new moon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia portions"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "dia portions"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:53.727453327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "and una strength go finish for nothing, and una land no go give ⟨את⟩ im produce, and di tree of di land no go give im fruit.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "and go finish"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "for nothing"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "una strength"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "una land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im produce"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "im produce"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "and di tree"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "im fruit"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:47.134731525Z",
+  "model": "glm-5.2"
+}

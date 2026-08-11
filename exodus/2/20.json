@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And im bin talk to im daughters, where im dey? Why una comot ⟨את⟩ di man like dat? Call am, make im come chop bread.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "im daughters"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "where im dey"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "זה",
+      "gloss": "like dat"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "una comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "call am"
+    },
+    {
+      "surface": "לו",
+      "gloss": "make im come"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "chop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:16.669914270Z",
+  "model": "glm-5.2"
+}

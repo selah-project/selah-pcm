@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So man bin bow down, and man bin humble imself — make you no lift ⟨dem⟩ up.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "so bin bow down"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "and bin humble"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and not"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "make you lift"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:18.318752216Z",
+  "model": "glm-5.2"
+}

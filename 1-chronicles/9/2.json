@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And ⟨di⟩ people wey bin dey stay first, wey ⟨dey⟩ for dia own inheritance, for dia cities — ⟨dat be⟩ Yisra'el, ⟨di⟩ kohanim, ⟨di⟩ Levi'im, and ⟨di⟩ Netinim.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "and di people wey bin dey stay"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "first"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "for dia own inheritance"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "for dia cities"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di kohanim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levi'im"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "and di Netinim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:57.190086882Z",
+  "model": "glm-5.2"
+}

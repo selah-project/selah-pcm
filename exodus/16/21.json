@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem gather ⟨את⟩ am morning by morning, each man as im food reach, and when sun hot, e melt.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "by morning"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "as reach"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "im food"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "and when hot"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "e melt"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:31.401465727Z",
+  "model": "glm-5.2"
+}

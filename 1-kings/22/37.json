@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "So di king bin die, and ⟨dem⟩ carry am go Shomeron, and dem bury ⟨את⟩ di king for Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "carry am go"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dem bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:19.882102286Z",
+  "model": "glm-5.2"
+}

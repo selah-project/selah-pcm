@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "king of Dor, for Nafat-Dor ⟨side⟩, one; king of Goyim, for Gilgal ⟨side⟩, one;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "for Nafat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Goyim"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "for Gilgal ⟨side⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:13.664360992Z",
+  "model": "glm-5.2"
+}

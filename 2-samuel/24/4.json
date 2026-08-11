@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "But di word of di king bin strong against Yoav and against di commander dem of di army. And Yoav and di commander dem of di army bin comot from front of di king, to go count ⟨את⟩ di pipo, ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "And bin strong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "against"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "commander dem of"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "di army"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "And bin comot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "and commander dem of"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "di army"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "to go count"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pipo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:56.912794121Z",
+  "model": "glm-5.2"
+}

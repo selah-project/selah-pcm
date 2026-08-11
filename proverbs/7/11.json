@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "She be full of noise and stubborn; for her house her feet no dey stay.",
+  "tokens": [
+    {
+      "surface": "הֹמִיָּ֣ה",
+      "gloss": "full of noise"
+    },
+    {
+      "surface": "הִ֣יא",
+      "gloss": "She"
+    },
+    {
+      "surface": "וְסֹרָ֑רֶת",
+      "gloss": "and stubborn"
+    },
+    {
+      "surface": "בְּ֝בֵיתָ֗הּ",
+      "gloss": "for her house"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִשְׁכְּנ֥וּ",
+      "gloss": "dey stay"
+    },
+    {
+      "surface": "רַגְלֶֽיהָ",
+      "gloss": "her feet"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:41.636315526Z",
+  "model": "glm-5.2"
+}

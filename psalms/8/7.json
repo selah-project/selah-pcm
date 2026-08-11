@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "You make am rule over wetin ⟨your⟩ hands don do; everything You don put under ⟨im⟩ feet.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "You make am rule"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "over wetin…don do"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "your hands"
+    },
+    {
+      "surface": "כל",
+      "gloss": "everything"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "You don put"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im feet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:38.968113426Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 20:25",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And di king bin sit on top im seat, like time by time, near di seat by di wall; and Yehonatan bin stand up, and Avner bin sit beside Sha'ul, and ⟨dem⟩ bin check ⟨for⟩ di place of Dawid.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and bin sit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "im seat"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "like time"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "by time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "near"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "seat"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin sit"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "beside"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "and bin check"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:00.531049206Z",
+  "model": "glm-5.2"
+}

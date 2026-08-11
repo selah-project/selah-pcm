@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "⟨את⟩ all dis one I bin see, and I bin give ⟨את⟩ my heart to all di work wey dem do under di sun — ⟨one⟩ time wey man dey rule over man, for im own bad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis one"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I bin see"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "and I bin give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heart"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "dey rule"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "over man"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "for bad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "im own"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:28.328833799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And all di men of im house — born for di house and bought wit silver from ⟨את⟩ son of foreigner — dem circumcise dem ⟨את⟩ wit ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "and bought"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wit silver"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "son of foreigner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "foreigner"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "dem circumcise dem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wit ⟨am⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:11.578777355Z",
+  "model": "glm-5.2"
+}

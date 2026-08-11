@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Our sign dem, we no see am; no prophet still dey, and ⟨את⟩ us ⟨no one⟩ dey know how long.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "our sign dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "we see"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prophet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dey know"
+    },
+    {
+      "surface": "עד",
+      "gloss": "how long"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨…⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:22.315184669Z",
+  "model": "glm-5.2"
+}

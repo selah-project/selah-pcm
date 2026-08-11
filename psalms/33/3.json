@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Make una sing new song for am; make una play am well-well wit shout.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "make una sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "make una do am well-well"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "play"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wit shout"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:15.259157089Z",
+  "model": "glm-5.2"
+}

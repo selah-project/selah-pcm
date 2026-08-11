@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ha-satan bin answer ⟨את⟩ Yahweh and im talk, sey, \"Skin for skin! And evri wetin man get, e go give for im life.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and im bin answer"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skin"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "man get"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e go give"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:06.056289520Z",
+  "model": "glm-5.2"
+}

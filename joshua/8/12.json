@@ -1,0 +1,70 @@
+{
+  "tier": "hand",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e take about five thousand men and put ⟨את⟩ dem ⟨as⟩ ambush between Bet-El and between Ai, for di west side of di city.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "And e take"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "about five"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "⟨as⟩ ambush"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "for di west side"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "of di city"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.773550574Z",
+  "model": "claude-opus-4-8"
+}

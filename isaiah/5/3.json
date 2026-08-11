@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And now, you people wey dey stay for Yerushalayim and man of Yehudah, judge now between me and my vineyard.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "you people wey dey stay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and man of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "judge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "my vineyard"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:00.331623989Z",
+  "model": "glm-5.2"
+}

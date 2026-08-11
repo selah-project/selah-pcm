@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Bad thing go kill di wicked person, and dem wey hate di righteous one go dey guilty.",
+  "tokens": [
+    {
+      "surface": "תְּמוֹתֵ֣ת",
+      "gloss": "go kill"
+    },
+    {
+      "surface": "רָשָׁ֣ע",
+      "gloss": "di wicked person"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "bad thing"
+    },
+    {
+      "surface": "וְשֹׂנְאֵ֖י",
+      "gloss": "and dem wey hate"
+    },
+    {
+      "surface": "צַדִּ֣יק",
+      "gloss": "di righteous one"
+    },
+    {
+      "surface": "יֶאְשָֽׁמוּ",
+      "gloss": "go dey guilty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:39.864508817Z",
+  "model": "glm-5.2"
+}

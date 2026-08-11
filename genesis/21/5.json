@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Avraham ⟨bin⟩ one hundred years old wen dem born ⟨את⟩ Yitschak im son for am.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "And Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "wen dem born"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:38.210939449Z",
+  "model": "glm-5.2"
+}

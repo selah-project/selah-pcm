@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And di king command ⟨את⟩ Hilkiah di priest, and ⟨את⟩ Achikam son of Shaphan, and ⟨את⟩ Akhbor son of Mikhayahu, and ⟨את⟩ Shaphan di scribe, and ⟨את⟩ Asayah servant of di king, e talk say:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Achikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Akhbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akhbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shaphan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "di scribe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Asayah"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "e talk say"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:28.113595050Z",
+  "model": "glm-5.2"
+}

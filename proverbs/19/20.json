@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Hear advice and accept discipline, so dat you go get sense for your future days.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "עֵצָה",
+      "gloss": "advice"
+    },
+    {
+      "surface": "וְקַבֵּל",
+      "gloss": "and accept"
+    },
+    {
+      "surface": "מוּסָר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "תֶּחְכַּם",
+      "gloss": "you go get sense"
+    },
+    {
+      "surface": "בְּאַחֲרִיתֶךָ",
+      "gloss": "for your future days"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:16.936850780Z",
+  "model": "glm-5.2"
+}

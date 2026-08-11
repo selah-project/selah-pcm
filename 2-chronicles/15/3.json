@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And for many days Israel bin dey without Elohim wey ⟨be⟩ true, and without priest wey dey teach, and without Torah.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "and for many days"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "many"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "without"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "true"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "and without"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "wey dey teach"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "and without"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    }
+  ],
+  "timestamp": "2026-08-11T15:07:32.856206687Z",
+  "model": "glm-5.2"
+}

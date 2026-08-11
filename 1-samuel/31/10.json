@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And dem put ⟨את⟩ im war-gear for house of Ashtaroth, and ⟨את⟩ im body dem nail to wall of Bet־Shan.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im war-gear"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "im war-gear"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "עַשְׁתָּרוֹת",
+      "gloss": "Ashtaroth"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im body"
+    },
+    {
+      "surface": "גְּוִיָּתוֹ",
+      "gloss": "im body"
+    },
+    {
+      "surface": "תָּקְעוּ",
+      "gloss": "dem nail"
+    },
+    {
+      "surface": "בְּחוֹמַת",
+      "gloss": "to wall of"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שָׁן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:10.939711349Z",
+  "model": "glm-5.2"
+}

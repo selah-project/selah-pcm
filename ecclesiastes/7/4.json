@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Heart of wise ⟨people⟩ dey for house of mourning, and heart of fool ⟨people⟩ dey for house of joy.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "of wise"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dey for house"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "of mourning"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "and heart"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "of fool"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dey for house"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "of joy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:06.727144086Z",
+  "model": "glm-5.2"
+}

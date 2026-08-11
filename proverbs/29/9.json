@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Wise man wey dey judge ⟨את⟩ foolish man — whether e dey vex or e dey laugh, ⟨der go be⟩ no rest.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "dey judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foolish man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "foolish"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "and whether e dey vex"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "or e dey laugh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨der go be⟩ no"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rest"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:48.532910658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And if ⟨im⟩ ⟨na⟩ sacrifice of peace-offerings ⟨be⟩ im offering, if from di cattle ⟨na⟩ ⟨im⟩ dey bring near, whether male whether female, without blemish ⟨na⟩ make e bring am before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "of peace-offerings"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "im offering"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "di cattle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dey bring near"
+    },
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "female"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "without blemish"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "make ⟨he⟩ bring am"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:49.471036237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Yab di days of mortal man, ⟨be⟩ your days? Or your years, like di days of a warrior?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "like di days of"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "your days"
+    },
+    {
+      "surface": "אם",
+      "gloss": "or"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "your years"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days of"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "a warrior"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:46.869257627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And ⟨את⟩ Aharon and ⟨את⟩ im sons you go bring near to di entrance of di tent of meeting, and you go wash ⟨את⟩ dem inside water.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "you go bring near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "and you go wash"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "במים",
+      "gloss": "inside water"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:34.862720727Z",
+  "model": "glm-5.2"
+}

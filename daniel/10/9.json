@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And I hear ⟨את⟩ di voice of im words, and as I hear ⟨את⟩ di voice of im words, I bin dey sleep on my face, and my face ⟨dey⟩ toward di ground.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "and I hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "of im words"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "and as I hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "of im words"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I bin"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dey sleep"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and my face"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "toward di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T13:43:12.414378696Z",
+  "model": "glm-5.2"
+}

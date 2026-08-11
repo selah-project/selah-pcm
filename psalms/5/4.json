@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Make You ⟨be⟩ no dey pleased with wickedness, Elohim — no person wey dey do bad go stay with You.",
+  "tokens": [
+    {
+      "surface": "כִּֽי לֹ֣א אֵ֭ל חָפֵ֥ץ רֶ֗שַׁע אָ֫תָּ֥ה",
+      "gloss": "Make You ⟨be⟩ no dey pleased with wickedness, Elohim"
+    },
+    {
+      "surface": "לֹא־יְגוּר֥וּךָ",
+      "gloss": "dem no go stay with You"
+    },
+    {
+      "surface": "רָעִֽים׃",
+      "gloss": "bad people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:50.898337040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Make una boast for im holy name; make di heart of dem wey dey find Yahweh glad!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "make una boast"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for ⟨di⟩ name"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "im holy"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "make ⟨am⟩ glad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di heart"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "of dem wey dey find"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:23.803408576Z",
+  "model": "glm-5.2"
+}

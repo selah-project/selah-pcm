@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Now di man Moshe, ⟨im be⟩ very humble pass all di man wey ⟨dey⟩ upon ⟨di⟩ surface of di ground.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Now di man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "humble"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pass all"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "surface"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:57.781984672Z",
+  "model": "glm-5.2"
+}

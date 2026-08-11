@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Naked dem dey waka without cloth, and hungry dem dey carry sheaf.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "naked"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "dem dey waka"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "without"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "cloth"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "and hungry"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dem dey carry"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "sheaf"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:37.275455588Z",
+  "model": "glm-5.2"
+}

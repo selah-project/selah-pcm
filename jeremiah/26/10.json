@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "When di chief-dem of Yehudah bin hear ⟨את⟩ dis kind talk-dem, dem comot from di king house go ⟨to⟩ Yahweh house, and dem siddon for di entrance of Yahweh new gate.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּשְׁמְע֣וּ",
+      "gloss": "when dem bin hear"
+    },
+    {
+      "surface": "שָׂרֵ֣י",
+      "gloss": "chief-dem of"
+    },
+    {
+      "surface": "יְהוּדָ֗ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "dis kind talk-dem"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "di talk-dem"
+    },
+    {
+      "surface": "הָאֵ֔לֶּה",
+      "gloss": "dis kind"
+    },
+    {
+      "surface": "וַיַּעֲל֥וּ",
+      "gloss": "dem comot"
+    },
+    {
+      "surface": "מִבֵּית",
+      "gloss": "from house of"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "⟨to⟩ house of"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַיֵּֽשְׁב֛וּ",
+      "gloss": "and dem siddon"
+    },
+    {
+      "surface": "בְּפֶ֥תַח",
+      "gloss": "for entrance of"
+    },
+    {
+      "surface": "שַֽׁעַר",
+      "gloss": "gate"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֶחָדָֽשׁ",
+      "gloss": "di new one"
+    }
+  ],
+  "timestamp": "2026-08-11T16:22:29.818633237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di two companies of una, all of dem wey dey go out for di Shabbat, and dem go keep ⟨את⟩ di watch of Yahweh house, near di king.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "and di two"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "companies"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "of una"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "wey dey go out"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "for di Shabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "and dem go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di watch"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "watch"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of ⟨di⟩ house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "near"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T11:13:01.180873045Z",
+  "model": "glm-5.2"
+}

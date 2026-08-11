@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Calneh no be like Karkemish? Hamath no be like Arpad? Shomron no be like Dameseq?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "like Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Calneh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨or⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "like Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨or⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "like Dameseq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:33.351606816Z",
+  "model": "glm-5.2"
+}

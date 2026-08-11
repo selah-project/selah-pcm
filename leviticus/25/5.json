@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "⟨את⟩ wetin grow by imself from your harvest you no go harvest, and ⟨את⟩ grapes of your unpruned vine you no go gather; year of complete rest im go be for di land.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin grow by imself"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "wetin grow by imself"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "from your harvest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "you go harvest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "grapes"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "grapes"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "of your unpruned vine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "you go gather"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year of"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "complete rest"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "im go be"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:42.122127370Z",
+  "model": "glm-5.2"
+}

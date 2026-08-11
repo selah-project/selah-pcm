@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Now make dem carry ⟨את⟩ dia ashewo-ness and ⟨di⟩ dead body of dia king dem comot from my front, and I go dwell inside dem forever.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "make dem carry comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia ashewo-ness"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "dia ashewo-ness"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "and dead body of"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dia king dem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from my front"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "and I go dwell"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "inside dem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:30.273329342Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And wit knowledge, room dem go full wit evri wealth wey cost plenty and wey sweet.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "and wit knowledge"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "room dem"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "go full"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "הון",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "wey cost plenty"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "and wey sweet"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:53.612338380Z",
+  "model": "glm-5.2"
+}

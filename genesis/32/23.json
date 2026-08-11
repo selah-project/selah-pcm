@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And e bin rise up for night, e, and e bin take ⟨את⟩ im two wife-dem and ⟨את⟩ im two servant-woman-dem and ⟨את⟩ eleven of im pikin-dem, and e bin pass over ⟨את⟩ crossing-place of Yabbok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and e bin rise up"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im two wife-dem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "im wife-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im two servant-woman-dem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "im servant-woman-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "eleven of im pikin-dem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and e bin pass over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "crossing-place of Yabbok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "crossing-place"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabbok"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:45.675529355Z",
+  "model": "glm-5.2"
+}

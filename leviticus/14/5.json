@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di priest go command, and dem go slaughter ⟨את⟩ one bird inside earthen vessel, on top living water.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "and go command"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "and slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "one bird"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "di one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "earthen"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "living"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:26.740723330Z",
+  "model": "glm-5.2"
+}

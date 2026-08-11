@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 12:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Rehav'am bin lie down with im papa-dem, and dem bin bury am for di city of David; and Aviyah im son bin reign for im place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and e bin lie down"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bin bury am"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and e bin reign"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:00.749303793Z",
+  "model": "glm-5.2"
+}

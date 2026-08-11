@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Because dem no trust for Elohim, and dem no put hope for ⟨im⟩ salvation.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "dem trust"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "dem put hope"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "for ⟨im⟩ salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:36.714629756Z",
+  "model": "glm-5.2"
+}

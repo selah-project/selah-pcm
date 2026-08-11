@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Yahweh get me as di beginning of im way, di front of im works from back den.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "get me"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "as di beginning"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "of im way"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "di front"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "of im works"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "from back den"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:36.665186221Z",
+  "model": "glm-5.2"
+}

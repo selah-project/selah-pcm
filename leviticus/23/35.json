@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For di first day ⟨na⟩ holy gathering; any work of labor una no go do.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "For di day"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "first"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "gathering"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "work"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "of labor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "go do"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:29.146808240Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And all di people go, each man to im house; and David turn round to bless ⟨את⟩ im house.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to im house"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "and ⟨im⟩ turn round"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "to bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im house"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:48.822557449Z",
+  "model": "glm-5.2"
+}

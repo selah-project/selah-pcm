@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Turn back to my correction; see, I go pour out my spirit to una, I go make my words known to ⟨את⟩ una.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Turn back"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "to my correction"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "I go pour out"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "I go make known"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:35.228788180Z",
+  "model": "glm-5.2"
+}

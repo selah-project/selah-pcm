@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yoktan born ⟨את⟩ Almodad, and ⟨את⟩ Shelef, and ⟨את⟩ Khatzarmavet, and ⟨את⟩ Yarakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "and Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Khatzarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatzarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yarakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarakh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:46.802811937Z",
+  "model": "glm-5.2"
+}

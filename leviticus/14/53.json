@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e go send ⟨את⟩ di bird wey dey alive go outside di city, go front of di field, and e go make atonement for di house, and e go be clean.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "and e go send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bird"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wey dey alive"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "front of"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and e go make atonement"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "and e go be clean"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:19.249421323Z",
+  "model": "glm-5.2"
+}

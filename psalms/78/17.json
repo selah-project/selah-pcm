@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And dem still continue for sin against am, to rebel against Elyon for di dry land.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "and dem continue"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "for sin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "to rebel"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "for di dry land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:43.070866759Z",
+  "model": "glm-5.2"
+}

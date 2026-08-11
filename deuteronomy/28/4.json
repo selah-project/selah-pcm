@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Blessed ⟨be⟩ di fruit of your womb, and di fruit of your ground, and di fruit of your livestock — di young of your cattle, and di fold-increase of your sheep.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "di fruit"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "of your womb"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "and di fruit"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "of your ground"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "and di fruit"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "of your livestock"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "di young"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "of your cattle"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "and di fold-increase"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "of your sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:30.278578795Z",
+  "model": "glm-5.2"
+}

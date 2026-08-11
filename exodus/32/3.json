@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And all di people pull off ⟨את⟩ di gold rings wey dey for dia ears, and dem bring am to Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "and pull off"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gold rings"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "rings"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "for dia ears"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "and bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:39.064139346Z",
+  "model": "glm-5.2"
+}

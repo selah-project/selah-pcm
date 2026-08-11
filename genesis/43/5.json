@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "But if you no send ⟨am⟩, we no go go down; because di man bin talk to us sey, una no go see my face, except una brother ⟨be⟩ ⟨את⟩ wit una.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "but if"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "you no"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "we go go down"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "una go see"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "except"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "una brother"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wit una",
+      "marks": "una brother"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:49.880189256Z",
+  "model": "glm-5.2"
+}

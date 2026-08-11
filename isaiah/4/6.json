@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And booth go dey for shade for daytime from heat, and for refuge, and for hiding-place from storm and from rain.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "and booth"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "for shade"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "for daytime"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "from heat"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "and for refuge"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "and for hiding-place"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "from storm"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "and from rain"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:45.216645567Z",
+  "model": "glm-5.2"
+}

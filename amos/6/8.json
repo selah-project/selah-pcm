@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Adonai Yahweh don swear by im ⟨own⟩ life — oracle of Yahweh, Elohim of hosts: I detest ⟨את⟩ di pride of Yaakob, and im palaces I hate; and I go lock up ⟨di⟩ city wit all wetin dey inside am.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "don swear"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "by im ⟨own⟩ life"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "I detest"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pride"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pride"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Yaakob"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "and im palaces"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "I hate"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "and I go lock up"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨di⟩ city"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "wit all wetin dey inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:39.068475051Z",
+  "model": "glm-5.2"
+}

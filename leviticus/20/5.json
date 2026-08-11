@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Den me self, I go set ⟨את⟩ my face against dat man and against im family, and I go cut am off, and ⟨את⟩ all di ones wey dey prostitute demselves after am, to prostitute after Molech, from among dia people.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתִּ֨י",
+      "gloss": "Den I go set"
+    },
+    {
+      "surface": "אֲנִ֧י",
+      "gloss": "me self"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "my face"
+    },
+    {
+      "surface": "פָּנַ֛י",
+      "gloss": "my face"
+    },
+    {
+      "surface": "בָּאִ֥ישׁ",
+      "gloss": "against di man"
+    },
+    {
+      "surface": "הַה֖וּא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וּבְמִשְׁפַּחְתּ֑וֹ",
+      "gloss": "and against im family"
+    },
+    {
+      "surface": "וְהִכְרַתִּ֨י",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "אֹת֜וֹ",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "וְאֵ֣ת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di ones wey dey prostitute"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַזֹּנִ֣ים",
+      "gloss": "di ones wey dey prostitute"
+    },
+    {
+      "surface": "אַחֲרָ֗יו",
+      "gloss": "after am"
+    },
+    {
+      "surface": "לִזְנ֛וֹת",
+      "gloss": "to prostitute"
+    },
+    {
+      "surface": "אַחֲרֵ֥י",
+      "gloss": "after"
+    },
+    {
+      "surface": "הַמֹּ֖לֶךְ",
+      "gloss": "Molech"
+    },
+    {
+      "surface": "מִקֶּ֥רֶב",
+      "gloss": "from among"
+    },
+    {
+      "surface": "עַמָּֽם",
+      "gloss": "dia people"
+    }
+  ],
+  "timestamp": "2026-08-11T15:51:06.316152495Z",
+  "model": "glm-5.2"
+}

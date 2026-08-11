@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Moshe bin talk to dem: \"Stand, make I hear wetin Yahweh go command for una.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Stand"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "make I hear"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "go command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:14.244992439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Person wey love pure heart — grace dey im lips — ⟨na⟩ king ⟨be⟩ im friend.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "person wey love"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grace"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "dey im lips"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im friend"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:55.925400403Z",
+  "model": "glm-5.2"
+}

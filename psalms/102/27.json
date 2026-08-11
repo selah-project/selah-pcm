@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Dem go perish, but You go stand; all of dem go wear out like cloth; like dress You go change dem, and dem go change.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Dem"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "but You"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "like cloth"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "go wear out"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "like dress"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "You go change dem"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "and dem go change"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:02.237775163Z",
+  "model": "glm-5.2"
+}

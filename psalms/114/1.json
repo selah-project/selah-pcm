@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 114,
+  "translation": "Wen Yisrael bin komot from Mitsrayim, bayit of Yaʿaqov from ⟨one⟩ people wey dey speak strange tongue,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "wen...bin komot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayit of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from people"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "wey dey speak strange tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:52.460043239Z",
+  "model": "glm-5.2"
+}

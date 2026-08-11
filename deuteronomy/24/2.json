@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And she go comot from im house, and she go go, and she go become ⟨wife⟩ for anoda man.",
+  "tokens": [
+    {
+      "surface": "והלכה",
+      "gloss": "and she go go"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "from im house"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "and she go go"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "and she go become"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:45.585976653Z",
+  "model": "glm-5.2"
+}

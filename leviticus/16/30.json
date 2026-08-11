@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Because for dis day, e go make atonement on top una, to cleanse ⟨את⟩ una from all una sin, before Yahweh — una go dey clean.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "e go make atonement"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on top una"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "to cleanse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "una sin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "una go dey clean"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:15.706354061Z",
+  "model": "glm-5.2"
+}

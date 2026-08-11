@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And e go come to pass, as when harvest-man dey gather standing stalk, and im arm dey reap ears of grain; and e go come to pass, as when person dey glean ears of grain for Valley of Refaim —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go come to pass"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "as when person dey gather"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "harvest"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "standing stalk"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "and im arm"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ears of grain"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "dey reap"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go come to pass"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "as when person dey glean"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ears of grain"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "for valley of"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:32.889730939Z",
+  "model": "glm-5.2"
+}

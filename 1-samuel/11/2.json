@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 11:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Nachash di Ammonite bin talk to dem, \"Wit dis ⟨condition⟩ I go cut ⟨with⟩ you ⟨a covenant⟩, by piercing out for you every right eye; and I go put am ⟨as⟩ disgrace upon all Yisrael.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "di Ammonite"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "wit dis"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "I go cut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for you"
+    },
+    {
+      "surface": "בנקור",
+      "gloss": "by piercing out"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "and I go put am"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "disgrace"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:31.969657047Z",
+  "model": "glm-5.2"
+}

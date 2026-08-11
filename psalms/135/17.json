@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 135,
+  "translation": "Ear dem get, but dem no dey listen; even, notin dey inside — no breath dey for dia mouth.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ear dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem get"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but dem no"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "dey listen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "אין",
+      "gloss": "notin dey"
+    },
+    {
+      "surface": "יש",
+      "gloss": "inside"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "breath"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "for dia mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:51.546229130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Di memory of di plenty goodness wey you get, dem go pour am out, and ⟨dem⟩ go sing of your righteousness.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "di memory"
+    },
+    {
+      "surface": "רב",
+      "gloss": "of di plenty"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "goodness wey you get"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "dem go pour am out"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "and your righteousness"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "dem go sing"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:17.596722401Z",
+  "model": "glm-5.2"
+}

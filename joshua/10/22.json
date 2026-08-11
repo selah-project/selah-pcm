@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yehoshua talk say, Open ⟨di⟩ mouth of di cave, and bring out to me ⟨את⟩ dis five king-dem from di cave.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mouth"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "of di cave"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "and bring out"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis five king-dem"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "five"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "di king-dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "di cave"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:39.659308732Z",
+  "model": "glm-5.2"
+}

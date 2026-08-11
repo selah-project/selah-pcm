@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "Daughter of Bavel, di one wey dem don plunder, happy ⟨be⟩ di one wey go pay you back ⟨את⟩ di reward wey you reward us.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Daughter"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "di one wey dem don plunder"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "happy"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "di one wey go pay back"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di reward wey you reward us"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "di reward of you"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wey you reward"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:20.956307970Z",
+  "model": "glm-5.2"
+}

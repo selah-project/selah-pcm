@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And why una bring ⟨את⟩ congregation of Yahweh come dis wilderness, to die for there, we and our animal-dem?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "and why"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "una bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "congregation"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "congregation"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "come"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dis wilderness"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "למות",
+      "gloss": "to die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "and our animal-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:49.505240467Z",
+  "model": "glm-5.2"
+}

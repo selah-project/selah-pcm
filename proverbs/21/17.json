@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Man wey dey lack, ⟨na⟩ im dey love enjoyment; man wey dey love wine and oil, e no go rich.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "wey dey lack"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dey love"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "enjoyment"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dey love"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "and oil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "go rich"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:56.705291691Z",
+  "model": "glm-5.2"
+}

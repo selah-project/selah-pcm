@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "Because you make me glad, Yahweh, for di work wey you do; for di tings wey your hand dem do, I go sing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "you make me glad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "for di work wey you do"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "for di tings wey"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "your hand dem do"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "I go sing"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:29.446314712Z",
+  "model": "glm-5.2"
+}

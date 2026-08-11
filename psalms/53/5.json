@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "Di people wey dey do bad tin no sabi? Dem wey dey chop my people, dem chop bread — Elohim dem no call.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be so?"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dem sabi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "און",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "wey dey chop"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "dem chop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dem call"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.836090124Z",
+  "model": "glm-5.2"
+}

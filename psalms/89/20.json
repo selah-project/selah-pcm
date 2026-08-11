@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Dat time you bin speak for vision to your faithful ones, and you bin talk sey: ⟨Na⟩ help I don put on top ⟨a⟩ mighty one; I don lift up ⟨a⟩ chosen one from among di people.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "you bin speak"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "for vision"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "to your faithful ones"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and you bin talk"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "I don put"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "help"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mighty one"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "I don lift up"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "chosen one"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from among di people"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:08.664892100Z",
+  "model": "glm-5.2"
+}

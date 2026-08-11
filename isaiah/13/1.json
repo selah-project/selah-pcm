@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di burden of Bavel, wey Yeshayahu wey be son of Amots bin see.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂא",
+      "gloss": "di burden"
+    },
+    {
+      "surface": "בָּבֶל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חָזָה",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "יְשַׁעְיָהוּ",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "wey be son of"
+    },
+    {
+      "surface": "אָמוֹץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:48.151381200Z",
+  "model": "glm-5.2"
+}

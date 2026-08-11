@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "⟨Na⟩ im wey form dia heart-dem together, ⟨na⟩ im wey dey understand all dia work-dem.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "⟨Na⟩ im wey form"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart-dem"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "⟨na⟩ im wey dey understand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dia work-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:00.943016719Z",
+  "model": "glm-5.2"
+}

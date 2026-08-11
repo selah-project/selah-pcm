@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "To di One wey strike Mitsrayim for dia firstborn, sey im chesed dey forever.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "to di One wey strike"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "for dia firstborn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:10.923953199Z",
+  "model": "glm-5.2"
+}

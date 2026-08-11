@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "You bin put gladness for my heart, more pass di time wey dem bin multiply dia grain and dia new wine.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "You bin put"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gladness"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "for my heart"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "more pass di time"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "dia grain"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "and dia new wine"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "dem bin multiply"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:14.294447139Z",
+  "model": "glm-5.2"
+}

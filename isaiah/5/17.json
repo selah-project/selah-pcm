@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And lambs go feed as dem talk, and strangers go chop di ruins of di rich ones.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "and go feed"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lambs"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "as dem talk"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "and di ruins"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "of di rich ones"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:30.444700200Z",
+  "model": "glm-5.2"
+}

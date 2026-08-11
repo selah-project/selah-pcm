@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And e measure ⟨את⟩ im length, twenty cubit, and di width, twenty cubit, for front of di temple; and e tell me, 'Dis one na holy of holies.'",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and e measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im length"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "and di width"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "di temple"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "of holies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:19.407530064Z",
+  "model": "glm-5.2"
+}

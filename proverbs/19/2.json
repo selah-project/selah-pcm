@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Also, without knowledge, ⟨na⟩ person wey dey breathe ⟨no⟩ good; and person wey dey rush wit leg dey sin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Also"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "without"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "person wey dey breathe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "and person wey dey rush"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "wit leg"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "dey sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:09.092099590Z",
+  "model": "glm-5.2"
+}

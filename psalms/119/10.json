@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "With all my heart I bin seek You; make You no let me stray from Your commandments.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "with all"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "I bin seek You"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "make You let me stray"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "from Your commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:07.967331688Z",
+  "model": "glm-5.2"
+}

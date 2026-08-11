@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Instructive poem for Eitan di Ezrahite.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "instructive poem"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "for Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "di Ezrahite"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:17.595097779Z",
+  "model": "glm-5.2"
+}

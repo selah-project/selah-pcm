@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di drinking, according to law, ⟨dem⟩ no dey force anybody; for so di king bin appoint upon all official of im house, make dem do according to wetin each man want, man and man.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "and di drinking"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "according to law"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "dey force"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "bin appoint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רב",
+      "gloss": "official"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "of im house"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make dem do"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "according to wetin ... want"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:53.200647967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And im talk, No fear, because di ones wey ⟨be⟩ ⟨את⟩ wit us plenty pass di ones wey ⟨be⟩ ⟨את⟩ wit dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ wit us"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "pass di ones wey"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wit dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:06.523848839Z",
+  "model": "glm-5.2"
+}

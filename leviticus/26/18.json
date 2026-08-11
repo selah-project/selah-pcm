@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And if up to dis ones una no go hear Me, den I go add to discipline una seven times on top una sins.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "עד",
+      "gloss": "up to"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis ones"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "una go hear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Me"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "I go add"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "to discipline"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven times"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "una sins"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:47.134444593Z",
+  "model": "glm-5.2"
+}

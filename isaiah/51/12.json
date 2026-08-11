@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "I, ⟨na⟩ I ⟨be⟩ ⟨di one⟩ wey dey comfort una; who ⟨be⟩ you, wey you dey fear mortal man wey go die, and son of man wey dem go give ⟨am⟩ ⟨to be⟩ like grass?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "wey dey comfort una"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "wey you dey fear"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wey go die"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "and son of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "wey dem go give ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:57.634605198Z",
+  "model": "glm-5.2"
+}

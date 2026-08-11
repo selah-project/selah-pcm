@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Catch for us fox dem, di small-small fox dem wey dey spoil vineyard dem, because our vineyard dem dey blossom.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "catch"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "fox dem"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "fox dem"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "small-small"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "wey dey spoil"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vineyard dem"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "and our vineyard dem"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "dey blossom"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:46.736985347Z",
+  "model": "glm-5.2"
+}

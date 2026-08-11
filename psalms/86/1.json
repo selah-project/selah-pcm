@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Prayer wey David bin pray. Yahweh, bend your ear, answer me, for ⟨I be⟩ poor and needy, ⟨na⟩ me.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Prayer"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wey David bin pray"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "your ear"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:21.012598087Z",
+  "model": "glm-5.2"
+}

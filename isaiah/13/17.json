@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Look, I dey stir up against dem ⟨את⟩ di Medes, wey no dey value silver, and gold, dem no go desire am.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "look"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "I dey stir up"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Medes"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "dem go value"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "dem go desire"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:24.599609041Z",
+  "model": "glm-5.2"
+}

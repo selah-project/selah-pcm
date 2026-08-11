@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And whoever pierce di Name of Yahweh, death go kill am; stoning dem go stone am, all di community. Na di same for stranger, na di same for native-born: for piercing di Name, dem go kill am.",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "And whoever pierce"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "go kill am"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "stoning"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "dem go stone"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di community"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "Na di same for stranger"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "na di same for native-born"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "for piercing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di Name"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dem go kill am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:37.248065792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yehudah bin go to di Kenaʻani wey dey stay for Chevron — and di name of Chevron bifor-bifor bin ⟨be⟩ Kiryat-Arba — and dem strike ⟨את⟩ Sheshai and ⟨את⟩ Achiman and ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kenaʻani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "for Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and di name of"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "bifor-bifor"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:11.804258029Z",
+  "model": "glm-5.2"
+}

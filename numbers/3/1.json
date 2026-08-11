@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dis na di line of Aharon and Moshe, for di day wey Yahweh bin speak ⟨את⟩ Moshe, for Mount Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and dis na"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "di line"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "and Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for Mount"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:09.124807951Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Bless ⟨our⟩ Elohim, una peoples, and make di sound of im praise make dem hear am.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "bless"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "una peoples"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨our⟩ Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "and make dem hear am"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di sound"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "of im praise"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:09.398229956Z",
+  "model": "glm-5.2"
+}

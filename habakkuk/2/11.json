@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Because stone from ⟨di⟩ wall go cry out, and plank from wood go answer am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "from ⟨di⟩ wall"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "go cry out"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "and plank"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "from wood"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "go answer am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:08.334538015Z",
+  "model": "glm-5.2"
+}

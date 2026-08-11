@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Honor ⟨na⟩ for man to siddon from quarrel, but evri fool go dey drag ⟨imself⟩ enter.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "honor"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for man"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "to siddon"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "from quarrel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "but evri"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "go dey drag enter"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:55.337346771Z",
+  "model": "glm-5.2"
+}

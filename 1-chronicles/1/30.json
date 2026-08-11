@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Mishma, and Dumah, Massa, Chadad, and Teima.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Mishma"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "and Dumah"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Chadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "and Teima"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:53.255384269Z",
+  "model": "glm-5.2"
+}

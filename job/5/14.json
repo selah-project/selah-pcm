@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "For daytime dem dey bump ⟨into⟩ darkness, and like night dem dey grope for noon.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "For daytime"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "dem dey bump ⟨into⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "and like night"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "dem dey grope"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "for noon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:49.294532517Z",
+  "model": "glm-5.2"
+}

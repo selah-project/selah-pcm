@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I, I bin talk for my tranquility: 'I go never shift at all.'",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "for my tranquility"
+    },
+    {
+      "surface": "בל",
+      "gloss": "at all"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "I go shift"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "never"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:01.874561587Z",
+  "model": "glm-5.2"
+}

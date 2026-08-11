@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨את⟩ una daughters im go take, ⟨to⟩ be perfumers, and ⟨to⟩ be cooks, and ⟨to⟩ be bakers.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una daughters"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "una daughters"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "im go take"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "⟨to⟩ be perfumers"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "and ⟨to⟩ be cooks"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "and ⟨to⟩ be bakers"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:44.335822575Z",
+  "model": "glm-5.2"
+}

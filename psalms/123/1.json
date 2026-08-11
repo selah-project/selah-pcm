@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 123,
+  "translation": "Song of di go-ups. To You I bin lift ⟨את⟩ my eyes, di One wey dey sit down for heaven.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "of di go-ups"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "To You"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "I bin lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my eyes"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "di One wey dey sit down"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:47.979367480Z",
+  "model": "glm-5.2"
+}

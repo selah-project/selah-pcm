@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "For Yahweh ⟨be⟩ our judge, Yahweh ⟨be⟩ our lawgiver, Yahweh ⟨be⟩ our king — na ⟨Him⟩ go save us.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "for"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שֹׁפְטֵ֔נוּ",
+      "gloss": "our judge"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְחֹקְקֵ֑נוּ",
+      "gloss": "our lawgiver"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַלְכֵּ֖נוּ",
+      "gloss": "our king"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "Him"
+    },
+    {
+      "surface": "יוֹשִׁיעֵֽנוּ",
+      "gloss": "go save us"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:44.826605964Z",
+  "model": "glm-5.2"
+}

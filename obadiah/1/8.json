@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "No go be sey for dat day — oracle of Yahweh — I go destroy di wise men from Edom, and understanding from mountain of Esav?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "no go be sey"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "I go destroy"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "di wise men"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "from Edom"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "and understanding"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "from mountain"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:10.686401293Z",
+  "model": "glm-5.2"
+}

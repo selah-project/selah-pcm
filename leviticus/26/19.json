@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "and I go break ⟨את⟩ di pride of una strength, and I go make ⟨את⟩ una sky like iron, and ⟨את⟩ una land like bronze.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "and I go break"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pride of una strength"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "di pride"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "of una strength"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una sky"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "una sky"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "like iron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una land"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "una land"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "like bronze"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:47.134584587Z",
+  "model": "glm-5.2"
+}

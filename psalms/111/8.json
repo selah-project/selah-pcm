@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 111,
+  "translation": "⟨Dem⟩ stand firm forever and ever; ⟨dem⟩ ⟨be⟩ made wit truth and uprightness.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "⟨dem⟩ stand firm"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "and ever"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "⟨dem⟩ ⟨be⟩ made"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "wit truth"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "and uprightness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:31.803865946Z",
+  "model": "glm-5.2"
+}

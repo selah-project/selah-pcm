@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make una eye go fly go im side, and ⟨e⟩ no dey again; for ⟨e⟩ go make wing for im self, like eagle wey dey fly go heaven.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "make eye go fly go"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "una eye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "im side"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "and ⟨e⟩ no dey again"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for im self"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "wing"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "like eagle"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "wey dey fly go"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:26.401797502Z",
+  "model": "glm-5.2"
+}

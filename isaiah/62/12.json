@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "And dem go call dem 'People of di Holy One, redeemed of Yahweh.' And you, dem go call you 'Sought-after one, city wey dem no abandon.'",
+  "tokens": [
+    {
+      "surface": "וְקָרְא֥וּ",
+      "gloss": "and dem go call"
+    },
+    {
+      "surface": "לָהֶ֛ם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "people"
+    },
+    {
+      "surface": "הַקֹּ֖דֶשׁ",
+      "gloss": "of di Holy One"
+    },
+    {
+      "surface": "גְּאוּלֵ֣י",
+      "gloss": "redeemed"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "וְלָךְ֙",
+      "gloss": "and you"
+    },
+    {
+      "surface": "יִקָּרֵ֣א",
+      "gloss": "dem go call"
+    },
+    {
+      "surface": "דְרוּשָׁ֔ה",
+      "gloss": "sought-after one"
+    },
+    {
+      "surface": "עִ֖יר",
+      "gloss": "city"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "נֶעֱזָֽבָה",
+      "gloss": "wey dem no abandon"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:13.955525818Z",
+  "model": "glm-5.2"
+}

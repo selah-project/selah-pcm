@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And notin go dey for Mitsrayim to do — work wey head or tail, palm-branch or reed, go fit do.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go fit do"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "or tail"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palm-branch"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "or reed"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:29.563277382Z",
+  "model": "glm-5.2"
+}

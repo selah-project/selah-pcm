@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And saviors go climb up on di mountain of Tsiyon, make dem go judge ⟨את⟩ di mountain of Esav; and di kingdom go be for Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְעָל֤וּ",
+      "gloss": "and go climb up"
+    },
+    {
+      "surface": "מֽוֹשִׁעִים֙",
+      "gloss": "saviors"
+    },
+    {
+      "surface": "בְּהַ֣ר",
+      "gloss": "on di mountain"
+    },
+    {
+      "surface": "צִיּ֔וֹן",
+      "gloss": "of Tsiyon"
+    },
+    {
+      "surface": "לִשְׁפֹּ֖ט",
+      "gloss": "make dem go judge"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di mountain of Esav"
+    },
+    {
+      "surface": "הַ֣ר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "עֵשָׂ֑ו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "וְהָיְתָ֥ה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "לַֽיהוָ֖ה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "הַמְּלוּכָֽה",
+      "gloss": "di kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:11.575457606Z",
+  "model": "glm-5.2"
+}

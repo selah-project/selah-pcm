@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "To di choir leader, for David, instrumental piece, song.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir leader"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "instrumental piece"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:08.044971814Z",
+  "model": "glm-5.2"
+}

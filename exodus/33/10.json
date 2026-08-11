@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And all di people bin dey see ⟨את⟩ pillar of di cloud wey dey stand for ⟨di⟩ entrance of ⟨di⟩ tent, and all di people bin dey stand up, and dey bow down, each man for ⟨di⟩ entrance of im tent.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and ⟨they⟩ bin dey see"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pillar"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "of di cloud"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wey dey stand"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "for ⟨di⟩ entrance"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "of ⟨di⟩ tent"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "and ⟨they⟩ bin stand up"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "and dey bow down"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "for ⟨di⟩ entrance"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "of im tent"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:52.258815924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And e go make di woman drink ⟨את⟩ ⟨את⟩ di bitter water wey dey cause curse, and di curse water go enter inside am, ⟨to become⟩ bitter.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "and go make drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di woman"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di water of bitter curse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "di water"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "of bitter"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "di curse one dem"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "and go enter"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water dem"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "di curse one dem"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "for bitter"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:34.097492102Z",
+  "model": "glm-5.2"
+}

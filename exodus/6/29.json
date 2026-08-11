@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Say Yahweh bin speak to Mosheh, say: \"Na me be Yahweh. Talk to Paroh, wey be king of Mitsrayim, ⟨את⟩ evritin wey I dey talk to you.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evritin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evritin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:47.018955731Z",
+  "model": "glm-5.2"
+}

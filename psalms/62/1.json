@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "To di leader, upon Yedutun — one song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:32.343069507Z",
+  "model": "glm-5.2"
+}

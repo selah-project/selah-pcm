@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "And dem dey talk, 'How El go know? And knowledge dey for di Most High?'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "and dem dey talk"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "how"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "go know"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "and ⟨e⟩ dey"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "for di Most High"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:50.369223709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Di king of Mitsrayim remove am for Yerushalayim, and e bin punish ⟨את⟩ di land — hundred kikkar of silver and one kikkar of gold.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "e bin remove am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "and e bin punish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "and one kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    }
+  ],
+  "timestamp": "2026-08-11T14:16:49.882905905Z",
+  "model": "glm-5.2"
+}

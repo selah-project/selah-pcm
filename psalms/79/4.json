@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "We don become disgrace to our neighbor-dem, mocking and laughing-stock to our surrounder-dem.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "we don become"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "disgrace"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "to our neighbor-dem"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "mocking"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "and laughing-stock"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "to our surrounder-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:14.921517186Z",
+  "model": "glm-5.2"
+}

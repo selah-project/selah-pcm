@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Arrange di table, spread out di watch, make una chop, make una drink; make una stand up, una princes, make una anoint di shield.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "arrange"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "spread out"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "di watch"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "make una chop"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "make una drink"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "make una stand up"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "una princes"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "make una anoint"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "di shield"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:01.667511291Z",
+  "model": "glm-5.2"
+}

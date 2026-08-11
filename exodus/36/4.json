@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And all di wise men wey dey do ⟨את⟩ all di sacred work come, evri man from im own work wey dem dey do.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "And come"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "di wise men"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di sacred work"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "di work of"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di sacred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "from im own"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dey do"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:48.790758631Z",
+  "model": "glm-5.2"
+}

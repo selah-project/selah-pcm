@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 14:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And she bin talk, \"Make di king remember, ⟨na⟩, ⟨את⟩ Yahweh your Elohim, make ⟨you⟩ no let blood-avenger multiply to destroy, and make dem no destroy ⟨את⟩ my pikin.\" And ⟨he⟩ bin talk, \"As Yahweh dey live—if one hair of your pikin go fall to ground.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "make ⟨he⟩ remember"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מהרבית",
+      "gloss": "multiply"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "blood-avenger"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "of blood"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "ישמידו",
+      "gloss": "dem destroy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my pikin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "חי",
+      "gloss": "live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "משערת",
+      "gloss": "hair"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "of your pikin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to ground"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:27.134383630Z",
+  "model": "glm-5.2"
+}

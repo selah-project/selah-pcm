@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "⟨E⟩ don scatter, ⟨E⟩ give to di poor-ones; im righteousness dey stand forever; im horn ⟨go⟩ rise for glory.",
+  "tokens": [
+    {
+      "surface": "פִּזַּר",
+      "gloss": "don scatter"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "⟨E⟩ give"
+    },
+    {
+      "surface": "לָאֶבְיוֹנִים",
+      "gloss": "to di poor-ones"
+    },
+    {
+      "surface": "צִדְקָתוֹ",
+      "gloss": "im righteousness"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "קַרְנוֹ",
+      "gloss": "im horn"
+    },
+    {
+      "surface": "תָּרוּם",
+      "gloss": "⟨go⟩ rise"
+    },
+    {
+      "surface": "בְּכָבוֹד",
+      "gloss": "for glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:04.350728201Z",
+  "model": "glm-5.2"
+}

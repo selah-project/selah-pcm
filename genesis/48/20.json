@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "So ⟨e⟩ bless dem for dat day, sey: By you Yisra'el go dey bless, sey: Make Elohim make you like Efrayim and like Menashsheh. And e put ⟨את⟩ Efrayim before Menashsheh.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "So ⟨e⟩ bless dem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בך",
+      "gloss": "by you"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go dey bless"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "make ⟨e⟩ make you"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "like Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "and like Menashsheh"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:57.536811974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 70,
+  "translation": "Make dem glad and make dem joy inside You, all dem wey dey find You, and make dem talk sey always, make Elohim dey big, dem wey love Your salvation.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "make dem glad"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "and make dem joy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside You"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "dem wey dey find You"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and make dem talk"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "make ⟨im⟩ dey big"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "dem wey love"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "Your salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:49.209047700Z",
+  "model": "glm-5.2"
+}

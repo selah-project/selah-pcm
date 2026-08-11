@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di Emori wey dey live for dat hill bin come out to meet una, and dem bin pursue ⟨את⟩ una, as bees dey do, and dem bin defeat ⟨את⟩ una for Se'ir, as far as Chormah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for di hill"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "to meet una"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "and dem bin pursue"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "una"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "dem dey do"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "bees"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "and dem bin defeat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "una"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "for Se'ir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chormah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:55.611670004Z",
+  "model": "glm-5.2"
+}

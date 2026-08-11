@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Because of dat, man go leave ⟨את⟩ im papa and ⟨את⟩ im mama, and ⟨he⟩ hold tight to im wife, and dem go be one flesh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "כן",
+      "gloss": "of dat"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "go leave"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im mama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "and ⟨he⟩ hold tight"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "to im wife"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and dem go be"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "one flesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:28.342779028Z",
+  "model": "glm-5.2"
+}

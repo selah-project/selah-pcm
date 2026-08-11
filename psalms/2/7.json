@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I go recount concerning di decree: Yahweh talk to me, \"You ⟨be⟩ my son, today I born you.\"",
+  "tokens": [
+    {
+      "surface": "אֲסַפְּרָ֗ה",
+      "gloss": "I go recount"
+    },
+    {
+      "surface": "אֶֽ֫ל",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "חֹ֥ק",
+      "gloss": "di decree:"
+    },
+    {
+      "surface": "יְֽהֹוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָמַ֘ר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "to me,"
+    },
+    {
+      "surface": "בְּנִ֥י",
+      "gloss": "my son,"
+    },
+    {
+      "surface": "אַ֑תָּה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אֲנִ֗י",
+      "gloss": "I"
+    },
+    {
+      "surface": "הַיּ֥וֹם",
+      "gloss": "today"
+    },
+    {
+      "surface": "יְלִדְתִּֽיךָ",
+      "gloss": "born you."
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:35.395869287Z",
+  "model": "glm-5.2"
+}

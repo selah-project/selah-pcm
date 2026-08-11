@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And for di seventh day di priest go check ⟨את⟩ di plague, and if di neteq no spread, and yellow hair no dey inside am, and di neteq im appearance no deep pass di skin,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "And go check"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plague"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "di plague"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seventh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "spread"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "di neteq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hair"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "yellow"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "and appearance"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "di neteq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "deep"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pass"
+    },
+    {
+      "surface": "העור",
+      "gloss": "di skin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:11.062202937Z",
+  "model": "glm-5.2"
+}

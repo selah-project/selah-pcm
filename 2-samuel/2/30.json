@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yoav return from behind Avner, and im gather ⟨את⟩ all di people; and dem count from David im servants — nineteen man, and Asahel.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "And Yoav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "return"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "from behind"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "and im gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "and dem count"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "from David im servants"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nineteen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨teen⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨missing⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:09.388694838Z",
+  "model": "glm-5.2"
+}

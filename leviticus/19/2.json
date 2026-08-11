@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Speak to all di assembly of di sons of Yisra'el, and tell dem sey: holy una go be, because I, Yahweh una Elohim, ⟨na⟩ holy.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "holy"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "una go be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:05.896878657Z",
+  "model": "glm-5.2"
+}

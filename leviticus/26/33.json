@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And ⟨את⟩ una I go scatter among di nations, and I go draw sword behind una, and una land go be desolation, and una cities go be ruins.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "I go scatter"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "and I go draw"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "behind una"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "and ⟨she⟩ go be"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "una land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "desolation"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "and una cities"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go be"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ruins"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:45.987015736Z",
+  "model": "glm-5.2"
+}

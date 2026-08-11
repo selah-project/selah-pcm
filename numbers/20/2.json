@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And water no dey for di congregation, and dem gather against Mosheh and against Aharon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "for di congregation"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:49.504969566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And di king of Yisra'el bin come out, and e bin strike ⟨את⟩ di horse-dem and ⟨את⟩ di chariot-dem, and e bin strike Aram wit ⟨a⟩ great blow.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di horse-dem"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "di horse-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di chariot-dem"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariot-dem"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "blow"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:56.486665738Z",
+  "model": "glm-5.2"
+}

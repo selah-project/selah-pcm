@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "E bin send from above, e bin take me, e bin draw me comot from plenti water.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "e bin send"
+    },
+    {
+      "surface": "מִ֭מָּרוֹם",
+      "gloss": "from above"
+    },
+    {
+      "surface": "יִקָּחֵ֑נִי",
+      "gloss": "e bin take me"
+    },
+    {
+      "surface": "יַֽ֝מְשֵׁ֗נִי",
+      "gloss": "e bin draw me comot"
+    },
+    {
+      "surface": "מִמַּ֥יִם",
+      "gloss": "from water"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "plenti"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:14.959006050Z",
+  "model": "glm-5.2"
+}

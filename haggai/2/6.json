@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "For like dis Yahweh of hosts bin talk: yet one ⟨more⟩, small tin e ⟨be⟩, and I dey shake ⟨את⟩ di heavens and ⟨את⟩ di earth and ⟨את⟩ di sea and ⟨את⟩ di dry land.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ⟨be⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "dey shake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heavens"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heavens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di dry land"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "di dry land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:31.819092238Z",
+  "model": "glm-5.2"
+}

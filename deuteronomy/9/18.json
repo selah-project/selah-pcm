@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 9:18",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And I fall down for Yahweh front, like di first time, forty day and forty night — bread I no chop and water I no drink — sake of all una sin wey una sin, to do wetin bad for Yahweh eye, to make-am vex.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "and I fall down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כראשנה",
+      "gloss": "front",
+      "marks": "Yahweh front"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "like di first time"
+    },
+    {
+      "surface": "יום",
+      "gloss": "forty"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "day"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "and forty"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "night"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bread"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "I chop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "and water"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "על",
+      "gloss": "I drink"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "una sin"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "una sin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "to do"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "wetin bad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "eye",
+      "marks": "Yahweh eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:36.557867409Z",
+  "model": "glm-5.2"
+}

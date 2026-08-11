@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And e break ⟨את⟩ di sacred pillars, and e cut down ⟨את⟩ di Asherim, and e fill ⟨את⟩ dia place wit human bones.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "And e break"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sacred pillars"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "di sacred pillars"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "and e cut down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "di Asherim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "and e fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia place"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "dia place"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "wit bones"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of human"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:41.485326203Z",
+  "model": "glm-5.2"
+}

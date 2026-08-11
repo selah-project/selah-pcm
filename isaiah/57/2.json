@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "⟨Make⟩ shalom come, dem go rest on top dia beds, ⟨na⟩ ⟨im⟩ wey dey go straight.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "⟨make⟩ come"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "dem go rest"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "dia beds"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wey dey go"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "straight"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:50.522951346Z",
+  "model": "glm-5.2"
+}

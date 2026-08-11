@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dia settling-place bin dey from Mesha, as you dey go reach Sefarah, di mountain of di east.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And bin dey"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "dia settling-place"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "from Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "as you dey go reach"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefarah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "of di east"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:24.436141441Z",
+  "model": "glm-5.2"
+}

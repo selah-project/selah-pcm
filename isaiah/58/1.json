@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Call out with throat, no hold back, like shofar lift up your voice, and tell my people dia rebellion, and to house of Ya'akov dia sin.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Call out"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "with throat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "hold back"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "like shofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "lift up"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "your voice"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "dia rebellion"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "and to house of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dia sin"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:53.089686346Z",
+  "model": "glm-5.2"
+}

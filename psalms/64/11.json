@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Di righteous person go glad for Yahweh, and e go take refuge for inside Am; and all ⟨di⟩ people wey straight for heart go boast.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous person"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "and go take refuge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for inside Am"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "and go boast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wey straight"
+    },
+    {
+      "surface": "לב",
+      "gloss": "of heart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:57.300194084Z",
+  "model": "glm-5.2"
+}

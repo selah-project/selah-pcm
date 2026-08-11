@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "Flash out lightning and scatter dem, send out your arrows and confuse dem.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "flash out"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "lightning"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "and scatter dem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send out"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "your arrows"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "and confuse dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:45.004815612Z",
+  "model": "glm-5.2"
+}

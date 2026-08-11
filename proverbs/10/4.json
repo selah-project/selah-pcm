@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Poverty dey come to hand wey dey slack, but hand of diligent people dey make rich.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Poverty"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey come to"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hand"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wey dey slack"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "but hand"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "of diligent people"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "dey make rich"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:54.239074304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And Yahweh go help dem and go deliver dem; e go deliver dem from wicked people, and go save dem, because dem take refuge for inside am.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "And go help dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "and go deliver dem"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "go deliver dem"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "from wicked people"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "and go save dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "dem take refuge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:49.864784158Z",
+  "model": "glm-5.2"
+}

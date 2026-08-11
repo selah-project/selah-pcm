@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Your neck ⟨be⟩ like tower of ivory; your eyes ⟨be⟩ pools for Chesbbon, beside gate of Bath-Rabbim; your nose ⟨be⟩ like tower of Lebanon, wey dey look toward Damasek.",
+  "tokens": [
+    {
+      "surface": "צַוָּארֵ֖ךְ",
+      "gloss": "your neck"
+    },
+    {
+      "surface": "כְּמִגְדַּ֣ל",
+      "gloss": "like tower"
+    },
+    {
+      "surface": "הַשֵּׁ֑ן",
+      "gloss": "of ivory"
+    },
+    {
+      "surface": "עֵינַ֜יִךְ",
+      "gloss": "your eyes"
+    },
+    {
+      "surface": "בְּרֵכ֣וֹת",
+      "gloss": "pools"
+    },
+    {
+      "surface": "בְּחֶשְׁבּ֗וֹן",
+      "gloss": "for Chesbbon"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "beside"
+    },
+    {
+      "surface": "שַׁ֨עַר֙",
+      "gloss": "gate"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "of"
+    },
+    {
+      "surface": "רַבִּ֔ים",
+      "gloss": "Bath-Rabbim"
+    },
+    {
+      "surface": "אַפֵּךְ֙",
+      "gloss": "your nose"
+    },
+    {
+      "surface": "כְּמִגְדַּ֣ל",
+      "gloss": "like tower"
+    },
+    {
+      "surface": "הַלְּבָנ֔וֹן",
+      "gloss": "of Lebanon"
+    },
+    {
+      "surface": "צוֹפֶ֖ה",
+      "gloss": "wey dey look"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "toward"
+    },
+    {
+      "surface": "דַמָּֽשֶׂק",
+      "gloss": "Damasek"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:36.176502627Z",
+  "model": "glm-5.2"
+}

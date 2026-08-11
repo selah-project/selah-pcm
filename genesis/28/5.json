@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "So Yitschak bin send ⟨את⟩ Yaakob, and e go Paddan-Aram, go meet Lavan, son of Betuel di Aramean, brother of Rivkah, wey bi mama of Yaakob and Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "di Aramean"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brother of"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "and Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:15.896174917Z",
+  "model": "glm-5.2"
+}

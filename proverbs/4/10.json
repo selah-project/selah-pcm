@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Hear, my son, and take my words, and di years of life go multiply for you.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hear"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "and go multiply"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "di years"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "of life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:20.052724091Z",
+  "model": "glm-5.2"
+}

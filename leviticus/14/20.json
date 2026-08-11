@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di priest go offer ⟨את⟩ di burnt offering and ⟨את⟩ di grain offering on top di altar; and di priest go make atonement for am, and ⟨im⟩ go clean.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "and go offer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di burnt offering"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di grain offering"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di grain offering"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and go make atonement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "and go clean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:01.455732766Z",
+  "model": "glm-5.2"
+}

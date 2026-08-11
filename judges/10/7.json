@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yahweh anger burn against Yisra'el, and ⟨im⟩ sell dem enter hand of Pelishtim and enter hand of di pikin dem of Ammon.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "and burn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "against Yisra'el"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "and sell dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "enter hand of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "and enter hand of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:55.846343056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yahweh bin tell di angel, and e bin return im sword back to ⟨im⟩ sheath.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "to di angel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bin return"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "im sword"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "sheath"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:33.666080952Z",
+  "model": "glm-5.2"
+}

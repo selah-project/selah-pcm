@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Her legs dey go down to death; her steps dey hold Sheol tight.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "Her legs"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "dey go down"
+    },
+    {
+      "surface": "מות",
+      "gloss": "to death"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "her steps"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "dey hold tight"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.787360633Z",
+  "model": "claude-opus-4-8"
+}

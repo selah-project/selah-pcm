@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I never learn wisdom, and ⟨di⟩ knowledge of holy ones I go know?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "And I never"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "learn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "and ⟨di⟩ knowledge of"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "holy ones"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "I go know"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:43.811444509Z",
+  "model": "glm-5.2"
+}

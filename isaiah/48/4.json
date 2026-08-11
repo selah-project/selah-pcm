@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "From my knowing sey you ⟨be⟩ hard, and sinew of iron ⟨be⟩ your neck, and your forehead ⟨be⟩ copper.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "From my knowing sey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "and sinew of"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "your neck"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "and your forehead"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "copper"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:47.065068117Z",
+  "model": "glm-5.2"
+}

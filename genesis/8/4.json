@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di ark bin rest for di seventh month, for seventeen day for di month, on top di mountain of Ararat.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "and bin rest"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for month"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "for seventeen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:51.836543653Z",
+  "model": "glm-5.2"
+}

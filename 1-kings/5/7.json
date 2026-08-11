@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And dis officers wey dey stand bin dey provide for King Shelomoh, and ⟨את⟩ all wey dey near King Shelomoh im table, each man for im month; dem no go let anytin lack.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "bin dey provide"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "dis officers wey dey stand"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨dis⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "King Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all wey dey near"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wey dey near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "table"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "for im month"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "go let lack"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anytin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:53.031491083Z",
+  "model": "glm-5.2"
+}

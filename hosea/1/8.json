@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And when she don finish give Lo-Ruhamah breast, she conceive again and born one son.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "and when she don finish give breast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "she conceive"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:00.599083270Z",
+  "model": "glm-5.2"
+}

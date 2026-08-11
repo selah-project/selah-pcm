@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "From generation go generation ⟨na⟩ your faithfulness; you bin establish di earth, and e dey stand.",
+  "tokens": [
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "From generation"
+    },
+    {
+      "surface": "וָ֭דֹר",
+      "gloss": "go generation"
+    },
+    {
+      "surface": "אֱמֽוּנָתֶ֑ךָ",
+      "gloss": "⟨na⟩ your faithfulness"
+    },
+    {
+      "surface": "כּוֹנַ֥נְתָּ",
+      "gloss": "you bin establish"
+    },
+    {
+      "surface": "אֶ֝֗רֶץ",
+      "gloss": "di earth",
+      "marks": "di earth"
+    },
+    {
+      "surface": "וַֽתַּעֲמֹֽד",
+      "gloss": "and e dey stand"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.826539887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "Di sound of Your thunder dey for di whirlwind; lightning dem light up ⟨di⟩ world; ⟨di⟩ earth shake and quake.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "of Your thunder"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "for di whirlwind"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "dem light up"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "lightning dem"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "world"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "⟨di⟩ earth shake"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "and quake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:40.443453256Z",
+  "model": "glm-5.2"
+}

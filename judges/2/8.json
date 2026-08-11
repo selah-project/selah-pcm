@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Then Yehoshua son of Nun, servant of Yahweh, die, ⟨being⟩ son of one hundred and ten years.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "then die"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "and ten"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:43.754523779Z",
+  "model": "glm-5.2"
+}

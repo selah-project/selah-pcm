@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make ⟨im⟩ send your help from ⟨the⟩ holy place, and from Tziyon make ⟨im⟩ support you.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "make ⟨im⟩ send"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "your help"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "from ⟨the⟩ holy place"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "and from Tziyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "make ⟨im⟩ support you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:33.557460531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Shaul bin send messenger-dem to Yishai, and bin talk, say, Send to me ⟨את⟩ Dawid, ya son, wey dey with di sheep.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messenger-dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "send"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ya son"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "dey with di sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:50.581518517Z",
+  "model": "glm-5.2"
+}

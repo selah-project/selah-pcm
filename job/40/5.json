@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "One time I bin talk, and I no go answer; two time, and I no go add.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "one time"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "two time"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "go add"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:06.038184432Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And I bin hear ⟨somebody⟩ dey speak to me from inside ⟨di⟩ house; and one man bin dey stand near me.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "and I bin hear"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dey speak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "from di house"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and one man"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "near me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:24.370154883Z",
+  "model": "glm-5.2"
+}

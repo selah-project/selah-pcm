@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "I go waka before you, and di raised places I go make straight; ⟨doors⟩ of copper I go break, and bars of iron I go cut.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "go waka"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "and di raised places"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "I go make straight"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "⟨doors⟩"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "of copper"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "I go break"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "and bars"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "I go cut"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:29.449424413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Mosheh alone go come near to Yahweh, but dem no go come near; and di people no go climb up wit am.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "and go come near"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "but dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "go come near"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "and di people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "go climb up"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:52.628319354Z",
+  "model": "glm-5.2"
+}

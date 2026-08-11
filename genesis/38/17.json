@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "E bin talk sey, ⟨na⟩ me go send young she-goat from di flock. And she bin talk, If you go give ⟨am⟩ pledge, until ⟨you⟩ send am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E bin talk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "go send"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "young she-goat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨of goats⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she bin talk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "you go give"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "pledge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "you send am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:47.032528528Z",
+  "model": "glm-5.2"
+}

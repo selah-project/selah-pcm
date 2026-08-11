@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di pikin-dem of Yisra'el do ⟨את⟩ wetin bad for Yahweh eye, and dem forget ⟨את⟩ Yahweh, dia Elohim; and dem serve ⟨את⟩ di Ba'al-dem and ⟨את⟩ di Asherah-dem.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin bad"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wetin bad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for … eye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "and dem forget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "and dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Ba'al-dem"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "di Ba'al-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Asherah-dem"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "di Asherah-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:15.875979424Z",
+  "model": "glm-5.2"
+}

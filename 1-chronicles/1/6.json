@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨di⟩ pikin-dem of Gomer: Ashknaz, and Diphat, and Togarmah.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and pikin-dem of"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashknaz"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "and Diphat"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "and Togarmah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:41.249032654Z",
+  "model": "glm-5.2"
+}

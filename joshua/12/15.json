@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "King of Livnah, one; king of Adullam, one;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:31.033720942Z",
+  "model": "glm-5.2"
+}

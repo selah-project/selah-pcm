@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Aharon go put lot on top di two he-goat dem: one lot for Yahweh, and one lot for Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "and go put"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "di he-goat dem"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "lot dem"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "and lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "for Azazel"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:43.696699850Z",
+  "model": "glm-5.2"
+}

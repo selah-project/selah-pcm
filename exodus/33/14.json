@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And ⟨Yahweh⟩ talk say, My face go go, and I go give you rest.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨Yahweh⟩ talk say"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "go go"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "and I go give rest"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:39.559146324Z",
+  "model": "glm-5.2"
+}

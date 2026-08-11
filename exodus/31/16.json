@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And di children of Yisra'el go keep ⟨את⟩ di Shabbat, to observe ⟨את⟩ di Shabbat for dia generations, as covenant wey go last forever.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "and dem go keep"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨di⟩ children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "di Shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to observe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "di Shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "for dia generations"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wey go last forever"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:08.669220320Z",
+  "model": "glm-5.2"
+}

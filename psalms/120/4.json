@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 120,
+  "translation": "Sharp arrow of mighty man, wit ember of broom wood.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "of mighty man"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "sharp"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ember"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "of broom wood"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:36.166684677Z",
+  "model": "glm-5.2"
+}

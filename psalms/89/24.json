@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "And I go crush im enemies for front of am, and those wey hate am I go strike down.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "and I go crush"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for front of am"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "and those wey hate am"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "I go strike down"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:35.818088865Z",
+  "model": "glm-5.2"
+}

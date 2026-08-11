@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Yahweh dey show compassion and dey show favor, ⟨im⟩ anger dey slow, and ⟨im⟩ chesed plenty.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "dey show compassion"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "and dey show favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "slow"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "anger"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and plenty"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:41.712740748Z",
+  "model": "glm-5.2"
+}

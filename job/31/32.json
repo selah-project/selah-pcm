@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "stranger no dey sleep outside; my door I dey open to di traveler.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dey sleep"
+    },
+    {
+      "surface": "גר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "my door"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "to di traveler"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "I dey open"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:33.416367212Z",
+  "model": "glm-5.2"
+}

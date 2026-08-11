@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Make we go, and make we return go back to Yahweh; because ⟨na⟩ im tear ⟨us⟩, and im go heal us; im strike, and im go bind us up.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "make we go"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "and make we return"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tear"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "and im go heal us"
+    },
+    {
+      "surface": "יך",
+      "gloss": "im strike"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "and im go bind us up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:58.968746129Z",
+  "model": "glm-5.2"
+}

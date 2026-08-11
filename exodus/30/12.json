@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "When you lift up ⟨את⟩ di head of di children of Yisra'el for dia counting, den evri man go give kofer for im life to Yahweh, as dem dey count ⟨את⟩ dem; and plague no go dey among dem as dem dey count ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "you lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "for dia counting"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "den go give"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kofer"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "as dem dey count"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no go"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "plague"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "as dem dey count"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:45.902758663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Yahweh, for us na shame of face — for our kings, for our princes, and for our ancestors, wey we don sin against you.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "shame"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "of face"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "for our kings"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "for our princes"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "and for our ancestors"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "against you"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:07.466123151Z",
+  "model": "glm-5.2"
+}

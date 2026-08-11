@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Because of grey hair make you stand, and make you honor di face of an old man; and make you fear your Elohim. ⟨I⟩ na Yahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "grey hair"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "make you stand"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "and make you honor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "of an old man"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "and make you fear"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨I⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:25.494939550Z",
+  "model": "glm-5.2"
+}

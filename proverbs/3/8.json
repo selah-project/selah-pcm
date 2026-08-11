@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨E⟩ go be healing for your body, and refreshment for your bone dem.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "healing"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "for your body"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "and refreshment"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "for your bone dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:08.148681104Z",
+  "model": "glm-5.2"
+}

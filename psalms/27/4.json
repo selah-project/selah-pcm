@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "One tin I ask from ⟨את⟩ Yahweh — ⟨את⟩ am I dey seek: make I dwell for house of Yahweh all di days of my life, make I gaze for di beauty of Yahweh, and make I visit im palace.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "tin I ask"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "I dey seek"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "make I dwell"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "of my life"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "make I gaze"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "for di beauty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "and make I visit"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "im palace"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:10.988084732Z",
+  "model": "glm-5.2"
+}

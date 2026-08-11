@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And dem go prepare ⟨את⟩ di lamb, and ⟨את⟩ di grain offering, and ⟨את⟩ di oil, morning by morning — burnt offering wey dey continuous.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "and dem go prepare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lamb"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "di lamb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di grain offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "di oil"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "by morning"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wey dey continuous"
+    }
+  ],
+  "timestamp": "2026-08-11T12:20:20.086171463Z",
+  "model": "glm-5.2"
+}

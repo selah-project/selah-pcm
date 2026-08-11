@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem bin anoint am — Tsadok di priest and Natan di prophet — make e be king for Gichon, and dem comot from dey wit joy, and di town bin dey shake: na ⟨be⟩ di noise wey una hear.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "and dem bin anoint"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "make e be king"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "for Gichon"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "and dem comot"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dey"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "wit joy"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "and e bin dey shake"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "di town"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "di noise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "una hear"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:06.764061007Z",
+  "model": "glm-5.2"
+}

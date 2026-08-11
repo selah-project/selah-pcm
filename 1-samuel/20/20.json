@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨as for⟩ me, ⟨as for⟩ three arrows, to di side I go shoot, to send for ⟨את⟩ myself at a target.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and as for me"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "arrows"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "to di side"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "I go shoot"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "to send"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "at a target"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:56.379574874Z",
+  "model": "glm-5.2"
+}

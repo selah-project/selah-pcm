@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": " dia sorrows go multiply — anoda god dem dey hurry afta; I no go pour out dia libations wey dem make from blood, and I no go carry ⟨את⟩ dia names on top my lips.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "go multiply"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "dia sorrows"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda god"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "dem dey hurry afta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "I go pour out"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "dia libations"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "from blood"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "I go carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia names"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "dia names"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lips"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:34.290413244Z",
+  "model": "glm-5.2"
+}

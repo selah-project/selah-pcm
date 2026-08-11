@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Yahweh ⟨be⟩ great, and ⟨dem suppose⟩ praise ⟨Am⟩ well-well; and to His greatness, ⟨e⟩ no get end.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "⟨be⟩ great"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "and ⟨dem suppose⟩ praise ⟨Am⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "and to His greatness"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨e⟩ no get"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "end"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:49.582151635Z",
+  "model": "glm-5.2"
+}

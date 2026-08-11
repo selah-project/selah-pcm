@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di burden of di word of Yahweh to Yisra'el, by ⟨di⟩ hand of Mal'akhi.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֥א",
+      "gloss": "burden"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "of di word"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "מַלְאָכִֽי",
+      "gloss": "of Mal'akhi"
+    }
+  ],
+  "timestamp": "2026-08-11T12:36:45.439430777Z",
+  "model": "glm-5.2"
+}

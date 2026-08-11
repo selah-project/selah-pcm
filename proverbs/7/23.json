@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Until arrow pierce ⟨im⟩ liver, like how bird dey hurry to di trap, and ⟨e⟩ no know sey ⟨e⟩ ⟨dey⟩ gamble with ⟨im⟩ life.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "pierce"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "⟨im⟩ liver"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "like how bird dey hurry"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "⟨bird⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פח",
+      "gloss": "di trap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨e⟩ no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "with ⟨im⟩ life"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩ ⟨dey⟩ gamble"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:46.293356016Z",
+  "model": "glm-5.2"
+}

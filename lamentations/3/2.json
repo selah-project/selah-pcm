@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨את⟩ me e drive comot, e make me waka inside darkness, and no light.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "e drive comot"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e make ⟨me⟩ waka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "inside darkness"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:29.252368488Z",
+  "model": "glm-5.2"
+}

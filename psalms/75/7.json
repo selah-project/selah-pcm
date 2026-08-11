@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 75,
+  "translation": "For no be from east, and no be from west, and no be from wilderness of mountains.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "from east"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "and from west"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "from wilderness"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "of mountains"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:21.783599515Z",
+  "model": "glm-5.2"
+}

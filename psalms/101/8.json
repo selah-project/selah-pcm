@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 101,
+  "translation": "For di mornings I go cut off all di wicked ones of di land, to cut off from di city of Yahweh all di doers of trouble.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "For di mornings"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "I go cut off"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "di wicked ones"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "to cut off"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "from di city"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "di doers"
+    },
+    {
+      "surface": "און",
+      "gloss": "of trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:48.064729929Z",
+  "model": "glm-5.2"
+}

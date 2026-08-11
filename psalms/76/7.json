@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "From your rebuke, Elohim of Yaakov, ⟨dem⟩ don fall into deep sleep — both chariot and horse.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "from your rebuke"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "don fall into deep sleep"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "both chariot"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "and horse"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:20.643997648Z",
+  "model": "glm-5.2"
+}

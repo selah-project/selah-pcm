@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Yahweh talk to Mosheh: \"Anybody wey sin against Me, I go wipe am comot from My book.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "whoever"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "against Me"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "I go wipe am comot"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "from My book"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:27.329712378Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "All di congregation of di sons of Yisra'el bin gather for Shiloh, and dem bin set up dia ⟨את⟩ tent of meeting for there; and di land bin dey subdued before dem.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "bin gather"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di congregation"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloh"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "and dem bin set up"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tent"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "and di land"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "bin dey subdued"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:57.031379709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "dem dey talk say, Elohim don abandon am; pursue am and catch am, because no-body dey save.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dem dey talk say"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "don abandon am"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pursue am"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "and catch am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no-body"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "dey save"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:25.173403800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So Ester bin call Hathakh, from di eunuch dem of di king wey ⟨im⟩ don stand before ⟨her⟩, and ⟨she⟩ bin command am concerning Mordekhai, make ⟨im⟩ know wetin be dis ⟨thing⟩ and sake of wetin be dis ⟨thing⟩.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "So bin call"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hathakh"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "from di eunuch dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "don stand"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "before ⟨her⟩"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "and ⟨she⟩ bin command am"
+    },
+    {
+      "surface": "על",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "make ⟨im⟩ know"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "be dis ⟨thing⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and sake of"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "be dis ⟨thing⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:24.952647754Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "\"For I dey lift up My hand to ⟨di⟩ heaven, and I dey talk: 'As I dey alive forever!'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "I dey lift up"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨di⟩ heaven"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "My hand"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "and I dey talk"
+    },
+    {
+      "surface": "חי",
+      "gloss": "as I dey alive"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:10.944357782Z",
+  "model": "glm-5.2"
+}

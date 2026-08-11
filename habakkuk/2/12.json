@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Shame on am wey dey build city with blood, and wey dey establish town with wickedness!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "shame on am"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wey dey build"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "with blood"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "and wey dey establish"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "town"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "with wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:08.334646987Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Put your hand on top am; remember di fight — make you no do am again.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Put"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "di fight"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "do am again"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:04.657439906Z",
+  "model": "glm-5.2"
+}

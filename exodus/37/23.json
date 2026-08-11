@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And ⟨he⟩ make ⟨את⟩ im seven lamps, and im tongs, and im fire-pans — pure gold.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨he⟩ make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im seven lamps"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "im seven lamps"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "and im tongs"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "and im fire-pans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:16.746380912Z",
+  "model": "glm-5.2"
+}

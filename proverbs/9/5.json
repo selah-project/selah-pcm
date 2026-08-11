@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Come, chop of my bread, and drink of di wine wey I mix.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Come"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chop"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "of my bread"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "and drink"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "of di wine"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "wey I mix"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:50.520170384Z",
+  "model": "glm-5.2"
+}

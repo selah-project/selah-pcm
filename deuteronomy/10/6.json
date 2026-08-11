@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di pikin-dem of Yisra'el move camp from Be'erot Bene-Ya'akan go Moserah; there Aharon bin die, and dem bin bury am there; and El'azar im pikin serve as priest instead of am.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "move camp"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "from Be'erot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "of Ya'akan"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "go Moserah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "מת",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bin bury"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "and e serve as priest"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "instead of am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:39.536256073Z",
+  "model": "glm-5.2"
+}

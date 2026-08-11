@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And now, come, make I ⟨please⟩ give you advice, wey go help you save ⟨את⟩ your life and ⟨את⟩ di life of your son Solomon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "come"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "make I give you advice"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨please⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "advice"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "and save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your life"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di life of your son Solomon"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "di life of"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "your son"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:48.754715009Z",
+  "model": "glm-5.2"
+}

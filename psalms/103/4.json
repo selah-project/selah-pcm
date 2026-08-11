@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "⟨Di one⟩ wey dey redeem your life from destruction, wey dey crown you ⟨with⟩ chesed and rachamim.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "⟨Di one⟩ wey dey redeem"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "from destruction"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "your life"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "wey dey crown you"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "and rachamim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:08.395243785Z",
+  "model": "glm-5.2"
+}

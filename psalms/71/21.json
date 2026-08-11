@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "You go make my greatness plenty, and you go turn back, you go comfort me.",
+  "tokens": [
+    {
+      "surface": "תֶּ֤רֶב",
+      "gloss": "you go make plenty"
+    },
+    {
+      "surface": "גְּֽדֻלָּתִ֗י",
+      "gloss": "my greatness"
+    },
+    {
+      "surface": "וְתִסֹּ֥ב",
+      "gloss": "and you go turn back"
+    },
+    {
+      "surface": "תְּֽנַחֲמֵֽנִי",
+      "gloss": "you go comfort me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:38.528822633Z",
+  "model": "glm-5.2"
+}

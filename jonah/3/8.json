@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make man and animal cover demself wit sackcloth, and make dem cry to Elohim wit power; and make evri man turn back from im evil way and from di violence wey dey for dia hands.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "make dem cover demself"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "wit sackcloth"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "and animal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "and make dem cry"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "wit power"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and make dem turn back"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "from im way"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "di evil"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "di violence"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "for dia hands"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:03.104245772Z",
+  "model": "glm-5.2"
+}

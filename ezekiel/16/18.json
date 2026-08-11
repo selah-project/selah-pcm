@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And you bin take your embroidered garments and you cover ⟨את⟩ dem, and my oil and my incense wey I give, you put am before dem.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "and you bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your embroidered garments"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "your garments"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "embroidered"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "and you cover dem"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "and my oil"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "and my incense"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wey I give"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:49.557298264Z",
+  "model": "glm-5.2"
+}

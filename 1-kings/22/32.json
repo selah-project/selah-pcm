@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 22:32",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "So as di commander-dem of di chariot-dem see ⟨את⟩ Yehoshafat, dem bin talk, ⟨say⟩, Na only di king of Yisra'el ⟨be⟩ dis! And dem bin turn against am to fight; and Yehoshafat bin cry out.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֡י",
+      "gloss": "So as"
+    },
+    {
+      "surface": "כִּרְאוֹת֩",
+      "gloss": "see"
+    },
+    {
+      "surface": "שָׂרֵ֨י",
+      "gloss": "commander-dem"
+    },
+    {
+      "surface": "הָרֶ֜כֶב",
+      "gloss": "of di chariot-dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshafat"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֗ט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "וְהֵ֤מָּה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אָמְרוּ֙",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "Na only"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֣ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ה֔וּא",
+      "gloss": "be dis"
+    },
+    {
+      "surface": "וַיָּסֻ֥רוּ",
+      "gloss": "and dem bin turn"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "לְהִלָּחֵ֑ם",
+      "gloss": "to fight"
+    },
+    {
+      "surface": "וַיִּזְעַ֖ק",
+      "gloss": "and bin cry out"
+    },
+    {
+      "surface": "יְהוֹשָׁפָֽט",
+      "gloss": "Yehoshafat"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:46.695101001Z",
+  "model": "glm-5.2"
+}

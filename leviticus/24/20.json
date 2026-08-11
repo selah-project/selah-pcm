@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Breach for breach, eye for eye, tooth for tooth; as e put blemish for person, so dem go put for inside am.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Breach"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "breach"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tooth"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tooth"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e put"
+    },
+    {
+      "surface": "מום",
+      "gloss": "blemish"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "for person"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dem go put"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:31.770916517Z",
+  "model": "glm-5.2"
+}

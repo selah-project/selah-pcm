@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Paroh-Nekoh bin make Elyakim, pikin of Yoshijahu, king instead of Yoshijahu im papa, and e bin change ⟨את⟩ im name to Yehoyakim; and ⟨את⟩ Yehoachaz e bin take, and e bin go Mitsrayim, and e bin die dere.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "bin make king"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshijahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshijahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "bin change"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:14.444851074Z",
+  "model": "glm-5.2"
+}

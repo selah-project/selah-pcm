@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And im servants bin conspire against am, and dem kill am for im own house.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "bin conspire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "and dem kill am"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "for im own house"
+    }
+  ],
+  "timestamp": "2026-08-11T16:58:15.954654710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 3:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Yahweh bin talk to Shemuël: \"See, I dey do one thing for Yisraël wey anybody wey hear am, im two ears go tingle.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "one thing"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anybody"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear am"
+    },
+    {
+      "surface": "תצלינה",
+      "gloss": "go tingle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "im ears"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:31.557999165Z",
+  "model": "glm-5.2"
+}

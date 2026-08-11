@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And ⟨he⟩ finish to talk ⟨את⟩ with am, and Elohim go up from on top Avraham.",
+  "tokens": [
+    {
+      "surface": "וכיל",
+      "gloss": "and ⟨he⟩ finish"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to talk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ with am"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:40.649903120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Shekem bin talk to Chamor im papa, sey: 'Take dis ⟨את⟩ dis girl for me as wife.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Take"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis girl"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "dis girl"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as wife"
+    }
+  ],
+  "timestamp": "2026-08-11T15:41:29.731721790Z",
+  "model": "glm-5.2"
+}

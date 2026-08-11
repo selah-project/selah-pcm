@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Song, praise, for Asaph.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "praise"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "for Asaph"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:44.267611550Z",
+  "model": "glm-5.2"
+}

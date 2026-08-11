@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And e come to pass, as all Israel hear sey Yarov'am don return, dem send and dem call ⟨את⟩ am to di assembly, and dem make ⟨את⟩ am king over all Israel; nobody bin dey follow di house of David again, except di tribe of Yehudah alone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "as...hear"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שב",
+      "gloss": "don return"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dem send"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem call"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "and dem make"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "על",
+      "gloss": "king over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nobody"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey follow"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "again"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "except"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "di tribe of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alone"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:41.505426123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Pelishtim dem bin gather ⟨את⟩ dia camp for war, and dem bin gather for Sokoh, wey ⟨belong⟩ to Yehudah, and dem bin camp between Sokoh and between Azekah, for Eifes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem bin gather"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia camp"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "dia camp"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem bin gather"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "for Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "belong to Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem bin camp"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "for Eifes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:18.354947998Z",
+  "model": "glm-5.2"
+}

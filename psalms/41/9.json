@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Tori wey no get worth, dem pour am on top am; and di one wey lie down, im no go add make im stand up.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tori"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "wey no get worth"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dem pour am"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and di one wey"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "go add"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "make im stand up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:16.431696670Z",
+  "model": "glm-5.2"
+}

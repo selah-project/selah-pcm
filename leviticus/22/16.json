@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "and make dem bear ⟨את⟩ di punishment of guilt, wen dem chop ⟨את⟩ dia holy things; for na me be Yahweh, di One wey dey sanctify dem.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "and make dem bear"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di people)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di punishment"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "of guilt"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "wen dem chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia holy things"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "dia holy things"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "di One wey dey sanctify dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:20.910459697Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And from di tribe of Asher, ⟨את⟩ Mishal and ⟨את⟩ im open-land, ⟨את⟩ Avdon and ⟨את⟩ im open-land.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "and from di tribe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "of Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:05.894433060Z",
+  "model": "glm-5.2"
+}

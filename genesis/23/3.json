@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Avraham bin stand up from before im dead body, and ⟨he⟩ bin speak to di son dem of Chet, to talk sey:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from before"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di presence"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "of im dead ⟨body⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and ⟨he⟩ bin speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di son dem"
+    },
+    {
+      "surface": "חת",
+      "gloss": "of Chet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk sey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:44.280743634Z",
+  "model": "glm-5.2"
+}

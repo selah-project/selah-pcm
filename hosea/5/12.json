@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "But I ⟨be⟩ like moth to Efrayim, and like rot to di house of Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But I"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "like moth"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "to Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "and like rot"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to di house"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:35.201129595Z",
+  "model": "glm-5.2"
+}

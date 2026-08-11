@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 84,
+  "translation": "My life dey long, ⟨and⟩ e don finish ⟨with⟩ longing for di courtyards of Yahweh; my heart and my body dey sing for joy to El wey dey alive.",
+  "tokens": [
+    {
+      "surface": "נִכְסְפָה",
+      "gloss": "dey long"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "⟨and⟩ don"
+    },
+    {
+      "surface": "כָּלְתָה",
+      "gloss": "finish"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "לְחַצְרוֹת",
+      "gloss": "⟨with⟩ longing for di courtyards of"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לִבִּי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "וּבְשָׂרִי",
+      "gloss": "and my body"
+    },
+    {
+      "surface": "יְרַנְּנוּ",
+      "gloss": "dey sing for joy"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "wey dey alive"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:46.266536079Z",
+  "model": "glm-5.2"
+}

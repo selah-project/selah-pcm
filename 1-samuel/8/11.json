@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 8:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im talk, \"Dis one go be di custom of di king wey go reign over una: ⟨את⟩ una sons im go take, and put for im own chariot and among im horsemen, and dem go run before im chariot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And im talk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dis one"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "di custom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "go reign"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una sons"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "una sons"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "im go take"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and put"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for im own"
+    },
+    {
+      "surface": "במרכבתו",
+      "gloss": "for im chariot"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "and among im horsemen"
+    },
+    {
+      "surface": "ורצו",
+      "gloss": "and dem go run"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מרכבתו",
+      "gloss": "im chariot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:39.125085797Z",
+  "model": "glm-5.2"
+}

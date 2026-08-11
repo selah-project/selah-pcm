@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And di charge bin be one pim for ⟨את⟩ di plowshares, and for ⟨את⟩ di mattocks, and for di three-prong fork, and for di axes, and for fixing di goad-stick.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "and bin be"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "di charge"
+    },
+    {
+      "surface": "פים",
+      "gloss": "pim"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "for di plowshares"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "and for di mattocks"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "and for di three-prong"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "fork"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "and for di axes"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "and for fixing"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "di goad-stick"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:05.017315441Z",
+  "model": "glm-5.2"
+}

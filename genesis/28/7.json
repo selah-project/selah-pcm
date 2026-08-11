@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "and sey Yaakob bin obey im papa and im mama, and go Paddan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bin obey"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:15.896660989Z",
+  "model": "glm-5.2"
+}

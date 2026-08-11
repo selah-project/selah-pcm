@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "On top di willow trees for inside am, we hang our harps.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "willow trees"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "for inside am"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "we hang"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "our harps"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:34.669399341Z",
+  "model": "glm-5.2"
+}

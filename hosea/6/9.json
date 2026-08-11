@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 6:9",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And like ⟨how⟩ men wey dey wait for ambush, ⟨so⟩ band of priests for di way dem dey murder—toward Shekem; for bad plan dem do ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "וּכְחַכֵּ֨י",
+      "gloss": "and like ⟨how⟩ dey wait"
+    },
+    {
+      "surface": "אִ֜ישׁ",
+      "gloss": "men"
+    },
+    {
+      "surface": "גְּדוּדִ֗ים",
+      "gloss": "band"
+    },
+    {
+      "surface": "חֶ֚בֶר",
+      "gloss": "of"
+    },
+    {
+      "surface": "כֹּֽהֲנִ֔ים",
+      "gloss": "priests"
+    },
+    {
+      "surface": "דֶּ֖רֶךְ",
+      "gloss": "for di way"
+    },
+    {
+      "surface": "יְרַצְּחוּ",
+      "gloss": "dem dey murder"
+    },
+    {
+      "surface": "שֶׁ֑כְמָה",
+      "gloss": "toward Shekem"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "for"
+    },
+    {
+      "surface": "זִמָּ֖ה",
+      "gloss": "bad plan"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "dem do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:04.176819590Z",
+  "model": "glm-5.2"
+}

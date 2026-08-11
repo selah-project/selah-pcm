@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 12:13",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Dem plant wheat, but dem reap thorn; dem suffer, ⟨but⟩ no go profit; and dem go shame for una harvest, because of di burning anger of Yahweh.",
+  "tokens": [
+    {
+      "surface": "זָרְעוּ",
+      "gloss": "dem plant"
+    },
+    {
+      "surface": "חִטִּים",
+      "gloss": "wheat"
+    },
+    {
+      "surface": "וְקֹצִים",
+      "gloss": "and thorn"
+    },
+    {
+      "surface": "קָצָרוּ",
+      "gloss": "dem reap"
+    },
+    {
+      "surface": "נֶחְלוּ",
+      "gloss": "dem suffer"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוֹעִלוּ",
+      "gloss": "go profit"
+    },
+    {
+      "surface": "וּבֹשׁוּ",
+      "gloss": "and dem go shame"
+    },
+    {
+      "surface": "מִתְּבוּאֹתֵיכֶם",
+      "gloss": "for una harvest"
+    },
+    {
+      "surface": "מֵחֲרוֹן",
+      "gloss": "because of di burning"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:10.850119074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Plenty trouble dey for di righteous, but from all of dem Yahweh go rescue am.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "for di righteous"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "but from all of dem"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "go rescue am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:40.652316039Z",
+  "model": "glm-5.2"
+}

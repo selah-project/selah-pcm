@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bin write dere on top di stones ⟨את⟩ di copy of Torah of Moshe, wey e bin write before di sons of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "And e bin write"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "di stones"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di copy of Torah of Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "di copy"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "of Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "e bin write"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:56.843727800Z",
+  "model": "glm-5.2"
+}

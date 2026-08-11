@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Abi I no get madman dem, sey una bring ⟨את⟩ dis one make e dey mad on top me? Dis one go come enter my house?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Abi I no get"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "madman dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "una bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis one"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "make e dey mad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "go come enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:36.257027959Z",
+  "model": "glm-5.2"
+}

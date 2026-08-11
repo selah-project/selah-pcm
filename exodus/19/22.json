@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And also di priests wey dey near to Yahweh, make dem sanctify demselves, lest Yahweh burst out against dem.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "And also"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "wey dey near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "make dem sanctify demselves"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "burst out"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:59.321119190Z",
+  "model": "glm-5.2"
+}

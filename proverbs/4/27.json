@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "No bend ⟨to⟩ right side and ⟨to⟩ left side; comot your foot from bad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תט",
+      "gloss": "bend"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right side"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "and left side"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "comot"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "your foot"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "from bad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:04.818171124Z",
+  "model": "glm-5.2"
+}

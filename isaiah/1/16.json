@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Wash una sef; make una clean; comot di evil of una doings from front of my eye; stop to do evil;",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "wash una sef"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "make una clean"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "comot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "of una doings"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "stop"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "to do evil"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:11.349470029Z",
+  "model": "glm-5.2"
+}

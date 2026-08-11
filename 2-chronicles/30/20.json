@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Yahweh hear Yechizkiyahu, and ⟨e⟩ heal ⟨את⟩ di people.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "And hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "and ⟨e⟩ heal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:03.110712493Z",
+  "model": "glm-5.2"
+}

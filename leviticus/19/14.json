@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Make you no curse deaf person, and before blind person make you no put stumbling-block; and make you fear your Elohim; ⟨I⟩ be Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "curse"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "deaf person"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "and before"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blind person"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "stumbling-block"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "and you go fear"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:26.805892807Z",
+  "model": "glm-5.2"
+}

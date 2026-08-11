@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And im go do ⟨את⟩ di ram as sacrifice of peace-offering to Yahweh, on top di basket of unleavened bread; and di priest go do ⟨את⟩ im grain-offering and ⟨את⟩ im drink-offering.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "im go do"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "of peace-offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "סל",
+      "gloss": "di basket"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "of unleavened bread"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and go do"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im grain-offering"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "im grain-offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im drink-offering"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "im drink-offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:08.369655945Z",
+  "model": "glm-5.2"
+}

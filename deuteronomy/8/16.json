@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "di One wey feed you wit man for di wilderness, wey your papa-papa dem no know — so dat ⟨e⟩ go humble you, and so dat ⟨e⟩ go test you, to do you good for your end —",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "di One wey feed you"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "know"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "your papa-papa dem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "go humble you"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "and so dat"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "go test you"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "to do you good"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "for your end"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:17.987576953Z",
+  "model": "glm-5.2"
+}

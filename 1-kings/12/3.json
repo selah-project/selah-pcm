@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem send go call am; Yarovam and all assembly of Yisreal come, and dem speak to Rehavam, sey:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "And dem send"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "go call"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "come"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "assembly of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisreal"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "and dem speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:47.544638352Z",
+  "model": "glm-5.2"
+}

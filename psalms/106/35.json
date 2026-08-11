@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "But dem mix demsef among di nations, and dem learn dia works.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "But dem mix demsef"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "and dem learn"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dia works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:03.509915807Z",
+  "model": "glm-5.2"
+}

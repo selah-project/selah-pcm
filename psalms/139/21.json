@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "No be so, Yahweh? Abi I no dey hate ⟨את⟩ dem wey hate you, and I no dey detest dem wey rise up against you?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "no be so"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "dem wey hate you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "I dey hate"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "and dem wey rise up against you"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "I dey detest"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:38.532316490Z",
+  "model": "glm-5.2"
+}

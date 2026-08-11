@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And no leaven go show for all your boundary seven days, and no flesh wey you slaughter for di evening, for di first day, go remain reach morning.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go show"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "leaven"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "your boundary"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "go remain"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "di flesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "you slaughter"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "for di evening"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "reach morning"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:07.328457415Z",
+  "model": "glm-5.2"
+}

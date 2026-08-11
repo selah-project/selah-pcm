@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "For Gibeon, Yahweh bin show imself to Shelomoh for dream of di night, and Elohim talk sey, ask — wetin I go give you?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "for Gibeon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "bin show imself"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "for dream"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "of di night"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ask"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I go give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:01.926603996Z",
+  "model": "glm-5.2"
+}

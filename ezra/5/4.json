@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Den na so ⟨we⟩ tell dem: wetin ⟨be⟩ di names of di men wey ⟨dem⟩ ⟨bin⟩ build dis building?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "den"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "⟨we⟩ tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "di names of"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "di men"
+    },
+    {
+      "surface": "די",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "building"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "⟨dem⟩ ⟨bin⟩ build"
+    }
+  ],
+  "timestamp": "2026-08-11T13:47:13.734462106Z",
+  "model": "glm-5.2"
+}

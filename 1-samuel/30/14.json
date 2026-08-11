@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "\"We bin raid di south of di Kereti, and against wetin ⟨belong⟩ to Yehudah, and against di south of Kalev; and ⟨את⟩ Tsiklag we burn wit fire.\"",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "bin raid"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "south"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "of di Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "to Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "south"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "we burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:02.964195007Z",
+  "model": "glm-5.2"
+}

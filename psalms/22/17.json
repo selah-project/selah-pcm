@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Because dog dem surround me, gang of wicked people enclose me; like lion ⟨dem dey at⟩ my hand dem and my foot dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "surround me"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "dog dem"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gang of"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "enclose me"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand dem"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "and my foot dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:54.264611309Z",
+  "model": "glm-5.2"
+}

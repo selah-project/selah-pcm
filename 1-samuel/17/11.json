@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Shaul and all Yisrael hear ⟨את⟩ di words of di Filistia man dis one, and dem bin lose courage and dem fear well-well.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di words"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "of di Filistia man"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "and dem bin lose courage"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and dem fear"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:03.079821292Z",
+  "model": "glm-5.2"
+}

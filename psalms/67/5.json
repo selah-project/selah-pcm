@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 67,
+  "translation": "Make di nations glad and make dem sing for joy, because you dey judge ⟨di⟩ peoples wit fairness, and you dey guide di nations for ⟨di⟩ earth. Selah.",
+  "tokens": [
+    {
+      "surface": "יִֽשְׂמְח֥וּ",
+      "gloss": "make glad"
+    },
+    {
+      "surface": "וִֽירַנְּנ֗וּ",
+      "gloss": "and make dem sing for joy"
+    },
+    {
+      "surface": "לְאֻ֫מִּ֥ים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תִשְׁפֹּ֣ט",
+      "gloss": "you dey judge"
+    },
+    {
+      "surface": "עַמִּ֣ים",
+      "gloss": "peoples"
+    },
+    {
+      "surface": "מִישׁ֑וֹר",
+      "gloss": "wit fairness"
+    },
+    {
+      "surface": "וּלְאֻמִּ֓ים",
+      "gloss": "and di nations"
+    },
+    {
+      "surface": "בָּאָ֖רֶץ",
+      "gloss": "for ⟨di⟩ earth"
+    },
+    {
+      "surface": "תַּנְחֵ֣ם",
+      "gloss": "you dey guide"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:12.869627679Z",
+  "model": "glm-5.2"
+}

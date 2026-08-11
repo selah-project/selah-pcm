@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Voice of person wey dey call for wilderness: \"Make una clear road for Yahweh, make una straighten highway for we Elohim!\"",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "wey dey call"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "make una clear"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "make una straighten"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "for desert"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "highway"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "for we Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:52.484487821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And dis one dem be di pikin dem of Dishan: Hemdan, and Eshban, and Ithran, and Keran.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "And dis one dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin dem of"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishan"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdan"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "and Eshban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "and Ithran"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "and Keran"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:41.538540676Z",
+  "model": "glm-5.2"
+}

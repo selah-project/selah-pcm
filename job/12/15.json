@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Look, if ⟨e⟩ hold back di water, dem go dry; and if ⟨e⟩ send dem, dem go overturn di earth.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "look"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "if e hold back"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dem go dry"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "and if e send dem"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dem go overturn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.850010811Z",
+  "model": "glm-5.2"
+}

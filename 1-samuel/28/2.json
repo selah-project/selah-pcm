@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And David talk to Akish, «Because of dis, you go sabi wetin your servant go do.» And Akish talk to David, «Because of dis, I go make you guardian for my head, all di days.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "because of dis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "go sabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "because of dis"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guardian"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "for my head"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "I go make you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:02.541438649Z",
+  "model": "glm-5.2"
+}

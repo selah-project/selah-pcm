@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Ya'aqov im anger burn against Rachel, and im talk: \"⟨Na⟩ me wey I ⟨dey⟩ for Elohim im position, wey ⟨na⟩ ⟨Elohim⟩ withhold from you ⟨di⟩ fruit of ⟨womb⟩?\"",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "and ⟨im⟩ anger burn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "against Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "for im position"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "⟨Elohim⟩ withhold"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "⟨womb⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:27.883515743Z",
+  "model": "glm-5.2"
+}

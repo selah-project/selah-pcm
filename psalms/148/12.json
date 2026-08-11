@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Young man, and also virgin; old man, with young one.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "young man"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "virgin"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "old man"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "young one"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:52.319462277Z",
+  "model": "glm-5.2"
+}

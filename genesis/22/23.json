@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Betuel born ⟨את⟩ Rivka. Eight — dis one dem wey Milka born give Nachor, brother of Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "and Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eight"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one dem"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "born"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "give Nachor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brother of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:18.140152795Z",
+  "model": "glm-5.2"
+}

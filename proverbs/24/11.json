@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Rescue ⟨those⟩ wey dem dey carry go death, and ⟨those⟩ wey dey stagger go slaughter — if you hold back,",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "⟨those⟩ wey dem dey carry"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go death"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "and ⟨those⟩ wey dey stagger"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "go slaughter"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "you hold back"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:41.605581332Z",
+  "model": "glm-5.2"
+}

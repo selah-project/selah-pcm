@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "I go bless ⟨את⟩ Yahweh wey don advise me; even for nights, my kidneys dey correct me.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "I go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "don advise me"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "for nights"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "dey correct me"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my kidneys"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:30.231485896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And e go happen, wen una enter di land wey Yahweh go give una, as im bin talk, una go keep ⟨את⟩ dis service.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go happen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "una enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "im bin talk"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis service"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "service"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:59.632747852Z",
+  "model": "glm-5.2"
+}

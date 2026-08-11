@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Truly, Elohim go ransom my throat from di hand of Sheol, for ⟨e⟩ go carry me. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "truly"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "go ransom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my throat"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "of Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "go carry me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:16.661291211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "When wicked people plenty, wrong-doing go multiply; but righteous people go see dia downfall.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "when plenty"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "go multiply"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "wrong-doing"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "but righteous people"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "dia downfall"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "go see"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.807636896Z",
+  "model": "glm-5.2"
+}

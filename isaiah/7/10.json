@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Yahweh add to speak to Ahaz, sey:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "and ⟨im⟩ add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "to speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:47.045169644Z",
+  "model": "glm-5.2"
+}

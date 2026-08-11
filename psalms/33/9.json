@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Because na im talk, ⟨e⟩ bin come to be; im command, ⟨and e⟩ stand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bin come to be"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "command"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "stand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:36.571668950Z",
+  "model": "glm-5.2"
+}

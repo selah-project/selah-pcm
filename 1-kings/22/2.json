@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e come happen for di third year, wey Yehoshafat, wey be king of Yehudah, com go down meet king of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "di third"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wey im com go down"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:42.398155075Z",
+  "model": "glm-5.2"
+}

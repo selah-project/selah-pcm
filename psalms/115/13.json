@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "E go bless dem wey dey fear Yahweh, di small-small dem wit di big-big dem.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "E go bless"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dem wey dey fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "di small-small dem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "di big-big dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:07.702260409Z",
+  "model": "glm-5.2"
+}

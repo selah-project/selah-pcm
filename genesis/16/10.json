@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And messenger of Yahweh talk to am, say: «I go plenty-multiply ⟨את⟩ your seed well-well, and dem no go fit count am from di plenty.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "plenty-multiply"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "I go multiply"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your seed"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dem go fit count"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "from di plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:05.744433245Z",
+  "model": "glm-5.2"
+}

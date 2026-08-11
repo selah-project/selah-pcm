@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "So Shaúl bin stand up, and e bin go down go wilderness of Zif, ⟨את⟩ and ⟨wit⟩ am ⟨be⟩ three thousand men, di chosen-pipo of Yisraʾel, to go find ⟨את⟩ Dawid for wilderness of Zif.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֣קָם",
+      "gloss": "and e bin stand up"
+    },
+    {
+      "surface": "שָׁא֗וּל",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "וַיֵּ֨רֶד֙",
+      "gloss": "and e bin go down"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מִדְבַּר",
+      "gloss": "wilderness of"
+    },
+    {
+      "surface": "זִ֔יף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "וְאִתּ֛וֹ",
+      "gloss": "⟨את⟩ and ⟨wit⟩ am",
+      "marks": "three thousand men"
+    },
+    {
+      "surface": "שְׁלֹֽשֶׁת",
+      "gloss": "three"
+    },
+    {
+      "surface": "אֲלָפִ֥ים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "men"
+    },
+    {
+      "surface": "בְּחוּרֵ֣י",
+      "gloss": "di chosen-pipo of"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "לְבַקֵּ֥שׁ",
+      "gloss": "to go find"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דָּוִ֖ד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בְּמִדְבַּר",
+      "gloss": "for wilderness of"
+    },
+    {
+      "surface": "זִֽיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:44.946302799Z",
+  "model": "glm-5.2"
+}

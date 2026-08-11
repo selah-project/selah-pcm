@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And im daughter ⟨na⟩ Sheerah; and she build ⟨את⟩ Bet־Choron di lower one and ⟨את⟩ di upper one, and ⟨את⟩ Uzen־Sheerah.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "and im daughter"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "and she build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet־Choron di lower one"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "di lower one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di upper one"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "di upper one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Uzen־Sheerah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:36.973127898Z",
+  "model": "glm-5.2"
+}

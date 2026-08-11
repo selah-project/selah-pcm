@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Na lie ⟨na⟩ di horse ⟨be⟩ for deliverance; and by di abundance of im strength, ⟨e⟩ no go deliver.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "na lie"
+    },
+    {
+      "surface": "הַ֭סּוּס",
+      "gloss": "di horse"
+    },
+    {
+      "surface": "לִתְשׁוּעָ֑ה",
+      "gloss": "for deliverance"
+    },
+    {
+      "surface": "וּבְרֹ֥ב",
+      "gloss": "and by di abundance"
+    },
+    {
+      "surface": "חֵ֝יל֗וֹ",
+      "gloss": "of im strength"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "go deliver"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:46.904069282Z",
+  "model": "glm-5.2"
+}

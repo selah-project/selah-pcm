@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And e go rest ⟨את⟩ im hand on top di head of di sin offering, and e go slaughter am for sin offering for di place wey dem dey slaughter ⟨את⟩ di burnt offering.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "and e go rest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "of di sin offering"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "and e go slaughter"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ am",
+      "marks": "for sin offering"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "for sin offering"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "for di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "dem dey slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di burnt offering"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:52.993706803Z",
+  "model": "glm-5.2"
+}

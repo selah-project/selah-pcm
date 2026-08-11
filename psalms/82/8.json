@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Stand up, Elohim! Judge ⟨את⟩ di earth, because na You go inherit all di nations.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "judge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na You"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "go inherit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:41.820424076Z",
+  "model": "glm-5.2"
+}

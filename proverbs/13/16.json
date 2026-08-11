@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Evri prudent man dey act wit knowledge, but fool dey spread open im foolishness.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "prudent man"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dey act"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "wit knowledge"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "but fool"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "dey spread open"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "im foolishness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:21.014201094Z",
+  "model": "glm-5.2"
+}

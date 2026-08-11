@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "My chesed and my stronghold, my high tower, and di One wey dey deliver me, my shield, and ⟨di One⟩ wey I take refuge inside; di One wey dey subdue my people under me.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "my chesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "and my stronghold"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my high tower"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "and di One wey dey deliver me"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨my⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "shield"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "and inside"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "I take refuge"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "di One wey dey subdue"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:13.694270408Z",
+  "model": "glm-5.2"
+}

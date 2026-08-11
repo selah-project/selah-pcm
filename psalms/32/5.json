@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "My sin I go make known to you, and my iniquity I no cover. I talk say, I go confess my transgressions to Yahweh, and you ⟨na⟩ you carry di iniquity of my sin. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "my sin"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "I go make known to you"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "and my iniquity"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "cover"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "say, I go confess"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my transgressions"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "you carry"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di iniquity"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "of my sin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:31.912285848Z",
+  "model": "glm-5.2"
+}

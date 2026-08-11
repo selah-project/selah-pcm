@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "But dem test and rebel against ⟨את⟩ Elohim El Elyon, and im testimonies dem no keep.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "and dem test"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "and rebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "and im testimonies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dem no"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "keep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:07.039832998Z",
+  "model": "glm-5.2"
+}

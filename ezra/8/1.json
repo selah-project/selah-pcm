@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And na dis dem be di head of dia papa-dem and dia family record, dem wey go up wit me for di kingdom of Artachshasta di king, from Bavel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and na dis dem"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "head of"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "dia papa-dem"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "and dia family record"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "dem wey go up"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wit me"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "for di kingdom of"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "from Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:48:20.588126821Z",
+  "model": "glm-5.2"
+}

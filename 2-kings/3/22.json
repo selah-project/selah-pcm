@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem rise early for morning, and di sun shine on top di water, and Moab see from opposite side ⟨את⟩ di water red like blood.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "and dem rise early"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "and di sun"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "shine"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and ⟨dem⟩ see"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "from opposite side"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "red"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "like blood"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:34.918385725Z",
+  "model": "glm-5.2"
+}

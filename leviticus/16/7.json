@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And im go take ⟨את⟩ di two he-goat, and im go make dem stand ⟨את⟩dem in front of Yahweh, for di entrance of di tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two he-goat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "di he-goat dem"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "and go make stand"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance of"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:43.696572540Z",
+  "model": "glm-5.2"
+}

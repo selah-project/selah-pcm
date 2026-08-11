@@ -1,0 +1,82 @@
+{
+  "tier": "hand",
+  "verse": 53,
+  "ref": "1-kings 22:53",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e do wetin bad for Yahweh eye, and e waka for im papa road, and for im mama road, and for di road of Yarovam pikin of Nevat, wey make ⟨את⟩ Yisrael sin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "And e do"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wetin bad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and e waka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road of"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "and for di road of"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "and for di road of"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "make am sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.777955561Z",
+  "model": "claude-opus-4-8"
+}

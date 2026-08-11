@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Me ⟨I⟩ be Yahweh; dat one na my name; and my glory I no go give to anoda pesin, and my praise to carved images.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "na my name"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "and my glory"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "to anoda pesin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "and my praise"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "to carved images"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:32.248914758Z",
+  "model": "glm-5.2"
+}

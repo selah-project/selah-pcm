@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "To build, I don build ⟨a⟩ house wey be home for You, place for You to siddon for olorun-time.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "to build"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "I don build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "home"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for You"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "place"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "for You to siddon"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "for olorun-time"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:18.929124377Z",
+  "model": "glm-5.2"
+}

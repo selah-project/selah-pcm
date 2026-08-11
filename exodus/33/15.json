@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And ⟨Moshe⟩ tell am say, If your face no dey go, no carry us comot from here.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨Moshe⟩ tell am say"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "carry us comot"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from here"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:39.559254577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "E talk, and locust come, and young locust, and no number dey at all.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "locust"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "and young locust"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:39.777810597Z",
+  "model": "glm-5.2"
+}

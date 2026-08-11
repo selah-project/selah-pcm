@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Wealth ⟨dey⟩ add plenty friends, but poor man, im friend ⟨dey⟩ separate from am.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Wealth"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "⟨dey⟩ add"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "friends"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "but poor man"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "im friend"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "⟨dey⟩ separate from am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:09.092440157Z",
+  "model": "glm-5.2"
+}

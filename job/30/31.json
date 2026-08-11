@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 30:31",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "So my harp don become ⟨thing⟩ for mourning, and my flute ⟨don become⟩ di voice of dem wey dey cry.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so ⟨it⟩ don become"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "for mourning"
+    },
+    {
+      "surface": "כנרי",
+      "gloss": "my harp"
+    },
+    {
+      "surface": "ועגבי",
+      "gloss": "and my flute"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨don become⟩ di voice"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "of dem wey dey cry"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:10.371232251Z",
+  "model": "glm-5.2"
+}

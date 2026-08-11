@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Yaakob bin call im sons, and e talk sey, Gather una sef, and make I tell una ⟨את⟩ wetin go happen ⟨את⟩ to una for di last days.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "bin call"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Gather una sef"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "and make I tell"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin go happen to una"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go happen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ to una"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "for di last"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:46.992334950Z",
+  "model": "glm-5.2"
+}

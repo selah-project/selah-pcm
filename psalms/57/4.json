@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "E go send from heaven and save me. ⟨E⟩ disgrace di one wey dey pant to swallow me. Selah. Elohim go send im chesed and im truth.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "E go send"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "from heaven"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "and save me"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "⟨E⟩ disgrace"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "di one wey dey pant to swallow me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "E go send"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "and im truth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:45.345478086Z",
+  "model": "glm-5.2"
+}

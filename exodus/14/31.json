@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yisra'el bin see ⟨את⟩ di big hand wey Yahweh do for Mitsrayim, and di people bin fear ⟨את⟩ Yahweh, and dem bin believe for Yahweh and for Moshe im servant.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "And bin see"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di big hand"
+    },
+    {
+      "surface": "היד",
+      "gloss": "di hand"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "big"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "and bin fear"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "and bin believe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "and for Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:04.362155562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Una wey dey love Yahweh, hate bad tin; ⟨im⟩ dey guard di neefesh of im kedoshim, from hand of wicked ones ⟨im⟩ go save dem.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Una wey dey love"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hate"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "⟨im⟩ dey guard"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "di neefesh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "of im kedoshim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked ones"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "⟨im⟩ go save dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:14.192346750Z",
+  "model": "glm-5.2"
+}

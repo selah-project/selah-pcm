@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "For evri time, padi dey love, and broda dey born for trouble.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dey love"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "padi"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "and broda"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "for trouble"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "dey born"
+    }
+  ],
+  "timestamp": "2026-08-11T16:40:08.306820155Z",
+  "model": "glm-5.2"
+}

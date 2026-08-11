@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 29:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Yahweh make Shelomoh great for di eye of all Yisrael, and ⟨im⟩ put on top am ⟨di⟩ grandeur of kingship wey neva dey on top any king before am on top Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "and ⟨im⟩ make great"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "for up"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨im⟩ put"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "grandeur"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "of kingship"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:04:25.631178227Z",
+  "model": "glm-5.2"
+}

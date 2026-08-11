@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "Rescue me from my enemies, Yahweh; na for inside you I take hide.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "rescue me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "from my enemies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "I take hide"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:53.378132161Z",
+  "model": "glm-5.2"
+}

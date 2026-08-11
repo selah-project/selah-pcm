@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨di⟩ food of Shelomoh for one day ⟨be⟩ thirty kor of fine flour and sixty kor of regular flour.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "of Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "for one day"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "and sixty"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "regular flour"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:45.342913190Z",
+  "model": "glm-5.2"
+}

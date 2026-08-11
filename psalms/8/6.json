@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "You bin make am small small less pass Elohim, and wit glory and majesty You crown am.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "You bin make am less"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small small"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "pass Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "and wit glory"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "and majesty"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "You crown am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:38.967989223Z",
+  "model": "glm-5.2"
+}

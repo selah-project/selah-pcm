@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Shimʽon and Levi, ⟨na⟩ brodas; ⟨na⟩ instrument of violence dem sword dem.",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוֹן",
+      "gloss": "Shimʽon"
+    },
+    {
+      "surface": "וְלֵוִי",
+      "gloss": "and Levi"
+    },
+    {
+      "surface": "אַחִים",
+      "gloss": "brodas"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "instrument"
+    },
+    {
+      "surface": "חָמָס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "מְכֵרֹתֵיהֶם",
+      "gloss": "dem sword dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:51.266110085Z",
+  "model": "glm-5.2"
+}

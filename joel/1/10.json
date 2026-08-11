@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Dem don spoil di field; di ground dey mourn; for grain don spoil, new wine don dry up, oil dey waste away.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "dem don spoil"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "dey mourn"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "don spoil"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "grain"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "don dry up"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "new wine"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dey waste away"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "oil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:52.138523540Z",
+  "model": "glm-5.2"
+}

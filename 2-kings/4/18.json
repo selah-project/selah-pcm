@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di pikin grow, and one day come, and ⟨he⟩ comot go meet im papa, among di pipo wey dey harvest.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "and ⟨he⟩ grow"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come to pass"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and ⟨he⟩ comot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "among"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "di pipo wey dey harvest"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:04.280458363Z",
+  "model": "glm-5.2"
+}

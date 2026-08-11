@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Im bin swallow wealth, and im go vomit am; El go drive am comot from im belly.",
+  "tokens": [
+    {
+      "surface": "חַ֣יִל",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "בָּ֭לַע",
+      "gloss": "im bin swallow"
+    },
+    {
+      "surface": "וַיְקִאֶ֑נּוּ",
+      "gloss": "and im go vomit am"
+    },
+    {
+      "surface": "מִ֝בִּטְנ֗וֹ",
+      "gloss": "from im belly"
+    },
+    {
+      "surface": "יֹורִשֶׁ֥נּוּ",
+      "gloss": "⟨El⟩ go drive am comot"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:59.027905537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "How precious your chesed ⟨be⟩, Elohim; so ⟨dat⟩ children of man for shadow of your wings dem dey find refuge.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "precious"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and children"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "for shadow"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "of your wings"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "dem dey find refuge"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:21.067791628Z",
+  "model": "glm-5.2"
+}

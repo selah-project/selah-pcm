@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "Because you ⟨be⟩ my hope, Adonai Yahweh, my trust from my youth.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "my hope"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "my trust"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "from my youth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:46.313778722Z",
+  "model": "glm-5.2"
+}

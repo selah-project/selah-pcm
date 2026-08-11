@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "So she bin dey go, she go take ⟨am⟩. And ⟨im⟩ call am and ⟨im⟩ talk sey, abeg bring me small piece of bread for your hand.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "so she bin dey go"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "she go take"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and ⟨im⟩ call"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk sey"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "bring"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "פת",
+      "gloss": "small piece"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:46.975147703Z",
+  "model": "glm-5.2"
+}

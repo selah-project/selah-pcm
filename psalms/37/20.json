@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "For wicked pipo go perish, and enemy dem of Yahweh, like di fat of ram dem — dem don finish; for smoke dem don finish.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked pipo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "and enemy dem of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "like di fat of"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ram dem"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dem don finish"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "for smoke"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dem don finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:54.691783391Z",
+  "model": "glm-5.2"
+}

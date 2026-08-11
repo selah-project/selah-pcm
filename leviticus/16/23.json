@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Aharon go enter inside tent of meeting, and pull comot ⟨את⟩ di linen cloth-dem wey e wear wen e dey enter inside di holy place, and leave dem dere.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "and go enter"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "and pull comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di linen cloth-dem"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "cloth-dem"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "of linen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "e wear"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "wen e dey enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "and leave"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dem dere"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:04.525910071Z",
+  "model": "glm-5.2"
+}

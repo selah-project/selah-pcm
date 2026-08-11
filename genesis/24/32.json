@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "So di man enter inside ⟨the⟩ house, and ⟨dem⟩ untie di camel dem; and e bin give straw and feed to di camel dem, and water make ⟨dem⟩ wash im feet and di feet of di men wey ⟨bin dey⟩ ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "so enter"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "inside house"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and ⟨dem⟩ untie"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "di camel dem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and e bin give"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "straw"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "and feed"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "to di camel dem"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "and water"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "make ⟨dem⟩ wash"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im feet"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "and feet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:53.608650893Z",
+  "model": "glm-5.2"
+}

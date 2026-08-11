@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Una go chop flesh of una sons, and flesh of una daughters una go chop.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "una go chop"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "of una sons"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "and flesh"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "of una daughters"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:53.917138006Z",
+  "model": "glm-5.2"
+}

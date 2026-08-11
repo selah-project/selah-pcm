@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And dem gather ⟨את⟩ dia brodas, and dem sanctify demselves, and dem come, as di commandment of di king, by di words of Yahweh, to make clean ⟨את⟩ house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia brodas"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dia brodas"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "and dem sanctify demselves"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "as di commandment of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "by di words of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "to make clean"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:45.689232340Z",
+  "model": "glm-5.2"
+}

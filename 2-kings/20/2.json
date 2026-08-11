@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Then e turn ⟨את⟩ im face to di wall, and e pray to Yahweh, sey make e hear,",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "then e turn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "and e pray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make e hear"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:46.789655092Z",
+  "model": "glm-5.2"
+}

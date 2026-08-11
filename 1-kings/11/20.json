@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Sister of Tachpenes born am ⟨את⟩ Genubath im son, and Tachpenes ⟨imself⟩ wean am inside house of Paroh. Genubath bin dey for house of Paroh among sons of Paroh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "born"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sister"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "of Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubath"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "and ⟨imself⟩ wean"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:03.604824742Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "For any man, any man wey go curse ⟨את⟩ im papa and ⟨את⟩ im mama, na death dem go use kill am; im papa and im mama e don curse — im blood dey on top am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "go curse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im mama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dem go kill"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "and im mama"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "e don curse"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:54.546940665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Any living person, if ⟨im⟩ sin and commit treachery against Yahweh, and lie against im neighbor for wetin dem entrust to am, or for wetin dem put for im hand, or for tif-tif, or if ⟨im⟩ oppress ⟨את⟩ im neighbor;",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "living person"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "and commit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "treachery"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "and lie against"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "for wetin dem entrust"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "for wetin dem put for"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "for tif-tif"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "oppress"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbor"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "im neighbor"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:19.218142548Z",
+  "model": "glm-5.2"
+}

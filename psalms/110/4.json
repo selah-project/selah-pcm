@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 110,
+  "translation": "Yahweh don swear and ⟨im⟩ no go change ⟨im⟩ mind: \"You na priest forever, on top di order of Malki-Tsedek.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "don swear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "go change mind"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "di order of"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:46.346612025Z",
+  "model": "glm-5.2"
+}

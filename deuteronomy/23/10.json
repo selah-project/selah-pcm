@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Wen camp go out against your enemy dem, make you guard yourself from evri bad ting.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wen"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "go out"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemy dem"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "make you guard yourself"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from evri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:45.178206975Z",
+  "model": "glm-5.2"
+}

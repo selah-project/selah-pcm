@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Stop, my son, to dey hear instruction, so dat you no go stray from words of knowledge.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "stop"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "to dey hear"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "instruction"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "so dat you no go stray"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "from words of"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:03.534894821Z",
+  "model": "glm-5.2"
+}

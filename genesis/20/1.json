@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Avraham bin move from dere go ⟨di⟩ land of di Negev, and e bin settle between Kadesh and between Shur, and e bin sojourn for Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "bin move"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "go land of"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "di Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin settle"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "and bin sojourn"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "for Gerar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:58.760812424Z",
+  "model": "glm-5.2"
+}

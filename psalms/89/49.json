@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Which man ⟨be⟩ dis wey go live and no go see death? E go deliver im life from di hand of Sheol? Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "which"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "go live"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go see"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "go deliver"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:08.032514659Z",
+  "model": "glm-5.2"
+}

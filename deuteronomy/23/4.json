@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Ammonite and Moabite no go enter inside assembly of Yahweh; even tenth generation no go enter inside dia assembly of Yahweh till ⟨forever⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "Ammonite"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "and Moabite"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inside assembly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "tenth"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "inside assembly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨forever⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:35.313932119Z",
+  "model": "glm-5.2"
+}

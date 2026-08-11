@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And I go send ⟨את⟩ di hornet before una, and e go drive out ⟨את⟩ di Hivite, ⟨את⟩ di Kena'anite, and ⟨את⟩ di Hittite from before una.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "and I go send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di hornet"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "di hornet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before una"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "and e go drive out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Hivite"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Hivite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kena'anite"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'anite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Hittite"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hittite"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "from before una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:45.659441643Z",
+  "model": "glm-5.2"
+}

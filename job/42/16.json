@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Iyov live after dis one ⟨for⟩ one hundred and forty year, and e see ⟨את⟩ im sons and ⟨את⟩ im sons' sons, four generations.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and ⟨im⟩ live"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "and forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and e see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons' sons"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "of im sons"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "four"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "generations"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:08.306700969Z",
+  "model": "glm-5.2"
+}

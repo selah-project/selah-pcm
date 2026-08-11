@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dem answer dem, and talk say, 'Yes; look, ⟨e dey⟩ for your front! Make haste now, because today e don come enter di town, because ⟨get⟩ sacrifice today for di people for di high place.'",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "And dem answer"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "and talk say"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Yes"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for your front"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Make haste"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e don come enter"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di town"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for di people"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "for di high place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:16.190135431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 2:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And she talk to dem, \"Go to di hill-side, make di pursuers no meet una; and una hide dia for three days, until di pursuers return, and after dat una go waka una road.\"",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֤אמֶר",
+      "gloss": "and she talk"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "הָהָ֣רָה",
+      "gloss": "to di hill-side"
+    },
+    {
+      "surface": "לֵּ֔כוּ",
+      "gloss": "go"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "make"
+    },
+    {
+      "surface": "יִפְגְּע֥וּ",
+      "gloss": "dem no meet"
+    },
+    {
+      "surface": "בָכֶ֖ם",
+      "gloss": "una"
+    },
+    {
+      "surface": "הָרֹדְפִ֑ים",
+      "gloss": "di pursuers"
+    },
+    {
+      "surface": "וְנַחְבֵּתֶ֨ם",
+      "gloss": "and una hide"
+    },
+    {
+      "surface": "שָׁ֜מָּה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "שְׁלֹ֣שֶׁת",
+      "gloss": "for three"
+    },
+    {
+      "surface": "יָמִ֗ים",
+      "gloss": "days"
+    },
+    {
+      "surface": "עַ֚ד",
+      "gloss": "until"
+    },
+    {
+      "surface": "שׁ֣וֹב",
+      "gloss": "return"
+    },
+    {
+      "surface": "הָרֹֽדְפִ֔ים",
+      "gloss": "di pursuers"
+    },
+    {
+      "surface": "וְאַחַ֖ר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "תֵּלְכ֥וּ",
+      "gloss": "una go waka"
+    },
+    {
+      "surface": "לְדַרְכְּכֶֽם",
+      "gloss": "una road"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:45.548522849Z",
+  "model": "glm-5.2"
+}

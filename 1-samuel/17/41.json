@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Filistia man bin dey go, dey waka and dey near David, and di man wey bin dey carry di shild bin dey for im front.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and bin dey go"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "and dey near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "and di man"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wey bin dey carry"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "di shild"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "for im front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:47.207647828Z",
+  "model": "glm-5.2"
+}

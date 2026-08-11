@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Speak unto di sons of Yisra'el, and tell dem sey: unas dey cross ⟨את⟩ ⟨di⟩ Yarden go ⟨di⟩ land of Kena'an —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unas"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dey cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-11T10:02:52.013531637Z",
+  "model": "glm-5.2"
+}

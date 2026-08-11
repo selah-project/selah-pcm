@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Seven times for one day I dey praise you, on top your righteous judgments.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Seven times"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for one day"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "I dey praise you"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "judgments"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "your righteous"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:42.637255434Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Remember dis ⟨thing⟩, and stand firm; turn back, una wey dey rebel, ⟨to⟩ ⟨di⟩ heart.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "remember"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "and stand firm"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "una wey dey rebel"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:38.713180010Z",
+  "model": "glm-5.2"
+}

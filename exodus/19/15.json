@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And e bin talk to di people: «Make una ready for three days; make una no come near woman.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "היו",
+      "gloss": "be"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ready"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "for three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "make una come near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:56.700761860Z",
+  "model": "glm-5.2"
+}

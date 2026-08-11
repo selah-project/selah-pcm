@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "E talk, and swarm of inset come, and gnat for all dia border.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "E talk"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swarm of inset"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "gnat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "dia border"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:25.050781856Z",
+  "model": "glm-5.2"
+}

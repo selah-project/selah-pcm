@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And next day come, and e take di thick cloth, and e dip am for water, and e spread am on top im face, and e die; and Chazael come be king for im position.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e happen"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "next day"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "di thick cloth"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "and e dip am"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "and e spread am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and e die"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and e come be king"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im position"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:03.925219480Z",
+  "model": "glm-5.2"
+}

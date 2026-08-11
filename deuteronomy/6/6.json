@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dis words wey I dey command you today, ⟨dem⟩ go ⟨be⟩ upon your heart.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "and dem go be"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dey command you"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "your heart"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:17.523552784Z",
+  "model": "glm-5.2"
+}

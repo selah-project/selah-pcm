@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and gather ⟨את⟩ all di congregation togeda to di entrance of ⟨di⟩ tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di congregation"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di congregation"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gather togeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:11.746079253Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go cut ⟨את⟩ di ram enter im pieces, and you go wash im inside and im legs, and you go put ⟨dem⟩ on top im pieces and on top im head.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "you go cut enter pieces"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "to im pieces"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "and you go wash"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "im inside"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "and im legs"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "im pieces"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:34.361223729Z",
+  "model": "glm-5.2"
+}

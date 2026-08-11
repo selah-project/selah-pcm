@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Kalev, pikin of Chetsron, bin father ⟨את⟩ Azubah ⟨na⟩ wife, and ⟨את⟩ Jeriyot; and dis one dem be her pikin-dem: Jesher, and Shovav, and Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "And Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azubah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azubah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wife"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Jeriyot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Jeriyot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "and dis one dem"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "her pikin-dem"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Jesher"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "and Shovav"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "and Ardon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:13.675536712Z",
+  "model": "glm-5.2"
+}

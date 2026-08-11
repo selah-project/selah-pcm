@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "You go know sey your pikin-dem go plenty, and your descendants-dem go be like grass of di earth.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭יָדַעְתָּ",
+      "gloss": "you go know"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "רַ֣ב",
+      "gloss": "go plenty"
+    },
+    {
+      "surface": "זַרְעֶ֑ךָ",
+      "gloss": "your pikin-dem"
+    },
+    {
+      "surface": "וְ֝צֶאֱצָאֶ֗יךָ",
+      "gloss": "and your descendants-dem"
+    },
+    {
+      "surface": "כְּעֵ֣שֶׂב",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "of di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:26.128850294Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "To di leader, instructive poem, to David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "instructive poem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:28.438045673Z",
+  "model": "glm-5.2"
+}

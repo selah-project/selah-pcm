@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "And e make ⟨את⟩ dem ⟨to⟩ meet compassion for front of all dia captors.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "⟨to⟩ meet compassion"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "dia captors"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:44.204219751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "For dat time Chizkiyah cut off ⟨את⟩ di door of di temple of Yahweh, and ⟨את⟩ di pillar wey Chizkiyah king of Yehudah bin cover, and ⟨he⟩ give dem to king of Ashshur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for time of"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "cut off"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di door of di temple"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "door"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pillar"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "di pillar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "cover"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "and he give dem"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:45.762347824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh ⟨na⟩ my strength and my shield; for am my heart trust, and I bin get help; so my heart dey glad, and with my song I go thank am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "and my shield"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "my heart trust"
+    },
+    {
+      "surface": "לבי",
+      "gloss": ""
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "and I bin get help"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "so my heart dey glad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": ""
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "and with my song"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "I go thank am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:52.744933413Z",
+  "model": "glm-5.2"
+}

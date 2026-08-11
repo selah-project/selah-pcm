@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "⟨Wen⟩ ⟨e⟩ hear ⟨את⟩ di sound of di shofar and ⟨e⟩ no take warning, im blood go dey on top am; but if ⟨e⟩ take warning, ⟨e⟩ go deliver im life.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sound of di shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "of di shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨e⟩ hear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "take warning"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "but if ⟨e⟩"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "take warning"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "go deliver"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:21.158349615Z",
+  "model": "glm-5.2"
+}

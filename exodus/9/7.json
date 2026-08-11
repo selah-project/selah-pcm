@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Paroh send ⟨to check⟩, and ⟨behold⟩ — from di livestock of Yisrael not even one don die. But Paroh heart ⟨bin⟩ heavy, and ⟨he⟩ no send ⟨את⟩ di people.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "מת",
+      "gloss": "die"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "from di livestock"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "even"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "and bin heavy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:12.855569869Z",
+  "model": "glm-5.2"
+}

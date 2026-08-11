@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Your righteousness ⟨be⟩ like El im mountains; your judgments ⟨na⟩ great deep; man and animal, Yahweh, you dey save.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "your righteousness"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "like mountains"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "your judgments"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "deep"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "great"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "and animal"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "you dey save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:21.067678637Z",
+  "model": "glm-5.2"
+}

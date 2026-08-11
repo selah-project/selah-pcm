@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And as for Yishmael, I don hear you; see, I don bless ⟨am⟩, and I go make ⟨am⟩ fruitful, and I go multiply ⟨am⟩ well well — twelve princes im go beget, and I go make am ⟨a⟩ great nation.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "And as for Yishmael"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "I don hear you"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "I don bless"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "and I go make fruitful"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "and I go multiply"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "well"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "princes"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "im go beget"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "and I go make am"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨a⟩ nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:12.410039124Z",
+  "model": "glm-5.2"
+}

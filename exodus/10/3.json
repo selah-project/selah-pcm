@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 10:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Moshe and Aharon come go to Paroh, and dem tell am: \"Na so Yahweh, Elohim of di Ivrim, talk: 'Until when you go dey refuse to humble yoursef from my presence? Send my people make dem serve me!'\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "And e come"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "of di Ivrim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Until"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "when"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "you dey refuse"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "to humble"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from my presence"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Send"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "make dem serve me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:30.892036252Z",
+  "model": "glm-5.2"
+}

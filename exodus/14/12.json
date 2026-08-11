@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Dis no be di word wey we bin talk to you for Mitsrayim, sey, 'Leave us alone, make we serve ⟨את⟩ Mitsrayim'? Because e better for us to serve ⟨את⟩ Mitsrayim pass to die for di wilderness.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "we bin talk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "leave"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "us alone"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "make we serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e better"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "to serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "pass to die"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:26.556081002Z",
+  "model": "glm-5.2"
+}

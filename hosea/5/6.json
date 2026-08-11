@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Wit dia sheep and wit dia cattle dem go go to seek ⟨את⟩ Yahweh, but dem no go find am; ⟨im⟩ don withdraw from dem.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "wit dia sheep"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "and wit dia cattle"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dem go go"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "dem go find am"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "withdraw"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:53.727305368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And una go chop old food wey don tey, and una go carry di old comot to make way for di new.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "And una go chop"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "old"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "wey don tey"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "and di old"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "una go bring am comot"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.770368798Z",
+  "model": "claude-opus-4-8"
+}

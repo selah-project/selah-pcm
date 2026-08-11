@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Now Moshe bin dey shepherd ⟨את⟩ di flock of Yitro, im father-in-law, priest of Midyan, and e lead ⟨את⟩ di flock behind di wilderness, and e come reach di mountain of Elohim — Chorev.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Now Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shepherd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di flock"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "flock"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "of Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "im father-in-law"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "of Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "and e lead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di flock"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "behind"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di wilderness"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come reach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:58.795977190Z",
+  "model": "glm-5.2"
+}

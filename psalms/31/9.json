@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And you never lock me inside ⟨di⟩ hand of enemy, you make my leg stand for wide place.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and you never"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "lock me inside"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand of"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "you make stand"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "for wide place"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my leg"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:00.492800333Z",
+  "model": "glm-5.2"
+}

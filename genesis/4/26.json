@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And to Shet too, dem born am one son, and e call ⟨את⟩ im name Enosh. Na dat time dem begin to call for di name of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "and to Shet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "am"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dem born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "dem begin"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "to call"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:00.613762346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Make una sing for am, make una play string music for am; make una dey talk about all im wondrous works.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "make una sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "make una play string music"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "make una dey talk about"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "about all"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "im wondrous works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:23.803261217Z",
+  "model": "glm-5.2"
+}

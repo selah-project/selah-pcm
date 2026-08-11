@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "⟨Na⟩ for Shalem im booth dey, and im dwelling place for Zion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "for Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "im booth"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "and im dwelling place"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "for Zion"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:07.925653243Z",
+  "model": "glm-5.2"
+}

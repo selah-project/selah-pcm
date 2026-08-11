@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di food wey you go eat, by weight — twenty shekels per day — from time to time you go eat am.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "and your food"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "you go eat am"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "by weight"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per day"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "from time"
+    },
+    {
+      "surface": "עד",
+      "gloss": "to"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "you go eat am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:03:13.516328453Z",
+  "model": "glm-5.2"
+}

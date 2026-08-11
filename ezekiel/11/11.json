@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Dis one no go be pot for una, and una no go be flesh inside am; for di border of Yisra'el I go judge ⟨את⟩ una.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "pot"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "go be"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "border"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "I go judge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:58.822409497Z",
+  "model": "glm-5.2"
+}

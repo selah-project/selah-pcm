@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 11:25",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And as for di villages, wit dia farmlands, some of di pikin-dem of Yehudah bin siddon for Qiryat-Arba and ⟨for⟩ di village-dem of am, and for Divon and ⟨for⟩ di village-dem of am, and for Yeqavtse'el and di village-dem of am.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "and as for"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "di villages"
+    },
+    {
+      "surface": "בשדתם",
+      "gloss": "wit dia farmlands"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "some of di pikin-dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bin siddon"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "for Qiryat"
+    },
+    {
+      "surface": "הארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "and ⟨for⟩ di village-dem of am"
+    },
+    {
+      "surface": "ובדיבן",
+      "gloss": "and for Divon"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "and ⟨for⟩ di village-dem of am"
+    },
+    {
+      "surface": "וביקבצאל",
+      "gloss": "and for Yeqavtse'el"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "and di village-dem of am"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:45.742503878Z",
+  "model": "glm-5.2"
+}

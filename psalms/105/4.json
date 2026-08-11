@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Find Yahweh and im pawa; make una find im face everytime.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "find"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "and im pawa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "make una find"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "everytime"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:23.803548269Z",
+  "model": "glm-5.2"
+}

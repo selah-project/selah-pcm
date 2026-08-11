@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 6:2",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And David rise and go, and all di people wey ⟨be⟩ ⟨את⟩ am, from Baale-Jehudah, to carry go from dere ⟨את⟩ di ark of Elohim wey dem dey call di Name — di Name of Yahweh of hosts wey dey sit on top di kerubim — upon am.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rise"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (preposition wit am)"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "from Baale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "to carry go"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark of Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "dem dey call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di Name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wey dey sit"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "on top di kerubim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "upon am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:49.865948806Z",
+  "model": "glm-5.2"
+}

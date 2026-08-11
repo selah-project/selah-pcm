@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 37:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Look, you don hear wetin kings of Ashur do to all di lands, to destroy dem — and you, you go escape?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "di lands"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "to destroy dem"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "you go escape"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:08.525354132Z",
+  "model": "glm-5.2"
+}

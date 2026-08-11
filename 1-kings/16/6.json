@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Baʿsha lie down with im papa-dem, and dem bury am for Tirtsah; and Elah im pikin come king for im place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and lie down"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "for Tirtsah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:05.053606564Z",
+  "model": "glm-5.2"
+}

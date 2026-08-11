@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Avram take ⟨את⟩ Sarai im wife, and ⟨את⟩ Lot, son of im brother, and ⟨את⟩ all dia property wey dem don acquire, and ⟨את⟩ di ⟨life-people⟩ wey dem don make for Charan; and dem comot to go land of Kenaan, and dem enter land of Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "of im brother"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all dia property"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dia property"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "dem acquire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di life-people"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "di life-people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem make"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "for Charan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and dem comot"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to go"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem enter"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:41.887155833Z",
+  "model": "glm-5.2"
+}

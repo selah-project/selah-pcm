@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Na im strike ⟨את⟩ di Pelishtim reach Azzah, and ⟨את⟩ im borders, from Migdal of di watchmen reach fortified city.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Pelishtim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im borders"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "im borders"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "from Migdal of"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "di watchmen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortified"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:39.410563433Z",
+  "model": "glm-5.2"
+}

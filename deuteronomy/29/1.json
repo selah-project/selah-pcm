@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Mosheh bin call all Yisra'el, and bin talk to dem, una see ⟨את⟩ all wey Yahweh do before una eye for di land of Mitsrayim, to Pharaoh and to all im servant dem, and to all im land.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "una see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all wey Yahweh do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "before una eye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "to Pharaoh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:28.172329306Z",
+  "model": "glm-5.2"
+}

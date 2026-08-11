@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "wey Yahweh Tsavaot don bless, sey, 'Blessed ⟨be⟩ my people Mitsrayim, and di work of my hands Ashur, and my inheritance Yisrael.'",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בֵּרֲכוֹ",
+      "gloss": "don bless"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאֹות",
+      "gloss": "Tsavaot"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בָּרוּךְ",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וּמַעֲשֵׂה",
+      "gloss": "and di work of"
+    },
+    {
+      "surface": "יָדַי",
+      "gloss": "my hands"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וְנַחֲלָתִי",
+      "gloss": "and my inheritance"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:01.665418821Z",
+  "model": "glm-5.2"
+}

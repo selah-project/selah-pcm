@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "And e go happen for ⟨di⟩ end of di days, I go turn back ⟨את⟩ di captivity of Elam, na oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go happen"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "for end of"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "I go turn back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captivity of Elam"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "di captivity"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "of Elam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na oracle of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:59:20.514598766Z",
+  "model": "glm-5.2"
+}

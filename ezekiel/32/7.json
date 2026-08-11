@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And when I quench you, I go cover di heaven when I dey extinguish you; and I go make dark ⟨את⟩ dia star-dem; sun, I go cover am with cloud, and moon no go shine im light.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "I go cover"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "when I dey extinguish you"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "and I go make dark"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia star-dem"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "dia star-dem"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "with cloud"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "I go cover am"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "and moon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "go shine"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "im light"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:59.798411050Z",
+  "model": "glm-5.2"
+}

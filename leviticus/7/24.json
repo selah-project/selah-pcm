@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di fat of animal wey die by itself, and di fat of animal wey wild beast tear, dem fit use am for any work; but as for chop, una no go chop am.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "and fat"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "of animal wey die by itself"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "and fat"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "of animal wey wild beast tear"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dem fit use"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for any"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "but as for chop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "go chop am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:54.040175745Z",
+  "model": "glm-5.2"
+}

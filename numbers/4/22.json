@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Lift ⟨את⟩ di head of di sons of Gereshon, dem too, by ⟨di⟩ house of dia papa-dem, by dia family-dem:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "by house of"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dia papa-dem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "by dia family-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:15.875568260Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And ⟨dem⟩ set am down in front of am make ⟨e⟩ chop, but ⟨e⟩ talk sey, ⟨Ah⟩ no go chop until ⟨when⟩ ah don talk my words. And ⟨e⟩ talk sey, Talk.",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "and ⟨dem⟩ set am down"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "in front of am"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "make ⟨e⟩ chop"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "but ⟨e⟩ talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨when⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ah don talk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:11.436003817Z",
+  "model": "glm-5.2"
+}

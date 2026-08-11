@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Any person wey go chop any blood — dat ⟨same⟩ life go dey cut off from im people.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "person"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "go dey cut off"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "dat life"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat same"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "from im people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:10.869809944Z",
+  "model": "glm-5.2"
+}

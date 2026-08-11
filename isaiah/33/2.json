@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Yahweh, show us favor; na on top you wey we dey wait. Be ⟨im⟩ arm for mornings; ⟨yes⟩, be our salvation for time of trouble.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "show us favor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on top you"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "wey we dey wait"
+    },
+    {
+      "surface": "היה",
+      "gloss": "be"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "arm"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "for mornings"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "our salvation"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "for time"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "of trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:05.075280726Z",
+  "model": "glm-5.2"
+}

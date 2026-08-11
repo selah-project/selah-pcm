@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Mosheh bin talk to Yahweh: \"Di people no fit climb up to Mount Sinai, because you bin warn us, sey: 'Set boundary ⟨את⟩ di mountain and sanctify am.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "to climb up"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Mount"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "bin warn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Set boundary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mountain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "and sanctify am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:59.321302558Z",
+  "model": "glm-5.2"
+}

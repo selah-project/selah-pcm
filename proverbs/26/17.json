@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Like person wey dey grab dog by im two ear — na so passerby wey dey vex imself on top quarrel wey no concern am.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "person wey dey grab"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "by im two ear"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "dog"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passerby"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "wey dey vex imself"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "quarrel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "concern am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:50.450325243Z",
+  "model": "glm-5.2"
+}

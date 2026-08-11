@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Yahweh, my rock, and my fortress, and my deliverer; my El, my rock, I go take shelter for ⟨am⟩; my shield, and di horn of my salvation, my stronghold.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rock"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "and my fortress"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "and my deliverer"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rock"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "I go take shelter"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for ⟨am⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "my shield"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "and di horn of"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "my salvation"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my stronghold"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:45.040668438Z",
+  "model": "glm-5.2"
+}

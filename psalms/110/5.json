@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 110,
+  "translation": "Adonai ⟨dey⟩ for your right hand; ⟨e⟩ go crush kings for di day of im wrath.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יְמִֽינְךָ֑",
+      "gloss": "your right hand"
+    },
+    {
+      "surface": "מָחַ֖ץ",
+      "gloss": "⟨e go⟩ crush"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "אַפּ֣וֹ",
+      "gloss": "of im wrath"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "kings"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:46.071637706Z",
+  "model": "glm-5.2"
+}

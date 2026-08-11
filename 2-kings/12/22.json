@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Na Yozavad son of Shimat and Yehozavad son of Shomer, im servant-dem, strike am; and e bin die; and dem bin bury ⟨את⟩⟨am⟩ with im papa-dem for di city of David; and Amatsyah im son bin reign for im position.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Na Yozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Shimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "and Yehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "strike am"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and e bin die"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "and dem bin bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and bin reign"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im position"
+    }
+  ],
+  "timestamp": "2026-08-11T11:13:36.237187241Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Dem bin expose im nakedness; dem pikin sons and dem pikin daughters dem take; ⟨את⟩ ⟨am⟩ dem bin kill wit sword; and she come be byword among women; and dem bin execute judgments on top am.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "bin expose"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "im nakedness"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "and im daughters"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩",
+      "marks": "am (direct object wey dem kill wit sword)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dem bin kill"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and she come be"
+    },
+    {
+      "surface": "שם",
+      "gloss": "byword"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "among women"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "and judgments"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem bin execute"
+    },
+    {
+      "surface": "בה",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:00.723695735Z",
+  "model": "glm-5.2"
+}

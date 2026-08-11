@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "I dey call bird of prey from east, man of ⟨im⟩ plan from far kontri; yes, I don talk am, yes, I go bring am; I don form am, yes, I go do am.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "I dey call"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "from east"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "bird of prey"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from kontri"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "far"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "of plan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I don talk"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "I go bring am"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "I don form"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "I go do am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:03.586584501Z",
+  "model": "glm-5.2"
+}

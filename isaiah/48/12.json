@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Hear me, O Yaʿaqov, and Yisraʾel wey I call: ⟨na⟩ me ⟨be⟩ am; ⟨na⟩ me ⟨be⟩ di first, and ⟨na⟩ me ⟨be⟩ di last.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "O Yaʿaqov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisraʾel"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "wey I call"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "אף",
+      "gloss": "and"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "di last"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:15.471565407Z",
+  "model": "glm-5.2"
+}

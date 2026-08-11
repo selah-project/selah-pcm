@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make una no make ⟨את⟩ ⟨things⟩ beside Me: elohim of silver and elohim of gold, make una no make for unaself.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "make una make"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "⟨things⟩ beside Me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim of"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "and elohim of"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "make una make"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for unaself"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:56.610260899Z",
+  "model": "glm-5.2"
+}

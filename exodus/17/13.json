@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Yehoshua bin weaken ⟨את⟩ Amalek and ⟨את⟩ im people by mouth of sword.",
+  "tokens": [
+    {
+      "surface": "וַיַּחֲלֹ֧שׁ",
+      "gloss": "bin weaken"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֛עַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עֲמָלֵ֥ק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "im people"
+    },
+    {
+      "surface": "לְפִי",
+      "gloss": "by mouth of"
+    },
+    {
+      "surface": "חָֽרֶב",
+      "gloss": "sword"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:06.191009422Z",
+  "model": "glm-5.2"
+}

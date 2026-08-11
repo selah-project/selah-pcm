@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh go establish you as ⟨im⟩ holy people for imself, as im bin swear to you, if you keep ⟨את⟩ di commandments of Yahweh your Elohim, and you waka for im ways.",
+  "tokens": [
+    {
+      "surface": "יְקִֽימְךָ֨",
+      "gloss": "go establish you"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לוֹ֙",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "לְעַ֣ם",
+      "gloss": "as people"
+    },
+    {
+      "surface": "קָד֔וֹשׁ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "נִֽשְׁבַּֽע",
+      "gloss": "bin swear"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "if"
+    },
+    {
+      "surface": "תִשְׁמֹ֗ר",
+      "gloss": "you keep"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di commandments"
+    },
+    {
+      "surface": "מִצְוֺת֙",
+      "gloss": "di commandments"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "וְהָלַכְתָּ֖",
+      "gloss": "and you waka"
+    },
+    {
+      "surface": "בִּדְרָכָֽיו",
+      "gloss": "for im ways"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:11.423255647Z",
+  "model": "glm-5.2"
+}

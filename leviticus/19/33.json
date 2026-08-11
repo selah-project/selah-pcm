@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And if one stranger come to stay ⟨את⟩ una side, for una land, make una no oppress ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "come to stay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "una side"
+    },
+    {
+      "surface": "גר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "for una land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "make una oppress"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:27.989689981Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my eye pass away from ⟨to⟩ see wetin no get value; for your way, make me live.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "make pass away"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "from see"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "wetin no get value"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "for your way"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "make me live"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:42.063215139Z",
+  "model": "glm-5.2"
+}

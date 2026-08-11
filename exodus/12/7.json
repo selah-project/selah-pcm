@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem go take from di blood and put am on top di two side-posts and on top di lintel, on top di houses wey dem go chop ⟨את⟩ am inside dem.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "and dem go take"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "and dem go put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "di two"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "side-posts"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "di lintel"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "di houses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dem go chop"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:49.734264983Z",
+  "model": "glm-5.2"
+}

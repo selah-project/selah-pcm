@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 12:18",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "So King Rehav'am send Adoram, ⟨את⟩ di man wey dey on top di forced labor, and all Israel stone am with stone, and e die. And King Rehav'am hustle make e climb inside ⟨di⟩ chariot, to run go Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "so...send"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoram"
+    },
+    {
+      "surface": "אדרם",
+      "gloss": "Adoram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "המס",
+      "gloss": "di forced labor"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "and...stone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "with stone"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and e die"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "and King"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "התאמץ",
+      "gloss": "hustle"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "make e climb"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "inside chariot"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "to run go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:41.505145674Z",
+  "model": "glm-5.2"
+}

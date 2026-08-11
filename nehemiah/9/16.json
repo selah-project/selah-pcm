@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But dem and our papa-papa dem act proud, and dem harden ⟨את⟩ dia neck, and dem no hear your commandments.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "but dem"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "and our papa-papa"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "dem act proud"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "and dem harden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia neck"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "dia neck"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dem hear"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "your commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:59.044762350Z",
+  "model": "glm-5.2"
+}

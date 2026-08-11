@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And if any person sin, and im hear di voice of curse, and ⟨im⟩ ⟨be⟩ witness, or im see, or im know, if im no talk am, im go bear im iniquity.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "and if any person"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "and im hear"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "of curse"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and im"
+    },
+    {
+      "surface": "עד",
+      "gloss": "witness"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "im see"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "im know"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "im talk am"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "im go bear"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "im iniquity"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:22.719143860Z",
+  "model": "glm-5.2"
+}

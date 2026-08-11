@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Mosheh bin bring ⟨את⟩ dia case before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "bin bring"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia case"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "dia case"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:17.527294767Z",
+  "model": "glm-5.2"
+}

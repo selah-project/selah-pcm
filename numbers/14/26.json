@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yahweh bin speak to Mosheh and to Aharon, sey make dem talk:",
+  "tokens": [
+    {
+      "surface": "ושידבר",
+      "gloss": "and bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make dem talk"
+    }
+  ],
+  "timestamp": "2026-08-11T14:26:27.227146392Z",
+  "model": "glm-5.2"
+}

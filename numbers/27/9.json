@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if ⟨e no get⟩ daughter for am, una go give ⟨את⟩ im inheritance to im brodas.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨e no get⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "una go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im inheritance"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "im inheritance"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "to im brodas"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:46.452765673Z",
+  "model": "glm-5.2"
+}

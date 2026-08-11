@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Wicked messenger go fall inside evil, but faithful envoy ⟨na⟩ cure.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "inside evil"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "but envoy"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "faithful"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "cure"
+    }
+  ],
+  "timestamp": "2026-08-11T16:39:50.460492106Z",
+  "model": "glm-5.2"
+}

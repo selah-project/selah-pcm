@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Yahweh dey redeem ⟨את⟩ di life of im servants, and all ⟨di⟩ ones wey dey take refuge for inside am no go dey guilty.",
+  "tokens": [
+    {
+      "surface": "פּוֹדֶ֣ה",
+      "gloss": "dey redeem"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "di life"
+    },
+    {
+      "surface": "עֲבָדָ֑יו",
+      "gloss": "of im servants",
+      "marks": "of im servants"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יֶ֝אְשְׁמ֗וּ",
+      "gloss": "go dey guilty"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַחֹסִ֥ים",
+      "gloss": "⟨di⟩ ones wey dey take refuge"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "for inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.830771048Z",
+  "model": "glm-5.2"
+}

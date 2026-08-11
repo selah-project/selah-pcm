@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "As evil don surround me reach sey ⟨e⟩ no get number, my iniquities don catch me and I no fit see; dem don pass di hair of my head in number and my heart don leave me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "don surround"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "evil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "don catch me"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "my iniquities"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "fit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "see"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "don pass in number"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "di hair"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "of my head"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "and my heart"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "don leave me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:23.997464505Z",
+  "model": "glm-5.2"
+}

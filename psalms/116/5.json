@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Yahweh ⟨na⟩ person wey dey show favor, and ⟨e⟩ dey do wetin right; and our Elohim dey show pity.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "person wey dey show favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "and ⟨e⟩ dey do wetin right"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "and our Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dey show pity"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.009884111Z",
+  "model": "glm-5.2"
+}

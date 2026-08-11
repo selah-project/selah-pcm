@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Na so Yahweh talk: See, I dey wake up against Bavel, and against di pipo wey dey live for Lev-Qamai, ⟨na⟩ wind wey dey destroy.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "see"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "I dey wake up"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di pipo wey dey live for"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Lev"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Qamai"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wey dey destroy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:00:49.840899164Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Im palate ⟨be⟩ sweetness, and all of him ⟨be⟩ object-of-desire; na dis be my lover, and na dis be my friend, O daughters of Yerushalayim!",
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "im palate"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "sweetness"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "and all of him"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "object-of-desire"
+    },
+    {
+      "surface": "זה",
+      "gloss": "na dis"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "and na dis"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "my friend"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "O daughters of"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:28.052661920Z",
+  "model": "glm-5.2"
+}

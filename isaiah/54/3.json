@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Because you go burst out for right and for left, and your seed go inherit nations, and dem go make desolate cities to dey inhabited.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "and left"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "you go burst out"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "and your seed"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "go inherit"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "and cities"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "desolate"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "dem go make to dey inhabited"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:21.297358829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And dem no go call ⟨את⟩ yua name again Avram, and yua name go be Avraham, because ⟨na⟩ father of plenty nations I make you.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dem go call"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yua name"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yua name"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yua name"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אב",
+      "gloss": "father"
+    },
+    {
+      "surface": "המון",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "I make you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:46.961238428Z",
+  "model": "glm-5.2"
+}

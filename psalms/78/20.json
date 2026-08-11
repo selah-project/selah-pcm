@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "See, ⟨im⟩ strike rock and water flow out, and streams dey rush — El fit give bread too? If e go prepare flesh for im people?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "see"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "⟨im⟩ strike"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rock"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "and flow out"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "and streams"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "dey rush"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "too"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "תת",
+      "gloss": "give"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "go prepare"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "for im people"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:43.071371185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di sons of Israel cry unto Yahweh, sey dem talk: 'We don sin against You; and we don abandon ⟨את⟩ our Elohim, and we don serve ⟨את⟩ di Baalim!'",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "and dem cry"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "against You"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "and"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "we don abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "and we don serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "di Baalim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:29:35.427088608Z",
+  "model": "glm-5.2"
+}

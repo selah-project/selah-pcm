@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di kohen go comot go outside di camp, and di kohen go look, and sey make e check, if ⟨say⟩ di nega of tzara'at don heal from di metzora,",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and go comot"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go to"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and go look"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and sey make e check"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "don heal"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "di nega of"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tzara'at"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "di metzora"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:56.003512473Z",
+  "model": "glm-5.2"
+}

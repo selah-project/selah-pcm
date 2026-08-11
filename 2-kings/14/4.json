@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Only, di high places dem no gree comot; di pipul still dey sacrifice and dey burn incense for di high places.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "di high places"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "dem gree comot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipul"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "dey sacrifice"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "and dey burn incense"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "for di high places"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:56.512262747Z",
+  "model": "glm-5.2"
+}

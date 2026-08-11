@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "You go serve ⟨את⟩ your enemies wey Yahweh go send against you, wit hunger and wit thirst and wit nakedness and wit lack of evri tin; and e go put yoke of iron upon your neck, until e destroy ⟨את⟩ you.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "and you go serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your enemies"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "e go send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "wit hunger"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "and wit thirst"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "and wit nakedness"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "and wit lack"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of evri tin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and e go put"
+    },
+    {
+      "surface": "על",
+      "gloss": "yoke"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "your neck"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "e destroy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ you",
+      "marks": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.639918334Z",
+  "model": "glm-5.2"
+}

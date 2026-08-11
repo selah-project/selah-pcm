@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "⟨Na⟩ di roar of lion, and di voice of fierce lion, and di teeth of young lions dey broken.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "di roar"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "of lion"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and di voice"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "of fierce lion"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "and di teeth"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "of young lions"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "dey broken"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:13.720999581Z",
+  "model": "glm-5.2"
+}

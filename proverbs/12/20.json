@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Deceit dey inside heart of dem wey dey plan evil, but for dem wey dey counsel peace ⟨na⟩ joy.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "deceit"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dey inside heart of"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "dem wey dey plan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "but for dem wey dey counsel"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "joy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:19.567448993Z",
+  "model": "glm-5.2"
+}

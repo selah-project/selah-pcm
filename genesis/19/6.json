@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Lot come go outside meet dem for di entrance, and ⟨im⟩ shut di door behind am.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and come go outside"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "meet dem"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "for di entrance"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "and di door"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "⟨im⟩ shut"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "behind am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:08.110217177Z",
+  "model": "glm-5.2"
+}

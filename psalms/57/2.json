@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Show me favor, Elohim, show me favor, because my life dey trust for inside You, and for inside shadow of Your wings I go shelter, until destruction pass.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "show me favor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "show me favor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for inside You"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "dey trust"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "and for inside shadow of"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "Your wings"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "I go shelter"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "e pass"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "destruction"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:45.345208359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 25:34",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And for di lampstand, four cups wey ⟨dem⟩ shape like almond, ⟨plus⟩ im knobs and im flowers.",
+  "tokens": [
+    {
+      "surface": "וּבַמְּנֹרָ֖ה",
+      "gloss": "and for di lampstand"
+    },
+    {
+      "surface": "אַרְבָּעָ֣ה",
+      "gloss": "four"
+    },
+    {
+      "surface": "גְבִעִ֑ים",
+      "gloss": "cups"
+    },
+    {
+      "surface": "מְשֻׁקָּדִ֔ים",
+      "gloss": "wey dem shape like almond"
+    },
+    {
+      "surface": "כַּפְתֹּרֶ֖יהָ",
+      "gloss": "im knobs"
+    },
+    {
+      "surface": "וּפְרָחֶֽיהָ",
+      "gloss": "and im flowers"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:04.137093855Z",
+  "model": "glm-5.2"
+}

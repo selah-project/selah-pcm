@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Among all di Elohim of di lands, who be dem wey rescue ⟨את⟩ dia land from my hand, sey Yahweh go rescue ⟨את⟩ Yerushalayim from my hand?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "di lands"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dia land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from my hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "go rescue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from my hand"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:12.743981033Z",
+  "model": "glm-5.2"
+}

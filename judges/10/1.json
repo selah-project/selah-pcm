@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 10:1",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And after Avimelech, Tola bin Puah bin Dodo, man of Yissaskar, bin rise to save ⟨את⟩ Yisra'el; and ⟨he⟩ bin dey stay for Shamir, for mountain of Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin rise"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "to save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "פואה",
+      "gloss": "Puah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and he"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bin dey stay"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "for Shamir"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for mountain"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:48.216995840Z",
+  "model": "glm-5.2"
+}

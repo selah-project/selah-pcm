@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And as for di sons of Aharon, dia divisions — di sons of Aharon ⟨na⟩ Nadav and Avihu, Elazar and Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "and as for di sons of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "dia divisions"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "and Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "and Itamar"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:16.256106913Z",
+  "model": "glm-5.2"
+}

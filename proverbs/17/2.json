@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Servant wey sabi go rule over son wey dey bring shame, and among brodas ⟨im⟩ go share inheritance.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wey sabi"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "go rule"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "over son"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "wey dey bring shame"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "and among"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brodas"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "go share"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "inheritance"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:39.621250683Z",
+  "model": "glm-5.2"
+}

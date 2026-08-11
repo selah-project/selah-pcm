@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "and if you pour out ⟨your⟩ life-force to di hungry, and satisfy ⟨di⟩ afflicted life-force, then your light go shine for darkness, and your gloom go be like noonday:",
+  "tokens": [
+    {
+      "surface": "וְתָפֵ֤ק",
+      "gloss": "and if you pour out"
+    },
+    {
+      "surface": "לָֽרָעֵב֙",
+      "gloss": "to di hungry"
+    },
+    {
+      "surface": "נַפְשֶׁ֔ךָ",
+      "gloss": "your life-force"
+    },
+    {
+      "surface": "וְנֶ֥פֶשׁ",
+      "gloss": "and ⟨di⟩ life-force"
+    },
+    {
+      "surface": "נַעֲנָ֖ה",
+      "gloss": "afflicted"
+    },
+    {
+      "surface": "תַּשְׂבִּ֑יעַ",
+      "gloss": "you go satisfy"
+    },
+    {
+      "surface": "וְזָרַ֤ח",
+      "gloss": "then go shine"
+    },
+    {
+      "surface": "בַּחֹ֨שֶׁךְ֙",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "אוֹרֶ֔ךָ",
+      "gloss": "your light"
+    },
+    {
+      "surface": "וַאֲפֵלָתְךָ֖",
+      "gloss": "and your gloom"
+    },
+    {
+      "surface": "כַּֽצָּהֳרָֽיִם",
+      "gloss": "like noonday"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:35.841899456Z",
+  "model": "glm-5.2"
+}

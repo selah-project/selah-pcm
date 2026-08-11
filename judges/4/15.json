@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Yahweh bin throw Sisera ⟨את⟩ plus ⟨את⟩ all di chariots and ⟨את⟩ all di camp — by di edge of sword, before Barak; so Sisera come down from on top di chariot and e run wit im leg.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "bin throw into confusion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di chariots"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariots"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di camp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by di edge of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "and come down"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top of"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "di chariot"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "and run"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "wit im leg"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:56.004401703Z",
+  "model": "glm-5.2"
+}

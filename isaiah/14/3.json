@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e go happen, for di day wey Yahweh go give you rest from your pain, and from your turmoil, and from di hard work wey dem make you do —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "And e go happen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "go give rest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "from your pain"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "and from your turmoil"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dem make do"
+    },
+    {
+      "surface": "בך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:59.481064203Z",
+  "model": "glm-5.2"
+}

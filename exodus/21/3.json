@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "If e enter wit ⟨im⟩ own body, e go comot wit ⟨im⟩ own body; if e ⟨be⟩ husband of woman, ⟨den⟩ im wife go comot wit am.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "wit im own body"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "e enter"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "wit im own body"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e go comot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "husband"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "of woman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e ⟨be⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "⟨den⟩ she go comot"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:22.161847249Z",
+  "model": "glm-5.2"
+}

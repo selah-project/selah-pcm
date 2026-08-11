@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Ya'akov bin steal ⟨את⟩ di heart of Lavan di Aramean, in dat e no tell am sey e dey run away.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "and bin steal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di heart"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "of Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "di Aramean"
+    },
+    {
+      "surface": "על",
+      "gloss": "in dat"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "no"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "e dey run away"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:13.115211362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "People wey dey live for desert go kneel down for im front, and im enemies go lick dust.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "for im front"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "go kneel down"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "people wey dey live for desert"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "and im enemies"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "go lick"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:01.436266717Z",
+  "model": "glm-5.2"
+}

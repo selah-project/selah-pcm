@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Around, wicked dem dey walk about; as vileness dey lift up among ⟨di⟩ sons of man.",
+  "tokens": [
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "Around"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "wicked dem"
+    },
+    {
+      "surface": "יִתְהַלָּכ֑וּן",
+      "gloss": "dey walk about"
+    },
+    {
+      "surface": "כְּרֻ֥ם",
+      "gloss": "as"
+    },
+    {
+      "surface": "זֻ֝לּ֗וּת",
+      "gloss": "vileness"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "among sons of"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:21.432962003Z",
+  "model": "glm-5.2"
+}

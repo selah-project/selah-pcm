@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "'Wetin you get here, and who you be here, wey you carve ⟨for you⟩ grave here? Person wey dey carve for height im grave, wey dey engrave for rock dwelling ⟨for imself⟩!'",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you get"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you be"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "you carve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨for you⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grave"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "person wey dey carve"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "for height"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "im grave"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "wey dey engrave"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "for rock"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "dwelling"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨for imself⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:32.997549446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So David tell Achimelek di priest, di king don command me one matter, and ⟨im⟩ tell me sey, make no man know notin at all — ⟨את⟩ di matter wey I dey send you and wetin I don command you; and di young men, I don arrange dem go ⟨one⟩ place, so-so and so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "so ⟨im⟩ tell"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "to Achimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "don command me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "one matter"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ tell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "make no man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "notin at all"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "dey send you"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "don command you"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di young men"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "di young men"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "I don arrange"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "so-so"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "and so"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:23.042966415Z",
+  "model": "glm-5.2"
+}

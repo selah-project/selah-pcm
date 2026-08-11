@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Grass don dry, flower don fade, because wind of Yahweh don blow on top am; truly, ⟨di⟩ people ⟨na⟩ grass.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "don dry"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "don fade"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "flower"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "don blow"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:23.200823486Z",
+  "model": "glm-5.2"
+}

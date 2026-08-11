@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di pikin-dem of Yitshar: Korach, and Nefeg, and Zichri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di pikin-dem of"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Yitshar"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "and Nefeg"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "and Zichri"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:34.064280303Z",
+  "model": "glm-5.2"
+}

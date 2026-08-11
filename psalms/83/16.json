@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Na so make you pursue dem wit your storm, and wit your whirlwind make you terrify dem.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "make you pursue dem"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "wit your storm"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "and wit your whirlwind"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "make you terrify dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:42.669851798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "Chesed and truth don meet together; righteousness and peace don kiss ⟨demsef⟩.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "and truth"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "dem don meet together"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "and peace"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "dem don kiss"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.785659685Z",
+  "model": "claude-opus-4-8"
+}

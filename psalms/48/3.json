@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Fine well-well for height, joy of all di earth, ⟨na⟩ Mount Tsiyon, sides of Tsafon, city of great King.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Fine well-well"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "for height"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "joy of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Mount"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "sides of"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "Tsafon"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "city of"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "רב",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:14.339252016Z",
+  "model": "glm-5.2"
+}

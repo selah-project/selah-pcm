@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "And I go set im hand on top di sea, and on top di rivers im right hand.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "and I go set"
+    },
+    {
+      "surface": "בים",
+      "gloss": "on top di sea"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "and on top di rivers"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "im right hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:57.546606029Z",
+  "model": "glm-5.2"
+}

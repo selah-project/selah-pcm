@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "And e strike all firstborn for dia land, ⟨na⟩ di first of all dia power.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "for dia land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "first"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "dia power"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:39.778051208Z",
+  "model": "glm-5.2"
+}

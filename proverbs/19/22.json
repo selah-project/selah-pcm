@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Wetin man dey desire na im chesed; and poor man dey better pass man wey dey lie.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Wetin ... dey desire"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "na im chesed"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "and ... dey better pass"
+    },
+    {
+      "surface": "רש",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "wey dey lie"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:13.688305306Z",
+  "model": "glm-5.2"
+}

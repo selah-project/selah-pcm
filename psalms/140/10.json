@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "⟨Make⟩ di head of dem wey surround me — di trouble of dia lips, make e cover dem.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "dem wey dey surround me"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dia lips"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "make e cover dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:20.158509206Z",
+  "model": "glm-5.2"
+}

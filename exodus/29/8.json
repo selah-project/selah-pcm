@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And ⟨את⟩ im sons you go bring near, and you go clothe dem ⟨with⟩ tunics.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "you go bring near"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "and you go clothe dem"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "⟨with⟩ tunics"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:14.621574676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin do judgment and righteousness, no leave me to my oppressors.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "I bin do"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "and righteousness"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "leave me"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "to my oppressors"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:25.336477865Z",
+  "model": "glm-5.2"
+}

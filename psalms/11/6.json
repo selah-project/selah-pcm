@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "⟨E⟩ go rain on top wicked people — trap of fire and sulphur; and wind of burning rage — na ⟨dat⟩ be di portion of dia cup.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "go rain"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "trap"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "and sulphur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and wind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "of burning rage"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "portion"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "of dia cup"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:43.695106745Z",
+  "model": "glm-5.2"
+}

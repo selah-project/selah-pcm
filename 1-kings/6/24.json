@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 6:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And five cubit ⟨na⟩ ⟨the⟩ wing of di first keruv, and five cubit ⟨na⟩ ⟨the⟩ wing of di second keruv; ten cubit from ⟨one⟩ end of im wings to ⟨di oda⟩ end of im wings.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "wing"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "of di keruv"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "di first"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "wing"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "of di keruv"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "di second"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "from end"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "of im wings"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "to"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "end"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "of im wings"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:22.476140371Z",
+  "model": "glm-5.2"
+}

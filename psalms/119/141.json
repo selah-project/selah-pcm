@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Small I ⟨bin⟩ and dem dey despise ⟨me⟩, ⟨but⟩ ⟨I⟩ no forget Your mandates.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Small"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "and dem dey despise"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Your mandates"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "⟨I⟩ forget"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:15.142395143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "One cubit ⟨na⟩ im length, and one cubit ⟨na⟩ im width; square e go be; and two cubits ⟨na⟩ im height; im horns go come out from am.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "one cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "square"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e go be"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "and two cubits"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "im horns"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:50.305646890Z",
+  "model": "glm-5.2"
+}

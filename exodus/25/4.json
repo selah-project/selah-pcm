@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "and blue (wool), and purple (wool), and worm-scarlet, and fine linen, and goats' hair.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "and blue (wool)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "and purple (wool)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "and worm-of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and fine linen"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "and goats' (hair)"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:32.870659366Z",
+  "model": "glm-5.2"
+}

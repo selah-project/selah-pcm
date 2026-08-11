@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Di woman come see ⟨את⟩ Shəmuel, and im come cry with big voice; di woman come talk to Shaúl sey, \"Why you deceive me? And you na Shaúl.\"",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "come see"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shəmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shəmuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "come cry"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "with voice"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "you deceive me"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "you be Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:15.506164351Z",
+  "model": "glm-5.2"
+}

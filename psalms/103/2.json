@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Bless, my life-breath, ⟨את⟩ Yahweh, and no forget all im benefits.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "forget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "im benefits"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:08.394932867Z",
+  "model": "glm-5.2"
+}

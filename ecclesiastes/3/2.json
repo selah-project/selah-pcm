@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Season to bon, and season to dai; season to plant, and season to uproot wetin dem plant.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "season"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "to bon"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "and season"
+    },
+    {
+      "surface": "למות",
+      "gloss": "to dai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "season"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "to plant"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "and season"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "to uproot"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "wetin dem plant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:44.163319698Z",
+  "model": "glm-5.2"
+}

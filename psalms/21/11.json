@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Dia fruit from ⟨di⟩ earth you go destroy, and dia seed from among ⟨di⟩ children of man.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "dia fruit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from ⟨di⟩ earth"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "you go destroy"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "and dia seed"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from among ⟨di⟩ children"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:25.521589442Z",
+  "model": "glm-5.2"
+}

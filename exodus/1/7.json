@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di sons of Yisra'el bear fruit, and dem swarm, and dem multiply, and dem become strong wit power well well; and di land fill ⟨wit⟩ ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "dem bear fruit"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "and dem swarm"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "and dem multiply"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "and dem become strong"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "wit power"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "and ⟨e⟩ fill"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:45.064957629Z",
+  "model": "glm-5.2"
+}

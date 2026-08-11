@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Elohim bin dey with ⟨את⟩ di boy, and ⟨e⟩ grow; and ⟨e⟩ stay for wilderness, and ⟨e⟩ come be man wey dey shoot bow.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di boy"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "and ⟨e⟩ grow"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨e⟩ stay"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨e⟩ come be"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "man wey dey shoot"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bow"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:16.655744074Z",
+  "model": "glm-5.2"
+}

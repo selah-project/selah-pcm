@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Answer me, Yahweh, because your chesed ⟨is⟩ good; according to di multitude of your tender mercies, turn to me.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Answer me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "according to di multitude"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "of your tender mercies"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "turn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:52.055170491Z",
+  "model": "glm-5.2"
+}

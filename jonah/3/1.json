@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨Come⟩ ⟨di⟩ word of Yahweh to Yonah one second time, ⟨to⟩ talk say:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֧י",
+      "gloss": "⟨Come⟩"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "⟨di⟩ word"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שֵׁנִ֥ית",
+      "gloss": "second time"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "to talk say"
+    }
+  ],
+  "timestamp": "2026-08-11T16:32:06.660954189Z",
+  "model": "glm-5.2"
+}

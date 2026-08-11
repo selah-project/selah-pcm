@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Yahweh take me from behind di flock, and Yahweh talk to me, sey, 'Go, prophesy to my people Yisra'el.'",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "and take me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "from behind"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "prophesy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:41.661913464Z",
+  "model": "glm-5.2"
+}

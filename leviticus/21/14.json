@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Widow, and woman wey dem put away, and woman wey dem spoil, ashawo — ⟨את⟩ dis kind ⟨dem⟩ no go take; but only virgin from among im people ⟨he⟩ go take ⟨as⟩ woman.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "widow"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "and woman wey dem put away"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "and woman wey dem spoil"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "ashawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis kind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis kind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "only"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "virgin"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "from among im people"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:51.864126706Z",
+  "model": "glm-5.2"
+}

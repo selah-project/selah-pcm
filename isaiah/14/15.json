@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "But you go dey cast down reach Sheol, reach di corner of di pit.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "but"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "you go dey cast down"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "di corner of"
+    },
+    {
+      "surface": "בור",
+      "gloss": "di pit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:28.787545240Z",
+  "model": "glm-5.2"
+}

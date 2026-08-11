@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "When Nathan di prophet come meet am, as im bin go inside ⟨to⟩ Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "when ⟨im⟩ come"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "meet am"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "בא",
+      "gloss": "im bin go inside"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:54.190445355Z",
+  "model": "glm-5.2"
+}

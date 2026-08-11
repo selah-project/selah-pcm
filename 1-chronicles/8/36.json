@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Ahaz bin born ⟨את⟩ Jehoaddah, and Jehoaddah bin born ⟨את⟩ Alemeth and ⟨את⟩ Azmaveth and ⟨את⟩ Zimri, and Zimri bin born ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "And Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoaddah"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Jehoaddah"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "and Jehoaddah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Azmaveth"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "and Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:46.440780182Z",
+  "model": "glm-5.2"
+}

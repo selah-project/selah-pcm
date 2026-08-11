@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "And dem go up from Mitsrayim, and dem come enter land of Kenaan, to Yaakov wey be dia papa.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "and dem go up"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:06.373520118Z",
+  "model": "glm-5.2"
+}

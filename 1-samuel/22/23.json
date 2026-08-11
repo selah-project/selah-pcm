@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Stay ⟨with⟩ me, no fear; because di pesin wey dey seek ⟨את⟩ my life, go dey seek ⟨את⟩ your life too; because you dey under safe-keeping wit me.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "stay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wit me",
+      "marks": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my life"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "go dey seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your life"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "safe-keeping"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wit me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:19.745121714Z",
+  "model": "glm-5.2"
+}

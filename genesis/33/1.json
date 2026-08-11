@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Yaakob lift im eye dem, come look, and sey ⟨na⟩ Esav dey come, and four hundred man dey wit am. And e divide ⟨את⟩ di pikin dem on top Leah, and on top Rachel, and on top di two maid dem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "lift"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye dem"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "come look"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and sey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "and wit am"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "and e divide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin dem"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "di pikin dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "di maid dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:08.845654899Z",
+  "model": "glm-5.2"
+}

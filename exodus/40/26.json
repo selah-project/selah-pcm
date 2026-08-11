@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And ⟨he⟩ put ⟨את⟩ di golden altar for di tent of meeting, before di veil.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֛שֶׂם",
+      "gloss": "and ⟨he⟩ put"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di golden altar"
+    },
+    {
+      "surface": "מִזְבַּ֥ח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הַזָּהָ֖ב",
+      "gloss": "di golden"
+    },
+    {
+      "surface": "בְּאֹ֣הֶל",
+      "gloss": "for tent"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "before"
+    },
+    {
+      "surface": "הַפָּרֹֽכֶת",
+      "gloss": "di veil"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:43.417600392Z",
+  "model": "glm-5.2"
+}

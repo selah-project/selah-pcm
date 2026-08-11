@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Shelomoh bin celebrate ⟨את⟩ di feast at dat time, seven days, and all Yisrael with am — one very big assembly — from di entrance of Chamat to di stream of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and bin celebrate"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di feast"
+    },
+    {
+      "surface": "החג",
+      "gloss": "di feast"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "at"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "assembly"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "from di entrance of"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "to"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "di stream of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:05.187525279Z",
+  "model": "glm-5.2"
+}

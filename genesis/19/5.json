@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And dem come call Lot, and dem talk sey, \"Where ⟨be⟩ di men wey come meet you dis night? Bring dem come meet us, make we sabi ⟨את⟩ dem.\"",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem come call"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "איה",
+      "gloss": "where"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באו",
+      "gloss": "come meet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "you"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dis night"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "bring dem come"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "meet us"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "make we sabi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:08.109881910Z",
+  "model": "glm-5.2"
+}

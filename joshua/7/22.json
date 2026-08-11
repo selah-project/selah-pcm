@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 7:22",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So Yehoshua send messengers, and dem run go di tent, and see-am, ⟨e bin dey⟩ hide for im tent, and di silver under-am.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "So send"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messengers"
+    },
+    {
+      "surface": "וירצו",
+      "gloss": "and dem run"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "go di tent"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see-am"
+    },
+    {
+      "surface": "טמונה",
+      "gloss": "hide"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "for im tent"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "and di silver"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "under-am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:59.323824279Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "For di eighteenth year wey King Yaravʿam, son of Nevat, bin dey reign, Aviyam bin begin reign over Yehudah.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eight"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "of king"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravʿam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "of Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bin reign"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:32.261227408Z",
+  "model": "glm-5.2"
+}

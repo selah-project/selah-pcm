@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Rephaim dem dey count dem too, like di Anakim; and di Moabite-dem dey call dem Emim.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "Rephaim"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "dem dey count"
+    },
+    {
+      "surface": "אף",
+      "gloss": "too"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "like di Anakim"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "and di Moabite-dem"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "dem dey call"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "Emim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:27.173209761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And dem bin tell Dawid ⟨את⟩ wetin Ritspah wey be daughter of Aya, concubine of Sha'ul, bin do.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and dem bin tell"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "concubine of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:38.265448661Z",
+  "model": "glm-5.2"
+}

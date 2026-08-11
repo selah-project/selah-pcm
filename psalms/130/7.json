@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 130,
+  "translation": "Make Yisrael hope for Yahweh, because with Yahweh ⟨be⟩ chesed, and plenty redemption ⟨dey⟩ with am.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Make ⟨Yisrael⟩ hope"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "⟨be⟩ chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "and plenty"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "redemption"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:02.966481365Z",
+  "model": "glm-5.2"
+}

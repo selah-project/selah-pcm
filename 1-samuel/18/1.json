@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And e bin happen, as im finish to talk to Sha'ul, ⟨na⟩ ⟨im⟩ bin be sey nefesh of Yehonatan bin tie with nefesh of David, and Yehonatan bin love am like im own nefesh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "as im finish"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "and nefesh"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "bin tie"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "with nefesh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "and bin love am"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "like im own nefesh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:27.848396302Z",
+  "model": "glm-5.2"
+}

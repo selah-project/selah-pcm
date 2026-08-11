@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 16:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Dis na di word wey Yahweh don command: 'Gather from am, each man according to wetin e go chop — omer per head, according to di number of una souls; each man go take for di person wey dey for im tent.'",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "Gather"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "wetin e go chop"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "per head"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "of una souls"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "for"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "im tent"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "go take"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:05.487630041Z",
+  "model": "glm-5.2"
+}

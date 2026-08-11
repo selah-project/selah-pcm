@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Dem wey dey pluck salt-herb on top bush, and root of broom-tree dem na im be dia food.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "dem wey dey pluck"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "salt-herb"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "bush"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "and root of"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "broom-tree dem"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "dia food"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:07.912861762Z",
+  "model": "glm-5.2"
+}

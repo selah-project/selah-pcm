@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di king bin swear, and im talk sey, ⟨na⟩ Yahweh dey live, wey don ransom ⟨את⟩ my life from evri trouble.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "bin swear"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "don ransom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my life"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from evri"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:33.144217526Z",
+  "model": "glm-5.2"
+}

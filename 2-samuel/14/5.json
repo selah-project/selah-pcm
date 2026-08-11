@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di king talk to am, \"Wetin do you?\" And she talk, \"Truly, ⟨na⟩ woman wey ⟨be⟩ widow ⟨I⟩ ⟨be⟩, and my husband bin die.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and di king talk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "do you"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "truly"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "widow"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and bin die"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "my husband"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:41.369000748Z",
+  "model": "glm-5.2"
+}

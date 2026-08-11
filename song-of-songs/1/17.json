@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di big wood wey dey hold ⟨את⟩ we house na cedar, and ⟨את⟩ we panel-board na cypress.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "big wood wey dey hold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "we house"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "we house"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "we panel-board"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "cypress"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:23.791136041Z",
+  "model": "glm-5.2"
+}

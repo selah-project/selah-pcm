@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Im head ⟨be⟩ like pure gold, like refined gold; im curly hair dey hang down, black like raven.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "like pure gold"
+    },
+    {
+      "surface": "פז",
+      "gloss": "like refined gold"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "im curly hair"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "dey hang down"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "black"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "like raven"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:45.047415128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "Elohim, you ⟨be⟩ my El; I go dey find you early-morning. My life-force dey thirst for you, my flesh dey pine for you, for land wey dry and tired, without water.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "I go dey find you early-morning"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "dey thirst"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-force"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "dey pine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my flesh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "wey dry"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "and tired"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "without"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:53.104297205Z",
+  "model": "glm-5.2"
+}

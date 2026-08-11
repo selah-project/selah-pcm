@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "You go make me know ⟨את⟩ road of life; fullness of joys ⟨be⟩ before Your face; pleasant things for Your right hand, forever.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "You go make me know"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "road"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "of life"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fullness"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "of joys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "road of life"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Your face"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "pleasant things"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "for Your right hand"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:03.044680993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Command ⟨את⟩ di priest dem wey dey carry ⟨di⟩ ark of di testimony, make dem comot from Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di priest dem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priest dem"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wey dey carry"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "of di testimony"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "make dem comot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:59.873749780Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem bring ⟨את⟩ di ark of Elohim, and dem set am for inside di tent wey Dawid bin pitch for am, and dem bring near burnt offerings and peace offerings before Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "and dem bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark of Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "and dem set"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "di tent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "bin pitch"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "and dem bring near"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "burnt offerings"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "and peace offerings"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:03.509803633Z",
+  "model": "glm-5.2"
+}

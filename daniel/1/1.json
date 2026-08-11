@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "For di third year wey Yehoyakim wey ⟨bin⟩ be king of Yehudah dey reign, Nevukhadnetstsar wey ⟨bin⟩ be king of Bavel bin come Yerushalaim, and e bin besiege am.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "third"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "of di reign"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "and e bin besiege"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:02.382208515Z",
+  "model": "glm-5.2"
+}

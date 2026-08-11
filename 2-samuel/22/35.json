@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Im dey train ⟨im⟩ hand dem for battle, and ⟨im⟩ arm dem don bend down bow of copper.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "dey train"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨im⟩ hand dem"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for battle"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "and don bend down"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bow",
+      "marks": "bow"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "of copper"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "⟨im⟩ arm dem"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.795623161Z",
+  "model": "glm-5.2"
+}

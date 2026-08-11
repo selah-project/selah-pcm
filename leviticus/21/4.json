@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "⟨As⟩ husband ⟨im⟩ no go make imself dirty among im people, so ⟨im⟩ no go profane imself.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "go make imself dirty"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "husband"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "among im people"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "so ⟨im⟩ no go profane imself"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:17.096768975Z",
+  "model": "glm-5.2"
+}

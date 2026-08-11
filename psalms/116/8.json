@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Because you don pull my life-breath comot from death, ⟨את⟩ my eye from tears, ⟨את⟩ my foot from falling.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "you don pull comot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "from death"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my eye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tears"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my foot"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my foot"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "falling"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.010438786Z",
+  "model": "glm-5.2"
+}

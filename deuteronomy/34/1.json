@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And Mosheh bin climb from di plains of Moav go mount Nevo, top of Pisgah, wey dey face Yericho. And Yahweh show am ⟨את⟩ all di land, ⟨את⟩ Gilead reach Dan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "and bin climb"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "from di plains"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mount"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "top"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "of Pisgah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "and ⟨He⟩ show am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:32.302209200Z",
+  "model": "glm-5.2"
+}

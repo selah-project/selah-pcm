@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di matter bin sweet for Adonai eye, because Shelomoh bin ask ⟨את⟩ dis matter.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "and bin sweet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for eye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bin ask"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:33.891434232Z",
+  "model": "glm-5.2"
+}

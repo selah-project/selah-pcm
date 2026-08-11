@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 117,
+  "translation": "Praise Yahweh, all una nations; praise am, all di peoples.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "praise am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "di peoples"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:10.975162616Z",
+  "model": "glm-5.2"
+}

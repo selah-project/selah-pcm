@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "My road and my lying-down, you winnow ⟨am⟩; and all my way, you don sabbie.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "my road"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "and my lying-down"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "you winnow"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my way"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "you don sabbie"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:36.052736606Z",
+  "model": "glm-5.2"
+}

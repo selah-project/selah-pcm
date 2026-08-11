@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim of me, if I bin do dis tin, if ⟨e⟩ get wickedness for my hand —",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "Elohim of me"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "I bin do"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "dis tin"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "⟨e⟩ get"
+    },
+    {
+      "surface": "עָוֶל",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "בְכַפַּי",
+      "gloss": "for my hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:56.202372660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Make dem put dia trust for Elohim, and make dem no forget di work-dem of El, and make dem keep im commandment-dem.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "make dem put"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "dia trust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and make dem no"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "forget"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "di work-dem of"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "and im commandment-dem"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "make dem keep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:59.566295433Z",
+  "model": "glm-5.2"
+}

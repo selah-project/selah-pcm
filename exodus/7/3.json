@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "But I go harden ⟨את⟩ di heart of Paroh, and I go multiply ⟨את⟩ my signs and ⟨את⟩ my wonders for di land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But I"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "go harden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "and I go multiply"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my signs"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "my signs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my wonders"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "my wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:45.970605306Z",
+  "model": "glm-5.2"
+}

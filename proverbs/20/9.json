@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Who fit talk sey, \"I don make my heart clean, I don pure from my sin\"?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "fit talk"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "I don make clean"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "I don pure"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "from my sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:31.184838907Z",
+  "model": "glm-5.2"
+}

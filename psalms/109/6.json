@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Appoint ⟨make⟩ wicked man on top ⟨am⟩, and let satan stand for ⟨im⟩ right hand side.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "appoint"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top ⟨am⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked ⟨man⟩"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "and satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "make ⟨im⟩ stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "⟨im⟩ right hand side"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:26.064139338Z",
+  "model": "glm-5.2"
+}

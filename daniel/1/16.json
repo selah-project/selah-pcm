@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di steward bin dey carry comot ⟨את⟩ dia choice food, and di wine wey dem for bin dey drink, and im dey give dem seed-food.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֣י",
+      "gloss": "and"
+    },
+    {
+      "surface": "הַמֶּלְצַ֗ר",
+      "gloss": "di steward"
+    },
+    {
+      "surface": "נֹשֵׂא֙",
+      "gloss": "bin dey carry comot"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia choice food"
+    },
+    {
+      "surface": "פַּתְבָּגָ֔ם",
+      "gloss": "dia choice food"
+    },
+    {
+      "surface": "וְיֵ֖ין",
+      "gloss": "and di wine"
+    },
+    {
+      "surface": "מִשְׁתֵּיהֶ֑ם",
+      "gloss": "wey dem for bin dey drink"
+    },
+    {
+      "surface": "וְנֹתֵ֥ן",
+      "gloss": "and im dey give"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "זֵרְעֹנִֽים",
+      "gloss": "seed-food"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:13.580045703Z",
+  "model": "glm-5.2"
+}

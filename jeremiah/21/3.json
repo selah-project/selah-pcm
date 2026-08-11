@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Then Yirmeyahu talk to dem: Like dis una go tell Tsidkiyahu,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Then talk"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Like dis"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "una go tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T11:48:39.677244094Z",
+  "model": "glm-5.2"
+}

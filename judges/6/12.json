@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And messenger of Yahweh appear to am, and e tell am, 'Yahweh ⟨dey⟩ with you, mighty man of valor.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "And appear"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mighty man"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "of valor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:28:29.385328263Z",
+  "model": "glm-5.2"
+}

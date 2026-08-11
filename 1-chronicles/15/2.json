@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "Den David talk say: ⟨e⟩ no fit carry ⟨את⟩ di ark of Elohim at all, ⟨na⟩ only di Leviim — because na dem Yahweh don choose make dem carry ⟨את⟩ di ark of Yahweh and make dem serve am forever.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "fit carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אם",
+      "gloss": "only"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Leviim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "don choose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "make dem carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "and make dem serve am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:53.868216014Z",
+  "model": "glm-5.2"
+}

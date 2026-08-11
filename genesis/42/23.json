@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And dem no know sey Yosef bin dey hear, because di interpreter bin dey between dem.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Yosef bin dey hear"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "di interpreter"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "bin dey between dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:10.110733230Z",
+  "model": "glm-5.2"
+}

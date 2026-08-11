@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Like dis Sancheriv king of Ashur talk: ⟨na⟩ on top wetin una dey trust, and una dey sit-down for siege inside Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheriv"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "dey trust"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "and dey sit-down"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "for siege"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "inside Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:41.200110377Z",
+  "model": "glm-5.2"
+}

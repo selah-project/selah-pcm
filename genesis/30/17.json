@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Elohim bin hear Leah, and she conceive, and she born for Ya'akov one fifth son.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bin hear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "and she conceive"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Ya'akov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "fifth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:12.863721374Z",
+  "model": "glm-5.2"
+}

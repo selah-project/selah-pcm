@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Na ⟨for⟩ me di silver, and na ⟨for⟩ me di gold — oracle of Yahweh of hosts.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na ⟨for⟩ me"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "and na ⟨for⟩ me"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:31.819357396Z",
+  "model": "glm-5.2"
+}

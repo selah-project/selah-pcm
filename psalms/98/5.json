@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "Make una play music for Yahweh wit kinnor; wit kinnor and ⟨di⟩ voice of song.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "make una play music"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wit kinnor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wit kinnor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and voice"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "of song"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:21.821422707Z",
+  "model": "glm-5.2"
+}

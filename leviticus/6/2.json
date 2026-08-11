@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Command ⟨את⟩ Aharon and ⟨את⟩ im sons, sey: Dis one na di torah of di burnt offering; ⟨na⟩ ⟨im⟩ di burnt offering wey go dey on top di firewood, on top di altar, all di night until morning, and di fire of di altar go dey burn inside am.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah of"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "di firewood"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "di night"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "and di fire"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "go dey burn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:24.094045469Z",
+  "model": "glm-5.2"
+}

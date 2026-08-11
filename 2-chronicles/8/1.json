@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bin happen, for di end of twenty year wey Shelomoh bin build ⟨את⟩ di house of Yahweh and ⟨את⟩ im own house,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "for di end of"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im own house"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im own house"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.334783926Z",
+  "model": "glm-5.2"
+}

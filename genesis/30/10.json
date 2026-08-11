@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Zilpa, Lea im maid, born one son for Ya'akob.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "maid"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Ya'akob"
+    },
+    {
+      "surface": "בן",
+      "gloss": "one son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:14.581473959Z",
+  "model": "glm-5.2"
+}

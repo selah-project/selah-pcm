@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di days wey Shelomoh reign for Yerushalayim, on top all Yisra'el, ⟨na⟩ forty years.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "and di days"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "reign"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:31.855214719Z",
+  "model": "glm-5.2"
+}

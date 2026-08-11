@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Plenti pains dey for di wicked man, but di person wey dey trust for Yahweh, chesed go surround am.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "plenti"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "pains"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "for di wicked man"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "but di person wey dey trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "go surround am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:36.099366913Z",
+  "model": "glm-5.2"
+}

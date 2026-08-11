@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Look unto Avraham una papa, and unto Sarah wey bin born una; sake of sey na one person I bin call am, and I go bless am, and I go multiply am.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Look"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "una papa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "wey bin born una"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na one person"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "I bin call am"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "and I go bless am"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "and I go multiply am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:52.586454613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I go surely gather, I go gather Ya'akov, all of you; I go surely collect, I go collect di remnant of Yisra'el; together I go put dem like sheep for fold, like flock for inside ⟨im⟩ pasture, dem go make noise because of di multitude of men.",
+  "tokens": [
+    {
+      "surface": "אָסֹף",
+      "gloss": "I go surely gather"
+    },
+    {
+      "surface": "אֶאֱסֹף",
+      "gloss": "I go gather"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כֻּלָּךְ",
+      "gloss": "all of you"
+    },
+    {
+      "surface": "קַבֵּץ",
+      "gloss": "I go surely collect"
+    },
+    {
+      "surface": "אֲקַבֵּץ",
+      "gloss": "I go collect"
+    },
+    {
+      "surface": "שְׁאֵרִית",
+      "gloss": "di remnant"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "together"
+    },
+    {
+      "surface": "אֲשִׂימֶנּוּ",
+      "gloss": "I go put dem"
+    },
+    {
+      "surface": "כְּצֹאן",
+      "gloss": "like sheep"
+    },
+    {
+      "surface": "בָּצְרָה",
+      "gloss": "for fold"
+    },
+    {
+      "surface": "כְּעֵדֶר",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "הַדָּבְרוֹ",
+      "gloss": "⟨im⟩ pasture"
+    },
+    {
+      "surface": "תְּהִימֶנָה",
+      "gloss": "dem go make noise"
+    },
+    {
+      "surface": "מֵאָדָם",
+      "gloss": "because of di multitude of men"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:51.364257767Z",
+  "model": "glm-5.2"
+}

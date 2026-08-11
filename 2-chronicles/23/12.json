@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Athalyahu hear ⟨את⟩ di voice of di people wey dey run and wey dey praise ⟨את⟩ di king, and she come to di people for house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "and she hear"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "wey dey run"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "and wey dey praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "and she come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:18.644355696Z",
+  "model": "glm-5.2"
+}

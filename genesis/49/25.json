@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "From El of ya papa and ⟨im⟩ wey go help you, and ⟨from⟩ ⟨את⟩ Shaddai, and ⟨im⟩ wey go bless you — blessings of heaven from above, blessings of di deep wey dey lie down beneath, blessings of breast and womb.",
+  "tokens": [
+    {
+      "surface": "מֵאֵ֨ל",
+      "gloss": "from El"
+    },
+    {
+      "surface": "אָבִ֜יךָ",
+      "gloss": "of ya papa"
+    },
+    {
+      "surface": "וְיַעְזְרֶ֗ךָּ",
+      "gloss": "and ⟨im⟩ wey go help you"
+    },
+    {
+      "surface": "וְאֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שַׁדַּי֙",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "וִיבָ֣רְכֶ֔ךָּ",
+      "gloss": "and ⟨im⟩ wey go bless you"
+    },
+    {
+      "surface": "בִּרְכֹ֤ת",
+      "gloss": "blessings"
+    },
+    {
+      "surface": "שָׁמַ֨יִם֙",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "מֵעָ֔ל",
+      "gloss": "from above"
+    },
+    {
+      "surface": "בִּרְכֹ֥ת",
+      "gloss": "blessings"
+    },
+    {
+      "surface": "תְּה֖וֹם",
+      "gloss": "of di deep"
+    },
+    {
+      "surface": "רֹבֶ֣צֶת",
+      "gloss": "wey dey lie down"
+    },
+    {
+      "surface": "תָּ֑חַת",
+      "gloss": "beneath"
+    },
+    {
+      "surface": "בִּרְכֹ֥ת",
+      "gloss": "blessings"
+    },
+    {
+      "surface": "שָׁדַ֖יִם",
+      "gloss": "of breast"
+    },
+    {
+      "surface": "וָרָֽחַם",
+      "gloss": "and womb"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:01.938696708Z",
+  "model": "glm-5.2"
+}

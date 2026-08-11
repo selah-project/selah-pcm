@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Make dem shave am, but ⟨את⟩ di neteq make dem no shave; and di kohen go shut up ⟨את⟩ di neteq seven days second time.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "make dem shave am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di neteq"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "di neteq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "make e shave"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "and go shut up"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di neteq"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "di neteq"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "second time"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:34.671087198Z",
+  "model": "glm-5.2"
+}

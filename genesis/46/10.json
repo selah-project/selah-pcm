@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And ⟨di⟩ sons of Shimon: Yemuel, and Yamin, and Ohad, and Yakhin, and Tsochar, and Shaul, son of di Kena'anit woman.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and ⟨di⟩ sons of"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "and Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "and Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "and Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "and Tsochar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "and Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "di Kena'anit woman"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:31.840574370Z",
+  "model": "glm-5.2"
+}

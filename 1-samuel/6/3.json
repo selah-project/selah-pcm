@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem talk, \"If una dey send ⟨את⟩ di ark of Elohim of Yisra'el, no send ⟨את⟩ am empty, because una must surely return to am guilt-offering; den una go heal, and e go be known to una why im hand no dey turn away from una.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "una dey send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "send"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "empty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "השב",
+      "gloss": "surely return"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "una must return"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "guilt-offering"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "una go heal"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "and e go be known"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "dey turn away"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "from una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:41.524881718Z",
+  "model": "glm-5.2"
+}

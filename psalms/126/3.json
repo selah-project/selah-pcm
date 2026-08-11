@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 126,
+  "translation": "Yahweh don do great tins wit us; we come dey glad.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "don do great tins"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wit us"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "we come be"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "dey glad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:35.488533408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Make you tithe, you go tithe ⟨את⟩ all di produce of your seed, ⟨wey⟩ dey come out from di field, year by year.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tithe"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "you go tithe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di produce of your seed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "di produce"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "of your seed"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "⟨wey⟩ dey come out"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "from di field"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "by year"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:13.912042081Z",
+  "model": "glm-5.2"
+}

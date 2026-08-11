@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "So dem bin fulfill forty day for am, because na so dem dey fulfill di days of embalming, and Mitsrayim bin cry ⟨את⟩ am seventy day.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "and bin fulfill"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "dem dey fulfill"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "days"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "of embalming"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and bin cry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:22.088870341Z",
+  "model": "glm-5.2"
+}

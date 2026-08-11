@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So Mosheh bin stretch out ⟨את⟩ im staff toward heaven, and Yahweh bin give voices and hail, and fire bin dey waka go down to ⟨the⟩ earth, and Yahweh bin make hail fall on top ⟨the⟩ land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "bin stretch out"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im staff"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "im staff"
+    },
+    {
+      "surface": "על",
+      "gloss": "toward"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bin give"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "voices"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "and hail"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "and bin dey waka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "go down to earth"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "and bin make fall"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hail"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:45.532367415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Till when, you lazy person, ⟨you⟩ go lie down? Till when you go rise from your sleep?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "till"
+    },
+    {
+      "surface": "מָתַ֗י",
+      "gloss": "when"
+    },
+    {
+      "surface": "עָצֵ֥ל",
+      "gloss": "lazy person"
+    },
+    {
+      "surface": "תִּשְׁכָּ֑ב",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "מָ֝תַ֗י",
+      "gloss": "when"
+    },
+    {
+      "surface": "תָּק֥וּם",
+      "gloss": "go rise"
+    },
+    {
+      "surface": "מִשְּׁנָתֶֽךָ",
+      "gloss": "from your sleep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:13.551454441Z",
+  "model": "glm-5.2"
+}

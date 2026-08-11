@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Vanity, dem be — work of mockery; for di time of dia visitation dem go perish.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work of"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "mockery"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "for di time of"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "dia visitation"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "dem go perish"
+    }
+  ],
+  "timestamp": "2026-08-11T11:43:41.879770528Z",
+  "model": "glm-5.2"
+}

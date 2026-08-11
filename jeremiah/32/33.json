@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And dem turn ⟨את⟩ dia back to Me, and no be face; and I bin teach dem, dey start early and dey teach, and dem no dey hear, to take correction.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "and dem turn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "back",
+      "marks": "back"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "and I bin teach"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (object)"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "dey start early"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "and dey teach"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "and dem no"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "dey hear"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "to take"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "correction"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.815971289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "E ⟨be⟩ Shabbat of complete rest for una, and una must afflict ⟨את⟩ una nefesh. For di ninth ⟨day⟩ of di month, for evening, from evening reach evening, una go keep una Shabbat.",
+  "tokens": [
+    {
+      "surface": "שַׁבַּ֨ת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שַׁבָּת֥וֹן",
+      "gloss": "of complete rest"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "e"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "וְעִנִּיתֶ֖ם",
+      "gloss": "and una must afflict"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "una nefesh"
+    },
+    {
+      "surface": "נַפְשֹׁתֵיכֶ֑ם",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "בְּתִשְׁעָ֤ה",
+      "gloss": "for di ninth"
+    },
+    {
+      "surface": "לַחֹ֨דֶשׁ֙",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "בָּעֶ֔רֶב",
+      "gloss": "for evening"
+    },
+    {
+      "surface": "מֵעֶ֣רֶב",
+      "gloss": "from evening"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עֶ֔רֶב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "תִּשְׁבְּת֖וּ",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "שַׁבַּתְּכֶֽם",
+      "gloss": "una Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:13.606178962Z",
+  "model": "glm-5.2"
+}

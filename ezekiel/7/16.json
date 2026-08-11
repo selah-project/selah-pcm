@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 7:16",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And ⟨dem⟩ wey escape go escape, and dem go dey for di mountains like dove dem of di valleys — all of dem dey moan, each man for im own sin.",
+  "tokens": [
+    {
+      "surface": "וּפָֽלְטוּ֙",
+      "gloss": "go escape"
+    },
+    {
+      "surface": "פְּלִ֣יטֵיהֶ֔ם",
+      "gloss": "dem wey escape"
+    },
+    {
+      "surface": "וְהָי֣וּ",
+      "gloss": "and go dey"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "for"
+    },
+    {
+      "surface": "הֶהָרִ֗ים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "כְּיוֹנֵ֧י",
+      "gloss": "like dove dem"
+    },
+    {
+      "surface": "הַגֵּאָי֛וֹת",
+      "gloss": "of di valleys"
+    },
+    {
+      "surface": "כֻּלָּ֖ם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "הֹמ֑וֹת",
+      "gloss": "dey moan"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "each man"
+    },
+    {
+      "surface": "בַּעֲוֺנֽוֹ",
+      "gloss": "for im own sin"
+    }
+  ],
+  "timestamp": "2026-08-11T14:46:59.144790260Z",
+  "model": "glm-5.2"
+}

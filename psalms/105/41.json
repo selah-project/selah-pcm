@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "E bin open ⟨את⟩ di rock, and water bin flow out; e bin run for inside dry place like river.",
+  "tokens": [
+    {
+      "surface": "פָּ֣תַח",
+      "gloss": "E bin open"
+    },
+    {
+      "surface": "צ֭וּר",
+      "gloss": "rock"
+    },
+    {
+      "surface": "וַיָּז֣וּבוּ",
+      "gloss": "and water bin flow out"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "water"
+    },
+    {
+      "surface": "הָ֝לְכ֗וּ",
+      "gloss": "e bin run"
+    },
+    {
+      "surface": "בַּצִּיּ֥וֹת",
+      "gloss": "for inside dry place"
+    },
+    {
+      "surface": "נָהָֽר",
+      "gloss": "like river"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:57.181362802Z",
+  "model": "glm-5.2"
+}

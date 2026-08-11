@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And I, I bin teach Efrayim make e waka, I bin carry dem for ⟨my⟩ arms; but dem no know sey I bin heal dem.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "תִּרְגַּלְתִּי",
+      "gloss": "I bin teach make e waka"
+    },
+    {
+      "surface": "לְאֶפְרַיִם",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קָחָם",
+      "gloss": "I bin carry dem"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "זְרוֹעֹתָיו",
+      "gloss": "⟨my⟩ arms"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יָדְעוּ",
+      "gloss": "dem know"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "רְפָאתִים",
+      "gloss": "I bin heal dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:24.900485104Z",
+  "model": "glm-5.2"
+}

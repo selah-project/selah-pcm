@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "⟨את⟩ Feast of Matzot you go keep; seven days you go chop matzot, wey I command you, for di appointed time, month of Aviv; because for ⟨di⟩ month of Aviv you comot from Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Feast of Matzot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "Feast"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "of Matzot"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "you go keep"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "you go chop"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "I command you"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "for di appointed time"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "month"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "of Aviv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for ⟨di⟩ month"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "of Aviv"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "you comot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:57.210188973Z",
+  "model": "glm-5.2"
+}

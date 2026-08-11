@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Any clean bird una fit chop.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Any"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "bird"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "clean"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una fit chop"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:10.736229057Z",
+  "model": "glm-5.2"
+}

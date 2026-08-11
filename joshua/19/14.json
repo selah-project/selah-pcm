@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And ⟨di⟩ border turn round am from north, Channaton, and im end-corners bin ⟨be⟩ di gorge of Yiftach-El.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "and e turn round"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "di border"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "di border"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "from north"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Channaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and dem bin ⟨be⟩"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "im end-corners"
+    },
+    {
+      "surface": "גי",
+      "gloss": "di gorge"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:10.187581932Z",
+  "model": "glm-5.2"
+}

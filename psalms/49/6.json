@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Why I go fear for days of evil, ⟨when⟩ iniquity of my heels go surround me?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "I go fear"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for days of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "of my heels"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "go surround me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:55.535868094Z",
+  "model": "glm-5.2"
+}

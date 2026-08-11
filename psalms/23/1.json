@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Song of Davịd. Yahweh ⟨na⟩ my shepherd, I no go lack notin.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of Davịd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "my shepherd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "I go lack"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:03.606577816Z",
+  "model": "glm-5.2"
+}

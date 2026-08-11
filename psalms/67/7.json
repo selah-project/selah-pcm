@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 67,
+  "translation": "Earth don give im harvest; Elohim, ⟨na⟩ our Elohim, go bless us.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Earth"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "don give"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "im harvest"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "go bless us"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:07.925653253Z",
+  "model": "glm-5.2"
+}

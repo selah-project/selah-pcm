@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yahweh bin talk to Mosheh sey, why you dey cry to me? Tell ⟨את⟩ di pipo of Yisra'el sey make dem move forward.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "why"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "you dey cry"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pipo of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "and make dem move forward"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:25.220714245Z",
+  "model": "glm-5.2"
+}

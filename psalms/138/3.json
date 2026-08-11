@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 138,
+  "translation": "Di day wey I call, you answer me; you ginger my soul wit strength.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wey I call"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "you answer me"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "you ginger"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "my soul"
+    },
+    {
+      "surface": "עז",
+      "gloss": "wit strength"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:51.706513015Z",
+  "model": "glm-5.2"
+}

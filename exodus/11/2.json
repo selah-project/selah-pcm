@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Talk now for di ear of di people, make every man ask from ⟨את⟩ im neighbor, and every woman from ⟨את⟩ im neighbor-female, vessel of silver and vessel of gold.\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "for di ear of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "and make dem ask"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbor"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "and woman"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbor-female"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "im neighbor-female"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "and vessel"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:56.365707981Z",
+  "model": "glm-5.2"
+}

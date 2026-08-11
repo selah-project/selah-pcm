@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Now Yeriho bin dey lock up and dem lock am tight, because of di face of ⟨di⟩ pikin-dem of Yisra'el — nobody bin dey komot and nobody bin dey enta.",
+  "tokens": [
+    {
+      "surface": "וִֽירִיחוֹ֙",
+      "gloss": "Now Yeriho"
+    },
+    {
+      "surface": "סֹגֶ֣רֶת",
+      "gloss": "bin dey lock up"
+    },
+    {
+      "surface": "וּמְסֻגֶּ֔רֶת",
+      "gloss": "and dem lock am tight"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "because of di face of"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "⟨di⟩ pikin-dem of"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "nobody bin dey"
+    },
+    {
+      "surface": "יוֹצֵ֖א",
+      "gloss": "komot"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "and nobody bin dey"
+    },
+    {
+      "surface": "בָּֽא",
+      "gloss": "enta"
+    }
+  ],
+  "timestamp": "2026-08-11T14:30:12.404889792Z",
+  "model": "glm-5.2"
+}

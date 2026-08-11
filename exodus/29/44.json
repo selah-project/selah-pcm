@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And I go sanctify ⟨את⟩ di tent of meeting and ⟨את⟩ di altar; and ⟨את⟩ Aharon and ⟨את⟩ im sons I go sanctify, to serve as priest for Me.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "and I go sanctify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tent of meeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "I go sanctify"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "to serve as priest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for Me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:08.679439061Z",
+  "model": "glm-5.2"
+}

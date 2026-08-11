@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "And e bin bring out im people wit joy, wit shout of gladness ⟨את⟩ im chosen dem.",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצִ֣א",
+      "gloss": "And e bin bring out"
+    },
+    {
+      "surface": "עַמּ֣וֹ",
+      "gloss": "im people"
+    },
+    {
+      "surface": "בְשָׂשׂ֑וֹן",
+      "gloss": "wit joy"
+    },
+    {
+      "surface": "בְּ֝רִנָּ֗ה",
+      "gloss": "wit shout of gladness"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im chosen dem"
+    },
+    {
+      "surface": "בְּחִירָֽיו",
+      "gloss": "im chosen dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:57.181746574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Because Yahweh bin humble ⟨את⟩ Yehudah for sake of Achaz king of Yisra'el; because ⟨he⟩ bin cast off restraint for Yehudah, and ⟨he⟩ bin commit serious treachery against Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "bin humble"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "for sake of"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "⟨he⟩ bin cast off restraint"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "for Yehudah"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "and ⟨he⟩ bin commit serious treachery"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "treachery"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "against Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:39.632669225Z",
+  "model": "glm-5.2"
+}

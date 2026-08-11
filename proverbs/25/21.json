@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "If person wey dey hate you hungry, make you give am bread to chop; and if ⟨im⟩ thirsty, make you give am water to drink.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "⟨im dey⟩ hungry"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "person wey dey hate you"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "make you give am to chop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "⟨im⟩ thirsty"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "make you give am to drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:03.130945113Z",
+  "model": "glm-5.2"
+}

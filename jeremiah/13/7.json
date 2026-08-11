@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So I bin go Perath, and I bin dig, and I bin take ⟨את⟩ di girdle from di place wey I bin hide am dere; and behold, di girdle bin spoil — e no fit do anything at all.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "So I bin go"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Perath"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "and I bin dig"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "and I bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di girdle"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "di girdle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "I bin hide am"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "bin spoil"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "di girdle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "fit do"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "anything at all"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:32.660884729Z",
+  "model": "glm-5.2"
+}

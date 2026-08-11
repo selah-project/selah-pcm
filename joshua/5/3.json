@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "So Yehoshua make flint knife-dem for himself, and circumcise ⟨את⟩ di pikin-dem of Yisra'el for Giv'at Haaralot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for himself"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "knife-dem"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "of flint"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "and circumcise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin-dem of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Haaralot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:09.033259564Z",
+  "model": "glm-5.2"
+}

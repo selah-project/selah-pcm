@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Person wey ⟨be⟩ good, ⟨im⟩ go get favor from Yahweh; but person wey dey plan evil, ⟨Yahweh⟩ go condemn.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "go get"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "favor"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "but person"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "evil plan"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "go condemn"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:02.741667995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Elohim tok to Bilam sey, make you no go wit dem; make you no curse ⟨את⟩ di people, because ⟨dem⟩ dey blessed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "make you go"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "make you curse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:08.974108922Z",
+  "model": "glm-5.2"
+}

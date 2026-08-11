@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 10:12",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And all dia flesh, and dia backs, and dia hands, and dia wings, and di wheels — full of eyes all around, for di four of dem; ⟨na⟩ dia wheels.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "בְּשָׂרָם",
+      "gloss": "dia flesh"
+    },
+    {
+      "surface": "וְגַבֵּהֶם",
+      "gloss": "and dia backs"
+    },
+    {
+      "surface": "וִידֵיהֶם",
+      "gloss": "and dia hands"
+    },
+    {
+      "surface": "וְכַנְפֵיהֶם",
+      "gloss": "and dia wings"
+    },
+    {
+      "surface": "וְהָאוֹפַנִּים",
+      "gloss": "and di wheels"
+    },
+    {
+      "surface": "מְלֵאִים",
+      "gloss": "full"
+    },
+    {
+      "surface": "עֵינַיִם",
+      "gloss": "of eyes"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּם",
+      "gloss": "for di four of dem"
+    },
+    {
+      "surface": "אוֹפַנֵּיהֶם",
+      "gloss": "dia wheels"
+    }
+  ],
+  "timestamp": "2026-08-11T12:05:03.393581218Z",
+  "model": "glm-5.2"
+}

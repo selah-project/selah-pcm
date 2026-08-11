@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Nabal answer ⟨את⟩ David servants dem, and e talk, \"Who ⟨be⟩ David? And who ⟨be⟩ Yishai son? Today servants don plenti — ⟨dem be⟩ people wey dey break away, each man from im master face.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "answer"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David servants dem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "don plenti"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servants"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "people wey dey break away"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from face"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:16.861469503Z",
+  "model": "glm-5.2"
+}

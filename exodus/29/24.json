@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go put all ⟨the⟩ tins on top di palms of Aharon and on top di palms of im sons, and you go wave ⟨את⟩ dem as wave offering before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "di palms"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "di palms"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "of im sons"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "and you go wave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "as wave offering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:17.791776746Z",
+  "model": "glm-5.2"
+}

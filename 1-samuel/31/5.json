@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And wen di man wey dey carry im weapon see sey Shaul don die, im sef fall on top im sword, and im die wit am.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and wen ⟨he⟩ see"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "di man wey dey carry"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im weapon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מת",
+      "gloss": "don die"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "and ⟨he⟩ fall"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "im sword"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨he⟩ die"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:22.070329895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Look on all ⟨the⟩ proud ⟨person⟩, make am bow; and crush wicked ⟨ones⟩ for dia ground.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "proud ⟨person⟩"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "make am bow"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "and crush"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked ⟨ones⟩"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "for dia ground"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:26.634561730Z",
+  "model": "glm-5.2"
+}

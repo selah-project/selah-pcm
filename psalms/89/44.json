@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Even, you bin turn back di sharpness of im sword, and you no bin make am stand for battle.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "you bin turn back"
+    },
+    {
+      "surface": "צור",
+      "gloss": "di sharpness"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "of im sword"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and you no bin"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "make am stand"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "for battle"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.815512349Z",
+  "model": "glm-5.2"
+}

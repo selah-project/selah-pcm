@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Yahweh dey build Yerushalaim, ⟨im⟩ dey gather di scattered ones of Yisrael.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "dey build"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "di scattered ones"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "⟨im⟩ dey gather"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:08.377831795Z",
+  "model": "glm-5.2"
+}

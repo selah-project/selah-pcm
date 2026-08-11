@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Like dis Yahweh talk: make wise man no dey boast im wisdom, and make strong man no dey boast im strength, make rich man no dey boast im riches.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dey boast"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise man"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "im wisdom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make ... no"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dey boast"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "strong man"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "im strength"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dey boast"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich man"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "im riches"
+    }
+  ],
+  "timestamp": "2026-08-11T11:44:21.090045356Z",
+  "model": "glm-5.2"
+}

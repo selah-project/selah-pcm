@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Look, dat night, make e be barren; make no joyful shout come inside am.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dat night"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make be"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "barren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make no"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "come"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "joyful shout"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:23.754677096Z",
+  "model": "glm-5.2"
+}

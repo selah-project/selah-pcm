@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "den Yahweh go drive out ⟨את⟩ all dis nation dem from una front, and una go possess nation dem wey ⟨be⟩ big and mighty pass una.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "den go drive out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis nation dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nation dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "from una front"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "and una go possess"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nation dem"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "big"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "and mighty"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pass una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:15.289337324Z",
+  "model": "glm-5.2"
+}

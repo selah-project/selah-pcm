@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And you, bring near to yourself ⟨את⟩ Aharon, your brother, and ⟨את⟩ his sons with ⟨את⟩ him, from among di sons of Yisra'el, to serve as priest for Me — Aharon, Nadav, and Avihu, El'azar, and Itamar, sons of Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bring near"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to yourself"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "his sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "his sons"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "with ⟨את⟩"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from among"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "to serve as priest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for Me"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "and Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "and Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:25.286900864Z",
+  "model": "glm-5.2"
+}

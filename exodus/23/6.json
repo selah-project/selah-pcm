@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make you no bend ⟨di⟩ judgment of your poor person for im case.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַטֶּ֛ה",
+      "gloss": "make you no bend"
+    },
+    {
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "אֶבְיֹנְךָ֖",
+      "gloss": "of your poor person"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "for im case"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:41.620573015Z",
+  "model": "glm-5.2"
+}

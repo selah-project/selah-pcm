@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Hiram king of Tzor bin send ⟨את⟩ im servant-dem to Shelomoh, because ⟨he⟩ hear sey dem don anoint ⟨את⟩ ⟨am⟩ make ⟨he⟩ be king for place of im papa; because Hiram bin dey ⟨be⟩ lover of Dawid all im day-dem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "צור",
+      "gloss": "of Tzor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servant-dem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨he⟩ hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "dem don anoint"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "make ⟨he⟩ be king"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for place of"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "lover"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey ⟨be⟩"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "im day-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:07.814523305Z",
+  "model": "glm-5.2"
+}

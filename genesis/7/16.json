@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di ones wey bin come, male and female from all flesh, dem bin come, as Elohim bin command ⟨את⟩ am; and Yahweh bin shut am in.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "and di ones wey bin come"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "and female"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem bin come"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "and bin shut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "am in"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:26.489828551Z",
+  "model": "glm-5.2"
+}

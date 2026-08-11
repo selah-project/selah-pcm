@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Avraham bin stretch ⟨את⟩ im hand, and bin take ⟨את⟩ di knife, to slaughter ⟨את⟩ im son.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin stretch"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di knife"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "di knife"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "to slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im son"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:17.984797262Z",
+  "model": "glm-5.2"
+}

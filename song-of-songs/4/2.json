@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 4:2",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Your teeth like flock of sheep wey dem shear, wey come up from washing, all of dem match, and no barren one dey among dem.",
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "your teeth"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "הקצובות",
+      "gloss": "of sheep wey dem shear"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "wey come up"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "washing"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "match"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "and barren one"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "among dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:33.954265597Z",
+  "model": "glm-5.2"
+}

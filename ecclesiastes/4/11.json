@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Also if two lie down, warmth dey for dem; but for one, how im wan warm?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "warmth dey"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "but for one"
+    },
+    {
+      "surface": "איך",
+      "gloss": "how"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "im wan warm"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:18.830998920Z",
+  "model": "glm-5.2"
+}

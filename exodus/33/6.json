@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "So di pickin of Yisra'el strip ⟨את⟩ dia ornament from Mount Choreb go.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "so dem strip"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pickin of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia ornament"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dia ornament"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "from Mount"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Choreb"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:24.077838267Z",
+  "model": "glm-5.2"
+}

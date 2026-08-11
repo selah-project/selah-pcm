@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "but di seventh day ⟨na⟩ Sabbath for Yahweh your Elohim — you no go do any kind work: you, your son, your daughter, your servant, your female-servant, your animal, and di stranger wey dey inside your gates.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "but ⟨di⟩ day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "your son"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "your daughter"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "your female-servant"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "your animal"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "and di stranger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dey inside your gates"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:17.300776484Z",
+  "model": "glm-5.2"
+}

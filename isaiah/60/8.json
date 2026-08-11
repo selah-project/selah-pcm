@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "Who ⟨be⟩ dis ⟨people⟩? Like cloud dem dey fly, and like dove to dia window.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "like cloud"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "dem dey fly"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "and like dove"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "dia window"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:19.703383381Z",
+  "model": "glm-5.2"
+}

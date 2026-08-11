@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Dem don pour dia blood-dem like water around Yerushalayim, and nobody dey bury.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "dem don pour"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dia blood-dem"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "like water"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "around"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "dey bury"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:14.921414776Z",
+  "model": "glm-5.2"
+}

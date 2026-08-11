@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "If one man thief cow or sheep, and e slaughter am or sell am, five cow ⟨e⟩ go pay under ⟨את⟩ di cow, and four flock under di sheep.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "If"
+    },
+    {
+      "surface": "יִגְנֹֽב",
+      "gloss": "thief"
+    },
+    {
+      "surface": "אִישׁ֙",
+      "gloss": "one man"
+    },
+    {
+      "surface": "שׁ֣וֹר",
+      "gloss": "cow"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "or"
+    },
+    {
+      "surface": "שֶׂ֔ה",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "וּטְבָח֖וֹ",
+      "gloss": "and e slaughter am"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "or"
+    },
+    {
+      "surface": "מְכָר֑וֹ",
+      "gloss": "sell am"
+    },
+    {
+      "surface": "חֲמִשָּׁ֣ה",
+      "gloss": "five"
+    },
+    {
+      "surface": "בָקָ֗ר",
+      "gloss": "cow"
+    },
+    {
+      "surface": "יְשַׁלֵּם֙",
+      "gloss": "go pay"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הַשּׁ֔וֹר",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הַשּׁ֔וֹר",
+      "gloss": "di cow"
+    },
+    {
+      "surface": "וְאַרְבַּע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "צֹ֖אן",
+      "gloss": "flock"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הַשֶּֽׂה",
+      "gloss": "di sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:31.465185359Z",
+  "model": "glm-5.2"
+}

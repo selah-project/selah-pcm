@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I see ⟨di⟩ traitors and I dey vex, sey ⟨di⟩ word of you dem no keep.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "traitors"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "and I dey vex"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "word of you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dem keep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:28.769038731Z",
+  "model": "glm-5.2"
+}

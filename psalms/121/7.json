@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 121,
+  "translation": "Yahweh go guard you from all bad thing, ⟨im⟩ go guard ⟨את⟩ your life.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "go guard you"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad thing"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "⟨im⟩ go guard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your life"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:52.052206674Z",
+  "model": "glm-5.2"
+}

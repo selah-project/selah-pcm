@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "But dem, like Adam, don cross covenant; for there dem don deal treacherously against Me.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "but dem"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "like Adam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "don cross\/transgress"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "dem don deal treacherously"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against Me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:45.465210793Z",
+  "model": "glm-5.2"
+}

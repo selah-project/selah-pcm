@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "I go tank Yahweh well-well with my mouth, and among plenty people I go praise am.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "I go tank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "with my mouth"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "and among"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty people"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "I go praise am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:32.058106549Z",
+  "model": "glm-5.2"
+}

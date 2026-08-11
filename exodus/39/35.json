@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "⟨את⟩ di ark of di testimony, and ⟨את⟩ im poles, and ⟨את⟩ di mercy seat:",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di ark of di testimony"
+    },
+    {
+      "surface": "אֲרֹ֥ן",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "הָעֵדֻ֖ת",
+      "gloss": "of di testimony"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im poles"
+    },
+    {
+      "surface": "בַּדָּ֑יו",
+      "gloss": "im poles"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di mercy seat"
+    },
+    {
+      "surface": "הַכַּפֹּֽרֶת",
+      "gloss": "di mercy seat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:46.569728696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And ⟨את⟩ di skin of di small goat wey belong to di goat dem, she wear put on top im hand dem, and on top di smooth part of im neck.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di skin"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "skin"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "small goat"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "di goat dem"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "she wear put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "im hand dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "smooth part"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "im neck"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:18.531974169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So dat night dem make dia papa drink wine, and di firstborn come inside, and ⟨he⟩ lie down ⟨with⟩ ⟨את⟩ im papa; and ⟨he⟩ no know when she lie down and when she stand up.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "dem make drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia papa"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "and ⟨she⟩ come inside"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "and ⟨she⟩ lie down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨he⟩ no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "when she lie down"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "and when she stand up"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:57.035569061Z",
+  "model": "glm-5.2"
+}

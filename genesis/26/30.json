@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And im do feast for dem, and dem chop and dem drink.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and im do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "feast"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "and dem chop"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "and dem drink"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:51.985546317Z",
+  "model": "glm-5.2"
+}

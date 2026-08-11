@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And im measure ⟨את⟩ di gate, from di roof of one small-room to im roof — breadth of twenty and five cubits; entrance dey face entrance.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and im measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gate"
+    },
+    {
+      "surface": "השער",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "from roof"
+    },
+    {
+      "surface": "התא",
+      "gloss": "of one small-room"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "to im roof"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breadth"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:03.301150266Z",
+  "model": "glm-5.2"
+}

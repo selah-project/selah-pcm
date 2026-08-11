@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "So we talk sey, 'Make we now do for ourself, to build ⟨את⟩ ⟨di⟩ altar; no for burnt offering and no for sacrifice.'",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "So we talk sey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "make we do"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for ourself"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨di⟩ altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨di⟩ altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "for burnt offering"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "for sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:17.430016454Z",
+  "model": "glm-5.2"
+}

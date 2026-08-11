@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Who ⟨be⟩ dis — ⟨di⟩ King of glory? Yahweh of hosts, ⟨na⟩ Him ⟨be⟩ ⟨di⟩ King of glory. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "of glory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ Him ⟨be⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "of glory"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:10.437533353Z",
+  "model": "glm-5.2"
+}

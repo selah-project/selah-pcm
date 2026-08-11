@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 1:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dia leg dem — straight leg; and di sole of dia leg dem, like sole of calf leg; and dem ⟨bin dey⟩ shine like appearance of bronze wey dem shine well.",
+  "tokens": [
+    {
+      "surface": "וְרַגְלֵיהֶם",
+      "gloss": "and dia leg dem"
+    },
+    {
+      "surface": "רֶגֶל",
+      "gloss": "leg"
+    },
+    {
+      "surface": "יְשָׁרָה",
+      "gloss": "straight"
+    },
+    {
+      "surface": "וְכַף",
+      "gloss": "and sole"
+    },
+    {
+      "surface": "רַגְלֵיהֶם",
+      "gloss": "dia leg dem"
+    },
+    {
+      "surface": "כְּכַף",
+      "gloss": "like sole"
+    },
+    {
+      "surface": "רֶגֶל",
+      "gloss": "leg"
+    },
+    {
+      "surface": "עֵגֶל",
+      "gloss": "calf"
+    },
+    {
+      "surface": "וְנֹצְצִים",
+      "gloss": "and dem shine"
+    },
+    {
+      "surface": "כְּעֵין",
+      "gloss": "like appearance"
+    },
+    {
+      "surface": "נְחֹשֶׁת",
+      "gloss": "bronze"
+    },
+    {
+      "surface": "קָלָל",
+      "gloss": "wey dem shine well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:19.192719721Z",
+  "model": "glm-5.2"
+}

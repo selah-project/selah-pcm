@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Because Elohim go save Zion, and go build di towns of Yehudah, and dem go stay dere, and dem go possess am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "go save"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "and go build"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "towns of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and dem go stay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "and dem go possess am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:41.715038148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And I bin bring una papa-dem comot from Mitsrayim, and una come reach di sea; and Mitsrayim pursue una papa-dem wit chariot and wit horsemen, Yam Suph.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "and I bin bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una papa-dem"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "una papa-dem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "and una come"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "reach di sea"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "and pursue"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "una papa-dem"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "wit chariot"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "and wit horsemen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:10.899533060Z",
+  "model": "glm-5.2"
+}

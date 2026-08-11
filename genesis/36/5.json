@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And Oholivamah bin bear ⟨את⟩ Yeish, and ⟨את⟩ Yalam, and ⟨את⟩ Korach. Dis dem be di sons of Esav, wey dem bon for am for di land of Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "And Oholivamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bin bear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dis dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dem bon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:55.555737713Z",
+  "model": "glm-5.2"
+}

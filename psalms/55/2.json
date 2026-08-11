@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Make you ⟨open⟩ ear, O Elohim, to my prayer, and no hide from my begging.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "make you ⟨open⟩ ear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "to my prayer"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "hide"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "from my begging"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:30.008332101Z",
+  "model": "glm-5.2"
+}

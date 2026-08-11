@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "You fine pass di pikin-dem of man; grace pour on top your lip-dem; dat na why Elohim don bless you forever.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "you fine pass"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "pour"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grace"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "on top your lip-dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "don bless you"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:01.892198492Z",
+  "model": "glm-5.2"
+}

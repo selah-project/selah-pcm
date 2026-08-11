@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di king put ⟨את⟩ Benayahu son of Yehoyada for im place, on top di army; and ⟨את⟩ Tsadok di priest, di king put for Ebjatar place.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and di king put"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "di army"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di king put"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for im place"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjatar"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:33.612261163Z",
+  "model": "glm-5.2"
+}

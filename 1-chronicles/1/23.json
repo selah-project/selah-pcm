@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "and ⟨את⟩ Ophir, and ⟨את⟩ Chavilah, and ⟨את⟩ Jobab; all dis one, ⟨dem be⟩ sons of Joktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ophir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Jobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:19.200583154Z",
+  "model": "glm-5.2"
+}

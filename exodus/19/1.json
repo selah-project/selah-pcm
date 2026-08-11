@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "For di third month, when ⟨son of⟩ Yisra'el bin komot from di land of Mitsrayim, for dat same day, dem come enter di wilderness of Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "di third ⟨one⟩"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "to komot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨son of⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from ⟨di⟩ land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for ⟨di⟩ day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem come"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wilderness of"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:58.824452254Z",
+  "model": "glm-5.2"
+}

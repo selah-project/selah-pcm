@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And dem wake early di next morning, and dem offer burnt sacrifice, and dem bring near peace offering, and di people siddon to chop, and drink, and dem stand up to play.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "and wake early"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "next morning"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "and offer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "burnt sacrifice"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "and bring near"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "peace offering"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and siddon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "and drink"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "and stand up"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "to play"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:21.521838935Z",
+  "model": "glm-5.2"
+}

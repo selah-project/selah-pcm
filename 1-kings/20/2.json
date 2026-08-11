@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e send messenger dem to Ahab, king of Yisra'el, inside di city.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and e send"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messenger dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "inside di city"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:09.172424678Z",
+  "model": "glm-5.2"
+}

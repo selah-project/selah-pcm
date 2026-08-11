@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "My Elohim, rescue me from hand of di wicked one, from palm of person wey dey do wrong, and wey dey cruel.",
+  "tokens": [
+    {
+      "surface": "אֱֽלֹהַ֗י",
+      "gloss": "My Elohim"
+    },
+    {
+      "surface": "פַּ֭לְּטֵנִי",
+      "gloss": "rescue me"
+    },
+    {
+      "surface": "מִיַּ֣ד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "of di wicked one"
+    },
+    {
+      "surface": "מִכַּ֖ף",
+      "gloss": "from palm"
+    },
+    {
+      "surface": "מְעַוֵּ֣ל",
+      "gloss": "of person wey dey do wrong"
+    },
+    {
+      "surface": "וְחוֹמֵץ",
+      "gloss": "and wey dey cruel"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:22.024696334Z",
+  "model": "glm-5.2"
+}

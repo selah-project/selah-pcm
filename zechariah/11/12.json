@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And I bin talk to dem, If e good for una eye, give my wage; and if no, stop. And dem weigh ⟨את⟩ my wage — thirty ⟨pieces⟩ of silver.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "and I bin talk"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e good"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "for una eye"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "give"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "my wage"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "stop"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "and dem weigh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my wage"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "my wage"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of silver"
+    }
+  ],
+  "timestamp": "2026-08-11T12:35:23.771550598Z",
+  "model": "glm-5.2"
+}

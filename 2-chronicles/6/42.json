@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, no turn away ⟨the⟩ face of your anointed ones; remember ⟨di⟩ chesed of Dawid your servant.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "turn away"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "your anointed ones"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "remember"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "di chesed of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:12.395787894Z",
+  "model": "glm-5.2"
+}

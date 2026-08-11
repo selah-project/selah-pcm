@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Fire bin chop im young men, and im virgins no get praise-song.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "im young men"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "bin chop"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "and im virgins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "get praise-song"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:20.441032566Z",
+  "model": "glm-5.2"
+}

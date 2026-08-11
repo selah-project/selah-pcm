@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "If ⟨im⟩ take anoda woman for imself, im food, im clothing, and im marital rights — ⟨im⟩ no go reduce.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "⟨im⟩ go take"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "im food"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "im clothing"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "and im marital rights"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "go reduce"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:39.624836789Z",
+  "model": "glm-5.2"
+}

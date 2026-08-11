@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Yahweh don fulfill ⟨את⟩ im word wey im bin talk; and I don stand for di place of David my fada, and I don sit down on top di throne of Yisrael, as Yahweh bin talk, and I don build di house for di name of Yahweh, Elohim of Yisrael.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֣קֶם",
+      "gloss": "and don fulfill"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im word"
+    },
+    {
+      "surface": "דְּבָר֖וֹ",
+      "gloss": "im word"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דִּבֵּ֑ר",
+      "gloss": "im bin talk"
+    },
+    {
+      "surface": "וָאָק֡וּם",
+      "gloss": "and I don stand"
+    },
+    {
+      "surface": "תַּחַת֩",
+      "gloss": "for di place of"
+    },
+    {
+      "surface": "דָּוִ֨יד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אָבִ֜י",
+      "gloss": "my fada"
+    },
+    {
+      "surface": "וָאֵשֵׁ֣ב",
+      "gloss": "and I don sit down"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כִּסֵּ֣א",
+      "gloss": "di throne"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֗ל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "כַּאֲשֶׁר֙",
+      "gloss": "as"
+    },
+    {
+      "surface": "דִּבֶּ֣ר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וָאֶבְנֶ֣ה",
+      "gloss": "and I don build"
+    },
+    {
+      "surface": "הַבַּ֔יִת",
+      "gloss": "di house"
+    },
+    {
+      "surface": "לְשֵׁ֥ם",
+      "gloss": "for di name"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:37.018381806Z",
+  "model": "glm-5.2"
+}

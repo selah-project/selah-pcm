@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 32:2",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And at dat time, di army of di king of Bavel dey besiege Yerushalayim; and Yirmeyahu di nabi bin dey locked up for di courtyard of di guard, wey ⟨be⟩ for di house of di king of Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואז",
+      "gloss": "and at dat time"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "di army"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "dey besiege"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "and Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di nabi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "כלוא",
+      "gloss": "locked up"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "for di courtyard"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "of di guard"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨be⟩ for di house"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:52:58.840553132Z",
+  "model": "glm-5.2"
+}

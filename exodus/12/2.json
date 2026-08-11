@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Dis month go be ⟨na⟩ beginning of months for una; ⟨im⟩ ⟨be⟩ di first for una, among di months of di year.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "di month"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "beginning"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "of months"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "first"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "among di months of"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "di year"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:52.089188463Z",
+  "model": "glm-5.2"
+}

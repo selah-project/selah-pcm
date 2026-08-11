@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And as for me, here I dey establish ⟨את⟩ my covenant ⟨את⟩ una, and ⟨את⟩ una seed wey ⟨dey⟩ after una;",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and as for me"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "establish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "una seed"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "after una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:39.150018743Z",
+  "model": "glm-5.2"
+}

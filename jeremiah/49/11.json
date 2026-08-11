@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Leave your orphan dem, me I go keep dem alive; and your widow dem, make dem trust on me.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "leave"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "your orphan dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "I go keep alive"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "and your widow dem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on me"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "make dem trust"
+    }
+  ],
+  "timestamp": "2026-08-11T11:59:34.968790712Z",
+  "model": "glm-5.2"
+}

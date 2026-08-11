@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "No take ⟨את⟩ interest from am and increase, but make you fear yua Elohim, and make yua broda live with you.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "take"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ from am",
+      "marks": "interest"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "and increase"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "but make you fear"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "yua Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "and make live"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "yua broda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:40.673854903Z",
+  "model": "glm-5.2"
+}

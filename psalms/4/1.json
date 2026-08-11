@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "To di choir master, wit string instrument, song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir master"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "wit string instrument"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:36.389067458Z",
+  "model": "glm-5.2"
+}

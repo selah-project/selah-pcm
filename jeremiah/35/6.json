@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 35:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "But dem talk sey, \"We no go drink wine, because Yonadav wey be son of Rekav, our papa, command us sey, 'Una no go drink wine, neither una nor una sons forever.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "But dem talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "we go drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekav"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "our papa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "command"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "us"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "go drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "neither una sons"
+    },
+    {
+      "surface": "עד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T11:54:53.319691009Z",
+  "model": "glm-5.2"
+}

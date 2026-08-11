@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If you build new house, make you make parapet for your roof, and make you no put blood for your house, if di person wey dey fall fall from am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "If"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "you build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and make you make"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "parapet"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "for your roof"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "put"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "for your house"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "fall"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "di person wey dey fall"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:42.601286304Z",
+  "model": "glm-5.2"
+}

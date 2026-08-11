@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Song of songs, wey ⟨belong⟩ to Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "of songs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "to Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:14.426845295Z",
+  "model": "glm-5.2"
+}

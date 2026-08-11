@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Bring near ⟨את⟩ di tribe of Levi, and make ⟨את⟩ ⟨am⟩ stand before Aharon di priest, and dem go serve am.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tribe of Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "and make stand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "and dem go serve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:36.163753855Z",
+  "model": "glm-5.2"
+}

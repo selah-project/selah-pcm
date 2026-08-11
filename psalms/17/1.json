@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Prayer of David. Make ⟨me⟩ hear, Yahweh, ⟨the⟩ right; pay attention to my cry; give ear to my prayer — without lips of deceit.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "prayer"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "make hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "right"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pay attention"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "to my cry"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "give ear"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "to my prayer"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "without"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lips"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "of deceit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:37.584637070Z",
+  "model": "glm-5.2"
+}

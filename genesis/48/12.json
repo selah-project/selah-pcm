@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "And Yosef bring ⟨את⟩ dem out from between im knee-dem, and ⟨im⟩ bow down to im face, to di ground.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "And bring out"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from between"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "im knee-dem"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and ⟨im⟩ bow down"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "to im face"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:31.013504859Z",
+  "model": "glm-5.2"
+}

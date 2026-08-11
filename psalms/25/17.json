@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Di troubles of my heart don broad; from my distresses, bring me out.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "troubles"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "of my heart"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "don broad"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "from my distresses"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "bring me out"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:21.610557351Z",
+  "model": "glm-5.2"
+}

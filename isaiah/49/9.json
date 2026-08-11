@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "sey make you talk to dem wey dem tie: \"Comot!\" and to dem wey dey for inside darkness: \"Show una face!\" Dem go dey graze for di roads, and for all bare hilltops na dia pasture go dey.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sey make you talk"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "to dem wey dem tie"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "comot"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "to dem wey"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dey for inside darkness"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "show una face"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "di roads"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "dem go dey graze"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and for all"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bare hilltops"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "dia pasture"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:00.629279239Z",
+  "model": "glm-5.2"
+}

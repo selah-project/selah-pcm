@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 138,
+  "translation": "If I waka inside trouble, you go make me live; against di anger of my enemies you go send your hand, and your right hand go save me.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I waka"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inside"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "you go make me live"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "אף",
+      "gloss": "di anger of"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "you go send"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "and go save me"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "your right hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:57.054303642Z",
+  "model": "glm-5.2"
+}

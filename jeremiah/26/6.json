@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "then I go make ⟨את⟩ dis house like Shiloh, and ⟨את⟩ dis city I go give for curse to all di nations of di earth.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "then I go make\/give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "like Shiloh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dis city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I go give"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "for curse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "di nations of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:50:22.257977915Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Di fool dey fold ⟨את⟩ im two hand, and dey chop ⟨את⟩ im own flesh.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "di fool"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "dey fold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im two hand"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "im two hand"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "and dey chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im own flesh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "im own flesh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:05.460870850Z",
+  "model": "glm-5.2"
+}

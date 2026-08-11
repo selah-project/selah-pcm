@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh ⟨na⟩ strength to dem, and e ⟨na⟩ stronghold of salvation for im Mashíaj.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "למו",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "and stronghold"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "of salvation"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "for im Mashíac"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e ⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:52.745170376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Make you no hide ⟨im⟩ face from me, make you no turn away your servant for anger; you bin be my help — make you no throw me away and make you no abandon me, Elohim of my salvation.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨im⟩ face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תט",
+      "gloss": "turn away"
+    },
+    {
+      "surface": "באף",
+      "gloss": "for anger"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "my help"
+    },
+    {
+      "surface": "היית",
+      "gloss": "you bin be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "throw me away"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make you no"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandon me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "my salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:34.899988434Z",
+  "model": "glm-5.2"
+}

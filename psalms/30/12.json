@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "You turn my mourning to dancing for me; you open my sackcloth, and you gird me with gladness.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "you turn"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "my mourning"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "to dancing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "you open"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "my sackcloth"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "and you gird me"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "with gladness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:31.613238920Z",
+  "model": "glm-5.2"
+}

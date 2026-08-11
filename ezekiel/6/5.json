@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And I go put ⟨את⟩ di dead body dem of di pikin dem of Yisrael before dia idol dem, and I go scatter una bone dem all around una altar dem.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dead body dem"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dead body dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "dia idol dem"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "and I go scatter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una bone dem"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "una bone dem"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "all around"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "una altar dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:46:34.368267190Z",
+  "model": "glm-5.2"
+}

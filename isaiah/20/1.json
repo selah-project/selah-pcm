@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "For di year wey Tartan bin come go Ashdod, wen Sargon wey be king of Ashshur bin send ⟨את⟩ am, ⟨and⟩ e bin fight against Ashdod, and e bin capture am.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wey e bin come"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "go Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "wen e bin send"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and e bin fight"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "against Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "and e bin capture am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:37.993689643Z",
+  "model": "glm-5.2"
+}

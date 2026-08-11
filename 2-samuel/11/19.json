@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨e⟩ command ⟨את⟩ di messenger, sey: 'Wen you finish to tell ⟨את⟩ all di mata of di war to di king,'",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di messenger"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "di messenger"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "wen you finish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "of di war"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:43.773854528Z",
+  "model": "glm-5.2"
+}

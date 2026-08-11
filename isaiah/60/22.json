@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 60:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "Di smallest one go become a thousand, and di youngest one a mighty nation — I, Yahweh; for im time I go do am sharp-sharp.",
+  "tokens": [
+    {
+      "surface": "הקטן",
+      "gloss": "Di smallest one"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go become"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "a thousand"
+    },
+    {
+      "surface": "והצעיר",
+      "gloss": "and di youngest one"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "a nation"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "for im time"
+    },
+    {
+      "surface": "אחישנה",
+      "gloss": "I go do am sharp-sharp"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:09.455972629Z",
+  "model": "glm-5.2"
+}

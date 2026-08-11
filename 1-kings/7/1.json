@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Solomon bin build ⟨את⟩ im own house for thirteen year, and e bin finish ⟨את⟩ all im house.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im own house"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im own house"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "and e bin finish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im house"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:43.312266746Z",
+  "model": "glm-5.2"
+}

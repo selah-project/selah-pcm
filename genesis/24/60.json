@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And dem bless ⟨את⟩ Rivkah, and dem talk to her sey, you our sister, you be to thousands of ten-thousands, and make your seed inherit ⟨את⟩ di gate of im enemies.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "and dem bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to her"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "our sister"
+    },
+    {
+      "surface": "את",
+      "gloss": "you"
+    },
+    {
+      "surface": "היי",
+      "gloss": "be"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "to thousands"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "of ten-thousands"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "and make inherit"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gate"
+    },
+    {
+      "surface": "שער",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "of im enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:42.900545191Z",
+  "model": "glm-5.2"
+}

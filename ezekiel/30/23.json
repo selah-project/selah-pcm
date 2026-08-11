@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I go scatter ⟨את⟩ Mitsrayim among di nations, and I go disperse dem among di lands.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "And I go scatter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "and I go disperse dem"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "among di lands"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:38.699575597Z",
+  "model": "glm-5.2"
+}

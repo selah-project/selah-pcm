@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "and ⟨את⟩ di altar of incense, and ⟨את⟩ im poles, and ⟨את⟩ di anointing oil, and ⟨את⟩ di incense of spices, and ⟨את⟩ di screen of di entrance for ⟨di⟩ entrance of di tabernacle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "of incense"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im poles"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "im poles"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di anointing oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "di oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "of anointing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di incense"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "di incense"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "of spices"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di screen"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "di screen"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "of di entrance"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "for entrance"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of di tabernacle"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:17.338453311Z",
+  "model": "glm-5.2"
+}

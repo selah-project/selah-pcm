@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Dem dey snatch ⟨di⟩ orphan from ⟨di⟩ breast, and on top ⟨di⟩ poor person dem dey take pledge.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "dem dey snatch"
+    },
+    {
+      "surface": "משד",
+      "gloss": "from ⟨di⟩ breast"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orphan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor person"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "dem dey take pledge"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:37.275247731Z",
+  "model": "glm-5.2"
+}

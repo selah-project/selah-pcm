@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "From heaven ⟨Him⟩ make you hear ⟨את⟩ im voice, to discipline you; and on top di earth ⟨Him⟩ show you ⟨את⟩ im great fire; and im words you hear from inside di fire.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "From"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "make you hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im voice"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "im voice"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "to discipline you"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "show you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im great fire"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "im fire"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "great"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "and im words"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:45.572716462Z",
+  "model": "glm-5.2"
+}

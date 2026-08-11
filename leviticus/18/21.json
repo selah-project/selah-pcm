@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And from your seed, no make you pass ⟨to⟩ give to Molech, and no make you profane ⟨את⟩ di name of your Elohim; ⟨na⟩ me Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "and from your seed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "make you pass"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "⟨to⟩ give"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to Molech"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "make you profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name of your Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "of your Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨na⟩ me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:05.588461082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my plea come before your face; as your promise, rescue me.",
+  "tokens": [
+    {
+      "surface": "תָּבוֹא",
+      "gloss": "make come"
+    },
+    {
+      "surface": "תְּחִנָּתִי",
+      "gloss": "my plea"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "before your face"
+    },
+    {
+      "surface": "כְּאִמְרָתְךָ",
+      "gloss": "as your promise"
+    },
+    {
+      "surface": "הַצִּילֵנִי",
+      "gloss": "rescue me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:42.068681846Z",
+  "model": "glm-5.2"
+}

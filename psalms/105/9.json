@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "di one wey im cut wit Avraham, and im oath to Yitsḥak.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "di one wey"
+    },
+    {
+      "surface": "כָּ֭רַת",
+      "gloss": "im cut"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֑ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁב֖וּעָת֣וֹ",
+      "gloss": "and im oath"
+    },
+    {
+      "surface": "לְיִשְׂחָֽק",
+      "gloss": "to Yitsḥak"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:31.643746541Z",
+  "model": "glm-5.2"
+}

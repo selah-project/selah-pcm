@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Tie your sword for your thigh, o strong man; your splendor and your majesty!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "tie"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "your sword"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "your thigh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "o strong man"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "your splendor"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "and your majesty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:01.892332634Z",
+  "model": "glm-5.2"
+}

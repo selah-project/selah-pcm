@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "For di day of Sabbath, for di day of Sabbath, ⟨dem⟩ go arrange am before Yahweh continually — ⟨את⟩ from di sons of Yisra'el, covenant of olam.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "of Sabbath"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "of Sabbath"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "dem go arrange am"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continually"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "from di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "olam"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:14.805533961Z",
+  "model": "glm-5.2"
+}

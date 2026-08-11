@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 95,
+  "translation": "Make una come, make we sing jolification for Yahweh, make we shout for di Rock of our salvation!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "make una come"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "make we sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "make we shout"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "for di Rock"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "of our salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:03.137100280Z",
+  "model": "glm-5.2"
+}

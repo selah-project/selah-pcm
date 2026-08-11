@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 14:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And wild donkeys stand on top bare hill, dem dey sniff wind like jackal, dia eye don fail because no green grass dey.",
+  "tokens": [
+    {
+      "surface": "וּפְרָאִים",
+      "gloss": "And wild donkeys"
+    },
+    {
+      "surface": "עָמְדוּ",
+      "gloss": "stand"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שְׁפָיִם",
+      "gloss": "bare hill"
+    },
+    {
+      "surface": "שָׁאֲפוּ",
+      "gloss": "dem dey sniff"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "wind"
+    },
+    {
+      "surface": "כַּתַּנִּים",
+      "gloss": "like jackal"
+    },
+    {
+      "surface": "כָּלוּ",
+      "gloss": "don fail"
+    },
+    {
+      "surface": "עֵינֵיהֶם",
+      "gloss": "dia eye"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "no"
+    },
+    {
+      "surface": "עֵשֶׂב",
+      "gloss": "green grass"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:45.346367937Z",
+  "model": "glm-5.2"
+}

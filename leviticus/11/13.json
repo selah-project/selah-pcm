@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨את⟩ these una go detest from among di birds, dem no go chop am, abomination dem be: ⟨את⟩ di nesher, and ⟨את⟩ di peres, and ⟨את⟩ di azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "these"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "these"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "una go detest"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "di birds"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dem go chop"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nesher"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "di nesher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "di peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "di azniyah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:08.640448114Z",
+  "model": "glm-5.2"
+}

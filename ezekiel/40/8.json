@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e bin measure ⟨את⟩ di porch of di gate, from inside: one reed.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and e bin measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di porch"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "porch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "reed"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:01.104956985Z",
+  "model": "glm-5.2"
+}

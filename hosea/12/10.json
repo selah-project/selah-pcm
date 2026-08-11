@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "But I ⟨be⟩ Yahweh, your Elohim, from di land of Mitsrayim; again I go make you siddon for tents, like di days of di appointed festival.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "but I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "again"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "I go make you siddon"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "for tents"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days of"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "appointed festival"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:58.945087962Z",
+  "model": "glm-5.2"
+}

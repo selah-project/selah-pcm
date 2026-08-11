@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 41:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Make dem present ⟨את⟩ wetin go happen, make dem tell us; di first tin dem — wetin dem be? Tell us, make we set we heart, and make we know dia end; or di tin dem wey dey come, make una make we hear.",
+  "tokens": [
+    {
+      "surface": "יגישו",
+      "gloss": "make dem present"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "and make dem tell"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin go happen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תקרינה",
+      "gloss": "go happen"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "di first tin dem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "tell us"
+    },
+    {
+      "surface": "ונשימה",
+      "gloss": "and make we set"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "we heart"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "and make we know"
+    },
+    {
+      "surface": "אחריתן",
+      "gloss": "dia end"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "הבאות",
+      "gloss": "di tin dem wey dey come"
+    },
+    {
+      "surface": "השמיענו",
+      "gloss": "make una make we hear"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:18.566811460Z",
+  "model": "glm-5.2"
+}

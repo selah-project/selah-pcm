@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If dem no find di thief, den owner of di house go come near to ⟨di⟩ Elohim, ⟨to see⟩ whether e no put im hand inside im neighbour property.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "dem find"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "di thief"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "go come near"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "owner"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "put"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "inside property"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:40.241825552Z",
+  "model": "glm-5.2"
+}

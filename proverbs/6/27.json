@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Man fit carry fire for im bosom, and im clothes no go burn?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "man fit carry"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "for im bosom"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "and im clothes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "burn"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:09.759898129Z",
+  "model": "glm-5.2"
+}

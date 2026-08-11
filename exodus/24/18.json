@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Mosheh enter inside di cloud, and ⟨he⟩ go up go di mountain. And Mosheh stay for di mountain forty day and forty night.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֹ֥א",
+      "gloss": "And enter"
+    },
+    {
+      "surface": "מֹשֶׁ֛ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בְּת֥וֹךְ",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הֶעָנָ֖ן",
+      "gloss": "di cloud"
+    },
+    {
+      "surface": "וַיַּ֣עַל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הָהָ֑ר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "And stay"
+    },
+    {
+      "surface": "מֹשֶׁה֙",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בָּהָ֔ר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "אַרְבָּעִ֣ים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "י֔וֹם",
+      "gloss": "day"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֖ים",
+      "gloss": "and forty"
+    },
+    {
+      "surface": "לָֽיְלָה",
+      "gloss": "night"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:55.671130305Z",
+  "model": "glm-5.2"
+}

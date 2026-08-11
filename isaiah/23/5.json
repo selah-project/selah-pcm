@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "As ⟨dem⟩ hear ⟨di⟩ news for Mitsrayim, dem go twist wit pain; as dem hear about Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dem hear"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "dem go twist wit pain"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "as dem hear"
+    },
+    {
+      "surface": "צר",
+      "gloss": "about Tsor"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:10.898713266Z",
+  "model": "glm-5.2"
+}

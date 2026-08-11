@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And any animal wey dey split hoof, and dey cleave di clef into two hoofs, bringing up ⟨את⟩ di cud among ⟨di⟩ animals — ⟨na⟩ am una go eat.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and any"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "wey dey split"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "and dey cleave"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "clef"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "hoofs"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "bringing up"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "di cud"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "among ⟨di⟩ animals"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go eat"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:54.044727301Z",
+  "model": "glm-5.2"
+}

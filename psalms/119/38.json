@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make to stand for your servant your word, wey ⟨e⟩ ⟨be⟩ for your fear.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "make to stand"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "for your servant"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "your word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "for your fear"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:42.063488915Z",
+  "model": "glm-5.2"
+}

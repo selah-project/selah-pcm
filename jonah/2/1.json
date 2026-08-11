@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Then Yahweh bin arrange one big fish make e swallow ⟨את⟩ Jonah, and Jonah bin dey inside di belly of di fish three days and three nights.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "bin arrange"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "fish"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "make e swallow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "inside di belly"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "of di fish"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "and three"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nights"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:38.459243488Z",
+  "model": "glm-5.2"
+}

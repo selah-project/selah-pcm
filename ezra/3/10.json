@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And wen di builder-dem don lay ⟨את⟩ foundation of temple of Yahweh, den di priest-dem bin stand, dressed up, wit trumpet-dem, and di Leviyim, di pikin-dem of Asaf, wit cymbal-dem, to praise ⟨את⟩ Yahweh, by di hand of Dawid, king of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "and don lay foundation"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "di builder-dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foundation of temple"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priest-dem"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "dressed up"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "wit trumpet-dem"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Leviyim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "wit cymbal-dem"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "to praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hand of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T13:46:12.767570487Z",
+  "model": "glm-5.2"
+}

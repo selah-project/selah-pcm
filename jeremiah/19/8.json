@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And I go make ⟨את⟩ dis city to be waste and to be something wey people dey hiss; evri person wey dey pass by am go shock and go hiss on top all im wound.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "to be waste"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "and to be something wey people dey hiss"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "person wey dey pass"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "by am"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "go shock"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "and go hiss"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "im wound"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:24.844723956Z",
+  "model": "glm-5.2"
+}

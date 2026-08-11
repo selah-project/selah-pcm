@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And e come be, di next day, Pelishtim come to strip ⟨את⟩ di dead bodies, and dem find ⟨את⟩ Sha'ul and ⟨את⟩ im sons wey fall for mount Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di next day"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and (dem) come"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "to strip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dead bodies"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "di dead bodies"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "and (dem) find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "wey fall"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for mount"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-11T13:58:24.041165005Z",
+  "model": "glm-5.2"
+}

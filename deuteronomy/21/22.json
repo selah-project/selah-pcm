@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And if ⟨e happen⟩ sey for one man ⟨dere be⟩ sin wey deserve death, and dem kill am, and you hang ⟨am⟩ on top tree,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨e happen⟩"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "for one man"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wey deserve"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "and dem kill am"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "and you hang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tree"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:55.647684520Z",
+  "model": "glm-5.2"
+}

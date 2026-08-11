@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "But dem go be im servant-dem, make dem fit know my work and di work of di kingdom-dem of di land-dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "But"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "im"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "servant-dem"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "and make dem fit know"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "my work"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "and di work of"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "di kingdom-dem"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "of di land-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:04.261729685Z",
+  "model": "glm-5.2"
+}

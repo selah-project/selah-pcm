@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Dem go build houses and dem go live inside, dem go plant vineyards and dem go chop ⟨את⟩ im fruit.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "dem go build"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "houses"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dem go live"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "dem go plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vineyards"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dem go chop"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "fruit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:05.999046988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And your eye ⟨no⟩ go pity: nefesh for nefesh, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and your eye ⟨no⟩"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "go pity"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "your eye"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "for nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "for eye"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tooth"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "for tooth"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "foot"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "for foot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:10:57.497562220Z",
+  "model": "glm-5.2"
+}

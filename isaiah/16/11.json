@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Because of dat, my inside dey groan like harp for Moab, and my inward parts dey groan for Kir־Cheres.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מֵעַי",
+      "gloss": "my inside"
+    },
+    {
+      "surface": "לְמוֹאָב",
+      "gloss": "for Moab"
+    },
+    {
+      "surface": "כַּכִּנּוֹר",
+      "gloss": "like harp"
+    },
+    {
+      "surface": "יֶֽהֱמוּ",
+      "gloss": "dey groan"
+    },
+    {
+      "surface": "וְקִרְבִּי",
+      "gloss": "and my inward parts"
+    },
+    {
+      "surface": "לְקִיר",
+      "gloss": "for Kir־"
+    },
+    {
+      "surface": "חָֽרֶשׂ",
+      "gloss": "Cheres"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:55.001761484Z",
+  "model": "glm-5.2"
+}

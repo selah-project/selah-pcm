@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And dem go eat ⟨את⟩ dem, wey atonement bin happen with dem, to fill ⟨את⟩ dia hand, to sanctify ⟨את⟩ dem; and stranger no go eat, because holy dem ⟨be⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "and dem go eat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (di tings)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "atonement bin happen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "with dem"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "to fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "to sanctify"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "and stranger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go eat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:04.883909012Z",
+  "model": "glm-5.2"
+}

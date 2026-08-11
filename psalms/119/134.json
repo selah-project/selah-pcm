@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Ransom me from di oppression of man, and I go keep ⟨את⟩ your precepts.",
+  "tokens": [
+    {
+      "surface": "פְּדֵנִי",
+      "gloss": "Ransom me"
+    },
+    {
+      "surface": "מֵעֹשֶׁק",
+      "gloss": "from di oppression"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "וְאֶשְׁמְרָ֗ה",
+      "gloss": "and I go keep"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your precepts"
+    },
+    {
+      "surface": "פִּקּוּדֶֽיךָ",
+      "gloss": "your precepts"
+    }
+  ],
+  "timestamp": "2026-08-11T16:38:27.671869263Z",
+  "model": "glm-5.2"
+}

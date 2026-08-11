@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And Pelishtim dem gather togeda, and dem come, and dem camp for Shunem. And Shaʾul gather ⟨את⟩ all Yisrael, and dem camp for Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "for Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "and im gather"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʾul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "for Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:02.541732154Z",
+  "model": "glm-5.2"
+}

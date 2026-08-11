@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And dem go fear and dem go shame on top Kush wey bin be dia hope, and on top Mitsrayim wey bin be dia pride.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "and dem go fear"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "and dem go shame"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "on top Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "wey bin be dia hope"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "wey bin be dia pride"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:24.636115775Z",
+  "model": "glm-5.2"
+}

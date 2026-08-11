@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Save me from mouth of lion, and from horns of wild-oxen — ⟨you⟩ don answer me.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Save me"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "from mouth of"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lion"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "and from horns of"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "wild-oxen"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "⟨you⟩ don answer me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:32.975553651Z",
+  "model": "glm-5.2"
+}

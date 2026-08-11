@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Im heart ⟨na⟩ cast ⟨thing⟩ like stone, and cast hard like under millstone.",
+  "tokens": [
+    {
+      "surface": "לִ֭בּוֹ",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "יָצ֣וּק",
+      "gloss": "cast"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "like"
+    },
+    {
+      "surface": "אָ֑בֶן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "וְ֝יָצ֗וּק",
+      "gloss": "and cast"
+    },
+    {
+      "surface": "כְּפֶ֣לַח",
+      "gloss": "like"
+    },
+    {
+      "surface": "תַּחְתִּֽית",
+      "gloss": "under millstone"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:20.113517320Z",
+  "model": "glm-5.2"
+}

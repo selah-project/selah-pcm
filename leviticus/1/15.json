@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di priest go bring am to di altar, and im go pinch off ⟨את⟩ im head and burn am for di altar; and im blood go drain for ⟨di⟩ wall of di altar.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "and ⟨im⟩ go bring am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "and im go pinch off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im head"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "and burn am"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "for di altar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "and go drain"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "wall"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:19.343940105Z",
+  "model": "glm-5.2"
+}

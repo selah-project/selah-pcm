@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Aharon return to Mosheh, to di entrance of di tent of meeting, and di plague bin don stop.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and e return"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of di tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "and di plague"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "bin don stop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:55:07.109790881Z",
+  "model": "glm-5.2"
+}

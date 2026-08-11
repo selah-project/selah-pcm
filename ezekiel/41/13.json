@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 41:13",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And im bin measure ⟨את⟩ di house: length, hundred cubit; and di separated area, and di building, and im walls — length, hundred cubit.",
+  "tokens": [
+    {
+      "surface": "וּמָדַ֣ד",
+      "gloss": "and im bin measure"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הַבַּ֔יִת",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אֹ֖רֶךְ",
+      "gloss": "length"
+    },
+    {
+      "surface": "מֵאָ֣ה",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "אַמָּ֑ה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "וְהַגִּזְרָ֤ה",
+      "gloss": "and di separated area"
+    },
+    {
+      "surface": "וְהַבִּנְיָה֙",
+      "gloss": "and di building"
+    },
+    {
+      "surface": "וְקִ֣ירוֹתֶ֔יהָ",
+      "gloss": "and im walls"
+    },
+    {
+      "surface": "אֹ֖רֶךְ",
+      "gloss": "length"
+    },
+    {
+      "surface": "מֵאָ֥ה",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "אַמָּֽה",
+      "gloss": "cubit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:52.868610073Z",
+  "model": "glm-5.2"
+}

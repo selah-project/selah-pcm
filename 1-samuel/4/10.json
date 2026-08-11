@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Filistim dem fight, and dem strike Yisra'el, and every man run go im tent; and di defeat bin very great, and thirty thousand foot soldier fall from Yisra'el side.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim dem"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and dem run"
+    },
+    {
+      "surface": "איש",
+      "gloss": "every man"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "go im tent"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and e bin"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "di defeat"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "great"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "from Yisra'el side"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "foot soldier"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:32.084572309Z",
+  "model": "glm-5.2"
+}

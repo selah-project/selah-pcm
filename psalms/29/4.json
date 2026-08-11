@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Voice of Yahweh ⟨dey carry⟩ power, voice of Yahweh ⟨dey carry⟩ majesty.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨dey carry⟩ power"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨dey carry⟩ majesty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:47.195142644Z",
+  "model": "glm-5.2"
+}

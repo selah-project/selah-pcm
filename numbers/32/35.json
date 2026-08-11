@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "and ⟨את⟩ Atroth-Shophan, and ⟨את⟩ Ya'azer, and Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Atroth-Shophan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atroth"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shophan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ya'azer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'azer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "and Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:32.379670751Z",
+  "model": "glm-5.2"
+}

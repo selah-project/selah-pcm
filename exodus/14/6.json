@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And im bin prepare ⟨את⟩ im chariots, and ⟨את⟩ im people im take wit am.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "and im bin prepare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im chariots"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "im chariots"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "im take"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:18.789002549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Voice of uproar from ⟨di⟩ city, voice from ⟨di⟩ temple, voice of Yahweh wey dey pay back im enemy dem wetin dem deserve.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Voice"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "of uproar"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "from ⟨di⟩ city"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "from ⟨di⟩ temple"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "wey dey pay back"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "wetin dem deserve"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "im enemy dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:28.139370872Z",
+  "model": "glm-5.2"
+}

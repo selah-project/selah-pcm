@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "⟨E⟩ rescue me from my strong enemy, from dem wey hate me, sake of sey dem strong pass me.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "⟨E⟩ rescue me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "from my enemy"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "from dem wey hate me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "dem strong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pass me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:32.219062776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And since I come to Pharaoh to speak for your name, ⟨im⟩ do bad to dis people, and you no rescue at all ⟨את⟩ your people!\"",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "and since"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "I come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to speak"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "for your name"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨im⟩ do bad"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to ⟨di⟩ people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "and to rescue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "you rescue ⟨at all⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your people"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:36.210138980Z",
+  "model": "glm-5.2"
+}

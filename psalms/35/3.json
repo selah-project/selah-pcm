@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And bring out spear, and close ⟨di way⟩ against ⟨את⟩ my pursuers; talk to my life: 'Your salvation, ⟨na⟩ me.'",
+  "tokens": [
+    {
+      "surface": "וְהָ֘רֵ֤ק",
+      "gloss": "and bring out"
+    },
+    {
+      "surface": "חֲנִ֣ית",
+      "gloss": "spear"
+    },
+    {
+      "surface": "וּ֭סְגֹר",
+      "gloss": "and close"
+    },
+    {
+      "surface": "לִקְרַ֣את",
+      "gloss": "against"
+    },
+    {
+      "surface": "רֹדְפָ֑י",
+      "gloss": "my pursuers"
+    },
+    {
+      "surface": "אֱמֹ֥ר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "לְ֝נַפְשִׁ֗י",
+      "gloss": "to my life"
+    },
+    {
+      "surface": "יְֽשֻׁעָתֵ֥ךְ",
+      "gloss": "your salvation"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:27.852240344Z",
+  "model": "glm-5.2"
+}

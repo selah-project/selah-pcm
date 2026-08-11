@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Avishua born ⟨את⟩ Bukki, and Bukki born ⟨את⟩ Uzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "and Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "and Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:57.765288673Z",
+  "model": "glm-5.2"
+}

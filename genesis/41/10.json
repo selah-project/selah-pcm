@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Paroh bin vex for im servant dem, and e bin put me for custody for house of di oga for di executioner dem — me and ⟨את⟩ di oga for di baker dem.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "bin vex"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and bin put"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "for custody"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for house of"
+    },
+    {
+      "surface": "שר",
+      "gloss": "oga"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "for di executioner dem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di oga for di baker dem"
+    },
+    {
+      "surface": "שר",
+      "gloss": "oga"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "for di baker dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:30.308430Z",
+  "model": "glm-5.2"
+}

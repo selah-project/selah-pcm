@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Make ⟨e⟩ judge your people wit righteousness, and your poor wit justice.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "make ⟨e⟩ judge"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "wit righteousness"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "and your poor"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "wit justice"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:26.085947411Z",
+  "model": "glm-5.2"
+}

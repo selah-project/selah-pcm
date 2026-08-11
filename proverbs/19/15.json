@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Laziness go make deep sleep fall on ⟨you⟩, and ⟨im⟩ life wey dey slack go hunger.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "laziness"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "go make fall"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "deep sleep"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "and ⟨im⟩ life"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wey dey slack"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "go hunger"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:17.474596104Z",
+  "model": "glm-5.2"
+}

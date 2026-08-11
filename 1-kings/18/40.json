@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 18:40",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Eliyahu talk to dem, \"Catch ⟨את⟩ prophets of di Baal — make no man escape from among dem!\" And dem catch dem, and Eliyahu lead dem go down go Nahal Kishon, and e slaughter dem for there.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And ... talk"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "Catch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prophets of di Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "prophets"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "of di Baal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make no"
+    },
+    {
+      "surface": "יימלט",
+      "gloss": "escape"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from among dem"
+    },
+    {
+      "surface": "ויתפשום",
+      "gloss": "And dem catch dem"
+    },
+    {
+      "surface": "ויורדם",
+      "gloss": "and ... lead dem go down"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nahal"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "and e slaughter dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:27.502893085Z",
+  "model": "glm-5.2"
+}

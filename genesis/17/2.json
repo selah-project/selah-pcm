@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And I go put ⟨את⟩ My covenant between Me and you, and I go multiply you ⟨in⟩ exceedingly great measure.\"",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "My covenant"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between Me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and between you"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "and I go multiply"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "⟨in⟩ exceedingly"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "great measure"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:16.048029970Z",
+  "model": "glm-5.2"
+}

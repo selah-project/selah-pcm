@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 21:9",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So Yehoram bin pass wit im chief dem and all di chariot wit am, and e happen sey e rise for night and e strike ⟨את⟩ Edom wey dey surround am and ⟨את⟩ di chief dem of di chariot.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "bin pass"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "im chief dem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e happen"
+    },
+    {
+      "surface": "קם",
+      "gloss": "rise"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "wey dey surround"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di chief dem of di chariot"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di chief dem"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "of di chariot"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:45.593775449Z",
+  "model": "glm-5.2"
+}

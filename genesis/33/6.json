@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And di maidservant-dem come near, ⟨dem⟩ and dia pikin-dem, and ⟨dem⟩ bow down.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "and come near"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "di maidservant-dem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "and dia pikin-dem"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "and bow down"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:19.293856796Z",
+  "model": "glm-5.2"
+}

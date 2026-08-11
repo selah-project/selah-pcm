@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 75,
+  "translation": "But as for me, I go declare am forever; I go sing praise to Elohim of Ya'akov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But as for me"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "I go declare am"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "I go sing praise"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "to Elohim of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:50.426447390Z",
+  "model": "glm-5.2"
+}

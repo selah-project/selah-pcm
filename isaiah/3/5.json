@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di people go oppress each oda, man against man, and man against im neighbour; di young go act insolent against di old, and di person wey dem no respect against di person wey dem respect.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "and go oppress"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "against man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "against im neighbour"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "go act insolent"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di young"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "against di old"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "and di person wey dem no respect"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "against di person wey dem respect"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:30.915384234Z",
+  "model": "glm-5.2"
+}

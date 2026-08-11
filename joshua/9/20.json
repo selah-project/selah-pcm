@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Dis one we go do to dem, and make dem dey live, so dat anger no go dey on top us, because of di oath wey we swear to dem.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "and make dem dey live"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "so dat no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "on top us"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "di oath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "we swear"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:42.312803804Z",
+  "model": "glm-5.2"
+}

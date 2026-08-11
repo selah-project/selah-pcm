@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "Adonai Yahweh bin open ⟨im⟩ ear for me, and I no rebel, backward I no turn.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פָּתַֽח",
+      "gloss": "bin open"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אֹ֔זֶן",
+      "gloss": "⟨im⟩ ear"
+    },
+    {
+      "surface": "וְאָנֹכִ֖י",
+      "gloss": "and I"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "מָרִ֑יתִי",
+      "gloss": "rebel"
+    },
+    {
+      "surface": "אָח֖וֹר",
+      "gloss": "backward"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "נְסוּגֹֽתִי",
+      "gloss": "turn"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:44.960206601Z",
+  "model": "glm-5.2"
+}

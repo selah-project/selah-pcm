@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Ornan turn, and see ⟨את⟩ di angel, and im four son dem wey dey wit am dey hide demsef; and Ornan dey thresh wheat.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "turn"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di angel"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "di angel"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "and im four"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "son dem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wey dey wit am"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "dey hide demsef"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "and Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "dey thresh"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wheat"
+    }
+  ],
+  "timestamp": "2026-08-11T15:07:03.554251021Z",
+  "model": "glm-5.2"
+}

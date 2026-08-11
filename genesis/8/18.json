@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Noach bin come out, and im sons, and im wife, and im sons dem wives, ⟨together⟩ wit am.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "and im sons dem wives"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:55.343019138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Even when I dey cry out and I dey call for help, (he) block my prayer.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "Even"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "when"
+    },
+    {
+      "surface": "אֶזְעַק֙",
+      "gloss": "I dey cry out"
+    },
+    {
+      "surface": "וַאֲשַׁוֵּ֔עַ",
+      "gloss": "and I dey call for help"
+    },
+    {
+      "surface": "שָׂתַ֖ם",
+      "gloss": "(he) block"
+    },
+    {
+      "surface": "תְּפִלָּתִֽי",
+      "gloss": "my prayer"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:23.431208830Z",
+  "model": "glm-5.2"
+}

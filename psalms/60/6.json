@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "You give to them wey dey fear you banner, to lift am up, because of truth. Selah.",
+  "tokens": [
+    {
+      "surface": "נָ֘תַ֤תָּה",
+      "gloss": "you give"
+    },
+    {
+      "surface": "לִירֵאֶ֣יךָ",
+      "gloss": "to them wey dey fear you"
+    },
+    {
+      "surface": "נֵּ֭ס",
+      "gloss": "banner"
+    },
+    {
+      "surface": "לְהִתְנוֹסֵ֑ס",
+      "gloss": "to lift am up"
+    },
+    {
+      "surface": "מִ֝פְּנֵ֗י",
+      "gloss": "because of"
+    },
+    {
+      "surface": "קֹ֣שֶׁט",
+      "gloss": "truth"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:26.957296955Z",
+  "model": "glm-5.2"
+}

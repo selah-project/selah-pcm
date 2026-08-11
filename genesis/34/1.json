@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Dinah, wey be di pikin of Leah, wey she bin born for Ya'aqov, bin komot make she go see di pikin-dem of di land.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "bin komot"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "she bin born"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Ya'aqov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "make she go see"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:12.897010924Z",
+  "model": "glm-5.2"
+}

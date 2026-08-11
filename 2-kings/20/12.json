@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 20:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "For dat time, Berodach־Baladan di son of Baladan, wey be king of Bavel, bin send letter dem and gift to Chizkiyahu, because e hear sey Chizkiyahu bin sick.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for dat time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "בראדך",
+      "gloss": "Berodach"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "of Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letter dem"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "and gift"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "e hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bin sick"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:53.461061311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Dem dey go up to heaven, dem dey go down to deep — dia life dey melt inside trouble.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "dem dey go up"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dem dey go down"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "deep"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "dia life"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "inside trouble"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "dey melt"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:56.494904291Z",
+  "model": "glm-5.2"
+}

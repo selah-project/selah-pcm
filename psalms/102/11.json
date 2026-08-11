@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Because of your rage and your hot anger; because you bin lift me up and you bin trow me down.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "your rage"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "and your hot anger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "you bin lift me"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "and you bin trow me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:23.113612879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Yahweh don mix inside-am spirit of perversity, and dem don lead ⟨את⟩ Mitsrayim astray inside all im work, like how drunkard dey stagger inside im own vomit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "don mix"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "inside-am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "of perversity"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "and dem don lead astray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inside all"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "like how person dey stagger"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "drunkard"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "inside im own vomit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:29.563137779Z",
+  "model": "glm-5.2"
+}

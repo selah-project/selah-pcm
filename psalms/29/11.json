@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Yahweh go give strength to im people; Yahweh go bless ⟨את⟩ im people wit peace.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "to im people"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "wit peace"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:11.463056185Z",
+  "model": "glm-5.2"
+}

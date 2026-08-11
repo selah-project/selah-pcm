@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And ⟨with⟩ ⟨את⟩ Avshalom, two hundred man from Yerushalayim bin go — dem wey dem invite, and dem dey go for dia simplicity, and dem no know any tin at all.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨with⟩ ⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "two hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "from Yerushalayim"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "dem wey dem invite"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "and dem dey go"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "for dia simplicity"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "know"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tin at all"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:21.134436990Z",
+  "model": "glm-5.2"
+}

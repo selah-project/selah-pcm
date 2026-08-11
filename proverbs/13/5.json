@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Lie-lie word di righteous ⟨dei⟩ hate, but di wicked ⟨dei⟩ smell bad and ⟨dei⟩ com shame.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lie-lie"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "⟨dei⟩ hate"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "but di wicked"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "⟨dei⟩ smell bad"
+    },
+    {
+      "surface": "וחפיר",
+      "gloss": "and ⟨dei⟩ com shame"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:57.107871869Z",
+  "model": "glm-5.2"
+}

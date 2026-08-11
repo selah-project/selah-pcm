@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "and ⟨he⟩ go come and ⟨he⟩ go strike ⟨את⟩ di land of Mitsrayim — wetin be for death, go to death; and wetin be for captivity, go to captivity; and wetin be for sword, go to sword.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "and ⟨he⟩ go come"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "and ⟨he⟩ go strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin be"
+    },
+    {
+      "surface": "למות",
+      "gloss": "for death"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go to death"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin be"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "for captivity"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "go to captivity"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin be"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "for sword"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "go to sword"
+    }
+  ],
+  "timestamp": "2026-08-11T11:57:57.788115993Z",
+  "model": "glm-5.2"
+}

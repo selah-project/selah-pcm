@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Give me back di joy of your salvation, and ruach wey dey willing make e hold me stand.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "give back"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "di joy"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "of your salvation"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and ruach"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "wey dey willing"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "make e hold me stand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:39.465640582Z",
+  "model": "glm-5.2"
+}

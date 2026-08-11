@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "You carry di iniquity of your people, you cover all dia sin. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "you carry"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di iniquity"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "of your people"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "you cover"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dia sin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.827860594Z",
+  "model": "glm-5.2"
+}

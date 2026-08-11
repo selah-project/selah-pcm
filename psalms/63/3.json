@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "So for di holy place I bin see you, to look ⟨upon⟩ your strength and your glory.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "for di holy place"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "I bin see you"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to look"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "your strength"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "and your glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:53.104410377Z",
+  "model": "glm-5.2"
+}

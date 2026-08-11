@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Hold on and wonder; make una blind una sef and be blind; dem don drink, but no be wine; dem dey waka anyhow, but no be from strong drink.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "hold on"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "and wonder"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "make una blind una sef"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "and be blind"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "dem don drink"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no be"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "dem dey waka anyhow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no be from"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "strong drink"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:05.608184834Z",
+  "model": "glm-5.2"
+}

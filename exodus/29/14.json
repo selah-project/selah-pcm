@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "But ⟨את⟩ di flesh of di bull, and ⟨את⟩ im skin, and ⟨את⟩ im dung, you go burn with fire outside di camp; ⟨e⟩ ⟨be⟩ sin-offering.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "but ⟨את⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "di flesh"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "of di bull"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im skin"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "im skin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im dung"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "im dung"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "you go burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "with fire"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sin-offering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:01.666391889Z",
+  "model": "glm-5.2"
+}

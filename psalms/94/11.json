@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Yahweh sabi ⟨di⟩ thoughts of man, sey dem ⟨be⟩ vanity.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "thoughts"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:06.899488014Z",
+  "model": "glm-5.2"
+}

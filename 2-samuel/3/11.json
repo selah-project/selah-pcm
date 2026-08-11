@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ no fit again answer ⟨את⟩ Avner one word, because of im fear ⟨את⟩ for am.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "to answer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "one word"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "because of im fear"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ for am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:34.389726372Z",
+  "model": "glm-5.2"
+}

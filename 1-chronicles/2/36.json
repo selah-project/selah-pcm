@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Attai bin born ⟨את⟩ Natan, and Natan bin born ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "and Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:55.253583750Z",
+  "model": "glm-5.2"
+}

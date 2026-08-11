@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "I dey clothe ⟨di⟩ heaven dem wit darkness, and I dey put sackcloth as dia covering.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "I dey clothe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven dem"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "wit darkness"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "and sackcloth"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "I dey put"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "as dia covering"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:33.176772233Z",
+  "model": "glm-5.2"
+}

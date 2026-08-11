@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨as for⟩ di form of dia face — na face of man, and face of lion to di right side, for di four of dem; and face of ox from di left side, for di four of dem; and face of eagle, for di four of dem.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "And di form"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "of dia face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and face of"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "di right side"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "for di four of dem"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and face of"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ox"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "from di left side"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "for di four of dem"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and face of"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "eagle"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "for di four of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:10.554973472Z",
+  "model": "glm-5.2"
+}

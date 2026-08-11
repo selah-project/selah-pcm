@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "El go fit twist judgment? Or Shaddai go fit twist justice?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "go fit twist"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "go fit twist"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:11.839017112Z",
+  "model": "glm-5.2"
+}

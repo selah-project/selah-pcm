@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Rope of death bin surround me, and stream of worthlessness bin make me fear.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "bin surround me"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "rope of"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "and stream of"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "worthlessness"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "bin make me fear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:18.700651226Z",
+  "model": "glm-5.2"
+}

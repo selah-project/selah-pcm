@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "Because You bin ⟨be⟩ help to me, and for di shadow of Your wings I go sing for joy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "היית",
+      "gloss": "You bin ⟨be⟩"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "help"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "and for di shadow"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "of Your wings"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "I go sing for joy"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:08.114874800Z",
+  "model": "glm-5.2"
+}

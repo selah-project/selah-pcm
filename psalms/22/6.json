@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "To you dem cry, and dem escape; for inside you dem trust, and dem no shame.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "dem cry"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "and dem escape"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for inside you"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "dem trust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨dem⟩ no"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "shame"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:23.523012325Z",
+  "model": "glm-5.2"
+}

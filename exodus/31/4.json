@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "make ⟨im⟩ devise plans, to work for gold and for silver and for bronze.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "make devise"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "plans"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to work"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "for gold"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "and for silver"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "and for bronze"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:41.062295433Z",
+  "model": "glm-5.2"
+}

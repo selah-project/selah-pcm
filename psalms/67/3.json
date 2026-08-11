@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 67,
+  "translation": "Make ⟨dem⟩ know your road for earth, among all nation dem your saving-power.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for earth"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "your road"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nation dem"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "your saving-power"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:07.171977704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 13:25",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di king bin talk to Avshalom, 'No, my pikin, make we no all go, make we no heavy on top you.' But im press am, and im no gree go, so im bless am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "No"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ⟨not⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨now⟩"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "we go"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "all of us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "make ⟨not⟩"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "we heavy"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "on top you"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "but im press"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨not⟩"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "im gree"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to go"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "so im bless am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:09.766851345Z",
+  "model": "glm-5.2"
+}

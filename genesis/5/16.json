@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Mahalalel bin live, after im born ⟨את⟩ Jared, thirty year and eight hundred year; and im born sons and daughters.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and im bin live"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "im born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jared"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "and eight"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "and im born"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "and daughters"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:16.804742220Z",
+  "model": "glm-5.2"
+}

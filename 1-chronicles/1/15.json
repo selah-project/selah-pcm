@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "and ⟨את⟩ di Chivi, and ⟨את⟩ di Arki, and ⟨את⟩ di Sini;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Chivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Chivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "di Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "di Sini"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:39.586142072Z",
+  "model": "glm-5.2"
+}

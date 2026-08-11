@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Im survivors, for death dem go bury ⟨am⟩; and im widows no go cry.",
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "im survivors"
+    },
+    {
+      "surface": "בַּמָּ֣וֶת",
+      "gloss": "for death"
+    },
+    {
+      "surface": "יִקָּבֵ֑רוּ",
+      "gloss": "dem go bury"
+    },
+    {
+      "surface": "וְ֝אַלְמְנֹתָ֗יו",
+      "gloss": "and im widows"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִבְכֶּֽינָה",
+      "gloss": "go cry"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:57.647820314Z",
+  "model": "glm-5.2"
+}

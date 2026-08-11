@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Bilhah conceive, and she born son for Ya'aqov.",
+  "tokens": [
+    {
+      "surface": "וַתַּ֣הַר",
+      "gloss": "and she conceive"
+    },
+    {
+      "surface": "בִּלְהָ֔ה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "לְיַעֲקֹ֖ב",
+      "gloss": "for Ya'aqov"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:41.528643860Z",
+  "model": "glm-5.2"
+}

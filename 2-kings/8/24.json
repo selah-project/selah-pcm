@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yoram lie down wit im ancestors, and dem bury am wit im ancestors for di city of David; and Ahazyahu im son come king under am.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and lie down"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im ancestors"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im ancestors"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:58.656322952Z",
+  "model": "glm-5.2"
+}

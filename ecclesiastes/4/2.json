@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So I bin praise ⟨את⟩ di dead wey don already die pass di living wey dem still dey alive till now.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "so I bin praise"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dead"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "di dead"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "wey don already"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "die"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pass"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "di living"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dey alive"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "till now"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:14.096977173Z",
+  "model": "glm-5.2"
+}

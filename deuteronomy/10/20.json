@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh una Elohim, make una fear; ⟨את⟩ am make una serve, and make una hold tight to ⟨am⟩, and make una swear by ⟨im⟩ name.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh una Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "make una fear"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "make una serve"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "and to ⟨am⟩"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "make una hold tight"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "and by ⟨im⟩ name"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "make una swear"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:55.157577176Z",
+  "model": "glm-5.2"
+}

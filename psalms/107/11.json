@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Because dem rebel against di word dem of El, and di plan of Elyon dem reject.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "dem rebel"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "against di word dem of"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "and di plan of"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "dem reject"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:08.674298155Z",
+  "model": "glm-5.2"
+}

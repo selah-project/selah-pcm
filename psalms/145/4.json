@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Generation to generation go praise Your works, and ⟨dem⟩ go declare Your mighty acts.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "go praise"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Your works"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "and Your mighty acts"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "⟨dem⟩ go declare"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:49.582259807Z",
+  "model": "glm-5.2"
+}

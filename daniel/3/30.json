@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Den di king make Shadrakh, Meyshakh, and ʿAved-Nego prosper for di province of Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Den"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "di king"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "make prosper"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "and"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "ʿAved-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "for di province of"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:40:12.638309082Z",
+  "model": "glm-5.2"
+}

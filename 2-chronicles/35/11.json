@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And dem slaughter di Pesach, and di priests sprinkle from dia hand, and di Levites dey skin.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "and dem slaughter"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "di Pesach"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "and sprinkle"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "from dia hand"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levites"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "dey skin"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.853819654Z",
+  "model": "glm-5.2"
+}

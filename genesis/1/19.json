@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And evening bin happen, and morning bin happen — day four.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and bin happen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin happen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "fourth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:07.438957138Z",
+  "model": "glm-5.2"
+}

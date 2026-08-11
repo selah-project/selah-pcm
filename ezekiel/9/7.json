@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And im tell dem, say: make una defile ⟨את⟩ di house, and fill ⟨את⟩ di courtyards with dead-bodi. Comot! And dem comot, and dem strike for di city.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "say: make una defile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "and fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di courtyards"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "di courtyards"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "with dead-bodi"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Comot!"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "And dem comot"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:21.549669983Z",
+  "model": "glm-5.2"
+}

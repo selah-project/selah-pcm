@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And I don fill am ⟨את⟩ wit di spirit of Elohim, for wisdom and for understanding and for knowledge and for evri kind handiwork.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "And I don fill"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "for wisdom"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "and for understanding"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "and for knowledge"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and for evri kind"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "handiwork"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:41.062144507Z",
+  "model": "glm-5.2"
+}

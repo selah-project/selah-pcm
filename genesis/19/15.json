@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And as dawn bin dey rise, di messengers bin press Lot, dem bin talk: Make you rise, take ⟨את⟩ your wife and ⟨את⟩ your two daughters wey dey here, so dat you no go perish for di iniquity of di city.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "and as"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bin dey rise"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "bin press"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "di messengers"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem bin talk"
+    },
+    {
+      "surface": "קום",
+      "gloss": "make you rise"
+    },
+    {
+      "surface": "קח",
+      "gloss": "take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your wife"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "your wife"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your two daughters"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "your daughters"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "wey dey here"
+    },
+    {
+      "surface": "פן",
+      "gloss": "so dat ... no"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "for di iniquity"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:28.044841695Z",
+  "model": "glm-5.2"
+}

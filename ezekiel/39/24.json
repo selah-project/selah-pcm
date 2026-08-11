@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "According to dia uncleanness and according to dia transgressions I do ⟨את⟩ dem, and I hide my face from dem.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "according to dia uncleanness"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "and according to dia transgressions"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "and I hide"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:15.366768310Z",
+  "model": "glm-5.2"
+}

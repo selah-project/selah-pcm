@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e bin bring back ⟨את⟩ all di property, and also ⟨את⟩ Lot im broda, and im property e bin bring back, and also ⟨את⟩ di women and ⟨את⟩ di people.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and bin bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di property"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "di property"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "and im property"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "e bin bring back"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di women"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "di women"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:26.929709047Z",
+  "model": "glm-5.2"
+}

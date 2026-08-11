@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨את⟩ una farms, and ⟨את⟩ una vineyards, and una olive groves — di best ones, im go take, and give to im servants.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una farms"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "una farms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una vineyards"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "una vineyards"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "and una olive groves"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "di best ones"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "im go take"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "to im servants"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:44.336043487Z",
+  "model": "glm-5.2"
+}

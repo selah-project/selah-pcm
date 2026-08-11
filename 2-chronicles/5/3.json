@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And all di men of Yisra'el gather to di king for di feast — na ⟨dat one⟩ be di seventh month.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "And gather"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di men"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "for di feast"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨dat one⟩ be"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "di month"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "di seventh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:06:32.700700241Z",
+  "model": "glm-5.2"
+}

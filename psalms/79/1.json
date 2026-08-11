@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Song for Asaph. Elohim, nation-dem don come inside ⟨di⟩ inheritance wey be Your own, dem don make ⟨את⟩ di temple of Your holiness dirty, dem don put ⟨את⟩ Yerushalayim make e turn to heap of rubble.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "for Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem don come"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nation-dem"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "inside inheritance wey be Your own"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "dem don make dirty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di temple of Your holiness"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temple"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "of Your holiness"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dem don put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "make e turn to heap of rubble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:14.921066595Z",
+  "model": "glm-5.2"
+}

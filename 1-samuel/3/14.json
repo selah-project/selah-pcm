@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And so I swear to di house of Eli: di iniquity of Eli im house no go atone with sacrifice and with grain offering, forever.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "and so"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "I swear"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to di house"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "of Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "e go atone"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di iniquity"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of house"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "with sacrifice"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "and with grain offering"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:37.250613229Z",
+  "model": "glm-5.2"
+}

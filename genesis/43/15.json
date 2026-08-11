@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And di men bin take ⟨את⟩ di gift dis one, and double silver dem take for dia hand, and ⟨את⟩ Binyamin; and dem bin rise up and bin go down Mitsrayim, and dem bin stand before Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem bin take"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gift"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di gift"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "and double"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "for dia hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "and dem bin rise up"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "and dem bin go down"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "and dem bin stand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:01.365902191Z",
+  "model": "glm-5.2"
+}

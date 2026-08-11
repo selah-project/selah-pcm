@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Di one wey dey silence di roar of seas, di roar of dia waves, and di noise of di nations.",
+  "tokens": [
+    {
+      "surface": "מַשְׁבִּיחַ",
+      "gloss": "di one wey dey silence"
+    },
+    {
+      "surface": "שְׁאוֹן",
+      "gloss": "di roar"
+    },
+    {
+      "surface": "יַמִּים",
+      "gloss": "of seas"
+    },
+    {
+      "surface": "שְׁאוֹן",
+      "gloss": "di roar"
+    },
+    {
+      "surface": "גַּלֵּיהֶם",
+      "gloss": "of dia waves"
+    },
+    {
+      "surface": "וַהֲמוֹן",
+      "gloss": "and di noise"
+    },
+    {
+      "surface": "לְאֻמִּים",
+      "gloss": "of di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:55.468089884Z",
+  "model": "glm-5.2"
+}

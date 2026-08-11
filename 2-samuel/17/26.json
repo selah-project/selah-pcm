@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Yisrael and Absalom bin camp for di land of Gilad.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "and bin camp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "and Absalom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "of Gilad"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:40.023305975Z",
+  "model": "glm-5.2"
+}

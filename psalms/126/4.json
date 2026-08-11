@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 126,
+  "translation": "Yahweh, turn back ⟨את⟩ our captivity, like streams for di Negev!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our captivity"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "our captivity"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "like streams"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "for di Negev"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:35.488636960Z",
+  "model": "glm-5.2"
+}

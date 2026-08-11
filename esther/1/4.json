@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "When e bin dey show ⟨את⟩ di wealth of di glory of im kingdom, and ⟨את⟩ di preciousness of di splendor of im greatness, many days — eighty and hundred days.",
+  "tokens": [
+    {
+      "surface": "בְּהַרְאֹת֗וֹ",
+      "gloss": "when e bin dey show"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di wealth"
+    },
+    {
+      "surface": "עֹ֨שֶׁר֙",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "of di glory"
+    },
+    {
+      "surface": "מַלְכוּת֔וֹ",
+      "gloss": "of im kingdom"
+    },
+    {
+      "surface": "וְאֶ֨ת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di preciousness"
+    },
+    {
+      "surface": "יְקָ֔ר",
+      "gloss": "preciousness"
+    },
+    {
+      "surface": "תִּפְאֶ֖רֶת",
+      "gloss": "of di splendor"
+    },
+    {
+      "surface": "גְּדוּלָּת֑וֹ",
+      "gloss": "of im greatness"
+    },
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "days"
+    },
+    {
+      "surface": "רַבִּ֔ים",
+      "gloss": "many"
+    },
+    {
+      "surface": "שְׁמוֹנִ֥ים",
+      "gloss": "eighty"
+    },
+    {
+      "surface": "וּמְאַ֖ת",
+      "gloss": "and hundred"
+    },
+    {
+      "surface": "יֽוֹם",
+      "gloss": "day"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:15.948716163Z",
+  "model": "glm-5.2"
+}

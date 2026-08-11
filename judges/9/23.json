@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 9:23",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Elohim bin send one bad spirit between Avimelekh and between ⟨di⟩ oga dem of Shekhem, and di oga dem of Shekhem bin deal treacherously with Avimelekh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "oga dem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "and bin deal treacherously"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "oga dem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "with Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:59.301430184Z",
+  "model": "glm-5.2"
+}

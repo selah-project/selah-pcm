@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Make ⟨im⟩ come down like rain upon mown grass, like heavy showers wey dey drench ⟨the⟩ earth.",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "make ⟨im⟩ come down"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "like rain"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "mown grass"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "like heavy showers"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "wey dey drench"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:28.930056216Z",
+  "model": "glm-5.2"
+}

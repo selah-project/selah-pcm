@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And earth bin shake and bin quake; foundation of mountain dem bin tremble, and dem bin shake, because anger bin burn for am.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "and bin shake"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "and bin quake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "and foundation of"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bin tremble"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "and dem bin shake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "anger bin burn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:18.701133720Z",
+  "model": "glm-5.2"
+}

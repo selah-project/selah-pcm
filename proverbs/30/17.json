@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Eye wey dey mock ⟨im⟩ papa, and wey dey scorn ⟨im⟩ mama teaching—dem go pierce am, crow wey dey for valley, and dem go chop am, pikin-dem of eagle.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "wey dey mock"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "⟨im⟩ papa"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "and wey dey scorn"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "⟨im⟩ mama teaching"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "dem go pierce am"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "crow"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "valley"
+    },
+    {
+      "surface": "ואכלוה",
+      "gloss": "and dem go chop am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "eagle"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:40.895199085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Elohim bin give ⟨את⟩ Daniel for chesed and for rachamim for front of chief of di eunuchs.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "bin give"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "for chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "and for rachamim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chief"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "of di eunuchs"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:02.216519824Z",
+  "model": "glm-5.2"
+}

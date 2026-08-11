@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "My zeal don finish me, because my enemies bin forget your words.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "don finish me"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "my zeal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "bin forget"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "your words"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:03.554880521Z",
+  "model": "glm-5.2"
+}

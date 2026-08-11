@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And Avimelekh bin talk to Yitschak: \"Comot from among us, because you don become stronger pass us well well.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "comot"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "from among us"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "you don become stronger"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pass us"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:11.861449820Z",
+  "model": "glm-5.2"
+}

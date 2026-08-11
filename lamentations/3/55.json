@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "I call your name, Yahweh, from di pit wey deep down.",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "I call"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "your name"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "from di pit"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "wey deep down"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:45.757185085Z",
+  "model": "glm-5.2"
+}

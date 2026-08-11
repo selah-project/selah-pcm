@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And ⟨את⟩ my goblet — di silver goblet — put am for di mouth of di smallest one bag, plus ⟨את⟩ im silver for grain. And e do as wetin Yosef bin talk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my goblet"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "my goblet"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "goblet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "put"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "for di mouth"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "bag"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "di smallest one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im silver for grain"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "im grain"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and e do"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "as wetin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin talk"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:31.782814967Z",
+  "model": "glm-5.2"
+}

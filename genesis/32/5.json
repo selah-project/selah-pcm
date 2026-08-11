@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And e bin command ⟨את⟩ dem, sey make dem talk: like dis una go talk to my Adonai, to Esau: like dis im talk: ⟨na⟩ your servant Ya'akov. I bin stay as stranger with Lavan, and I delay reach now.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e bin command"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make dem talk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "una go talk"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "to my Adonai"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "to Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "im talk"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "I bin stay as stranger"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and I delay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:44.592019878Z",
+  "model": "glm-5.2"
+}

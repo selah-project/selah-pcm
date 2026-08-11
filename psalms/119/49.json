@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Remember ⟨di⟩ word to your servant, di one wey you bin make me trust.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "Remember"
+    },
+    {
+      "surface": "דָּבָ֥ר",
+      "gloss": "word"
+    },
+    {
+      "surface": "לְעַבְדֶּ֑ךָ",
+      "gloss": "to your servant"
+    },
+    {
+      "surface": "עַ֝֗ל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יִֽחַלְתָּֽנִי",
+      "gloss": "you bin make me trust"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938323422Z",
+  "model": "glm-5.2"
+}

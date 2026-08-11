@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And I, Daniyel, bin look, and behold, two oda ⟨dem⟩ dey stand: one dey here for di edge of di river, and one dey here for di edge of di river.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "and I bin look"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "⟨dem⟩ dey stand"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dey here"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "for di edge of"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "di river"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "and one"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dey here"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "for di edge of"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "di river"
+    }
+  ],
+  "timestamp": "2026-08-11T13:44:42.974541130Z",
+  "model": "glm-5.2"
+}

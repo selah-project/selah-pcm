@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 70,
+  "translation": "Elohim, make ⟨you⟩ come rescue me; Yahweh, make ⟨you⟩ come help me, hurry!",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְהַצִּילֵנִי",
+      "gloss": "make ⟨you⟩ come rescue me"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְעֶזְרָתִי",
+      "gloss": "make ⟨you⟩ come help me"
+    },
+    {
+      "surface": "חוּשָׁה",
+      "gloss": "hurry!"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:16.875825507Z",
+  "model": "glm-5.2"
+}

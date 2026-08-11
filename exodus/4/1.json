@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 4:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Mosheh bin answer and bin talk sey, if dem no go believe me, and dem no go hear my voice, because dem go talk sey Yahweh no show ⟨imself⟩ to you.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "bin answer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "והן",
+      "gloss": "if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "dem go believe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dem go hear"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "show"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:25.885797846Z",
+  "model": "glm-5.2"
+}

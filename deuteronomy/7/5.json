@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "But instead, na so una go do to dem: una go pull down dia altars, and una go break dia sacred pillars, and una go cut down dia Asherah poles, and una go burn dia carved images for fire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨but⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "instead"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "dia altars"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "una go pull down"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "and dia sacred pillars"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "una go break"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "and dia Asherah poles"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "una go cut down"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "and dia carved images"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "una go burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:51.993372471Z",
+  "model": "glm-5.2"
+}

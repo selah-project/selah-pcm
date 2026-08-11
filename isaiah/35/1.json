@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Bush go glad, di dry place and di desert go rejoice, and ⟨e⟩ go blossom like rose.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bush"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "and dry place"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "and ⟨e⟩ go rejoice"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "desert"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "and ⟨e⟩ go blossom"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "like rose"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:52.422019493Z",
+  "model": "glm-5.2"
+}

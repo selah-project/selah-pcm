@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e bow down again, and e talk, \"Wetin ⟨be⟩ your servant, wey you come look toward dead dog like me?\"",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "and e bow down"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "you come look"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "di dog"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wey don die"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "like me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:44.578397515Z",
+  "model": "glm-5.2"
+}

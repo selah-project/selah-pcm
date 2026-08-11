@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And if one overpower am, di two go stand against am; and threefold rope no dey quick break.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "overpower"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "di two"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "and rope"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "threefold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "dey quick"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "break"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:18.831130007Z",
+  "model": "glm-5.2"
+}

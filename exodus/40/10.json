@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And you go anoint ⟨את⟩ di altar of burnt offering and ⟨את⟩ all im tools; and you go set ⟨את⟩ di altar apart, and di altar go be holy of holies.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "and you go anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar of burnt offering"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of burnt offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im tools"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "and you go set apart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "of holies"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:08.476529565Z",
+  "model": "glm-5.2"
+}

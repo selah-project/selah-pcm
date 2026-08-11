@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Water make am great, deep lift am up; ⟨את⟩ im rivers dey go round about im plantation, and ⟨את⟩ im channels e send to all di tree of di field.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "make am great"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "deep"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "lift am up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im rivers"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "im rivers"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "round about"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "im plantation"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im channels"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "im channels"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "e send"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:52.317736Z",
+  "model": "glm-5.2"
+}

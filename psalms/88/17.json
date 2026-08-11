@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "⟨Dem⟩ don pass over me ⟨with⟩ ya burning anger; ya alarms don wipe me finish.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "over me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "don pass"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ya burning anger"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ya alarms"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "don wipe me finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:30.285752493Z",
+  "model": "glm-5.2"
+}

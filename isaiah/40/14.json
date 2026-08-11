@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "⟨את⟩ Who e bin take counsel wit, and ⟨im⟩ make am understand? And who bin teach am for di path of judgment, and bin teach am knowledge? And di way of understanding — ⟨dem⟩ make am know am?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Who"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Who"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "e bin take counsel wit"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "and make am understand"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "and bin teach am"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "for di path"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "of judgment"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "and bin teach am"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "and di way"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "of understanding"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "make am know"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:35.914273634Z",
+  "model": "glm-5.2"
+}

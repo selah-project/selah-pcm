@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e come be, as Yahweh bin dey carry ⟨את⟩ Eliyahu go up inside whirlwind go heaven, wey Eliyahu and Elisha comot from ha-Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "as ... dey carry go up"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "inside whirlwind"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "go heaven"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wey ... comot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "and Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ha-Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:32.632357075Z",
+  "model": "glm-5.2"
+}

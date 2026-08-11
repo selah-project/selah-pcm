@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 26:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "When you finish to tithe ⟨את⟩ all di tithe of your produce for di third year, di year of tithe, you go give to di Levite, to di stranger, to di orphan, and to di widow, and dem go chop for your gates and satisfy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "you finish"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "to tithe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di tithe of your produce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "di tithe"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "of your produce"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "השלישת",
+      "gloss": "di third"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year of"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "di tithe"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "you go give"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "to di Levite"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "to di stranger"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "to di orphan"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "and to di widow"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "and dem go chop"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "for your gates"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "and satisfy"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:41.633292978Z",
+  "model": "glm-5.2"
+}

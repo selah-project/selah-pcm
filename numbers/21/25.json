@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yisra'el take ⟨את⟩ all dis cities, and Yisra'el come stay for all di cities of di Emori, for Cheshbon and for all im daughter-towns.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis cities"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and e come stay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "for Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and for all"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "im daughter-towns"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:07.589116505Z",
+  "model": "glm-5.2"
+}

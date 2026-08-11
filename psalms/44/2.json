@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Elohim, wit our ears we don hear; our papa-papa dem don tell us di work wey you work for dia days, for di olden days.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "wit our ears"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "we don hear"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "our papa-papa dem"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "don tell"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "di work"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "you work"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "for dia days"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "of old"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:59.280869165Z",
+  "model": "glm-5.2"
+}

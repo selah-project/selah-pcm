@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yehoshua turn back at dat time, and e capture ⟨את⟩ Chatzor, and ⟨את⟩ im king e strike wit sword; because Chatzor before-before bin ⟨be⟩ di head of all dis kingdoms.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and turn back"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "at di time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im king"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "im king"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "strike"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "before-before"
+    },
+    {
+      "surface": "היא",
+      "gloss": "be"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "di kingdoms"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:53.992705128Z",
+  "model": "glm-5.2"
+}

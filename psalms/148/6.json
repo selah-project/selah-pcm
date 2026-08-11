@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "And ⟨im⟩ make dem stand forever, till ⟨di end of time⟩; ⟨im⟩ give decree, and e no go pass.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲמִידֵ֣ם",
+      "gloss": "and ⟨im⟩ make dem stand"
+    },
+    {
+      "surface": "לָעַ֣ד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "till ⟨di end of time⟩"
+    },
+    {
+      "surface": "חָק",
+      "gloss": "decree"
+    },
+    {
+      "surface": "נָ֝תַ֗ן",
+      "gloss": "⟨im⟩ give"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "and e no"
+    },
+    {
+      "surface": "יַעֲבֽוֹר",
+      "gloss": "go pass"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:29.649132985Z",
+  "model": "glm-5.2"
+}

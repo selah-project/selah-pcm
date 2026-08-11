@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Make ⟨dem⟩ be acceptable, di words of my mout, and di meditation of my heart, before Your face, Yahweh, my Rock, and my Redeemer.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Make ⟨dem⟩ be"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "acceptable"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "di words"
+    },
+    {
+      "surface": "פי",
+      "gloss": "of my mout"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "and di meditation"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "of my heart"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before Your face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my Rock"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "and my Redeemer"
+    }
+  ],
+  "timestamp": "2026-08-11T16:35:20.456830638Z",
+  "model": "glm-5.2"
+}

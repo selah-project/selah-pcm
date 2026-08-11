@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And you talk sey, 'I go surely do good wit you, and I go put ⟨את⟩ your seed like sand of di sea wey dem no fit count from plenty.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "you talk"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "surely do good"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "I go do good"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your seed"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "like sand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "of di sea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dem fit count"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "from plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:53.618891393Z",
+  "model": "glm-5.2"
+}

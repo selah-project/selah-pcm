@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Dem bin drink di wine, and dem praise di gods of gold and of silver, copper, iron, wood, and stone.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "dem bin drink"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "di wine"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "and dem praise"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "di gods of"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "gold"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "and of silver"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "copper"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "iron"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "wood"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "and stone"
+    }
+  ],
+  "timestamp": "2026-08-11T13:40:15.625257816Z",
+  "model": "glm-5.2"
+}

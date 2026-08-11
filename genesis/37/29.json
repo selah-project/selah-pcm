@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Reuben bin go back go di pit, and behold, Joseph no dey for di pit, and e tear ⟨את⟩ im cloths.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bin go back"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "di pit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "for di pit"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "and e tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloths"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:10.672756888Z",
+  "model": "glm-5.2"
+}

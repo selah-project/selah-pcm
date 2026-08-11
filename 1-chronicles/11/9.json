@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Dawid bin dey go, dey waka and dey grow great, and Yahweh of hosts bin dey wit am.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and bin dey go"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "and dey grow great"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:58:06.880960956Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem no sabi how to do wetin straight, na di oracle of Yahweh — dem dey store up violence and spoil for dia palaces.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dem sabi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "wetin straight"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "dem dey store up"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "and spoil"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "for dia palaces"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:46.846068389Z",
+  "model": "glm-5.2"
+}

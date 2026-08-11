@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And to di pikin-dem of Aharon dem give ⟨את⟩ di town-dem of refuge: ⟨את⟩ Chevron and ⟨את⟩ Livnah and ⟨את⟩ ⟨im⟩ open-land-dem; and ⟨את⟩ Yattir and ⟨את⟩ Eshtemoa and ⟨את⟩ ⟨im⟩ open-land-dem.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "and to di pikin-dem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dem give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di town-dem"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "town-dem"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "of refuge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Livnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:27.533010122Z",
+  "model": "glm-5.2"
+}

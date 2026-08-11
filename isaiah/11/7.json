@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And cow and bear go graze together, dia young ones go lie down; and lion go chop straw like cow.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "and cow"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "and bear"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "go graze"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "dia young ones"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "and lion"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "like cow"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "straw"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:37.304805038Z",
+  "model": "glm-5.2"
+}

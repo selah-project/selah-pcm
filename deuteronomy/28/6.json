@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Blessing go dey on top you when you dey enter, and blessing go dey on top you when you dey komot.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessing go dey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on top you"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "when you dey enter"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "and blessing go dey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on top you"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "when you dey komot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:38.299673917Z",
+  "model": "glm-5.2"
+}

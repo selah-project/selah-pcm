@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "For thus Yahweh bin talk: even di captive of di mighty man dem go take, and di prey of di tyrant go escape; and ⟨concerning⟩ ⟨את⟩ di one wey dey contend with you, na me go contend ⟨am⟩, and ⟨את⟩ your pikin-dem, na me go save.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כֹה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "even"
+    },
+    {
+      "surface": "שְׁבִי",
+      "gloss": "captive"
+    },
+    {
+      "surface": "גִבּוֹר",
+      "gloss": "mighty man"
+    },
+    {
+      "surface": "יֻקָּח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "וּמַלְק֥וֹחַ",
+      "gloss": "and prey"
+    },
+    {
+      "surface": "עָרִיץ",
+      "gloss": "tyrant"
+    },
+    {
+      "surface": "יִמָּלֵט",
+      "gloss": "go escape"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di one wey dey contend with you"
+    },
+    {
+      "surface": "יְרִיבֵךְ",
+      "gloss": "your contender"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אָרִיב",
+      "gloss": "go contend"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your pikin-dem"
+    },
+    {
+      "surface": "בָּנַ֖יִךְ",
+      "gloss": "your pikin-dem"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "אוֹשִֽׁיעַ",
+      "gloss": "go save"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:09.372036964Z",
+  "model": "glm-5.2"
+}

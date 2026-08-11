@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and ⟨את⟩ all di store-cities wey bin dey for Shelomoh, and ⟨את⟩ di chariot cities, and ⟨את⟩ di horsemen cities, and ⟨את⟩ wetin Shelomoh desire wey im desire make dem build for Yerushalayim, and for Levanon, and for all di land of im domain.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di store-cities"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "di store-ones"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "for Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di chariot cities"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di horsemen cities"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "di horsemen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin Shelomoh desire"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "desire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "im desire"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "make dem build"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "and for Levanon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and for all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "of im domain"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:36.951072870Z",
+  "model": "glm-5.2"
+}

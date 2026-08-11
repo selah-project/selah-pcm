@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Moab bin rebel against Yisra'el afta di death of Achav.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "bin rebel"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "against Yisra'el"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di death"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "of Achav"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:16.397044735Z",
+  "model": "glm-5.2"
+}

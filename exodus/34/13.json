@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "instead, ⟨את⟩ dia altar una go pull down, and ⟨את⟩ dia standing-pillar una go break, and ⟨את⟩ dia Asherah-pole una go cut down.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "instead"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia altar"
+    },
+    {
+      "surface": "מִזְבְּחֹתָם֙",
+      "gloss": "dia altar"
+    },
+    {
+      "surface": "תִּתֹּצ֔וּן",
+      "gloss": "una go pull down"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia standing-pillar"
+    },
+    {
+      "surface": "מַצֵּבֹתָ֖ם",
+      "gloss": "dia standing-pillar"
+    },
+    {
+      "surface": "תְּשַׁבֵּר֑וּן",
+      "gloss": "una go break"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia Asherah-pole"
+    },
+    {
+      "surface": "אֲשֵׁרָ֖יו",
+      "gloss": "dia Asherah-pole"
+    },
+    {
+      "surface": "תִּכְרֹתֽוּן",
+      "gloss": "una go cut down"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:40.850601185Z",
+  "model": "glm-5.2"
+}

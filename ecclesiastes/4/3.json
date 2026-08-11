@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And better pass both of dem ⟨na⟩ ⟨את⟩ di one wey never bin till now, wey never see ⟨את⟩ di bad work wey dem do under di sun.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "and better"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "pass both of dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "till now"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bad work"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wey bad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:14.097112749Z",
+  "model": "glm-5.2"
+}

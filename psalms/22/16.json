@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "My power don dry like potsherd, and my tongue don stick to my jaw, and you don set me for inside di dust of death.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "don dry"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "like potsherd"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my power"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "and my tongue"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "don stick"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "to my jaw"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "and for inside di dust"
+    },
+    {
+      "surface": "מות",
+      "gloss": "of death"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "you don set me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:46.343532129Z",
+  "model": "glm-5.2"
+}

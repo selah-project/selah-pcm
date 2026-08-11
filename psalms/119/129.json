@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "⟨Your⟩ testimonies ⟨be⟩ wonders; because of dat, my nefesh don keep dem.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "⟨Your⟩ testimonies"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of / because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "don keep dem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nefesh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:33.089330625Z",
+  "model": "glm-5.2"
+}

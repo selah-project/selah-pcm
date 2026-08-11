@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "⟨את⟩ di tabernacle, ⟨את⟩ im tent and ⟨את⟩ im covering, ⟨את⟩ im clasps and ⟨את⟩ im frames, ⟨את⟩ im bars, ⟨את⟩ im pillars and ⟨את⟩ im sockets.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tabernacle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im tent"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "im tent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im covering"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "im covering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im clasps"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "im clasps"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im frames"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "im frames"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im bars"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "im bars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im pillars"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "im pillars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sockets"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im sockets"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:55.531559834Z",
+  "model": "glm-5.2"
+}

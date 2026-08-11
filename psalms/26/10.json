@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Wey inside dia hand ⟨dey⟩ wicked plan, and dia right hand don full wit bribe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "inside dia hand"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "wicked plan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "and dia right hand"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "don full"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "wit bribe"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:17.772600516Z",
+  "model": "glm-5.2"
+}

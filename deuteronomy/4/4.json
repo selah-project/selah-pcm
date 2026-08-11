@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "But una wey hold tight to Yahweh una Elohim, una dey alive, all of una, today.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "But una"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "wey hold tight"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "una dey alive"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "all of una"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:15.565960380Z",
+  "model": "glm-5.2"
+}

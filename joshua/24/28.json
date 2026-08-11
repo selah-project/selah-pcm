@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Then Yehoshua bin send ⟨את⟩ di people away, each man to im inheritance.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send away"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "to im inheritance"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:46.032317867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And dem go dey inside you for sign and for wonder, and inside your seed, forever.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "and dem go be"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "for sign"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "and for wonder"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "and inside your seed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.639640550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Crash upon crash dem dey call out, because di whole earth don dey plunder! Sudden-sudden dem don plunder my tents, for one moment my curtains!",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "crash"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "crash"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "dem dey call out"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "don dey plunder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di whole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sudden-sudden"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "dem don plunder"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "my tents"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "for one moment"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "my curtains"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:15.379002115Z",
+  "model": "glm-5.2"
+}

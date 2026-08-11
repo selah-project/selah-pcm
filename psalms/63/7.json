@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "If I remember You on top my bed, for di night-watches I dey ponder on You.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "I remember You"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "for di night-watches"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "I dey ponder"
+    },
+    {
+      "surface": "בך",
+      "gloss": "on You"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:08.114593318Z",
+  "model": "glm-5.2"
+}

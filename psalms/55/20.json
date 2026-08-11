@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Make El hear, and answer dem, and ⟨make⟩ di One wey dey sit from of old ⟨answer⟩. Selah. Dem wey no get change, and dem no fear Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Make hear"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "and answer dem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨make⟩ di One wey dey sit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "from of old"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "change"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:41.074318975Z",
+  "model": "glm-5.2"
+}

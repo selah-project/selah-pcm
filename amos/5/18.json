@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Shame on una wey dey hunger for ⟨את⟩ day of Yahweh! Wetin dis one mean for una? Day of Yahweh — ⟨na⟩ darkness and no be light!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "shame on"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "una wey dey hunger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "day of Yahweh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "למה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:12.984932940Z",
+  "model": "glm-5.2"
+}

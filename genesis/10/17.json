@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "and ⟨את⟩ di Hivite, and ⟨את⟩ di Arkite, and ⟨את⟩ di Sinite;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Hivite"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Hivite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Arkite"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "di Arkite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Sinite"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "di Sinite"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:28.648757273Z",
+  "model": "glm-5.2"
+}

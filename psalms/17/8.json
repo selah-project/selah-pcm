@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Guard me like di dark center of di eye; for di shadow of your wing dem, hide me.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "guard me"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "like di dark center"
+    },
+    {
+      "surface": "בת",
+      "gloss": "of"
+    },
+    {
+      "surface": "עין",
+      "gloss": "di eye"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "for di shadow"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "of your wing dem"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "hide me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:23.064275173Z",
+  "model": "glm-5.2"
+}

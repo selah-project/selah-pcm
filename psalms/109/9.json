@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make im pikin-dem come be ⟨as⟩ orphan-dem, and im wife come be widow.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "make ... come be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "orphan-dem"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "widow"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:13.206748178Z",
+  "model": "glm-5.2"
+}

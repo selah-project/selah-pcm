@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Yahweh do ⟨את⟩ dis ting di next day, and all di livestock of Mitsrayim die; but from di livestock of Bnei Yisrael, not even one die.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ting"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di ting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di next day"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and die"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "livestock"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "and from di livestock"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "מת",
+      "gloss": "die"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:12.855385037Z",
+  "model": "glm-5.2"
+}

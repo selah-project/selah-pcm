@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "⟨את⟩ Dia sheep and ⟨את⟩ dia cow dem and ⟨את⟩ dia donkey dem, and ⟨את⟩ wetin dey for di city, and ⟨את⟩ wetin dey for field, dem take.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia sheep"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dia sheep"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia cow dem"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "dia cow dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia donkey dem"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dia donkey dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dey for di city"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dey for di city"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dey for field"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dey for field"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:08.199440677Z",
+  "model": "glm-5.2"
+}

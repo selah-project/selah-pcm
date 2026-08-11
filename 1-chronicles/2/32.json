@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di sons of Yada, brother of Shamay, ⟨be⟩ Yeter and Yonatan; and Yeter die, e no get sons.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Yada"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brother of"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamay"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "and Yonatan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨e⟩ die"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:49.087244642Z",
+  "model": "glm-5.2"
+}

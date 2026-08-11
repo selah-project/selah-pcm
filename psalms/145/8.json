@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Gracious and full of mercy ⟨na⟩ Yahweh; im no quick well-well to vex, and great ⟨na⟩ im chesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Gracious"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "and full of mercy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "im no quick"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "well-well to vex"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "and great"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "⟨na⟩ im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:17.596912343Z",
+  "model": "glm-5.2"
+}

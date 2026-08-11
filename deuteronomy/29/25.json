@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "and dem go waka go, and dem go serve oda elohim, and dem go bow down to dem — elohim wey dem no know and wey ⟨im⟩ no apportion to dem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go waka go"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "and dem go serve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and dem go bow down"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "dem know"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "⟨im⟩ apportion"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:28.906948184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "So now, abeg, forgive my sin — only dis time — and beg Yahweh, una Elohim, make ⟨im⟩ comot from on top me only ⟨את⟩ dis death.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "שא",
+      "gloss": "abeg, forgive"
+    },
+    {
+      "surface": "נא",
+      "gloss": "I beg"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "dis time"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "and beg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "and make ⟨im⟩ comot"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "from on top me"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis death"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dis death"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:27.483859646Z",
+  "model": "glm-5.2"
+}

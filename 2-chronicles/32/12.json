@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "No be im, Yechizkiyahu, bin remove ⟨את⟩ im high places and ⟨את⟩ im altars, and bin tell Yehudah and Yerushalayim sey: Before one altar una go bow down, and on top am una go burn incense?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "bin remove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im high places"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "im high places"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im altars"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "im altars"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "una go bow down"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "and on top am"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "una go burn incense"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:41.200434361Z",
+  "model": "glm-5.2"
+}

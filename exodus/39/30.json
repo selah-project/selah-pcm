@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And dem make ⟨את⟩ di plate of di holy crown, pure gold, and dem write on top am ⟨a⟩ writing, like di engraving of a signet-seal: 'Holy to Yahweh.'",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plate"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "di plate"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "of di crown"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "and dem write"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "⟨a⟩ writing"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "like di engraving of"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "a signet-seal"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Holy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:10.010721979Z",
+  "model": "glm-5.2"
+}

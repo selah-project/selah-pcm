@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "No remembrance dey for di first ones; and even for di last ones wey go come, no remembrance go dey for dem, together wit di ones wey go come for di back.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "remembrance"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "for di first ones"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "for di last ones"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "wey go come"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "remembrance"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together wit"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "wey go come"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "for di back"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:16.654228462Z",
+  "model": "glm-5.2"
+}

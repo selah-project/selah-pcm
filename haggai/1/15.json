@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "For day twenty and four, for di sixth month, for year two of Darius di king.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "For day"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "and four"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "for di sixth"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "for year"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "of Darius"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:04.560683318Z",
+  "model": "glm-5.2"
+}

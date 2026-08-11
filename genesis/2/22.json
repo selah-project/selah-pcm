@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh Elohim build ⟨את⟩ di rib wey ⟨He⟩ take from di man to ⟨be⟩ woman, and ⟨He⟩ bring am to di man.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and ⟨He⟩ build"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di rib"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "di rib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨He⟩ take"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "to ⟨be⟩ woman"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "and ⟨He⟩ bring am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:28.342483617Z",
+  "model": "glm-5.2"
+}

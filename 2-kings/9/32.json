@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And im lift up im face toward di window, and im talk, 'Who ⟨dey⟩ with me? Who?' And two, three eunuch dem look toward am.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and im lift up"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "di window"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "with me"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "and look"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "toward am"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "eunuch dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:42.856111764Z",
+  "model": "glm-5.2"
+}

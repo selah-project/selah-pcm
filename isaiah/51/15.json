@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "But I, I ⟨be⟩ Yahweh your Elohim, wey dey stir up di sea, wey make im waves roar — Yahweh of hosts ⟨be⟩ im name.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "but I, I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "wey dey stir up"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea",
+      "marks": "di sea"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "wey make roar"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "im waves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.878675358Z",
+  "model": "glm-5.2"
+}

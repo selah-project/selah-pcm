@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "Back and front, you don surround me, and you don put your palm on top me.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "back"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "and front"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "you don surround me"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "and you don put"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "your palm"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:31.014598735Z",
+  "model": "glm-5.2"
+}

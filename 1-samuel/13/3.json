@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Yonatan strike ⟨את⟩ di garrison of Filistim wey dey for Geva, and Filistim hear; and Saul blow shofar for all di land, sey, make di Ivrim hear.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and im strike"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di garrison"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "garrison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Filistim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "dey for Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "and dem hear"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "and Saul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "blow"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "make dem hear"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "di Ivrim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:22.330316755Z",
+  "model": "glm-5.2"
+}

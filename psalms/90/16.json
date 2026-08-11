@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 90,
+  "translation": "Make ⟨your⟩ work appear to ⟨your⟩ servants, and your splendor upon their children.",
+  "tokens": [
+    {
+      "surface": "יֵרָאֶ֣ה",
+      "gloss": "Make ⟨it⟩ appear"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עֲבָדֶ֣יךָ",
+      "gloss": "⟨your⟩ servants"
+    },
+    {
+      "surface": "פָעֳלֶ֑ךָ",
+      "gloss": "⟨your⟩ work"
+    },
+    {
+      "surface": "וַ֝הֲדָרְךָ֗",
+      "gloss": "and your splendor"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "בְּנֵיהֶֽם",
+      "gloss": "their children"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:30.972250473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Aharon speak ⟨את⟩ all di words wey Yahweh don speak to Mosheh, and im do di signs for di eyes of di people.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and speak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di words"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and im do"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "di signs"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for di eyes of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:33.455806301Z",
+  "model": "glm-5.2"
+}

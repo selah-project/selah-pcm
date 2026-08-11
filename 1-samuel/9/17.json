@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Shemu'el see ⟨את⟩ Sha'ul, and Yahweh answer am, sey, Look! Di man wey I bin tell you about, na ⟨im⟩ go rule over ⟨את⟩ my people.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "And Shemu'el"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "answer am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Look!"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin tell"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "you about"
+    },
+    {
+      "surface": "זה",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "go rule"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "over my people"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.856382194Z",
+  "model": "glm-5.2"
+}

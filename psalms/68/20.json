@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Blessed ⟨be⟩ Adonai — day by day e dey load us, ⟨na⟩ El of our salvation. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "יום",
+      "gloss": "by day"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "e dey load"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨na⟩ El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "of our salvation"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:53.637095836Z",
+  "model": "glm-5.2"
+}

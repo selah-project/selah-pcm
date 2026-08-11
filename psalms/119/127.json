@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Because of dat I love your commandments more than gold, even more than pure gold.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "I love"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "your commandments"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "more than gold"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "and more than pure gold"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.923387193Z",
+  "model": "glm-5.2"
+}

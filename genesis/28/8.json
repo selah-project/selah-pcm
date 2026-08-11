@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And Esav see sey di daughters of Kenaan ⟨be⟩ bad for di eyes of Yitschak im papa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "see"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bad"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "di daughters of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eyes of"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:15.896781666Z",
+  "model": "glm-5.2"
+}

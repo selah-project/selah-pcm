@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And di one comot from ⟨את⟩ me, and I talk say, surely ⟨dem⟩ tear-am tear-am, and I neva see am till now.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and ⟨im⟩ comot"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "from ⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "surely"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "⟨dem⟩ tear"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tear-am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I neva"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "see am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "now"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:22.073483799Z",
+  "model": "glm-5.2"
+}

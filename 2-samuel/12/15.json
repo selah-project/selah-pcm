@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Natan go to im house. And Yahweh strike ⟨את⟩ di boy wey di wife of Uriyah born for David, and e come down with sickness.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di boy"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "born"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "di wife"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "of Uriyah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "and e come down with sickness"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:58.272777218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Di pikin-dem of Shem: Eylam, and Ashur, and Arfakshad, and Lud, and Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eylam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "and Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "and Arfakshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "and Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "and Aram"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:23.239341780Z",
+  "model": "glm-5.2"
+}

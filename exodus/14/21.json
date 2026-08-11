@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Mosheh stretch ⟨את⟩ im hand on top di sea, and Yahweh move ⟨את⟩ di sea wit east wind wey strong, all di night, and ⟨e⟩ make ⟨את⟩ di sea come dry ground, and di water dem divide.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "stretch"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "move"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "wit wind"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "east"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "wey strong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "di night"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "come dry ground"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "divide"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:46:47.121304181Z",
+  "model": "glm-5.2"
+}

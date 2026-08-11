@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make di star dem of im twilight dark, make e wait for light, but notin dey, and make e no see di eyelid dem of dawn.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "make dem dark"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "star dem of"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "im twilight"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "make e wait"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "for light"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "but notin dey"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "e see"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "eyelid dem of"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dawn"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:12.132911168Z",
+  "model": "glm-5.2"
+}

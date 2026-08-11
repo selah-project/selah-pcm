@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Because abomination to Yahweh na di pervers⟨e⟩ person, and ⟨with⟩ ⟨the⟩ upright ⟨be⟩ ⟨im⟩ secret counsel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "di pervers⟨e⟩ person"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "the upright"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "upright"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "⟨im⟩ secret counsel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:42.466271235Z",
+  "model": "glm-5.2"
+}

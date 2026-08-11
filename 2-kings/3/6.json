@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So King Yehoram comot from Shomron for dat day, and e bin muster ⟨את⟩ all Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "comot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for ⟨di⟩ day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "from Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "and e bin muster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:41.531691495Z",
+  "model": "glm-5.2"
+}

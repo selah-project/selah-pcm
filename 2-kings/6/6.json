@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di man of Elohim talk, 'Where e fall?' And e show am ⟨את⟩ di place, and e cut one stick, and trow am dere, and di iron float.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "where"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "e fall"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "and e show am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di place"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "and e cut"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stick"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "and trow"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "and float"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "di iron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:25.291439110Z",
+  "model": "glm-5.2"
+}

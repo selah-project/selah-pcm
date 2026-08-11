@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem give dem ⟨את⟩ Chevron inside land of Yehudah, and ⟨את⟩ im grazing-land wey dey around am.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "And dem give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "inside land of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "wey dey around am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:16.877417632Z",
+  "model": "glm-5.2"
+}

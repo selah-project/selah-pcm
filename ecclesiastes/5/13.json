@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨dem⟩ destroy dat wealth for bad trouble, and ⟨e⟩ born son, and notin dey for im hand at all.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "and ⟨dem⟩ destroy"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "dat wealth"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "for trouble"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "and ⟨e⟩ born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and notin dey"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "at all"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:32.314733103Z",
+  "model": "glm-5.2"
+}

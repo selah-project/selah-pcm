@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e bin spread ⟨את⟩ di tent on top di tabernacle, and e bin put ⟨את⟩ di covering of di tent on top am from above, as Yahweh bin command ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "and e bin spread"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "di tent"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and e bin put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di covering"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "di covering"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "of di tent"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "from above"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:12.450851786Z",
+  "model": "glm-5.2"
+}

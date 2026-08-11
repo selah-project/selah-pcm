@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "If I dey righteous, my mouth go condemn me; if I dey blameless, e go prove me crooked.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "I dey righteous"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "go condemn me"
+    },
+    {
+      "surface": "תם",
+      "gloss": "blameless"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "go prove me crooked"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:34.679981782Z",
+  "model": "glm-5.2"
+}

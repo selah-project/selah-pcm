@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "and Dishon, and Etser, and Dishan; dis na di chiefs of di Horite, di sons of Seir, for di land of Edom.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "and Dishon"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "and Etser"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "and Dishan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "di chiefs"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "of di Horite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "of Seir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "of Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:58.884155053Z",
+  "model": "glm-5.2"
+}

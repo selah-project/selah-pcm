@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Yahweh bin speak to Mosheh, sey make im talk,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make im talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:38.493345148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And one day come, ⟨when⟩ ⟨im⟩ come reach there, and ⟨im⟩ enter go di upper room, and ⟨im⟩ lie down there.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and one day come"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨one day⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨im⟩ come reach"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "and ⟨im⟩ enter go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "di upper room"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "and ⟨im⟩ lie down"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:37.252858322Z",
+  "model": "glm-5.2"
+}

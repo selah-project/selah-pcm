@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "No make ⟨for⟩ yourself carved image, or any shape of anything wey dey for heaven above, or wey dey for di earth under, or wey dey for di water under di earth.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨for⟩ yourself"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "carved image"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "or any"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "shape"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "of anything wey dey"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "above"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "or wey dey"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "or wey dey"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for di water"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:09.686901468Z",
+  "model": "glm-5.2"
+}

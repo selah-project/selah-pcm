@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Dem don dey near, dem wey dey pursue bad plan; from your Torah dem don go far.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "dem don dey near"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "dem wey dey pursue"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bad plan"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "from your Torah"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "dem don go far"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:45.702737653Z",
+  "model": "glm-5.2"
+}

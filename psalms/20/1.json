@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "To di leader, song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:33.557116057Z",
+  "model": "glm-5.2"
+}

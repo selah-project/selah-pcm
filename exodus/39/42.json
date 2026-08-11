@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "According to all wey Yahweh bin command Moshe, na so pikin-dem of Yisrael do ⟨את⟩ all di wok.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "According to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di wok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "di wok"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:18.002485289Z",
+  "model": "glm-5.2"
+}

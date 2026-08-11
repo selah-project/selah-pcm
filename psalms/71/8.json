@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "Make my mouth fill up with your praise, all di day ⟨with⟩ your glory.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "Make ... fill up"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "with your praise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "⟨with⟩ your glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:46.314287307Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yahweh bin thunder for ⟨di⟩ heaven, and ⟨di⟩ Highest one bin send ⟨im⟩ voice — hail and coal of fire.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "And Yahweh bin thunder"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for ⟨di⟩ heaven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "and ⟨di⟩ Highest one"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨im⟩ voice"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hail"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "and coal of"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:10.724439801Z",
+  "model": "glm-5.2"
+}

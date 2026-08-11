@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Before im, debir dey waka, and flame com out for im leg dem.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "before im"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and com out"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "flame"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "for im leg dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:49.040549409Z",
+  "model": "glm-5.2"
+}

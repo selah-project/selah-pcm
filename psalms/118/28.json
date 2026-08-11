@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 118,
+  "translation": "You ⟨na⟩ my El, and I go praise You. My Elohim, I go lift You high.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "and I go praise You"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "I go lift You high"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:42.593182208Z",
+  "model": "glm-5.2"
+}

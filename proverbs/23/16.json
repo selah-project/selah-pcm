@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And my kidneys go leap for joy, when your lips dey speak straight tings.",
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "go leap for joy"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my kidneys"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "when dey speak"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "your lips"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "straight tings"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:33.164762595Z",
+  "model": "glm-5.2"
+}

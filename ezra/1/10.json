@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Bowl dem of gold, thirty; bowl dem of silver wey be di second sort, four hundred and ten; oda vessel dem, one thousand.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "bowl dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "bowl dem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "wey be di second sort"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "and ten"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "vessel dem"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "one thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:44:12.398015667Z",
+  "model": "glm-5.2"
+}

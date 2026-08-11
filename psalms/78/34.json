@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "If ⟨im⟩ kill dem, den dem go seek am; and dem go turn back, and go seek El early-morning.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "⟨im⟩ kill dem"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "den dem go seek am"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "and dem go turn back"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "and go seek early-morning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:49.106425458Z",
+  "model": "glm-5.2"
+}

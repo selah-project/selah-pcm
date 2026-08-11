@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Then di priest go comot from di house go di entrance of di house, and im go lock up ⟨את⟩ di house for seven days.",
+  "tokens": [
+    {
+      "surface": "וצא",
+      "gloss": "go comot"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "and im go lock up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:45.282099822Z",
+  "model": "glm-5.2"
+}

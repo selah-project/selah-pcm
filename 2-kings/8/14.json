@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e comot from ⟨את⟩ Elisha, and e come to im oga; and e ask am say, \"Wetin Elisha tell you?\" And e talk say, \"E tell me say, 'You go surely live.'\"",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "And e comot"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im oga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e ask"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And e talk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "live"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "you go surely live"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:03.925065601Z",
+  "model": "glm-5.2"
+}

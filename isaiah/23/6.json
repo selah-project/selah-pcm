@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Cross over to Tarshish; una wey dey live for di island, make una howl!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "cross over"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "to Tarshish"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "make una howl"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "una wey dey live"
+    },
+    {
+      "surface": "אי",
+      "gloss": "for di island"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:10.899141282Z",
+  "model": "glm-5.2"
+}

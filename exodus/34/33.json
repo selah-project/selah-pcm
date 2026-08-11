@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "As Mosheh finish ⟨say⟩ talk with dem, e put veil on top im face.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "finish"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "veil"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:33.436530328Z",
+  "model": "glm-5.2"
+}

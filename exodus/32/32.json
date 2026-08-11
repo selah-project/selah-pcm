@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And now, if You go carry dia sin — but if no, wipe me comot, I beg You, from di book wey You bin write.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "You go carry"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dia sin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "but if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "wipe me comot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "I beg You"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "from di book"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "You bin write"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:08.692264304Z",
+  "model": "glm-5.2"
+}

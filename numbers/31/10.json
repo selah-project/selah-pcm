@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And ⟨את⟩ all dia town-dem for dia settlement-dem, and ⟨את⟩ all dia camp-dem, dem burn ⟨with⟩ fire.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all dia town-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "dia town-dem"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "for dia settlement-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all dia camp-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "dia camp-dem"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dem burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨with⟩ fire"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:48.402623527Z",
+  "model": "glm-5.2"
+}

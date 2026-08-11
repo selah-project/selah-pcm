@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "Make you no throw me away for time of old age; as my strength dey finish, make you no abandon me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "throw me away"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "for time of"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "old age"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "as ⟨e⟩ dey finish"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandon me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:25.172982455Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Amatsyahu strengthen imsef, and e lead ⟨את⟩ im people, and e go Gei Hamelach, and e strike ⟨את⟩ Bnei Se'ir — ten thousand.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "And Amatsyahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "strengthen imsef"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "and lead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gei"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Hamelach"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bnei Se'ir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bnei"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:58.868179791Z",
+  "model": "glm-5.2"
+}

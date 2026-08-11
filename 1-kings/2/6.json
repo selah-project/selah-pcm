@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So do according to your wisdom, and make im old head no go down Sheol in peace.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "So do"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "according to your wisdom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and make ... no"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "go down"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "im old head"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "in peace"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:07.937592351Z",
+  "model": "glm-5.2"
+}

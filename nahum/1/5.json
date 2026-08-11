@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Mountains dey shake from im presence, and di hills dey melt; and di earth dey lift up from im face, and di world and all ⟨di⟩ people wey dey stay inside am.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "dey shake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from im presence"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "and di hills"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "dey melt"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "and ⟨earth⟩ dey lift up"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "from im face"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "and di world"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "people wey dey stay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:35.322711284Z",
+  "model": "glm-5.2"
+}

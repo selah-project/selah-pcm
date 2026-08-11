@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Dem tell di king of Yericho sey: \"See, man dem don come inside here tonight, from di pikin dem of Yisrael, to come explore ⟨את⟩ di land.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dem tell"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "of Yericho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "man dem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "don come"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "inside here"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tonight"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from di pikin dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "to come explore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:42.411902956Z",
+  "model": "glm-5.2"
+}

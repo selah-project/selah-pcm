@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "My beloved ⟨be⟩ for me and I ⟨be⟩ for am; di one wey dey tend ⟨את⟩ flock among lily dem.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "my beloved"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "di one wey dey tend"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "among lily dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:46.737095482Z",
+  "model": "glm-5.2"
+}

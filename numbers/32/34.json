@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And di pikin dem of Gad bin build ⟨את⟩ Dibon, and ⟨את⟩ Ataroth, and ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem of"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ataroth"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ataroth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:32.379489957Z",
+  "model": "glm-5.2"
+}

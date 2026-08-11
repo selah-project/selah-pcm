@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "All Yisra'el bin gather demsef to David for Hevron, dem dey talk say, \"See, na your bone and your flesh we be.\"",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "bin gather demsef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "for Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem dey talk say"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "your bone"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "and your flesh"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:29.885538845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "Make we enter im tent-dem, make we prostate down for di stool wey ⟨im⟩ feet dey.",
+  "tokens": [
+    {
+      "surface": "נָב֥וֹאָה",
+      "gloss": "make we enter"
+    },
+    {
+      "surface": "לְמִשְׁכְּנוֹתָ֑יו",
+      "gloss": "im tent-dem"
+    },
+    {
+      "surface": "נִ֝שְׁתַּחֲוֶ֗ה",
+      "gloss": "make we prostate down"
+    },
+    {
+      "surface": "לַהֲדֹ֥ם",
+      "gloss": "for di stool"
+    },
+    {
+      "surface": "רַגְלָֽיו",
+      "gloss": "⟨im⟩ feet"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:03.676785577Z",
+  "model": "glm-5.2"
+}

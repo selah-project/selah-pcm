@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Kayin comot from di face of Yahweh, and im siddon for di land of Nod, east of Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and comot"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and im siddon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "east"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:39.112397853Z",
+  "model": "glm-5.2"
+}

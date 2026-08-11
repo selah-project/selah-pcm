@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Na dis bin be di words wey Moshe bin speak to all Yisra'el for di oda side of Yarden, for di wilderness, for di Arabah, opposite Suph, between Paran and between Tofel, Lavan, Chatserot, and Di־Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "for di oda side of"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "for di Arabah"
+    },
+    {
+      "surface": "מול",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "Chatserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "and Di"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:20.198718478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And you go make im pot dem to remove im ash, and im shovel dem, and im bowl dem, and im fork dem, and im firepan dem; for all im tool dem you go make am wit copper.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "im pot dem"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "to remove im ash"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "and im shovel dem"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "and im bowl dem"
+    },
+    {
+      "surface": "ומזלגתיו",
+      "gloss": "and im fork dem"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "and im firepan dem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tool dem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:12.232136191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Blow di shofar for Givah, di trumpet for Ramah; raise alarm for Beit־Aven: behind you, Binyamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "blow"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "for Givah"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "trumpet"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "for Ramah"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "raise alarm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "behind you"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:53.727581356Z",
+  "model": "glm-5.2"
+}

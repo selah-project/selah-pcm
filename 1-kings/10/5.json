@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "and di food of im table, and di sitting of im servants, and di standing of im attendants, and dia clothes, and im cupbearers, and im burnt offering wey e dey bring up for di house of Yahweh, and ⟨der⟩ no remain for am any more breath.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "and di food"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "of im table"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "and di sitting"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "of im servants"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "and di standing"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "of im attendants"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "and dia clothes"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "and im cupbearers"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "and im burnt offering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "e dey bring up"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨for⟩ di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨der⟩ no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "remain"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "any more"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "breath"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:11.331097553Z",
+  "model": "glm-5.2"
+}

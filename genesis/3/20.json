@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di man call di name of im wife Chavvah, because she ⟨bin⟩ ⟨be⟩ mother of all living.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and ⟨im⟩ call"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "of im wife"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "she"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨bin⟩ ⟨be⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mother"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "חי",
+      "gloss": "living"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:23.016635699Z",
+  "model": "glm-5.2"
+}

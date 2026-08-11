@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Yahweh, hear my prayer, and make my cry come to ⟨you⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hear"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "and my cry"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to ⟨you⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "make ⟨it⟩ come"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:03.500951339Z",
+  "model": "glm-5.2"
+}

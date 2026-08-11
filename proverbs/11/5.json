@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Di righteousness of person wey dey complete dey make im road straight, but inside im own wickedness di wicked person go fall.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "person wey dey complete"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "dey make straight"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "im road"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "but inside im own wickedness"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked person"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:35.857437363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "⟨Im⟩ dey count di number of di stars; to all of dem ⟨im⟩ dey call dia names.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "⟨im⟩ dey count"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "di number"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "of di stars"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "to all of dem"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "names"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨im⟩ dey call"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:08.378154637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So di leaders of dis nation dey make dem stray, and dem wey dem lead dey get swallow.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "So dem be"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "di leaders"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of ⟨di⟩ nation"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "dey make dem stray"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "and dem wey dem lead"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "dey get swallow"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:34.196901058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin remember for night ⟨את⟩ your name, Yahweh, and I don keep ⟨את⟩ your torah.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "I bin remember"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "and I don keep"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "your torah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:18.182296346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "And make you call Me for ⟨את⟩ di day of trouble; I go rescue you, and you go honor Me.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "and make you call Me"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "of trouble"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "I go rescue you"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "and you go honor Me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:04.335052564Z",
+  "model": "glm-5.2"
+}

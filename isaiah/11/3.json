@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And im sense ⟨go⟩ be deep for fear of Yahweh. And ⟨e⟩ no go judge by wetin im eyes dey see, and ⟨e⟩ no go decide by wetin im ears dey hear.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "and im sense"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "for fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨e⟩ no go"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "by wetin"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eyes dey see"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "judge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨e⟩ no go"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "by wetin"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "im ears dey hear"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "decide"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:50.336074754Z",
+  "model": "glm-5.2"
+}

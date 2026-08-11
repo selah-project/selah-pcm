@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ talk sey, \"Ah hear ⟨את⟩ your voice for di garden, and ah come fear, because ah naked, so ah hide maself.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your voice"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "your voice"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ah hear"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "for di garden"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "and ah come fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naked"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "so ah hide maself"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:05.770527603Z",
+  "model": "glm-5.2"
+}

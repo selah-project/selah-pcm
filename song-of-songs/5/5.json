@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "I bin stand up, me, to open for my lover, and my hand dem bin dey drop myrrh, and my finger dem ⟨be⟩ myrrh wey dey flow on top di handle of di lock.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "I bin stand up"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "to open"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "for my lover"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "and my hand dem"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "bin dey drop"
+    },
+    {
+      "surface": "מור",
+      "gloss": "myrrh"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "and my finger dem"
+    },
+    {
+      "surface": "מור",
+      "gloss": "myrrh"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wey dey flow"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "di handle"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "of di lock"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:00.261071055Z",
+  "model": "glm-5.2"
+}

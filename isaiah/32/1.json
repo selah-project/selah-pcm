@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "See, for righteousness one king go reign, and for leaders, for judgment dem go rule.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "See"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "for righteousness"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "go reign"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "one king"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "and for leaders"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "for judgment"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "dem go rule"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:32.401556907Z",
+  "model": "glm-5.2"
+}

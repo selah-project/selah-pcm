@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And if di priest don look, and see, di mark dey dim after dem wash ⟨את⟩ am, den e go tear ⟨את⟩ am comot from di cloth, or from di skin, or from di warp, or from di woof.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "don look"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "dey dim"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "di mark"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "dem wash"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "go tear"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "comot from"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "di cloth"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העור",
+      "gloss": "di skin"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "di warp"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "di woof"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:36.270370363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 138,
+  "translation": "For David. I go thank you wit all my heart; for front of elohim I go play song for you.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "I go thank you"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "I go play song for you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:51.706012255Z",
+  "model": "glm-5.2"
+}

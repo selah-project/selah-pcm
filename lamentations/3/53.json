@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Dem cut off my life for di pit, and dem throw stone on top me.",
+  "tokens": [
+    {
+      "surface": "צָֽמְת֤וּ",
+      "gloss": "dem cut off"
+    },
+    {
+      "surface": "בַבּוֹר֙",
+      "gloss": "for di pit"
+    },
+    {
+      "surface": "חַיָּ֔י",
+      "gloss": "my life"
+    },
+    {
+      "surface": "וַיַּדּוּ",
+      "gloss": "and dem throw"
+    },
+    {
+      "surface": "אֶ֖בֶן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "on top me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:45.756245712Z",
+  "model": "glm-5.2"
+}

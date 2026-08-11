@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Forever I go keep ⟨my⟩ chesed for am, and ⟨my⟩ covenant go stand firm for am.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Forever"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "I go keep"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "my chesed"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "and my covenant"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "go stand firm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:22.918348342Z",
+  "model": "glm-5.2"
+}

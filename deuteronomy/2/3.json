@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "“Enough for una — una don dey go round ⟨את⟩ dis mountain; make una face north.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Enough"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "סב",
+      "gloss": "make una dey go round"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis mountain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "make una face"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una ⟨selves⟩"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "north"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:59.843651331Z",
+  "model": "glm-5.2"
+}

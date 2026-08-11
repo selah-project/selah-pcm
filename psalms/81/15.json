@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "For small time I for subdue dia enemies, and against dia adversaries I for turn my hand!",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "for small time"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dia enemies"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "I for subdue"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "dia adversaries"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I for turn"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:51.619468920Z",
+  "model": "glm-5.2"
+}

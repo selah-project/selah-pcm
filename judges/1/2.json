@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yahweh talk say, Yehudah go go up; look, I don give ⟨את⟩ di land inside im hand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "go go up"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "inside im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:07.020974940Z",
+  "model": "glm-5.2"
+}

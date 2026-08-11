@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Make Yahweh cut off, to di man wey go do am — di one wey dey wake and di one wey dey answer — from di tents of Yaaqov, and di one wey dey bring offering to Yahweh of hosts.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "make cut off"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "go do am"
+    },
+    {
+      "surface": "ער",
+      "gloss": "di one wey dey wake"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "and di one wey dey answer"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "from di tents"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Yaaqov"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "and di one wey dey bring"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    }
+  ],
+  "timestamp": "2026-08-11T12:36:39.306246954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "To di choir leader, song of David, mizmor. Yahweh, you bin search me, and you sabi ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir leader"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "you bin search me"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "and you sabi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:36.052379357Z",
+  "model": "glm-5.2"
+}

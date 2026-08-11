@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And im bin measure di wall of di house: six cubits; and di width of di side-room: four cubits, round and round, for di house, round about.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and im bin measure"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "di wall"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "and di width"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "of di side-room"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "and round"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:47.641340544Z",
+  "model": "glm-5.2"
+}

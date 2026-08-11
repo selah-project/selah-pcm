@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Go, my people, enter ⟨inside⟩ your rooms, and lock your door behind you — hide yourself small, one moment, until ⟨di⟩ wrath pass.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "בא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "⟨inside⟩ your rooms"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "and lock"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "your door"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "behind you"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "hide yourself"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "one moment"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "⟨di⟩ pass"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "wrath"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:05.712323054Z",
+  "model": "glm-5.2"
+}

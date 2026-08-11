@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Ram bin beget ⟨את⟩ Amminadab, and Amminadab bin beget ⟨את⟩ Nachshon, leader of di pikin-dem of Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "And Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin beget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "and Amminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin beget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "leader"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di pikin-dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:57.054777752Z",
+  "model": "glm-5.2"
+}

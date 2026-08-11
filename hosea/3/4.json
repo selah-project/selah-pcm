@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Because plenti day-dem di pikin-dem of Yisra'el go siddon, no king, and no prince, and no sacrifice, and no standing-stone, and no ephod and terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "day-dem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenti"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "go siddon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שר",
+      "gloss": "prince"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "standing-stone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "and terafim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:59.342135473Z",
+  "model": "glm-5.2"
+}

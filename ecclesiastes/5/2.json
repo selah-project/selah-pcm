@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Because dream dey come wit plenty worry, and voice of fool dey come wit plenty words.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "dream"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "wit plenty"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "worry"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and voice"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "wit plenty"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "words"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:08.414862133Z",
+  "model": "glm-5.2"
+}

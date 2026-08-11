@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "And Paroh bin tell Yosef, \"Tell your brodas: do dis ting — load ⟨את⟩ your animals, go, enta di land of Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin tell"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brodas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "load"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your animals"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "your animals"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "and go"
+    },
+    {
+      "surface": "באו",
+      "gloss": "enter"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:46.931056396Z",
+  "model": "glm-5.2"
+}

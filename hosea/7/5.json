@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Day of our king — di chiefs don make am sick wit heat of wine; ⟨he⟩ stretch out im hand ⟨to⟩ ⟨את⟩ mockers.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "of our king"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "don make sick"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "di chiefs"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "heat"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "of wine"
+    },
+    {
+      "surface": "משך",
+      "gloss": "stretch out"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mockers"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "mockers"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:23.472586191Z",
+  "model": "glm-5.2"
+}

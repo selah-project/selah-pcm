@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And e tell dem, ⟨make⟩ una wait one more three days, then make una come back to me. And di people waka go.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "one more"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "then make una come back"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and waka go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:29.594786448Z",
+  "model": "glm-5.2"
+}

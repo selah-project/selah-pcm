@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And dem throw lot for My people, and dem give di boy to prostitute, and di girl dem sell for wine, and dem drink.",
+  "tokens": [
+    {
+      "surface": "וְאֶל",
+      "gloss": "and"
+    },
+    {
+      "surface": "עַמִּ֖י",
+      "gloss": "for My people"
+    },
+    {
+      "surface": "יַדּ֣וּ",
+      "gloss": "dem throw"
+    },
+    {
+      "surface": "גוֹרָ֑ל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "וַיִּתְּנ֤וּ",
+      "gloss": "and dem give"
+    },
+    {
+      "surface": "הַיֶּ֨לֶד֙",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "בַּזּוֹנָ֔ה",
+      "gloss": "to prostitute"
+    },
+    {
+      "surface": "וְהַיַּלְדָּ֛ה",
+      "gloss": "and di girl"
+    },
+    {
+      "surface": "מָכְר֥וּ",
+      "gloss": "dem sell"
+    },
+    {
+      "surface": "בַיַּ֖יִן",
+      "gloss": "for wine"
+    },
+    {
+      "surface": "וַיִּשְׁתּֽוּ",
+      "gloss": "and dem drink"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:51.863687457Z",
+  "model": "glm-5.2"
+}

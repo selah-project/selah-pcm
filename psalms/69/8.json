@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Because of you I carry reproach; shame don cover my face.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "of you"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "I carry"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "reproach"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "don cover"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:19.086574683Z",
+  "model": "glm-5.2"
+}

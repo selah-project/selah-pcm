@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Open ya mouth, judge wetin right, and ⟨na⟩ ⟨for⟩ poor man and needy person ⟨you go⟩ judge.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Open"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya mouth"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "judge"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "wetin right"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "and judge"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy person"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:48.331768442Z",
+  "model": "glm-5.2"
+}

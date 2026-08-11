@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "For na so Yahweh bin talk: voice of trembling wey we hear, fear — and peace no dey.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "of trembling"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "wey we hear"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fear"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no dey"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    }
+  ],
+  "timestamp": "2026-08-11T11:51:39.469769347Z",
+  "model": "glm-5.2"
+}

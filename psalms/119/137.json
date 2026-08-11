@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "You righteous, Yahweh, and upright ⟨be⟩ your judgments.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "and upright"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "your judgments"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:03.554368249Z",
+  "model": "glm-5.2"
+}

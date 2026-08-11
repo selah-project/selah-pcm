@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Sacrifice sacrifices of righteousness, and trust for Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifices"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "of righteousness"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "and trust"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:14.294197771Z",
+  "model": "glm-5.2"
+}

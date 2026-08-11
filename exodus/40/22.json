@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e put ⟨את⟩ di table inside tent of meeting, for di north side of di tabernacle, outside di veil.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "inside tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "side"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of di tabernacle"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "north"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "di veil"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:40.051161394Z",
+  "model": "glm-5.2"
+}

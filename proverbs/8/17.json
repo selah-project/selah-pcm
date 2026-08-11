@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "I love dem wey love me, and dem wey early-morning dey find me, dem go meet me.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "I love dem"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wey love"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "and dem wey early-morning dey find me"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "dem go meet me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:08.656844485Z",
+  "model": "glm-5.2"
+}

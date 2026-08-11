@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Because ⟨את⟩ all di abominations, dis ⟨ones⟩, men of di land wey ⟨dey⟩ before una bin do am, and di land bin dey defile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di abominations"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "di abominations"
+    },
+    {
+      "surface": "האל",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "and bin dey defile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:32.974227205Z",
+  "model": "glm-5.2"
+}

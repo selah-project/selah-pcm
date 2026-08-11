@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Wise man dey fear, and ⟨e⟩ dey comot from bad; but fool dey cross boundary and dey trust ⟨imself⟩.",
+  "tokens": [
+    {
+      "surface": "חָכָם",
+      "gloss": "wise man"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "וְסָר",
+      "gloss": "and dey comot"
+    },
+    {
+      "surface": "מֵרָע",
+      "gloss": "from bad"
+    },
+    {
+      "surface": "וּכְסִיל",
+      "gloss": "but fool"
+    },
+    {
+      "surface": "מִתְעַבֵּר",
+      "gloss": "dey cross boundary"
+    },
+    {
+      "surface": "וּבוֹטֵחַ",
+      "gloss": "and dey trust"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:35.064376239Z",
+  "model": "glm-5.2"
+}

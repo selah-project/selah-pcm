@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e place ⟨את⟩ di breastpiece on top am, and e put inside di breastpiece ⟨את⟩ di Urim and ⟨את⟩ di Thummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and e place"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di breastpiece"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "di breastpiece"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "di breastpiece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "di Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Thummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "di Thummim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:32.720697571Z",
+  "model": "glm-5.2"
+}

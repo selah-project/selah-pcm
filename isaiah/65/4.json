@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "dem wey dey sit among graves, and dey sleep for hidden places; dem wey dey eat pig flesh, and broth of filthy things ⟨dey⟩ inside dia vessels.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "dem wey dey sit"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "among graves"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "and for hidden places"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "dey sleep"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "dem wey dey eat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "of pig"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "and broth"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "of filthy things"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "dia vessels"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:13.377658455Z",
+  "model": "glm-5.2"
+}

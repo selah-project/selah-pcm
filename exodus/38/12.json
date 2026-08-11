@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And for di side of west, curtain dem fifty for cubit; dia pillar dem ten, and dia base dem ten; di hook dem of di pillar dem and dia band dem, silver.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "and for di side of"
+    },
+    {
+      "surface": "ים",
+      "gloss": "west"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "dia pillar dem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "and dia base dem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "di hook dem"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "of di pillar dem"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "and dia band dem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:20.495849818Z",
+  "model": "glm-5.2"
+}

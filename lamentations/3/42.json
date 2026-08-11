@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "We, we don transgress and we don rebel; You, You no bin forgive.",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "we"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "we don transgress"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "and we don rebel"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "You"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סָלַחְתָּ",
+      "gloss": "You bin forgive"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:33.567767347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "and Sheva fall on top ⟨dem⟩, and e carry dem away, and ⟨dem⟩ strike ⟨את⟩ di servants for di mouth of sword; and I escape, only I alone, to come tell you.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "and e fall"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "and e carry dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di servants"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "di servants"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "strike"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "for di mouth"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "of sword"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "and I escape"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alone"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "to come tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:46.924320461Z",
+  "model": "glm-5.2"
+}

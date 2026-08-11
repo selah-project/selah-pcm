@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wise man ⟨get⟩ strength, and man of knowledge dey make power strong.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "⟨get⟩ strength"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "of knowledge"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "dey make strong"
+    },
+    {
+      "surface": "כח",
+      "gloss": "power"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:14.902476549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my life live, and e go praise you, and your judgments go help me.",
+  "tokens": [
+    {
+      "surface": "תְּֽחִי",
+      "gloss": "make ⟨am⟩ live"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "וּֽתְהַֽלְלֶ֑ךָּ",
+      "gloss": "and e go praise you"
+    },
+    {
+      "surface": "וּֽמִשְׁפָּטֶ֥ךָ",
+      "gloss": "and your judgments"
+    },
+    {
+      "surface": "יַעֲזְרֻֽנִי",
+      "gloss": "go help me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:36.650337857Z",
+  "model": "glm-5.2"
+}

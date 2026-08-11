@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And house of feast no enta to sit wit dem, ⟨את⟩ to chop and to drink.",
+  "tokens": [
+    {
+      "surface": "וּבֵית",
+      "gloss": "and house of"
+    },
+    {
+      "surface": "מִשְׁתֶּ֥ה",
+      "gloss": "feast"
+    },
+    {
+      "surface": "לֹֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תָב֖וֹא",
+      "gloss": "enta"
+    },
+    {
+      "surface": "לָשֶׁ֣בֶת",
+      "gloss": "to sit"
+    },
+    {
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "to chop and to drink"
+    },
+    {
+      "surface": "לֶאֱכֹ֖ל",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "וְלִשְׁתּֽוֹת",
+      "gloss": "and to drink"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:34.430276293Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "So Eliyahu bin go make e show face to Achav; and di hunger bin strong for Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and e bin go"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "to show face"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "and di hunger"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bin strong"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:04.700213592Z",
+  "model": "glm-5.2"
+}

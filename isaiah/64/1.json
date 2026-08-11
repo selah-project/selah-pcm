@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Like when fire dey kindle dry sticks, and fire dey make water boil, to make ya name known to ya enemies, from ya face goyim go tremble.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "like when e dey kindle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "dry sticks"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "e dey make boil"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "to make known"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ya name"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "to ya enemies"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from ya face"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goyim"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "go tremble"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:56.458551068Z",
+  "model": "glm-5.2"
+}

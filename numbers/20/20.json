@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨im⟩ talk, 'You no go pass.' And Edom come out to meet am with heavy people and with strong hand.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַעֲבֹ֑ר",
+      "gloss": "you go pass"
+    },
+    {
+      "surface": "וַיֵּצֵ֤א",
+      "gloss": "and come out"
+    },
+    {
+      "surface": "אֱדוֹם֙",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לִקְרָאת֔וֹ",
+      "gloss": "to meet am"
+    },
+    {
+      "surface": "בְּעַ֥ם",
+      "gloss": "with people"
+    },
+    {
+      "surface": "כָּבֵ֖ד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "וּבְיָ֥ד",
+      "gloss": "and with hand"
+    },
+    {
+      "surface": "חֲזָקָֽה",
+      "gloss": "strong"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:07.266494665Z",
+  "model": "glm-5.2"
+}

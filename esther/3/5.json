@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Haman bin see sey Mordecai no dey bow down and no dey do obeisance for am, and Haman bin full wit anger.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣רְא",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "הָמָ֔ן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מָרְדֳּכַ֔י",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "כֹּרֵ֥עַ",
+      "gloss": "dey bow down"
+    },
+    {
+      "surface": "וּמִֽשְׁתַּחֲוֶ֖ה",
+      "gloss": "and dey do obeisance"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "for am"
+    },
+    {
+      "surface": "וַיִּמָּלֵ֥א",
+      "gloss": "and bin full"
+    },
+    {
+      "surface": "הָמָ֖ן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חֵמָֽה",
+      "gloss": "wit anger"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:59.571568651Z",
+  "model": "glm-5.2"
+}

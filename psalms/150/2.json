@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 150,
+  "translation": "Praise ⟨am⟩ for im mighty acts, praise ⟨am⟩ as di size of im greatness dey.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Praise ⟨am⟩"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "for im mighty acts"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise ⟨am⟩"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "as di plenty"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "of im greatness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:15.841799826Z",
+  "model": "glm-5.2"
+}

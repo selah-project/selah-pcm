@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And one herald bin cry out with power, dem dey tell una: people-dem, nation-dem, and language-dem!",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "And one herald"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bin cry out"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "with power"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "una"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "dem dey tell"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "people-dem"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "nation-dem"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "and language-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:40:23.894103427Z",
+  "model": "glm-5.2"
+}

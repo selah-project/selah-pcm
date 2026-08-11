@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 95,
+  "translation": "Wey for im hand ⟨na⟩ di deep places of di earth, and di heights of di mountains ⟨na⟩ ⟨for⟩ am.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "di deep places"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "and di heights"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "of di mountains"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:03.137783948Z",
+  "model": "glm-5.2"
+}

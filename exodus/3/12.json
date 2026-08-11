@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨Elohim⟩ talk se, \"Because I go dey with you. And dis one go be di sign for you sey I send you: wen you bring out ⟨את⟩ di people from Mitsrayim, una go serve ⟨את⟩ Elohim on dis mountain.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨Elohim⟩ talk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "I go dey"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "and dis one"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "האות",
+      "gloss": "di sign"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "send you"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "wen you bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "una go serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:40.298509036Z",
+  "model": "glm-5.2"
+}

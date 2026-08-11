@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And for di fifth year una go chop ⟨את⟩ im fruit, so dat e go add for una im produce; na me be Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "and for di year"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "di fifth"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im fruit"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "im fruit"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "so dat e go add"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "im produce"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:47.080207200Z",
+  "model": "glm-5.2"
+}

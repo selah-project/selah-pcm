@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "All di fat ones of di earth go chop and worship; all dem wey dey go down go ⟨di⟩ dust go kneel down before am; and ⟨di one⟩ wey im throat no fit keep life —",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and worship"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "di fat ones of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "go kneel down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dem wey dey go down go"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "di dust"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "and im throat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no fit"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "keep life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:57.654687110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if di man wey set am apart go buy back ⟨את⟩ im house, ⟨im⟩ go add one-fifth of di silver-money of your valuation on top am, and ⟨im⟩ go be im own.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "di man wey set am apart"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "go buy back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im house"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "⟨im⟩ go add"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "one-fifth"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of di silver-money"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "of your valuation"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨im⟩ go be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "im own"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:22.200306152Z",
+  "model": "glm-5.2"
+}

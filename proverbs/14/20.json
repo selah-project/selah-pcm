@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Even im neighbour sef dey hate poor man, but people wey love rich man plenty.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Even"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "im neighbour sef"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dey hate"
+    },
+    {
+      "surface": "רש",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "but people wey love"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich man"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:37.847021472Z",
+  "model": "glm-5.2"
+}

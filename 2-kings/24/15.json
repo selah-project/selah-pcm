@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And e carry go exile ⟨את⟩ Yehoyakhin go Bavel, and ⟨את⟩ mama of di king, and ⟨את⟩ wife dem of di king, and ⟨את⟩ im eunuch dem, and ⟨את⟩ di mighty one dem of di land—dem na exile wey e lead from Yerushalayim go Bavel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "and e carry go exile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "mama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wife dem"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "wife dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im eunuch dem"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "im eunuch dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di mighty one dem"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "di mighty one dem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "e lead"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "exile"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "from Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:32.677987445Z",
+  "model": "glm-5.2"
+}

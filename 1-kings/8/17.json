@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bin dey wit di heart of Dawid, my papa, to build house for di Name of Yahweh, Elohim of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e bin dey"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "di heart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "for di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:10.597561495Z",
+  "model": "glm-5.2"
+}

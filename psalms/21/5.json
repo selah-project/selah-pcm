@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Life im ask from you, you give am; length of days, forever and ever.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "life"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "im ask"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "you give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "length"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "of days"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and ever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:38.378725703Z",
+  "model": "glm-5.2"
+}

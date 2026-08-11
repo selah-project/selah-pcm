@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Person wey dey sow wickedness go reap trouble, and di rod of im hot anger go finish.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "person wey dey sow"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "go reap"
+    },
+    {
+      "surface": "און",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "and di rod"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "of im hot anger"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "go finish"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:06.649986610Z",
+  "model": "glm-5.2"
+}

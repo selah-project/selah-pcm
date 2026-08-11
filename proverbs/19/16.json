@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Person wey dey keep commandment dey keep ⟨im⟩ life; person wey dey disrespect im own way go die.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "person wey dey keep"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commandment"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "dey keep"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨im⟩ life"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "person wey dey disrespect"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "im own way"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "go die"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:17.474701651Z",
+  "model": "glm-5.2"
+}

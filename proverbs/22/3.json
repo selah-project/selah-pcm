@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Person wey get sense don see trouble and don hide; but ⟨di⟩ simple-hearted dem don pass through and dem don suffer ⟨for⟩ am.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "person wey get sense"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "don see"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "and don hide"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "but ⟨di⟩ simple-hearted"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dem don pass through"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "and dem don suffer"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:08.913608915Z",
+  "model": "glm-5.2"
+}

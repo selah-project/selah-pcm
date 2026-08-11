@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "So how you go fit turn away ⟨את⟩ di face of one governor, among di smallest servants of my master, and you dey put your trust on Mitsrayim for chariot and for horsemen?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "so how"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "you go fit turn away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "governor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "among di servants"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of my master"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "di smallest"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "and you dey put trust"
+    },
+    {
+      "surface": "לך",
+      "gloss": "your"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "for chariot"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "and for horsemen"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:16.677192839Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Shelomoh, son of David, bin strengthen himself on top im kingdom, and Yahweh, im Elohim, dey with am, and bin make am great ⟨sote⟩ to di highest.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "and bin strengthen himself"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "im kingdom"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "im Elohim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dey with am"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "and bin make am great"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "to di highest"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:17.266791434Z",
+  "model": "glm-5.2"
+}

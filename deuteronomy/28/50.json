@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "⟨One⟩ nation wey ⟨get⟩ hard face, wey no go respect di face of di old man, and ⟨no go⟩ show favor to di young man.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hard"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "go lift\/respect"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "of di old man"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "and young man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "go show favor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:02.020476626Z",
+  "model": "glm-5.2"
+}

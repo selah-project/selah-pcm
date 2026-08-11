@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨he⟩ bin raise up a testimony for Ya'akov, and put torah for Yisra'el, wey ⟨he⟩ command ⟨את⟩ our papa-dem, make dem go make am known to dia pikin-dem.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and bin raise up"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testimony"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "for Ya'akov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "and torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨he⟩ put"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨he⟩ command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our papa-dem"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "our papa-dem"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "make dem go make am known"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "to dia pikin-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:59.565899068Z",
+  "model": "glm-5.2"
+}

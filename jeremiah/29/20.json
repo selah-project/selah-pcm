@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "So una wey dey here, hear di word of Yahweh, all di exile-dem wey I bin send from Yerushalayim go Bavel.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "So una"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "di exile-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "I bin send"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "from Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:45:43.821619932Z",
+  "model": "glm-5.2"
+}

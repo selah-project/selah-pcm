@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And dem strike ⟨את⟩ evri breathing-person wey dey inside am, by di edge of sword — devoted to destruction; not one wey dey breathe remain, and ⟨את⟩ Chatzor e burn wit fire.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri breathing-person"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "breathing-person"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by di edge of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "devoted to destruction"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "remain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "wey dey breathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:53.992882515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So Yehoshua take ⟨את⟩ all dis land: di hill country, and ⟨את⟩ all di Negev, and ⟨את⟩ all di land of Goshen, and ⟨את⟩ di lowland, and ⟨את⟩ di Arabah, and ⟨את⟩ di mountain of Yisraʾel, and im lowland.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "so take"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di hill country"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di Negev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "di Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di land of Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di lowland"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "di lowland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "di Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di mountain of Yisraʾel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisraʾel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "and im lowland"
+    }
+  ],
+  "timestamp": "2026-08-11T10:22:24.735398255Z",
+  "model": "glm-5.2"
+}

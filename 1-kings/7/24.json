@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 7:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And gourd dem dey under im lip all around, dey surround am, ten for one cubit, dey encircle ⟨את⟩ di sea all around; two row of gourd dem, dem cast am for im casting.",
+  "tokens": [
+    {
+      "surface": "ופקעים",
+      "gloss": "and gourd dem"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשפתו",
+      "gloss": "im lip"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "סבבים",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for one cubit"
+    },
+    {
+      "surface": "מקפים",
+      "gloss": "dey encircle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "row"
+    },
+    {
+      "surface": "הפקעים",
+      "gloss": "of di gourd dem"
+    },
+    {
+      "surface": "יצקים",
+      "gloss": "dem cast am"
+    },
+    {
+      "surface": "ביצקתו",
+      "gloss": "for im casting"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:20.747863008Z",
+  "model": "glm-5.2"
+}

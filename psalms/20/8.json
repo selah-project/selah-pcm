@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Dis ⟨dem⟩ dey trust ⟨inside⟩ chariots and dis ⟨dem⟩ dey trust ⟨inside⟩ horses, but we, we dey remember di name of Yahweh Elohim wey be we own.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis ⟨dem⟩"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "dey trust ⟨inside⟩ chariots"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "and dis ⟨dem⟩"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "dey trust ⟨inside⟩ horses"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "but we"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wey be we own"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "we dey remember"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:37.695427882Z",
+  "model": "glm-5.2"
+}

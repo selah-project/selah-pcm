@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 14:31",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Rechav'am bin lie down wit im papa-dem, and dem bury am wit im papa-dem for di city of David. And di name of im mama ⟨na⟩ Na'amah di Ammonitess; and Aviyam im son come king for im place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and bin lie down"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechav'am"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and di name"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "of im mama"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Na'amah"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "di Ammonitess"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:16.060497842Z",
+  "model": "glm-5.2"
+}

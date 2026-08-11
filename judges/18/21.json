@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And dem turn and waka, and dem put ⟨את⟩ di small pikin-dem and ⟨את⟩ di animal-dem and ⟨את⟩ di heavy tin-dem for dia front.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "and dem turn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and waka"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di small pikin-dem"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "di small pikin-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di animal-dem"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "di animal-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di heavy tin-dem"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "di heavy tin-dem"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "for dia front"
+    }
+  ],
+  "timestamp": "2026-08-11T10:34:09.595034494Z",
+  "model": "glm-5.2"
+}

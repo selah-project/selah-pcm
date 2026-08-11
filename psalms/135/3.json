@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 135,
+  "translation": "Praise Yah, for Yahweh ⟨be⟩ good; make music for im name, because e ⟨be⟩ sweet!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "make music"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "for im name"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sweet"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:53.405645581Z",
+  "model": "glm-5.2"
+}

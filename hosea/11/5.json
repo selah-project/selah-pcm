@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "⟨Im⟩ no go return to di land of Mitsrayim, but Ashur, na ⟨im⟩ be dia king, because dem refuse to return.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "return"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְאַשּׁוּר",
+      "gloss": "but Ashur"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "מַלְכּוֹ",
+      "gloss": "be dia king"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מֵאֲנוּ",
+      "gloss": "dem refuse"
+    },
+    {
+      "surface": "לָשׁוּב",
+      "gloss": "to return"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:01.325891941Z",
+  "model": "glm-5.2"
+}

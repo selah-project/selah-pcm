@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 3:6",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e come to pass, as war dey go on between house of Shaul and between house of Dawid, Abner bin dey make imsef strong for house of Shaul.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "war dey go on"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "between"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "house"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "of Shaul"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "and between"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "house"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "of Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:01.195888518Z",
+  "model": "glm-5.2"
+}

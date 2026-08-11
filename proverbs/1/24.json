@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because I bin call and una refuse, I bin stretch out my hand and ⟨dem⟩ no get anybody wey dey pay attention.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Because"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I bin call"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "and una refuse"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "I bin stretch out"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨dem⟩ no get anybody"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "wey dey pay attention"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:35.228967702Z",
+  "model": "glm-5.2"
+}

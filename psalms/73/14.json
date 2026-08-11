@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "And I bin dey struck all di day, and my correction ⟨dey come⟩ every morning.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "and I bin dey"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "struck"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "and my correction"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "every morning"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:47.397949164Z",
+  "model": "glm-5.2"
+}

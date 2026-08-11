@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 100,
+  "translation": "Make una know sey Yahweh, na im be Elohim; na im make us and we no make ourselves; ⟨na⟩ im people we be, and di flock wey im dey pasture.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "make una know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "make us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨we⟩ no"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "and di flock"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "wey im dey pasture"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:44.227572093Z",
+  "model": "glm-5.2"
+}

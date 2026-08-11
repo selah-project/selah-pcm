@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 5:21",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Turn us back to You, Yahweh, make we return; renew our days like before.",
+  "tokens": [
+    {
+      "surface": "הֲשִׁיבֵ֨נוּ",
+      "gloss": "Turn us back"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵלֶ֨יךָ֙",
+      "gloss": "to You"
+    },
+    {
+      "surface": "ונשוב",
+      "gloss": "make we return"
+    },
+    {
+      "surface": "חַדֵּ֥שׁ",
+      "gloss": "renew"
+    },
+    {
+      "surface": "יָמֵ֖ינוּ",
+      "gloss": "our days"
+    },
+    {
+      "surface": "כְּקֶֽדֶם",
+      "gloss": "like before"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:53.153177006Z",
+  "model": "glm-5.2"
+}

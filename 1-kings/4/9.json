@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Ben־Deker, for Makatz, and for Sha'albim, and for Bet־Shemesh, and Elon, Bet־Chanan:",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "דֶּ֛קֶר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "בְּמָקַ֥ץ",
+      "gloss": "for Makatz"
+    },
+    {
+      "surface": "וּבְשַֽׁעַלְבִ֖ים",
+      "gloss": "and for Sha'albim"
+    },
+    {
+      "surface": "וּבֵ֣ית",
+      "gloss": "and for Bet"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "וְאֵיל֖וֹן",
+      "gloss": "and Elon"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חָנָֽן",
+      "gloss": "Chanan"
+    }
+  ],
+  "timestamp": "2026-08-11T16:09:49.458468242Z",
+  "model": "glm-5.2"
+}

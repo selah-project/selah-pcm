@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 125,
+  "translation": "Yerushalayim — hills dey surround am, and Yahweh dey surround im people, from now reach forever.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hills"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "from now"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:50.754962535Z",
+  "model": "glm-5.2"
+}

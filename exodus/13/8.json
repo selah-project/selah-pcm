@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And you go tell your pikin for dat day, sey: 'Because of dis, Yahweh do ⟨dis⟩ for me, when I komot from Mitsrayim.'",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "and you go tell"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "your pikin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "because of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "when I komot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:23.820652710Z",
+  "model": "glm-5.2"
+}

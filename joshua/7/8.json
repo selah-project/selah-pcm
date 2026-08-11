@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Ah, Adonai, wetin I go talk, afta Yisra'el don turn back in front of im enemies?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "don turn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "back"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "im enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:38.077875462Z",
+  "model": "glm-5.2"
+}

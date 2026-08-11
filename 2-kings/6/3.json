@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And one talk sey, \"Make ⟨you⟩ gree, abeg, and go wit ⟨את⟩ your servants.\" And ⟨he⟩ talk, \"I go go.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And ⟨he⟩ talk"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "make ⟨you⟩ gree"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your servants"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "go go"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:34.432825091Z",
+  "model": "glm-5.2"
+}

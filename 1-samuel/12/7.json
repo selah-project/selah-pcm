@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And now, make una stand, make I judge ⟨את⟩ una before Yahweh, ⟨את⟩ all di righteous acts wey Yahweh do ⟨את⟩ una, and ⟨את⟩ una papa-dem.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "make una stand"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "make I judge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di righteous acts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "righteous acts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una papa-dem"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "una papa-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:49.109970120Z",
+  "model": "glm-5.2"
+}

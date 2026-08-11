@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And dem make bell dem of pure gold, and dem put ⟨את⟩ di bell dem inside di pomegranate dem, upon di hem dem of di robe, around, inside di pomegranate dem.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem make"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "bell dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bell dem"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "di bell dem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "di pomegranate dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "hem dem"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "di robe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "around"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "di pomegranate dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:44.428226054Z",
+  "model": "glm-5.2"
+}

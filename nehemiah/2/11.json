@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So I come enter Yerushalayim, and I stay dia for three days.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "I come enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "and I stay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    }
+  ],
+  "timestamp": "2026-08-11T13:49:37.408006222Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Elohim dey make di lonely ones siddon for house; e dey bring out prisoners into prosperity; but di stubborn-rebel ones, na for dry-parch land dem go siddon.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מוֹשִׁיב",
+      "gloss": "dey make siddon"
+    },
+    {
+      "surface": "יְחִידִים",
+      "gloss": "di lonely ones"
+    },
+    {
+      "surface": "בַּיְתָה",
+      "gloss": "for house"
+    },
+    {
+      "surface": "מוֹצִיא",
+      "gloss": "dey bring out"
+    },
+    {
+      "surface": "אֲסִירִים",
+      "gloss": "prisoners"
+    },
+    {
+      "surface": "בַּכּוֹשָׁרוֹת",
+      "gloss": "into prosperity"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "but"
+    },
+    {
+      "surface": "סוֹרֲרִים",
+      "gloss": "di stubborn-rebel ones"
+    },
+    {
+      "surface": "שָׁכְנוּ",
+      "gloss": "dem go siddon"
+    },
+    {
+      "surface": "צְחִיחָה",
+      "gloss": "for dry-parch land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:36.668740541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Evri pesin wey dey pass among di counted ones, from pikin wey don reach twenty year go up, go give offering of Yahweh.",
+  "tokens": [
+    {
+      "surface": "כֹּ֗ל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "הָעֹבֵר֙",
+      "gloss": "pesin wey dey pass"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "among"
+    },
+    {
+      "surface": "הַפְּקֻדִ֔ים",
+      "gloss": "di counted ones"
+    },
+    {
+      "surface": "מִבֶּ֛ן",
+      "gloss": "from pikin wey don reach"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וָמָ֑עְלָה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "יִתֵּ֖ן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "תְּרוּמַ֥ת",
+      "gloss": "offering of"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:10.329511843Z",
+  "model": "glm-5.2"
+}

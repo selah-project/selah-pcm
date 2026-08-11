@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "we don sin, we don do bad, we don do wickedly, we don rebel, and we don turn comot from ⟨di⟩ commandments ⟨of you⟩ and from ⟨di⟩ judgments ⟨of you⟩.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "and we don do bad"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "and we don do wickedly"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "and we don rebel"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "and we don turn comot"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "from ⟨di⟩ commandments ⟨of you⟩"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "and from ⟨di⟩ judgments ⟨of you⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:50.679312288Z",
+  "model": "glm-5.2"
+}

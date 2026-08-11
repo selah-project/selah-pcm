@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "And dem serve ⟨את⟩ dia idols, and dem come be trap for dem.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "And dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia idols"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "dia idols"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem come be"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "trap"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:03.510066322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Stones wey complete, you go build ⟨את⟩ altar of Yahweh your Elohim, and you go carry burnt offering go up on top am for Yahweh your Elohim.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "stones"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "wey complete"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "you go build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "and you go carry go up"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:39.417422895Z",
+  "model": "glm-5.2"
+}

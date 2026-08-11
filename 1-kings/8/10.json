@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e come to pass, as di priests bin komot from di holy place, say di cloud bin fill ⟨את⟩ di house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "as dem bin komot"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "say di cloud"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "bin fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:40.570210277Z",
+  "model": "glm-5.2"
+}

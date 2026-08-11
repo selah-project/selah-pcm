@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So ⟨dem⟩ carry di ark of Yahweh go round ⟨את⟩ di city — one time. And di camp enter ⟨inside⟩, and dem sleep for di camp.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "So ⟨dem⟩ carry go round"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "one round"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "time"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and enter"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "and dem sleep"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "for di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:19.981462135Z",
+  "model": "glm-5.2"
+}

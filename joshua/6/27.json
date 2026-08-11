@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So Yahweh bin dey ⟨wit⟩ ⟨את⟩ Yehoshua, and im report ⟨bin dey⟩ for all di land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "So"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "im report"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:38.366461777Z",
+  "model": "glm-5.2"
+}

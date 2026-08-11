@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 4:14",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "nard wit saffron, calamus wit cinnamon, wit ⟨all⟩ frankincense tree; myrrh wit aloes, wit ⟨all⟩ head spice.",
+  "tokens": [
+    {
+      "surface": "נֵ֣רְדְּ",
+      "gloss": "nard"
+    },
+    {
+      "surface": "וְכַרְכֹּ֗ם",
+      "gloss": "and saffron"
+    },
+    {
+      "surface": "קָנֶה֙",
+      "gloss": "calamus"
+    },
+    {
+      "surface": "וְקִנָּמ֔וֹן",
+      "gloss": "and cinnamon"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨all⟩"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "tree"
+    },
+    {
+      "surface": "לְבוֹנָ֑ה",
+      "gloss": "frankincense"
+    },
+    {
+      "surface": "מֹ֚ר",
+      "gloss": "myrrh"
+    },
+    {
+      "surface": "וַאֲהָל֔וֹת",
+      "gloss": "and aloes"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨all⟩"
+    },
+    {
+      "surface": "רָאשֵׁ֥י",
+      "gloss": "head"
+    },
+    {
+      "surface": "בְשָׂמִֽים",
+      "gloss": "spice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:54.738963435Z",
+  "model": "glm-5.2"
+}

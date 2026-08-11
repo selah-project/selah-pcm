@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yoav send messenger-dem to David, and ⟨im⟩ talk sey, \"I don fight against Rabbah, and I even capture ⟨את⟩ di city of di water.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and ⟨im⟩ send"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messenger-dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk sey"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "I don fight"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "against Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "I capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "המים",
+      "gloss": "of di water"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:17.546208445Z",
+  "model": "glm-5.2"
+}

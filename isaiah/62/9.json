@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Because dose wey gather am go chop am, and dem go praise ⟨את⟩ Yahweh; and dose wey collect am go drink am for ⟨di⟩ courts of my holiness.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "because"
+    },
+    {
+      "surface": "מְאַסְפָיו֙",
+      "gloss": "dose wey gather am"
+    },
+    {
+      "surface": "יֹאכְלֻ֔הוּ",
+      "gloss": "go chop am"
+    },
+    {
+      "surface": "וְהִֽלְל֖וּ",
+      "gloss": "and dem go praise"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּֽמְקַבְּצָ֥יו",
+      "gloss": "and dose wey collect am"
+    },
+    {
+      "surface": "יִשְׁתֻּ֖הוּ",
+      "gloss": "go drink am"
+    },
+    {
+      "surface": "בְּחַצְר֥וֹת",
+      "gloss": "for courts"
+    },
+    {
+      "surface": "קָדְשִֽׁי",
+      "gloss": "of my holiness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:13.954789317Z",
+  "model": "glm-5.2"
+}

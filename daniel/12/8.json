@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And I hear, and I no understand, and I talk: Adonai, wetin go be di end of dis things?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "understand"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "di end"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "of dis things"
+    }
+  ],
+  "timestamp": "2026-08-11T13:44:42.975117619Z",
+  "model": "glm-5.2"
+}

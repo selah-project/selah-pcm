@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Yahweh dey guard ⟨את⟩ all di ones wey love am, and ⟨את⟩ all di wicked ones ⟨he⟩ go destroy.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "dey guard"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di ones wey love am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "di ones wey love am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all di wicked ones"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "di wicked ones"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "go destroy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:03.581571Z",
+  "model": "glm-5.2"
+}

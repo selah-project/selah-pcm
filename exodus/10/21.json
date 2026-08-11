@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yahweh bin talk to Mosheh, \"Stretch ya hand upon ⟨di⟩ heaven, make darkness dey upon di land of Mitsrayim, even darkness wey person fit touch.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Stretch"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ya hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨di⟩ heaven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "make e dey"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "wey person fit touch"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:44.326108057Z",
+  "model": "glm-5.2"
+}

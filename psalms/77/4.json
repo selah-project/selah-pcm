@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "I go remember Elohim and I go groan; I go ponder, and my spirit go faint. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "I go remember"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "and I go groan"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "I go ponder"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "and ⟨e⟩ go faint"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:45.040688753Z",
+  "model": "glm-5.2"
+}

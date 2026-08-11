@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And David do so, as Yahweh bin command am, and ⟨he⟩ strike ⟨את⟩ di Filistines from Geba until you come reach Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨he⟩ do"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bin command am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and ⟨he⟩ strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Filistines"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistines"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "from Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "באך",
+      "gloss": "you come"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:28.662454357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh go give ⟨את⟩ di rain of your land ⟨as⟩ dust and powder; from heaven e go fall on top you, until dem destroy you.",
+  "tokens": [
+    {
+      "surface": "יִתֵּ֧ן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di rain of your land"
+    },
+    {
+      "surface": "מְטַ֥ר",
+      "gloss": "di rain"
+    },
+    {
+      "surface": "אַרְצְךָ֖",
+      "gloss": "of your land"
+    },
+    {
+      "surface": "אָבָ֣ק",
+      "gloss": "⟨as⟩ dust"
+    },
+    {
+      "surface": "וְעָפָ֑ר",
+      "gloss": "and powder"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הַשָּׁמַ֨יִם֙",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "יֵרֵ֣ד",
+      "gloss": "e go fall"
+    },
+    {
+      "surface": "עָלֶ֔יךָ",
+      "gloss": "on top you"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הִשָּׁמְדָֽךְ",
+      "gloss": "dem destroy you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.598617681Z",
+  "model": "glm-5.2"
+}

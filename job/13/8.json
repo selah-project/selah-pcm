@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Im face una dey lift? Or for El una dey contend?",
+  "tokens": [
+    {
+      "surface": "הפניו",
+      "gloss": "Im face"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "una dey lift"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Or"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "for El"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "una dey contend"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:57.203053795Z",
+  "model": "glm-5.2"
+}

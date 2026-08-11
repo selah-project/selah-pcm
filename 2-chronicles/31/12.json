@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And dem bring ⟨את⟩ di contribution, and ⟨את⟩ di tithe, and di holy things for faithfulness; and over dem, na Konyanyahu di Levite be di officer, and Shimey im brother be second.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "and dem bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di contribution"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "di contribution"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "and di tithe"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "and di holy things"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "for faithfulness"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "and over dem"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "officer"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konyanyahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "di Levite"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "and Shimey"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "second"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:47.144275032Z",
+  "model": "glm-5.2"
+}

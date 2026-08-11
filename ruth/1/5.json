@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And two of dem too bin die — Machlon and Kilyon — and ⟨di⟩ woman bin remain, ⟨wit⟩out ⟨di⟩ two pikin dem of her and ⟨wit⟩out di man of her.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "and dem bin die"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "two of dem"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "and Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "and she bin remain"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "משני",
+      "gloss": "from two"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "pikin dem of her"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "and from man of her"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:41.800864678Z",
+  "model": "glm-5.2"
+}

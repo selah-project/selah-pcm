@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And we take ⟨את⟩ dia land, and we give am for inheritance to Reuven, to Gad, and to half of di tribe of Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "and we take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dia land"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "and we give am"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "for inheritance"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "to Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "and to Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "and to half"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "of di tribe"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "of Menashe"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:32.829070696Z",
+  "model": "glm-5.2"
+}

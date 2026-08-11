@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 14:31",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "So Joab stand up, come go meet Abshalom for ⟨im⟩ house, and e tell am: Why im servants burn ⟨את⟩ di plot wey belong to me on fire?",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "so stand up"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "come go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "for house"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "burn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plot"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "di plot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לי",
+      "gloss": "belong to me"
+    },
+    {
+      "surface": "באש",
+      "gloss": "on fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:17.239410656Z",
+  "model": "glm-5.2"
+}

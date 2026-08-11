@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "But you don reject ⟨am⟩ and you bring us to shame, and you no dey go out with our armies.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "but"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "you don reject"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "and you bring us to shame"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨you⟩ no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "dey go out"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "with our armies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:13.021271136Z",
+  "model": "glm-5.2"
+}

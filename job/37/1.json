@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 37:1",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Because of dis sef, my heart dey tremble, and e don jump from im place.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "because of"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "dis sef"
+    },
+    {
+      "surface": "יחרד",
+      "gloss": "dey tremble"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "and don jump"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "from im place"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:58.447438878Z",
+  "model": "glm-5.2"
+}

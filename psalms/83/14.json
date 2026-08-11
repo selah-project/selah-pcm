@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Elohim of me, make dem like tumbleweed, like chaff before wind!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of me"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "make ⟨am⟩ like"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "tumbleweed"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "like chaff"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:42.669622329Z",
+  "model": "glm-5.2"
+}

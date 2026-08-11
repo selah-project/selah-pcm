@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "I go glad and I go rejoice for you, I go sing praise to your name, O Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "I go glad"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "and I go rejoice"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "I go sing praise"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "to your name"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:17.027485646Z",
+  "model": "glm-5.2"
+}

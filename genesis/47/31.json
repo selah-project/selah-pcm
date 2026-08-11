@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And e bin talk: \"Swear to me.\" And e bin swear to am. And Yisrael bin bow down on top di head of di bed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e bin talk"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "swear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "and e bin swear"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and e bin bow down"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "of di bed"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:19.729350915Z",
+  "model": "glm-5.2"
+}

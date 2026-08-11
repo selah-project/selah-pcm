@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "one gold pan of ten shekels, full of incense.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "pan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "of ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:51.651373654Z",
+  "model": "glm-5.2"
+}

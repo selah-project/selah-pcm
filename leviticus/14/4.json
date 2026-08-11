@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "den di kohen go command, and dem go take for di person wey dem dey cleanse two bird wey dey alive, wey dey clean, and cedar wood, and scarlet ⟨thread⟩, and hyssop.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "den go command"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "and dem go take"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "for di person wey dem dey cleanse"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "bird"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "wey dey alive"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "wey dey clean"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "and wood of"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "and scarlet"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "thread"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "and hyssop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:56.003636036Z",
+  "model": "glm-5.2"
+}

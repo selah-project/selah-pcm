@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Person wey dey stay as stranger and person wey dem hire, dem no go chop am.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "person wey dey stay as stranger"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "and person wey dem hire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:13.906694695Z",
+  "model": "glm-5.2"
+}

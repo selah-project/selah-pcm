@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Skin and flesh, you bin clothe me; and with bones and sinews you bin knit me together.",
+  "tokens": [
+    {
+      "surface": "ע֣וֹר",
+      "gloss": "skin"
+    },
+    {
+      "surface": "וּ֭בָשָׂר",
+      "gloss": "and flesh"
+    },
+    {
+      "surface": "תַּלְבִּישֵׁ֑נִי",
+      "gloss": "you bin clothe me"
+    },
+    {
+      "surface": "וּֽבַעֲצָמ֥וֹת",
+      "gloss": "and with bones"
+    },
+    {
+      "surface": "וְ֝גִידִ֗ים",
+      "gloss": "and sinews"
+    },
+    {
+      "surface": "תְּסֹכְכֵֽנִי",
+      "gloss": "you bin knit me together"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:45.518962221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "And Paroh talk sey, 'Go up and bury ⟨את⟩ your papa, as im make you swear.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Go up"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "and bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your papa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "im make you swear"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:16.533687418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "For I bin dey testify — I testify against una papa-dem, for di day wey I carry dem comot from di land of Mitsrayim, even reach today: I dey wake early and I dey testify, make I talk: Hear my voice.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "העד",
+      "gloss": "I bin dey testify"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "I testify"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "against una papa-dem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "wey I carry comot"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "even reach"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "I dey wake early"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "and I dey testify"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "make I talk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "my voice"
+    }
+  ],
+  "timestamp": "2026-08-11T11:44:48.314119673Z",
+  "model": "glm-5.2"
+}

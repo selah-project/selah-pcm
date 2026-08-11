@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "To corruption I don call: 'You be my papa'; to di worm, ⟨you be⟩ my mama and my sister.",
+  "tokens": [
+    {
+      "surface": "לַשַּׁ֣חַת",
+      "gloss": "to corruption"
+    },
+    {
+      "surface": "קָ֭רָאתִי",
+      "gloss": "I don call"
+    },
+    {
+      "surface": "אָ֣בִי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אִמִּ֥י",
+      "gloss": "my mama"
+    },
+    {
+      "surface": "וַ֝אֲחֹתִ֗י",
+      "gloss": "and my sister"
+    },
+    {
+      "surface": "לָֽרִמָּֽה",
+      "gloss": "to di worm"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:32.770216070Z",
+  "model": "glm-5.2"
+}

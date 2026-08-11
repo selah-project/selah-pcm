@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And for di second side of ⟨di⟩ Mishkan, for di north side: ⟨na⟩ twenty board.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "and for di side"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of ⟨di⟩ Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "di second"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "for di side"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "north"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "board"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:11.886642505Z",
+  "model": "glm-5.2"
+}

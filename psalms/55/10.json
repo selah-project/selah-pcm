@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Swallow am, Adonai; divide dia tongue, because I see violence and quarrel for inside di city.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "swallow am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "divide"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dia tongue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "and quarrel"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for inside di city"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:54.683694275Z",
+  "model": "glm-5.2"
+}

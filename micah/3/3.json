@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Wey dey chop ⟨את⟩ flesh of my people, and dey peel dia skin from on top dem, and ⟨את⟩ dia bones dem dey break, and dem dey spread dem as inside pot, and as meat inside caldron.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "dey chop"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "and dia skin"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "from on top dem"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "dem dey peel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia bones"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "dia bones"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "dem dey break"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "and dem dey spread"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "inside pot"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "and as meat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "caldron"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:34.131219730Z",
+  "model": "glm-5.2"
+}

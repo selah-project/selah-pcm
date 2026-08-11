@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "I dey dark, but I fine, una daughters of Yerushalayim, like tents of Kedar, like curtains of Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שְׁחוֹרָ֤ה",
+      "gloss": "I dey dark"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "I"
+    },
+    {
+      "surface": "וְֽנָאוָ֔ה",
+      "gloss": "but I fine"
+    },
+    {
+      "surface": "בְּנ֖וֹת",
+      "gloss": "una daughters"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "כְּאָהֳלֵ֣י",
+      "gloss": "like tents"
+    },
+    {
+      "surface": "קֵדָ֔ר",
+      "gloss": "of Kedar"
+    },
+    {
+      "surface": "כִּירִיע֖וֹת",
+      "gloss": "like curtains"
+    },
+    {
+      "surface": "שְׁלֹמֹֽה",
+      "gloss": "of Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:46.592866255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So di two daughter dem of Lot conceive from dia papa.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "conceive"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "daughter dem"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "from dia papa"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:35.613088275Z",
+  "model": "glm-5.2"
+}

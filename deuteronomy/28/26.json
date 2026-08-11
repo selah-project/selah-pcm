@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And your dead body go ⟨be⟩ food for all di bird dem of ⟨di⟩ heaven, and for di animal dem of di earth; and nobody go drive dem away.",
+  "tokens": [
+    {
+      "surface": "וְהָיְתָ֤ה",
+      "gloss": "and ⟨your dead body⟩ go be"
+    },
+    {
+      "surface": "נִבְלָֽתְךָ֙",
+      "gloss": "your dead body"
+    },
+    {
+      "surface": "לְמַאֲכָ֔ל",
+      "gloss": "for food"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "ע֥וֹף",
+      "gloss": "bird dem"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "of ⟨di⟩ heaven"
+    },
+    {
+      "surface": "וּלְבֶהֱמַ֣ת",
+      "gloss": "and for di animal dem"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "מַחֲרִֽיד",
+      "gloss": "go drive dem away"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:53.742983738Z",
+  "model": "glm-5.2"
+}

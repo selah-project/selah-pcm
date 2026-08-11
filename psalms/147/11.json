@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Yahweh dey please wit ⟨את⟩ those wey fear Am, ⟨את⟩ those wey dey wait for im chesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "dey please"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "those wey fear Am"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "those wey fear Am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "those wey dey wait"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "those wey dey wait"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "for im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:00.110525660Z",
+  "model": "glm-5.2"
+}

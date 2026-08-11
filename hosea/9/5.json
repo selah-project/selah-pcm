@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Wetin una go do for di day of appointed time, and for di day of festival of Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "for di day of"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "appointed time"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "and for di day of"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festival"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:21.539132736Z",
+  "model": "glm-5.2"
+}

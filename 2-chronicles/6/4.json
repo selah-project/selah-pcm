@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "En e tok: \"Blessed be Yahweh, Elohim of Yisra'el, wey bin tok wit ⟨im⟩ mouth to ⟨את⟩ Dawid my papa, and wit ⟨im⟩ hand e don fulfill am, tok sey:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En e tok"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin tok"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "wit ⟨im⟩ mouth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "and wit ⟨im⟩ hand"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e don fulfill am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tok sey"
+    }
+  ],
+  "timestamp": "2026-08-11T16:56:01.003829001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 35:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And di work bin prepare, and di priests stand for dia station, and di Levites for dia divisions, according to di command of di king.",
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "and prepare"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "dia station"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levites"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "dia divisions"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "according to di command"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    }
+  ],
+  "timestamp": "2026-08-11T14:15:58.012312187Z",
+  "model": "glm-5.2"
+}

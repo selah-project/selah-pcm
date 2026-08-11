@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 96,
+  "translation": "Tell among di nations im glory, among all ⟨di⟩ peoples im wonders.",
+  "tokens": [
+    {
+      "surface": "סַפְּר֣וּ",
+      "gloss": "Tell"
+    },
+    {
+      "surface": "בַגּוֹיִ֣ם",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "כְבוֹד֑וֹ",
+      "gloss": "im glory"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "הָֽ֝עַמִּ֗ים",
+      "gloss": "⟨di⟩ peoples"
+    },
+    {
+      "surface": "נִפְלְאֹתָֽיו",
+      "gloss": "im wonders"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:54.733463970Z",
+  "model": "glm-5.2"
+}

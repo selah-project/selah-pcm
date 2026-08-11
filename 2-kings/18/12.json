@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 18:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Because dem no bin gree hear di voice of Yahweh, dia Elohim, and dem bin break ⟨את⟩ im covenant — ⟨את⟩ evri wetin Moshe, servant of Yahweh, bin command — and dem no bin hear, and dem no bin do.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dem bin hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "and dem bin break"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im covenant"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "im covenant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri wetin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "e bin command"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dem bin hear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem bin do"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:06.630142126Z",
+  "model": "glm-5.2"
+}

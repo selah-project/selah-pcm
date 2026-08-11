@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e share to evri man of Yisrael, from man reach woman: to evri man one loaf of bread, and one portion of meat, and one raisin cake.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "and e share"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to evri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "from man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to evri man"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "one loaf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "and one portion of meat"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "and one raisin cake"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:03.510284815Z",
+  "model": "glm-5.2"
+}

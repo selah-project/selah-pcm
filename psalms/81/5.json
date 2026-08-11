@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "Because e ⟨na⟩ law for Yisrael, ⟨na⟩ judgment for Elohim of Ya'akov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "חק",
+      "gloss": "law"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "for Elohim of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:11.138909867Z",
+  "model": "glm-5.2"
+}

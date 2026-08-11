@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Abi no be dis David wey dem bin dey answer am for di dance wey dem dey sing, \"Shaul bin strike im thousands and David im ten thousands\"?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Abi no be"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "dem bin dey answer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "for di dance"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wey dem dey sing"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "bin strike"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "im thousands"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "and David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "im ten thousands"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:21.548428314Z",
+  "model": "glm-5.2"
+}

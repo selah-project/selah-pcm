@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Among ⟨di⟩ dead, I dey free, like ⟨di⟩ pierced ones wey dey lie down for grave, wey you no remember again, and dem don cut dem off from your hand.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "among ⟨di⟩ dead"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "I dey free"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨di⟩ pierced ones"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "wey dey lie down"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "for grave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "you remember"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "from your hand"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "don cut dem off"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:27.523903473Z",
+  "model": "glm-5.2"
+}

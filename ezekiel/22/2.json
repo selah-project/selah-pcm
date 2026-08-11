@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And you, son of man, you go judge, you go judge ⟨את⟩ di city of blood? And you go make ⟨am⟩ know ⟨את⟩ all ⟨im⟩ detestable tings?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "And you"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "you go judge"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "you go judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "of blood"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "And you go make ⟨am⟩ know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all ⟨im⟩ detestable tings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "⟨im⟩ detestable tings"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:56.068479533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di priest go take ⟨את⟩ di lamb of di guilt offering and ⟨את⟩ di log of oil, and di priest go wave dem ⟨את⟩ as wave offering before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lamb of di guilt offering"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "of guilt offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di log of oil"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "of oil"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "and go wave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "wave offering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:59.208879143Z",
+  "model": "glm-5.2"
+}

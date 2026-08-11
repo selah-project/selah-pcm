@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 10:34",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨e⟩ go cut down ⟨את⟩ di thick bushes of di forest wit iron, and Lebanon go fall by ⟨one⟩ wey ⟨be⟩ mighty.",
+  "tokens": [
+    {
+      "surface": "ונקף",
+      "gloss": "and go cut down"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "⟨את⟩",
+      "marks": "di thick bushes"
+    },
+    {
+      "surface": "היער",
+      "gloss": "of di forest"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "wit iron"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "and Lebanon"
+    },
+    {
+      "surface": "באדיר",
+      "gloss": "by mighty"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "go fall"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:18.750075665Z",
+  "model": "glm-5.2"
+}

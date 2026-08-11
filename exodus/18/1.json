@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yitro, priest of Midyan, father-in-law of Moshe, bin hear ⟨את⟩ all wey Elohim do for Moshe and for Yisrael, ⟨im⟩ people — how Yahweh bring out ⟨את⟩ Yisrael from Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and bin hear"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "of Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "father-in-law"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "for Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "and for Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨im⟩ people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "how"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bring out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:14.867546024Z",
+  "model": "glm-5.2"
+}

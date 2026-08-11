@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And im bin talk, call her. And im bin call her, and she bin stand for di doorway.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin talk"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "call"
+    },
+    {
+      "surface": "לה",
+      "gloss": "her"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and im bin call"
+    },
+    {
+      "surface": "לה",
+      "gloss": "her"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "and she bin stand"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "for di doorway"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:21.500344913Z",
+  "model": "glm-5.2"
+}

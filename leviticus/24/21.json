@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And ⟨di one wey dey⟩ kill animal, ⟨im⟩ go pay am back; and ⟨di one wey dey⟩ kill person, dem go put am to death.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "and ⟨di one wey dey⟩ kill"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "⟨im⟩ go pay am back"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "and ⟨di one wey dey⟩ kill"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "person"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dem go put am to death"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:53.583109637Z",
+  "model": "glm-5.2"
+}

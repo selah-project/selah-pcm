@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 33:6",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "But di watchman, if ⟨e⟩ see ⟨את⟩ di sword dey come and ⟨e⟩ no blow di shofar, and di people no take warning — if di sword come and take life from among dem, dat person, dem go take am for im own sin, but im blood, I go demand am from di hand of di watchman.",
+  "tokens": [
+    {
+      "surface": "והצפה",
+      "gloss": "But di watchman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨e⟩ see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sword"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "di sword"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "⟨e⟩ blow"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "di shofar"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "and di people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "take warning"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "if ⟨e⟩ come"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from among dem"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat person"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "for im own sin"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "dem go take am"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "but im blood"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "of di watchman"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "I go demand am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:21.159203117Z",
+  "model": "glm-5.2"
+}

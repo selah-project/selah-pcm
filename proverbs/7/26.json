@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because many wounded body dem she don cause to fall, and all di strong-man dem wey dem kill na she kill.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רַבִּ֣ים",
+      "gloss": "many"
+    },
+    {
+      "surface": "חֲלָלִ֣ים",
+      "gloss": "wounded body dem"
+    },
+    {
+      "surface": "הִפִּ֑ילָה",
+      "gloss": "she don cause to fall"
+    },
+    {
+      "surface": "וַ֝עֲצֻמִ֗ים",
+      "gloss": "and di strong-man dem"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הֲרֻגֶֽיהָ",
+      "gloss": "wey dem kill na she kill"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:14.984484545Z",
+  "model": "glm-5.2"
+}

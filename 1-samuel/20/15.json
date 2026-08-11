@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "and you no go cut ⟨את⟩ your chesed from my family forever. And no — for di time wey Yahweh go cut off ⟨את⟩ each enemy of David from on top di face of di ground.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "you go cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your chesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my family"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "for di time ⟨wey⟩ ⟨e⟩ cut off"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "each enemy of David"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:08.945785293Z",
+  "model": "glm-5.2"
+}

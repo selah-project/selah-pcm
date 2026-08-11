@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Make wilderness and im town dem lift up voice, di village dem wey Qedar dey live; make di people wey dey stay for Sela sing, make dem shout from di top of di mountain dem!",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "make ⟨dem⟩ lift up"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wilderness"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "and im town dem"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "village dem"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wey ⟨e⟩ dey stay"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "make ⟨dem⟩ sing"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey stay"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "for Sela"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "from di top"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "of di mountain dem"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "make ⟨dem⟩ shout"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:42.476441493Z",
+  "model": "glm-5.2"
+}

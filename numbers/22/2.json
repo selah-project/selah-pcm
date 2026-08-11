@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Balak, pikin of Tzipor, see ⟨את⟩ all wey Yisra'el bin do to di Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "of Tzipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "to di Emori"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:17.564533527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Before ⟨im⟩ face, earth dey quake; heavens dey shake; sun and moon don grow dark, and stars don withdraw dia brightness.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "before ⟨im⟩ face"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "dey quake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "dey shake"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heavens"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "and moon"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "don grow dark"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "and stars"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "don withdraw"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "dia brightness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:17.669274317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Aharon go bring ⟨את⟩ di bull of di sin-offering wey be im own, and im go make atonement for im sake and for di sake of im house.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "and go bring"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bull"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bull"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "of di sin-offering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לו",
+      "gloss": "be im own"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and go make atonement"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "for im sake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "and for di sake of"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:43.696410703Z",
+  "model": "glm-5.2"
+}

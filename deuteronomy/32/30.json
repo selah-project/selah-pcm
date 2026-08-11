@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "How one go dey pursue thousand, and two go make ten thousand run, if no be sey dia Rock sell ⟨את⟩ dem, and Yahweh shut ⟨את⟩ dem up?",
+  "tokens": [
+    {
+      "surface": "אֵיכָה",
+      "gloss": "how"
+    },
+    {
+      "surface": "יִרְדֹּף",
+      "gloss": "go dey pursue"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "one"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "וּשְׁנַיִם",
+      "gloss": "and two"
+    },
+    {
+      "surface": "יָנִיסוּ",
+      "gloss": "go make run"
+    },
+    {
+      "surface": "רְבָבָה",
+      "gloss": "ten thousand"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "צוּרָם",
+      "gloss": "dia Rock"
+    },
+    {
+      "surface": "מְכָרָם",
+      "gloss": "sell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וַֽיהוָה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "הִסְגִּירָם",
+      "gloss": "shut up"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:42.560717036Z",
+  "model": "glm-5.2"
+}

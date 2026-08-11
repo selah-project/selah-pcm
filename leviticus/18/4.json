@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "⟨את⟩ My judgment-dem una go do, and ⟨את⟩ my custom-dem una go keep, make una waka for inside dem; ⟨Me⟩, na Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My judgment-dem"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "My judgment-dem"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my custom-dem"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my custom-dem"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "make una waka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "for inside dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Me⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:38.493844417Z",
+  "model": "glm-5.2"
+}

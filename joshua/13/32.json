@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Dis na ⟨di things⟩ wey Mosheh bin cause ⟨dem⟩ to inherit for di plains of Moav, beyond di Yarden, east of Yericho.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bin cause to inherit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "for di plains of"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "east of"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:54.678618114Z",
+  "model": "glm-5.2"
+}

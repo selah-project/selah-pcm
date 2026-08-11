@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And ⟨e go be⟩ like di light of morning wey sun dey shine — morning wey no get clouds — from di brightness, from rain, ⟨grass dey⟩ sprout from di earth.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "and like di light of"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "wey sun dey shine"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "get clouds"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "from di brightness"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "from rain"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grass dey sprout"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:01.402502030Z",
+  "model": "glm-5.2"
+}

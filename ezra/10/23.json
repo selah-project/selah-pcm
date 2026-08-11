@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And from ⟨di⟩ Leviyyim: Yozavad, and Shim'i, and Qelajah — ⟨im⟩ ⟨na⟩ Qelita — P'tachjah, Yehudah, and Eli'ezer.",
+  "tokens": [
+    {
+      "surface": "וּמִן",
+      "gloss": "And from"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "gloss": "⟨di⟩ Leviyyim"
+    },
+    {
+      "surface": "יוֹזָבָד",
+      "gloss": "Yozavad"
+    },
+    {
+      "surface": "וְשִׁמְעִי",
+      "gloss": "and Shim'i"
+    },
+    {
+      "surface": "וְקֵלָיָה",
+      "gloss": "and Qelajah"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "קְלִיטָא",
+      "gloss": "⟨na⟩ Qelita"
+    },
+    {
+      "surface": "פְּתַחְיָה",
+      "gloss": "P'tachjah"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וֶאֱלִיעֶזֶר",
+      "gloss": "and Eli'ezer"
+    }
+  ],
+  "timestamp": "2026-08-11T13:48:00.715735547Z",
+  "model": "glm-5.2"
+}

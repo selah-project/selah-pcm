@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "But Sarah bin deny, sey, \"I no laugh\"; because she bin dey afraid. And ⟨im⟩ talk, \"No; but you bin laugh.\"",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "But ⟨bin⟩ deny"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "I laugh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bin dey afraid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And ⟨bin⟩ talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "you bin laugh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:37.174763998Z",
+  "model": "glm-5.2"
+}

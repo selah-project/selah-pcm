@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But una dey profane am, when una dey talk say, 'Di table of Adonai, e dey polluted, and im fruit, im food dey contemptible.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "but una"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "dey profane"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "when una dey talk"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "table"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "e dey polluted"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "and im fruit"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "dey contemptible"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "im food"
+    }
+  ],
+  "timestamp": "2026-08-11T12:36:29.455332288Z",
+  "model": "glm-5.2"
+}

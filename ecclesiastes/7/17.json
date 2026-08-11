@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make you no do wrong too much, and make you no ⟨be⟩ fool, why you go die when neva reach your time?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "do wrong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "too much"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make you no"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "you go die"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "when neva reach"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "your time"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:15.719348833Z",
+  "model": "glm-5.2"
+}

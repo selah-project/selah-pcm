@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Talk unto di pikin-dem of Yisra'el, sey make dem talk: woman, wen she produce seed and born male, she go dey unclean seven days; like di days of di menstrual separation of her sickness she go dey unclean.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make dem talk"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "she produce seed"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "and born"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "she go dey unclean"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "of di menstrual separation"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "of her sickness"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "she go dey unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:30.807254820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Like thread of scarlet ⟨be⟩ your lips, and your talk fine, like slice of pomegranate ⟨be⟩ your temple behind your veil.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "like thread"
+    },
+    {
+      "surface": "השני",
+      "gloss": "of scarlet"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "your lips"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "and your talk"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "like slice"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "of pomegranate"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "your temple"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "behind"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "your veil"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:33.954387606Z",
+  "model": "glm-5.2"
+}

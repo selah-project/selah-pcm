@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "When Elyon bin dey make nations inherit, wen e bin dey separate sons of Adam, e bin set di boundaries of peoples to di number of sons of Yisrael.",
+  "tokens": [
+    {
+      "surface": "בְּהַנְחֵ֤ל",
+      "gloss": "When bin dey make inherit"
+    },
+    {
+      "surface": "עֶלְיוֹן֙",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "nations"
+    },
+    {
+      "surface": "בְּהַפְרִיד֖וֹ",
+      "gloss": "wen bin dey separate"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "sons"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "of Adam"
+    },
+    {
+      "surface": "יַצֵּב֙",
+      "gloss": "e bin set"
+    },
+    {
+      "surface": "גְּבֻלֹ֣ת",
+      "gloss": "di boundaries"
+    },
+    {
+      "surface": "עַמִּ֔ים",
+      "gloss": "of peoples"
+    },
+    {
+      "surface": "לְמִסְפַּ֖ר",
+      "gloss": "to di number"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "sons"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:56.083088834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di fishermen go mourn, and all ⟨dem⟩ wey dey throw hook inside di canal go lament, and dem wey spread net on top face of water go waste away.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "and di fishermen"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "go mourn"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "and all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "wey dey throw"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "inside di canal"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "hook"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "and dem wey spread"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "net"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "go waste away"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:56.398847602Z",
+  "model": "glm-5.2"
+}

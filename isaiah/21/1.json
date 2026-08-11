@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Di burden of di wilderness of di sea. Like whirlwinds for di Negev wey dey sweep past, ⟨e⟩ dey come from wilderness, from land wey dey fearsome.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "burden"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wilderness"
+    },
+    {
+      "surface": "ים",
+      "gloss": "of di sea"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "like whirlwinds"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "for di Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "wey dey sweep past"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "from wilderness"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "wey dey fearsome"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:49.447781098Z",
+  "model": "glm-5.2"
+}

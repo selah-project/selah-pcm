@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And David rule on top all Israel, and e dey do judgment and righteousness for all im people.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "And rule"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e dey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "and righteousness"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:46.725633516Z",
+  "model": "glm-5.2"
+}

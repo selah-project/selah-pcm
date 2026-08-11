@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Your sitting down and your going out and your coming in, I know; and ⟨את⟩ your raging against me.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "your sitting down"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "and your going out"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "and your coming in"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "your raging against me"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "your raging"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "against me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:23.262555003Z",
+  "model": "glm-5.2"
+}

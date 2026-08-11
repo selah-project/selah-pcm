@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Look now Behemoth, wey I make together with you; grass like cow e go chop.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "Behemoth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I make"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "together with you"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "like cow"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:38.424662745Z",
+  "model": "glm-5.2"
+}

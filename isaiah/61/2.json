@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "to proclaim year of favor to Yahweh, and day of vengeance to our Elohim, to comfort all ⟨di⟩ mourners;",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "to proclaim"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "year"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "of favor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "and day"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "of vengeance"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "to our Elohim"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "to comfort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "mourners"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:00.903698354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Dat na why dem call di place Beer-Sheba, sake of say na dere bof of dem take swear.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dem call"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of say"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "dem swear"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bof of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:24.497358767Z",
+  "model": "glm-5.2"
+}

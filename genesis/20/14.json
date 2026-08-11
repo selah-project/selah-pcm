@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Abimelech take sheep, and cow, and male servants, and female servants, and im give dem to Avraham, and im restore to am ⟨את⟩ Sarah im wife.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and im take"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelech"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "and cow"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "and male servants"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "and female servants"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and im give"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "to Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and im restore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:47.114877897Z",
+  "model": "glm-5.2"
+}

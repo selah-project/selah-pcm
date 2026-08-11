@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And dem glad sake of how e don calm down, and e don lead dem go ⟨di⟩ harbor wey dem want.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "and dem glad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of how"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "e don calm down"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "and e don lead dem go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "harbor"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "wey dem want"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:59.051080219Z",
+  "model": "glm-5.2"
+}

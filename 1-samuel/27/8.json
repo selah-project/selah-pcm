@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Dawid and im men-dem go up, and dem raid di Geshurite and di Gerzite and di Amalekite, because ⟨dem be⟩ di inhabitant-dem of di land from of old, as you dey enter to Shur and as far as land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "and dem go up"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "and im men-dem"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "and dem raid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "against"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "di Geshurite"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "and di Gerzite"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "and di Amalekite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "inhabitant-dem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "from of old"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "as you dey enter"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "to Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and as far as"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:09.126731352Z",
+  "model": "glm-5.2"
+}

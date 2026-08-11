@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Woe to am wey dey quarrel wit ⟨את⟩ im Former — potsherd among ⟨את⟩ di potsherds of di earth! Wetin, go clay talk to am wey dey form am, sey 'Wetin you dey do?' And your work, ⟨e no get⟩ hands?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Woe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wey dey quarrel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im Former"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "im Former"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "potsherd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di potsherds of di earth"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "di potsherds"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "clay"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "to am wey dey form am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you dey do"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "And your work"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨e no get⟩"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hands"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:27.419796795Z",
+  "model": "glm-5.2"
+}

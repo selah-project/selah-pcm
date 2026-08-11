@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Myrrh and aloes, cassia — all ⟨na⟩ ya clothes; from palace-dem wey dem make wit ivory, string-dem wey dem play make you glad.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "myrrh"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "and aloes"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "cassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ya clothes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palace-dem"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ivory"
+    },
+    {
+      "surface": "מני",
+      "gloss": "string-dem wey dem play"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "make you glad"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:31.827050987Z",
+  "model": "glm-5.2"
+}

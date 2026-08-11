@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 111,
+  "translation": "Great ⟨be⟩ di works of Yahweh; dem dey sought out by all di ones wey ⟨dey⟩ find pleasure inside dem.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Great"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "di works"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "dem dey sought out"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "by all"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "di ones wey find pleasure inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.502682238Z",
+  "model": "glm-5.2"
+}

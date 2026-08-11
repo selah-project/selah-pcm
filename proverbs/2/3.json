@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "if truly you call to insight, and to understanding you raise your voice;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "אם",
+      "gloss": "truly"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "to insight"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "you call"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "to understanding"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "you raise"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "your voice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:48.744081641Z",
+  "model": "glm-5.2"
+}

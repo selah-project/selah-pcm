@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So e bin gather for inside field till evening, and e bin beat out ⟨את⟩ wetin e gather, and e come be like one ephah of barley.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "so e bin gather"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for inside field"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "and e bin beat out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin e gather"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "e gather"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "like one ephah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "of barley"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:30.891847723Z",
+  "model": "glm-5.2"
+}

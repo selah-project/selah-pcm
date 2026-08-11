@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Make una remember im wonder-wonder wey e do, im sign-dem and ⟨di⟩ judgement-dem wey comot from im mout.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "make una remember"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "im wonder-wonder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e do"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "im sign-dem"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "and ⟨di⟩ judgement-dem"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "wey comot from im mout"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:53.542042385Z",
+  "model": "glm-5.2"
+}

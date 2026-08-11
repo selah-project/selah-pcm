@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "For di front of di length ⟨be⟩ one hundred cubit, di entrance dey north; and di width ⟨be⟩ fifty cubit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di front of"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "di length"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "di one hundred"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "north"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "and di width"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:17.839407883Z",
+  "model": "glm-5.2"
+}

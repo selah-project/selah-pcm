@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Because Yahweh dey love justice, and ⟨im⟩ no go abandon ⟨את⟩ im pious ones; forever dem dey guarded, but di pickin of wicked people go ⟨be⟩ cut off.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dey love"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no go"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im pious ones"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "im pious ones"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "dem dey guarded"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "but di pickin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "go cut off"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:57.931492499Z",
+  "model": "glm-5.2"
+}

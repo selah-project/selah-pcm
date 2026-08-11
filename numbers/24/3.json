@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And (e) lift up im mashal and (e) talk, oracle of Bilam, son of Beor, and oracle of di man wey ⟨dem⟩ don open im eye:",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and (he) lift up"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "im mashal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and (he) talk"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son of"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "and oracle of"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "di man"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "open"
+    },
+    {
+      "surface": "העין",
+      "gloss": "di eye"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:26.490979351Z",
+  "model": "glm-5.2"
+}

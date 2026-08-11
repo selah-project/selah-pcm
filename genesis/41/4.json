@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And di cow wey ⟨be⟩ bad for appearance and thin for flesh bin chop ⟨את⟩ di seven cow wey fine for appearance and di fat ones, and Paroh bin wake up.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "and dem bin chop"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "di cow"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bad"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "for appearance"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "and thin"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "di flesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di seven cow"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "cow"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "fine"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "di appearance"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "and di fat ones"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "and bin wake up"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:39.223055968Z",
+  "model": "glm-5.2"
+}

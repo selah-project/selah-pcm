@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "⟨Na⟩ our Redeemer — Yahweh of host dem, ⟨na⟩ im name — di Holy One of Yisrael.",
+  "tokens": [
+    {
+      "surface": "גֹּאֲלֵ֕נוּ",
+      "gloss": "our Redeemer"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "of host dem"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "⟨na⟩ im name"
+    },
+    {
+      "surface": "קְד֖וֹשׁ",
+      "gloss": "di Holy One"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:27.439938882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Make dem no shave baldness for dia head, and di corner of dia beard make dem no shave, and for dia flesh make dem no gash incision.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִקְרְחוּ",
+      "gloss": "make dem no shave"
+    },
+    {
+      "surface": "קָרְחָה֙",
+      "gloss": "baldness"
+    },
+    {
+      "surface": "בְּרֹאשָׁ֔ם",
+      "gloss": "for dia head"
+    },
+    {
+      "surface": "וּפְאַ֥ת",
+      "gloss": "and di corner"
+    },
+    {
+      "surface": "זְקָנָ֖ם",
+      "gloss": "of dia beard"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יְגַלֵּ֑חוּ",
+      "gloss": "make dem no shave"
+    },
+    {
+      "surface": "וּבִ֨בְשָׂרָ֔ם",
+      "gloss": "and for dia flesh"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִשְׂרְט֖וּ",
+      "gloss": "make dem no gash"
+    },
+    {
+      "surface": "שָׂרָֽטֶת",
+      "gloss": "incision"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:37.803419730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 138,
+  "translation": "I go bow down toward di temple of your holiness, and I go thank ⟨את⟩ your name, sake of your chesed and sake of your truth; sake of you bin make your word great pass all your name.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "I go bow down"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temple"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "of your holiness"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "and I go thank"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your name"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "על",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and sake of"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "your truth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "you bin make great"
+    },
+    {
+      "surface": "על",
+      "gloss": "pass"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "your word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:51.706369243Z",
+  "model": "glm-5.2"
+}

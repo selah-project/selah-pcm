@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Di kohen wey dey make am clean go make di man wey dey receive cleaning stand, ⟨plus⟩ ⟨את⟩ dem, before Yahweh, for di entrance of di tent of meeting.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "go make stand"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wey dey make clean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wey dey receive cleaning"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di offerings)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:53.348107050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And I come carry una enter ⟨the⟩ land of di fertile place, to chop im fruit and im goodness; but una come enter, and una come pollute ⟨את⟩ my land, and my inheritance una turn to abomination.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "and I come carry enter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "di fertile place"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "im fruit"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "and im goodness"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "but una come enter"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "and una come pollute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my land"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "and my inheritance"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "una turn"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "to abomination"
+    }
+  ],
+  "timestamp": "2026-08-11T11:40:06.261651594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "As di days of David bin dey near make e die, e bin charge ⟨את⟩ Solomon im pikin, sey:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "bin dey near"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "make e die"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "e bin charge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Solomon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:28.135062887Z",
+  "model": "glm-5.2"
+}

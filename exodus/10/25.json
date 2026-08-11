@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Mosheh talk say, you self go put for our hand sacrifice and burnt offering, and we go do for Yahweh our Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "self\/again"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "go put"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "for our hand"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "and burnt offering"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "and we go do"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:25.232105720Z",
+  "model": "glm-5.2"
+}

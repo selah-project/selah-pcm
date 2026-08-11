@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Avshalom and all di people, ⟨di⟩ men of Yisra'el, bin enter Yerushalayim, and Achitofel ⟨bin dey⟩ ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "and Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bin enter"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "and Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:34.484771896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Yahweh talk to am: \"I don hear ⟨את⟩ your prayer and ⟨את⟩ your supplication wey you bin beg before me; I don set apart ⟨את⟩ dis house wey you build, to put my Name dere forever; and my eye and my heart go dey dere all di days.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "I don hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your prayer"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "your prayer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your supplication"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "your supplication"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "you bin beg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "I don set apart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "you build"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "to put"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my Name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and go dey"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "and my heart"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:07.396559285Z",
+  "model": "glm-5.2"
+}

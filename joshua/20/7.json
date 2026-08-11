@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And dem sanctify ⟨את⟩ Kedesh for Galil, for hill ⟨country⟩ of Naftali, and ⟨את⟩ Shekhem for hill ⟨country⟩ of Efrayim, and ⟨את⟩ Kiryat-Arba — dat one na Chevron — for hill ⟨country⟩ of Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "and dem sanctify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "for Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "of Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dat one na"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:21.603776524Z",
+  "model": "glm-5.2"
+}

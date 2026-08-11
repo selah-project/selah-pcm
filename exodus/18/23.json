@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "If you do ⟨את⟩ dis thing, and Elohim command you so, then you go fit stand, and all dis people too go come to im place ⟨in⟩ peace.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis thing"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di thing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you do"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "and command you"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "and you go fit"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stand"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "im place"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "⟨in⟩ peace"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:47.825150643Z",
+  "model": "glm-5.2"
+}

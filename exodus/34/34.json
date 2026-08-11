@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "But anytime Mosheh go in front of Yahweh to talk with ⟨Am⟩, e go comot ⟨את⟩ di veil until e komot. And e go komot, and e go talk to ⟨di⟩ pikin-dem of Yisra'el ⟨את⟩ wetin dem don command am.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "anytime e go in"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to talk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "with ⟨Am⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "e go comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di veil"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "di veil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "e komot"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and e go komot"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "and e go talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dem don command am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "dem don command"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:33.436801660Z",
+  "model": "glm-5.2"
+}

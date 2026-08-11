@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di son dem of Cham: Kush, and Mitsrayim, and Put, and Kena⟨an⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And di son dem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "of Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "and Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "and Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "and Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:16.574399696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "⟨Di⟩ watchmen ⟨be⟩ blind, all of dem, dem no sabi anything; all of dem ⟨be⟩ like dumb dogs wey no fit bark; dem dey see dream, dem dey lie down, dem dey love sleep.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "watchmen"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blind"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dem sabi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "dogs"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "dumb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "dem fit"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "to bark"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "dem dey see dream"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "dem dey lie down"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wey dey love"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "sleep"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:29.424191901Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 84,
+  "translation": "How happy ⟨be⟩ dem wey dey siddon for ⟨your⟩ house — dem go still dey praise you. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "how happy"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dem wey dey siddon"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "for ⟨your⟩ house"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "dem go dey praise you"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:33.383946746Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If ⟨you⟩ lend money to ⟨את⟩ my people, to ⟨את⟩ di poor wey dey wit you, no be like creditor to am; no put interest on top am.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "money"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "⟨you⟩ lend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poor"
+    },
+    {
+      "surface": "העני",
+      "gloss": "di poor"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wey dey wit you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "like creditor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "put"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:38.623719178Z",
+  "model": "glm-5.2"
+}

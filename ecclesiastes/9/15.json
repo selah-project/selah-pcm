@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dem bin find one poor man wey ⟨be⟩ wise inside am, and na im rescue ⟨את⟩ di city wit im wisdom; and no man remember ⟨את⟩ dat poor man wey ⟨be⟩ like dat.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "and dem bin find"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "poor"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "and rescue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "wit im wisdom"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "and no man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dat poor man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dat man"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "poor"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wey ⟨be⟩ like dat"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:58.038904267Z",
+  "model": "glm-5.2"
+}

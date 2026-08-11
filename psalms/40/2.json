@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "I dey wait, I bin wait for Yahweh, and ⟨he⟩ bend reach my side and ⟨he⟩ hear my cry.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "I dey wait"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "I bin wait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "and ⟨he⟩ bend"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "reach my side"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "and ⟨he⟩ hear"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "my cry"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:29.286284845Z",
+  "model": "glm-5.2"
+}

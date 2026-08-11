@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "I go call to Elohim Elyon, to El wey dey complete for me.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "I go call"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "wey dey complete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:45.345334505Z",
+  "model": "glm-5.2"
+}

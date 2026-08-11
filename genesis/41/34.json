@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Make Pharaoh do dis tin, and make ⟨he⟩ put overseers on top di land, and make dem take one-fifth of di land of Mitsrayim for di seven years of plenty.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "make ⟨he⟩ do"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "and make ⟨he⟩ put"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "overseers"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and make dem take one-fifth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land of Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "for di seven"
+    },
+    {
+      "surface": "שני",
+      "gloss": "years"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "of plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:01.430026355Z",
+  "model": "glm-5.2"
+}

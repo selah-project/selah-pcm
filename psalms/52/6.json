@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "You love all words wey dey swallow, ⟨O⟩ tongue wey dey cheat!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "You love"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "words"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "wey dey swallow"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨O⟩ tongue"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wey dey cheat"
+    }
+  ],
+  "timestamp": "2026-08-11T16:36:44.155675824Z",
+  "model": "glm-5.2"
+}

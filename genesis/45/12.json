@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "And see — una eye dey see, and di eye of my broda Binyamin, sey na my mouth dey talk to una.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "una eye"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "dey see"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "and ⟨eye⟩ of"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broda"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:52.168588511Z",
+  "model": "glm-5.2"
+}

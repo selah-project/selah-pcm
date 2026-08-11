@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "All di town dem of di plateau, and all Gilead, and all Bashan, reach Salcah and Edrei, town dem of di kingdom of Og for Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "town dem of"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "di plateau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salcah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "and Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "town dem of"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "di kingdom of"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "for Bashan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:59.453553Z",
+  "model": "glm-5.2"
+}

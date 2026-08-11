@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Mosheh bin command ⟨את⟩ di people on dat day, sey:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and bin command"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "on di day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:57.031789469Z",
+  "model": "glm-5.2"
+}

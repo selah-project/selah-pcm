@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "Di day wey I dey fear, I go trust inside You.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "wey I dey fear"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "inside You"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "go trust"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:18.665085001Z",
+  "model": "glm-5.2"
+}

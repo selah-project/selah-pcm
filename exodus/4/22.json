@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And you go tell Paroh: 'Thus Yahweh bin talk: Yisra'el ⟨na⟩ my son, my firstborn.'",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "And you go tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "my firstborn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:17.014569284Z",
+  "model": "glm-5.2"
+}

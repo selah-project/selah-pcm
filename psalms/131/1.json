@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 131,
+  "translation": "Song of di ascents, for David. Yahweh, my heart no lift up, and my eyes no raise high; and I no waka inside big-big tings, and inside tings wey too wonderful pass me.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "of di ascents"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "lift up"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "raise high"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "I waka"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "inside big-big tings"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "and inside wonderful tings"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pass me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:11.655795941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Make ⟨your⟩ eyes dey look straight front, and make ⟨your⟩ eyelids dey straight before you.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "make your eyes"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "straight front"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "and make your eyelids"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "dey straight"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "before you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:04.817730792Z",
+  "model": "glm-5.2"
+}

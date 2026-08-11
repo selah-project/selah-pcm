@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And wen e see chariot, pair of horsemen, chariot of ⟨donkey⟩, chariot of ⟨camel⟩ — and e go listen well, listen wit plenty attention:",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and wen e see"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pair"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "of horsemen"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "⟨donkey⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "⟨camel⟩"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "and e go listen"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "well"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wit plenty"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "attention"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:01.667930179Z",
+  "model": "glm-5.2"
+}

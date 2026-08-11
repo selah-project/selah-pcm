@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Enter inside ⟨di⟩ rock, and hide for di dust, from di face of di fear of Yahweh, and from di splendor of im majesty.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "inside ⟨di⟩ rock"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "and hide"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "for di dust"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "di fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "and from di splendor"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "of im majesty"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:18.319179009Z",
+  "model": "glm-5.2"
+}

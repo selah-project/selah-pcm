@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "one gold dish of ten shekels, full of incense.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "dish"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:27.692585971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Di king bin talk to Yoav, 'See now, I don do ⟨את⟩ dis matter; so go, bring back ⟨את⟩ di young man — ⟨את⟩ Avshalom.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I don do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "so go"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young man"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di young man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:17.362664905Z",
+  "model": "glm-5.2"
+}

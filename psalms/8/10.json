@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai wey we get, how great ⟨be⟩ your name for all di earth!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wey we get"
+    },
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "great"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:26.276669087Z",
+  "model": "glm-5.2"
+}

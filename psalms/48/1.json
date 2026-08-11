@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Song, psalm, for di sons of Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di sons of"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:14.338789842Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 7:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And your house and your kingdom go stand firm forever before you; your throne go dey established forever.",
+  "tokens": [
+    {
+      "surface": "ונאמן",
+      "gloss": "and go stand firm"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "your house"
+    },
+    {
+      "surface": "וממלכתך",
+      "gloss": "and your kingdom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "your throne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "established"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:05.956775962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And e come happen, wen Yehoram see ⟨את⟩ Yehu, e talk, \"Shalom, Yehu?\" And ⟨im⟩ talk, \"Wetin be shalom? As long as di ashewo-work of Izevel wey be ya mama and im plenty wini-medicine dey still dey!\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e come happen"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "wen see"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wetin"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "be shalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "As long as"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "di ashewo-work"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "of Izevel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wey be ya mama"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "and im wini-medicine"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:49.470761871Z",
+  "model": "glm-5.2"
+}

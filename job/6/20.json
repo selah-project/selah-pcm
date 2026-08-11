@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Dem dey shame, because ⟨dem⟩ bin hope; ⟨dem⟩ come reach am, and dem dey disappointed.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "dem dey shame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bin hope"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem come reach"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "and dem dey disappointed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:47.658477916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Do ⟨to⟩ dem like Midyan, like Sisera, like Yabin, for di stream of Kishon;",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂה",
+      "gloss": "do"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כְּמִדְיָן",
+      "gloss": "like Midyan"
+    },
+    {
+      "surface": "כְּסִיסְרָא",
+      "gloss": "like Sisera"
+    },
+    {
+      "surface": "כְיָבִין",
+      "gloss": "like Yabin"
+    },
+    {
+      "surface": "בְּנַחַל",
+      "gloss": "for di stream of"
+    },
+    {
+      "surface": "קִישׁוֹן",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:44.770305466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "When you come near to one city to fight against am, you go call out to am say make peace.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "you come near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "to fight"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "you go call out"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "say make peace"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:51.770391869Z",
+  "model": "glm-5.2"
+}

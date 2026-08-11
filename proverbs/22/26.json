@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "no dey among ⟨dem⟩ wey dey clap hand, among ⟨dem⟩ wey dey stand surety for debt.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תְּהִ֥י",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בְתֹֽקְעֵי",
+      "gloss": "among ⟨dem⟩ wey dey clap"
+    },
+    {
+      "surface": "כָ֑ף",
+      "gloss": "hand"
+    },
+    {
+      "surface": "בַּ֝עֹרְבִ֗ים",
+      "gloss": "among ⟨dem⟩ wey dey stand surety"
+    },
+    {
+      "surface": "מַשָּׁאֽוֹת",
+      "gloss": "for debt"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:18.647208691Z",
+  "model": "glm-5.2"
+}

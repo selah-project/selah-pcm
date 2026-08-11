@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And ⟨for⟩ di har-el, four cubits; and from di ariel and upward, four horns.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "and di har-el"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "and from di ariel"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "and upward"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "di horns"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:43.330333178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "One talent of pure gold, dem go make ⟨את⟩ am, ⟨את⟩ all dis vessels.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "one talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dem go make"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis vessels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "di vessels"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:09.593684647Z",
+  "model": "glm-5.2"
+}

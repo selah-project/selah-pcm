@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 129,
+  "translation": "On top my back, plowmen bin plow; dem make dia furrows long.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "On top"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "my back"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "bin plow"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "plowmen"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "dem make ... long"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "dia furrows"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:04.045528710Z",
+  "model": "glm-5.2"
+}

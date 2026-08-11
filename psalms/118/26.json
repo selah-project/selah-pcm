@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 118,
+  "translation": "Blessed ⟨be⟩ ⟨im⟩ wey dey come for di Name of Yahweh; we don bless una from inside di house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "wey dey come"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "we don bless una"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from inside di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:34.685040981Z",
+  "model": "glm-5.2"
+}

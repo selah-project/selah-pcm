@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make you no talk to your neighbour, 'Go and come back, and tomorrow I go give,' and ⟨e dey⟩ ⟨with⟩ you.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תֹּ֘אמַ֤ר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "לְרֵעֶ֨ךָ",
+      "gloss": "to your neighbour"
+    },
+    {
+      "surface": "לֵ֣ךְ",
+      "gloss": "go"
+    },
+    {
+      "surface": "וָ֭שׁוּב",
+      "gloss": "and come back"
+    },
+    {
+      "surface": "וּמָחָ֥ר",
+      "gloss": "and tomorrow"
+    },
+    {
+      "surface": "אֶתֵּ֗ן",
+      "gloss": "I go give"
+    },
+    {
+      "surface": "וְיֵ֣שׁ",
+      "gloss": "and ⟨e dey⟩"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "⟨את⟩ you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:31.912353405Z",
+  "model": "glm-5.2"
+}

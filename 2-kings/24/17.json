@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di king of Bavel make ⟨את⟩ Mattanyah, im uncle, king for im stead, and change ⟨את⟩ im name to Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וַיַּמְלֵ֧ךְ",
+      "gloss": "and make king"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בָּבֶ֛ל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מַתַּנְיָ֥ה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דֹד֖וֹ",
+      "gloss": "im uncle"
+    },
+    {
+      "surface": "תַּחְתָּ֑יו",
+      "gloss": "for im stead"
+    },
+    {
+      "surface": "וַיַּסֵּ֥ב",
+      "gloss": "and change"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "צִדְקִיָּֽהוּ",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T16:14:17.160734856Z",
+  "model": "glm-5.2"
+}

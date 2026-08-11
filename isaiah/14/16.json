@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Those wey dey see you go stare at you, dem go look you well: ⟨na⟩ dis ⟨be⟩ di man wey bin dey shake di earth, wey bin dey make kingdom dem tremble?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "those wey dey see you"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "at you"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "dem go stare"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "at you"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "dem go look well"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "wey bin dey shake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "wey bin dey make tremble"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdom dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:28.787672309Z",
+  "model": "glm-5.2"
+}

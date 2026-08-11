@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Tsidkiyahu son of Kenaanah bin make for am horn of iron, and ⟨he⟩ talk say, 'Thus Yahweh don talk: Wit dis one you go ram ⟨את⟩ Aram till you finish dem.'",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and bin make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "of Kenaanah"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "wit dis one"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "you go ram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "you finish dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:30.154885945Z",
+  "model": "glm-5.2"
+}

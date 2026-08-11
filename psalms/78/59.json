@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Elohim hear ⟨dis⟩ and ⟨e⟩ bin vex, and ⟨e⟩ reject Yisrael well-well.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "and vex"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "and reject"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:02.901075652Z",
+  "model": "glm-5.2"
+}

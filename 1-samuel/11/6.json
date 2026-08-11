@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di Spirit of Elohim rush upon Sha'ul, as im hear ⟨את⟩ dis ⟨words⟩, and im anger burn well-well.",
+  "tokens": [
+    {
+      "surface": "וַתִּצְלַ֤ח",
+      "gloss": "And e rush"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "Spirit"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "שָׁא֔וּל",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "as im hear"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di words"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "הָאֵ֑לֶּה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וַיִּ֥חַר",
+      "gloss": "and e burn"
+    },
+    {
+      "surface": "אַפּ֖וֹ",
+      "gloss": "im anger"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T16:03:52.051155024Z",
+  "model": "glm-5.2"
+}

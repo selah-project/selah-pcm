@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And una papa don cheat me, and change ⟨את⟩ my wage ten times; but Elohim no allow am make e do bad wit me.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "and una papa"
+    },
+    {
+      "surface": "התל",
+      "gloss": "don cheat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "and change"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my wage"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "my wage"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "times"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "allow am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "make e do bad"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wit me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:40.077852959Z",
+  "model": "glm-5.2"
+}

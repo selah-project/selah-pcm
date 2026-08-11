@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Dis na di names of di sons of Esav: Elifaz, son of Adah, wife of Esav; Reuel, son of Bashemat, wife of Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "di names"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "of Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "of Bashemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:00.049505289Z",
+  "model": "glm-5.2"
+}

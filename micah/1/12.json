@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "For ⟨she⟩ wey dey live for Maroth dey writhe for good — because evil don come down from ⟨את⟩ Yahweh, reach di gate of Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "dey writhe"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "for good"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "⟨she⟩ wey dey live"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "don come down"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "reach di gate"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:52.533184435Z",
+  "model": "glm-5.2"
+}

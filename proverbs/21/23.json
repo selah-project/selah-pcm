@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Di pesin wey dey guard im mouth and im tongue, dey guard im life from trouble.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "di pesin wey dey guard"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "im mouth"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "and im tongue"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "dey guard"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "from trouble"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:25.575218895Z",
+  "model": "glm-5.2"
+}

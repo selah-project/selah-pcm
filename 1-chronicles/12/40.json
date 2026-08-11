@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And ⟨dem⟩ bin dey dia wit David for three days, dey eat and dey drink, because dia brodas bin prepare for dem.",
+  "tokens": [
+    {
+      "surface": "ושותים",
+      "gloss": "and dey drink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bin prepare"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dia brodas"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:06.199421497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 10:26",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And after dat, Yehoshua strike dem, and e kill dem, and e hang dem on top five trees; and dem bin dey hang on top di trees until evening.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "and e strike dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "and e kill dem"
+    },
+    {
+      "surface": "ויתלם",
+      "gloss": "and e hang dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "trees"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem bin"
+    },
+    {
+      "surface": "תלוים",
+      "gloss": "dey hang"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "di trees"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "evening"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:30.014901065Z",
+  "model": "glm-5.2"
+}

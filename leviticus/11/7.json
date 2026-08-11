@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨את⟩ di chazir, because im dey split hoof — im dey completely split hoof — but im no dey bring up cud; im dey unclean for una.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di chazir"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "di chazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "im dey split"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "and ⟨im dey⟩ split"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "completely"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "but ⟨im⟩"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "im dey bring up"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:48.866267979Z",
+  "model": "glm-5.2"
+}

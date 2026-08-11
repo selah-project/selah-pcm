@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨im⟩ go from dere go Mount Karmel, and from dere ⟨im⟩ go back Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨im⟩ go"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Mount"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "and from dere"
+    },
+    {
+      "surface": "שב",
+      "gloss": "⟨im⟩ go back"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:00.453252427Z",
+  "model": "glm-5.2"
+}

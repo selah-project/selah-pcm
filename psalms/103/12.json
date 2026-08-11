@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "As far as east dey from west, ⟨im⟩ don put far from us ⟨את⟩ our transgressions.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "As far as"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "east"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "from west"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "⟨im⟩ don put far"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from us"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our transgressions"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "our transgressions"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:17.766402842Z",
+  "model": "glm-5.2"
+}

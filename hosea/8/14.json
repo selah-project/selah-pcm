@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yisra'el don forget ⟨את⟩ im Maker, and don build palaces; and Yehudah don plenty fortified cities — but I go send fire inside im cities and e go chop im citadels.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁכַּ֨ח",
+      "gloss": "and don forget"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֜ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im Maker"
+    },
+    {
+      "surface": "עֹשֵׂ֗הוּ",
+      "gloss": "im Maker"
+    },
+    {
+      "surface": "וַיִּ֨בֶן֙",
+      "gloss": "and don build"
+    },
+    {
+      "surface": "הֵֽיכָל֔וֹת",
+      "gloss": "palaces"
+    },
+    {
+      "surface": "וִֽיהוּדָ֕ה",
+      "gloss": "and Yehudah"
+    },
+    {
+      "surface": "הִרְבָּ֖ה",
+      "gloss": "don plenty"
+    },
+    {
+      "surface": "עָרִ֣ים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "בְּצֻר֑וֹת",
+      "gloss": "fortified"
+    },
+    {
+      "surface": "וְשִׁלַּחְתִּי",
+      "gloss": "but I go send"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בְּעָרָ֔יו",
+      "gloss": "inside im cities"
+    },
+    {
+      "surface": "וְאָכְלָ֖ה",
+      "gloss": "and e go chop"
+    },
+    {
+      "surface": "אַרְמְנֹתֶֽיהָ",
+      "gloss": "im citadels"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:52.741545269Z",
+  "model": "glm-5.2"
+}

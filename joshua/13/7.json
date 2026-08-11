@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "and now, divide ⟨את⟩ dis land as inheritance to di nine tribes and half of di tribe of Menashsheh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "divide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "as inheritance"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "to di nine"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "tribes"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half of"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "di tribe of"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashsheh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:22:20.999219415Z",
+  "model": "glm-5.2"
+}

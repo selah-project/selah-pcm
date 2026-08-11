@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Small small your servant go cross ⟨את⟩ Yardén, ⟨את⟩ di king, and why di king go repay me wit dis kind reward?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "small small"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "go cross"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "and why"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "go repay me"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "reward"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:25.981454353Z",
+  "model": "glm-5.2"
+}

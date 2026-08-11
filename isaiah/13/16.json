@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And dem go smash dia small-pickin before dia eye; dem go loot dia house, and dem go force dia women.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "and dia small-pickin"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "dem go smash"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "before dia eye"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "dem go loot"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "dia house"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "and dia women"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "dem go force dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:07.329003386Z",
+  "model": "glm-5.2"
+}

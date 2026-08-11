@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "You wey dey suffer, wey storm dey toss, wey nobody console — look! Na me go set your stones with pooku, and I go lay your foundation with sapphires.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "You wey dey suffer"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wey storm dey toss"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wey nobody"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "console"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look!"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "go set"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "with pooku"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "your stones"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "and I go lay your foundation"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "with sapphires"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:28.995821313Z",
+  "model": "glm-5.2"
+}

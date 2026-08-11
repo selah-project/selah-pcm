@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨he⟩ shepherd dem with di integrity of im heart, and with di skill of im hand dem ⟨he⟩ guide dem.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "and ⟨he⟩ shepherd dem"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "with di integrity"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "of im heart"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "and with di skill"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "of im hand dem"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "⟨he⟩ guide dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:22.302617255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And e come pass, as some days end, di wata-stream dry up, because rain no dey for di land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come pass"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "as … end"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "some days"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "dry up"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "di wata-stream"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "rain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:29.745155443Z",
+  "model": "glm-5.2"
+}

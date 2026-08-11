@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "And sons of foreigners go build una walls, and dia kings go serve you; because in ⟨my⟩ anger I bin strike you, but in ⟨my⟩ favor I show you mercy.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "And go build"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "of foreigners"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "una walls"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "and dia kings"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "go serve you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "in anger"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "I bin strike you"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "but in favor"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "I show you mercy"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:24.340167710Z",
+  "model": "glm-5.2"
+}

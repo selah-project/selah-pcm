@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And ⟨את⟩ ⟨di⟩ afflicted people, you go save; but your eye ⟨dey⟩ on di high one, to bring ⟨dem⟩ down.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "afflicted people"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "עני",
+      "gloss": "afflicted"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "you go save"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "but your eye"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "di high one"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "to bring down"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:37.398032317Z",
+  "model": "glm-5.2"
+}

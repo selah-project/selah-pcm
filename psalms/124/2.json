@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "if no be Yahweh wey ⟨bin be⟩ for us, when man stand up against us,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "if no be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wey bin be"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "when ⟨...⟩ stand up"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "against us"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:38.529815258Z",
+  "model": "glm-5.2"
+}

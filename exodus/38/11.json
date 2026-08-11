@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And for di side of north, one hundred for cubit; dia pillar dem twenty, and dia base dem twenty, bronze; di hook dem of di pillar dem and dia band dem, silver.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "and for di side of"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "north"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "dia pillar dem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "and dia base dem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronze"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "di hook dem"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "of di pillar dem"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "and dia band dem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:20.495735664Z",
+  "model": "glm-5.2"
+}

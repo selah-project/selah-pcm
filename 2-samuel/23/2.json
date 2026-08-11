@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Spirit of Yahweh bin speak through me, and im word ⟨dey⟩ on top my tongue.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Spirit of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "through me"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "and im word"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:01.402191001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Go, gather ⟨את⟩ di elders of Yisra'el together, and tell dem: 'Yahweh, Elohim of una papa-pipul, bin appear to me — Elohim of Avraham, Yitschaq, and Ya'aqov — sey ⟨e⟩ talk: \"I don surely visit una, and ⟨I done see⟩ ⟨את⟩ wetin dem do to una for Mitsrayim.\"'",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "and gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di elders of Yisra'el"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "elders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "of una papa-pipul"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "bin appear"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "of Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "and Ya'aqov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visit"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "I don visit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin dem do to una"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "wetin dem do"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:14.419676184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di person wey dey purify go wash ⟨את⟩ im clothes, and im go shave ⟨את⟩ all im hair, and im go wash for water, and im go be clean; and after dat im go enter inside di camp, and im go stay outside im tent seven days.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "and go wash"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "di person wey dey purify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im clothes"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im clothes"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "and im go shave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im hair"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "im hair"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "and im go wash"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "and im go be clean"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "im go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and im go stay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "im tent"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:26.741363083Z",
+  "model": "glm-5.2"
+}

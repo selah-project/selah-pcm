@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Because ⟨when⟩ e die e no go carry notin go; im glory no go come down behind am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "⟨when⟩ e die"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go carry"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "notin go"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "go come down"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "behind am"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "im glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:08.872374513Z",
+  "model": "glm-5.2"
+}

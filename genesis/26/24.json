@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 26:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And Yahweh show imself to am for dat night, and im talk, 'I ⟨na⟩ ⟨di⟩ Elohim of Avraham ya papa. No fear, because ⟨את⟩ me I dey with you, and I go bless you and I go multiply ⟨את⟩ ya seed because of Avraham my servant.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and ⟨Yahweh⟩ show imself"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for dat night"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨di⟩ Elohim of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya papa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "me (I dey with you)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "and I go bless you"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "and I go multiply"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya seed"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya seed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "because of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:23.455402579Z",
+  "model": "glm-5.2"
+}

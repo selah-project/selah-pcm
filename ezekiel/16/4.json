@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And as for your birthplace, for di day wey dem born ⟨את⟩ you, dem no cut your navel-string; and wit water dem no wash you for cleansing; and dem no rub salt on you ⟨at all⟩; and dem no swaddle you ⟨at all⟩.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "and as for your birthplace"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "wey dem born"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dem no"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "cut"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "your navel-string"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "and wit water"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dem no"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "wash you"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "for cleansing"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "and dem no rub salt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "rub salt on you"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "and dem no swaddle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "swaddle you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:49.472417319Z",
+  "model": "glm-5.2"
+}

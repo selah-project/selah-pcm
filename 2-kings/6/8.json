@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Now, di king of Aram bin dey fight against Yisrael, and e take advice wit im servants, dem talk sey, 'For dis-and-dat place my camp go dey.'",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "now, di king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "dey fight"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "against Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "and e take advice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem talk sey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "dis-and-dat"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "so-and-so"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "my camp go dey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:25.291737814Z",
+  "model": "glm-5.2"
+}

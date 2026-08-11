@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 9:25",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Shelomoh bin cause ⟨am⟩ to go up three times for di year — burnt offerings and peace offerings — on top di altar wey im build for Yahweh, and bin make incense go up ⟨with⟩ ⟨am⟩, wey dey in front of Yahweh — and im bin finish ⟨את⟩ di house.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "and bin cause to go up"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "burnt offerings"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "and peace offerings"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "im build"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "and bin make incense go up"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "am (wey dey refer to di incense wey dem burn together with di offerings on top di altar)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "and bin finish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:04.916288410Z",
+  "model": "glm-5.2"
+}

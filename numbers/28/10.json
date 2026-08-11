@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Burnt offering of Shabbat for im own Shabbat, on top ⟨di⟩ regular burnt offering and im drink offering.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "of Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "for im own Shabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top ⟨di⟩"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "burnt offering"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "regular"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "and im drink offering"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:02.068376342Z",
+  "model": "glm-5.2"
+}

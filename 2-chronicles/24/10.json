@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And all di leaders and all di people bin glad, and dem bring am and trow inside di chest, until dem finish.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "and dem bin glad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "di leaders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "and dem bring"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "and dem trow"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "inside di chest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "dem finish"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:03.971832510Z",
+  "model": "glm-5.2"
+}

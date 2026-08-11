@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Aharon and im sons go come when di camp dey move, and dem go bring down ⟨את⟩ di veil of di screen, and dem go cover am with am — ⟨את⟩ di ark of di testimony.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "and go come"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "when e dey move"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "and dem go bring down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di veil"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "veil"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "of di screen"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "and dem go cover"
+    },
+    {
+      "surface": "בה",
+      "gloss": "with am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "of di testimony"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:06.489146744Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And ⟨im⟩ talk sey, go ŋwa, Daniyel, because di word-dem dem don stop-am and dem don seal-am, until time of end.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go ŋwa"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "dem don stop-am"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "and dem don seal-am"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di word-dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "of end"
+    }
+  ],
+  "timestamp": "2026-08-11T13:44:06.822679500Z",
+  "model": "glm-5.2"
+}

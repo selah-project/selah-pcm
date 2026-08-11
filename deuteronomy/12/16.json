@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Only, di blood, make una no eat am — for di ground make una pour am, like water.",
+  "tokens": [
+    {
+      "surface": "רַק֥",
+      "gloss": "only"
+    },
+    {
+      "surface": "הַדָּ֖ם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תֹאכֵ֑לוּ",
+      "gloss": "make una eat"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "תִּשְׁפְּכֶ֖נּוּ",
+      "gloss": "make una pour am"
+    },
+    {
+      "surface": "כַּמָּֽיִם",
+      "gloss": "like water"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:25.826009338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "From di voice of ⟨di⟩ enemy, from di face of di trouble of ⟨di⟩ wicked one, because dem dey bring down trouble on top me, and for anger dem dey hate me.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "From di voice of"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "di trouble of"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked one"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "dem dey bring down"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "און",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "and for anger"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "dem dey hate me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:40.255943019Z",
+  "model": "glm-5.2"
+}

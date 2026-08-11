@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "So ⟨he⟩ catch up wit dem, and ⟨he⟩ yarn dem all dis words.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "so ⟨he⟩ catch up wit dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and ⟨he⟩ yarn"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis words"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "all ⟨di⟩ words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:52.617721456Z",
+  "model": "glm-5.2"
+}

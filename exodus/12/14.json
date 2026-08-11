@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And ⟨dis⟩ day go be for una as memorial, and una go celebrate ⟨את⟩ am as feast to Yahweh; for una generations — as everlasting statute, una go celebrate am.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨im go be⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "as memorial"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "and una go celebrate"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "חג",
+      "gloss": "feast"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "for una generations"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statute"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "una go celebrate am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:00.305066129Z",
+  "model": "glm-5.2"
+}

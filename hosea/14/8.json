@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Those wey dey siddon under im shadow dem go return; dem go make grain live, and dem go blossom like vine. im memorial go be like wine of Lebanon.",
+  "tokens": [
+    {
+      "surface": "יָשֻׁ֨בוּ֙",
+      "gloss": "dem go return"
+    },
+    {
+      "surface": "יֹשְׁבֵ֣י",
+      "gloss": "those wey dey siddon"
+    },
+    {
+      "surface": "בְצִלּ֔וֹ",
+      "gloss": "under im shadow"
+    },
+    {
+      "surface": "יְחַיּ֥וּ",
+      "gloss": "dem go make live"
+    },
+    {
+      "surface": "דָגָ֖ן",
+      "gloss": "grain"
+    },
+    {
+      "surface": "וְיִפְרְח֣וּ",
+      "gloss": "and dem go blossom"
+    },
+    {
+      "surface": "כַגָּ֑פֶן",
+      "gloss": "like vine"
+    },
+    {
+      "surface": "זִכְר֖וֹ",
+      "gloss": "im memorial"
+    },
+    {
+      "surface": "כְּיֵ֥ין",
+      "gloss": "like wine"
+    },
+    {
+      "surface": "לְבָנֽוֹן",
+      "gloss": "of Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:37.618352936Z",
+  "model": "glm-5.2"
+}

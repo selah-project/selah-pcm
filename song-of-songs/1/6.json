@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 1:6",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Make una no look me say I dey dark-well, say sun bin shine on me; sons of my mama dem burn anger against me, dem put me make I dey guard ⟨את⟩ di vineyards — my own vineyard I no guard.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "make una no"
+    },
+    {
+      "surface": "תִּרְא֫וּנִי",
+      "gloss": "look me"
+    },
+    {
+      "surface": "שֶׁאֲנִ֣י",
+      "gloss": "say I dey"
+    },
+    {
+      "surface": "שְׁחַרְחֹ֔רֶת",
+      "gloss": "dark-well"
+    },
+    {
+      "surface": "שֶׁשֱּׁזָפַ֖תְנִי",
+      "gloss": "say sun bin shine on me"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בְּנֵ֧י",
+      "gloss": "sons"
+    },
+    {
+      "surface": "אִמִּ֣י",
+      "gloss": "of my mama"
+    },
+    {
+      "surface": "נִֽחֲר֗וּ",
+      "gloss": "dem burn anger"
+    },
+    {
+      "surface": "בִ֗י",
+      "gloss": "against me"
+    },
+    {
+      "surface": "שָׂמֻ֨נִי֙",
+      "gloss": "dem put me"
+    },
+    {
+      "surface": "נֹטֵרָ֣ה",
+      "gloss": "make I dey guard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di vineyards"
+    },
+    {
+      "surface": "הַכְּרָמִ֔ים",
+      "gloss": "di vineyards"
+    },
+    {
+      "surface": "כַּרְמִ֥י",
+      "gloss": "my own vineyard"
+    },
+    {
+      "surface": "שֶׁלִּ֖י",
+      "gloss": "my own"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "I no"
+    },
+    {
+      "surface": "נָטָֽרְתִּי",
+      "gloss": "guard"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:46.593256181Z",
+  "model": "glm-5.2"
+}

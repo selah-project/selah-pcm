@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "son of Mikael, son of Baaseiah, son of Malkijah.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mikael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "Baaseiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Malkijah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:17.060312950Z",
+  "model": "glm-5.2"
+}

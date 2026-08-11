@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and ⟨e dey⟩ rule for mountain Chermon, and for Salkah, and for all Bashan, reach di boundary of di Geshuri and di Maakhati, and half of Gilad, boundary of Sichon, king of Cheshbon.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "and ⟨e dey⟩ rule"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for mountain"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "and for Salkah"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and for all"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "boundary"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "di Geshuri"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "and di Maakhati"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "of Gilad"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "boundary"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "of Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "of Cheshbon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:22:29.170711518Z",
+  "model": "glm-5.2"
+}

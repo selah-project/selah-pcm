@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "And ⟨dem⟩ give ⟨את⟩ di wicked people as im grave, and ⟨את⟩ rich man for im deaths; sake of wetin no violence im do, and no fraud dey inside im mouth.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨dem⟩ give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wicked people"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "im grave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "rich man"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich man"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "for im deaths"
+    },
+    {
+      "surface": "על",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im do"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fraud"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "for im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:47.705693560Z",
+  "model": "glm-5.2"
+}

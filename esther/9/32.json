@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di decree of Ester bin establish ⟨את⟩ di matters of Purim dis ones; and ⟨it⟩ bin write inside di book.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "and di decree"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "of Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "bin establish"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di matters"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "of Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis ones"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "and ⟨it⟩ bin write"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "inside di book"
+    }
+  ],
+  "timestamp": "2026-08-11T13:39:12.652848787Z",
+  "model": "glm-5.2"
+}

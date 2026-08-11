@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And I go make you ⟨את⟩ bear fruit well well, and I go give you for nations, and kings go come out from you.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "and I go make bear fruit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "for well"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "and I go give you"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "for nations"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "and kings"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "go come out"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:46.961521333Z",
+  "model": "glm-5.2"
+}

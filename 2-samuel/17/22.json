@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "So David stand up, and all di people wey ⟨be⟩ wit ⟨im⟩, and dem cross ⟨את⟩ Yarden, till day break, till not even one miss wey no cross ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "so e stand up"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wit ⟨im⟩",
+      "marks": "im (nearness preposition)"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "and dem cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "of morning"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "miss"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:10.106569394Z",
+  "model": "glm-5.2"
+}

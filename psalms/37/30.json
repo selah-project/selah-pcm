@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Mouth of righteous ⟨dey⟩ ponder wisdom, and im tongue go speak judgment.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "of righteous"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "⟨dey⟩ ponder"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "and im tongue"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "go speak"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:53.466270390Z",
+  "model": "glm-5.2"
+}

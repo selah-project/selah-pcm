@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Wisdom no dey call, and understanding no dey put ⟨im⟩ voice?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "dey call"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "and understanding"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dey put"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "⟨im⟩ voice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:48.870361797Z",
+  "model": "glm-5.2"
+}

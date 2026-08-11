@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and all di house of Achav go perish; and I go cut off for Achav any man wey dey piss against wall, both ⟨di⟩ confined one and ⟨di⟩ one wey dem leave, for Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "and go perish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "of Achav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "for Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "wey dey piss"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "against wall"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "both ⟨di⟩ confined one"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "and ⟨di⟩ one wey dem leave"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:57.055447387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "I go open my mouth with parable; I go pour out riddles from ancient time.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "I go open"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "with parable"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "I go pour out"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "riddles"
+    },
+    {
+      "surface": "מני",
+      "gloss": "from"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ancient time"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:57.102939346Z",
+  "model": "glm-5.2"
+}

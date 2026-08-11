@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Man wey dey mislead ⟨di⟩ papa wey dey straight inside evil road, na inside im own pit ⟨na⟩ im go fall; and ⟨di⟩ complete pipul go inherit good tin.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "dey mislead"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "papa wey dey straight"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "inside road"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "inside im own pit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "and complete pipul"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "go inherit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good tin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:23.374737549Z",
+  "model": "glm-5.2"
+}

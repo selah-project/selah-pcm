@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And ⟨He⟩ go give dia kings inside ya hand, and you go wipe out ⟨את⟩ dia name from under di heaven; no man go fit stand before ya face, until you destroy ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "and go give"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dia kings"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "inside ya hand"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "and you go wipe out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia name"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "dia name"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "go fit stand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "before ya face"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "you destroy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:11.973645290Z",
+  "model": "glm-5.2"
+}

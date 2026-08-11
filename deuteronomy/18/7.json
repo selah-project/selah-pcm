@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 18:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "then he go serve for di name of Yahweh im Elohim, like all im brothers di Levites, di ones wey dey stand there before Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְשֵׁרֵ֕ת",
+      "gloss": "then he go serve"
+    },
+    {
+      "surface": "בְּשֵׁ֖ם",
+      "gloss": "for di name of"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהָ֑יו",
+      "gloss": "im Elohim"
+    },
+    {
+      "surface": "כְּכָל",
+      "gloss": "like all"
+    },
+    {
+      "surface": "אֶחָיו֙",
+      "gloss": "im brothers"
+    },
+    {
+      "surface": "הַלְוִיִּ֔ם",
+      "gloss": "di Levites"
+    },
+    {
+      "surface": "הָעֹמְדִ֥ים",
+      "gloss": "di ones wey dey stand"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "there"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "before"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:14.610731771Z",
+  "model": "glm-5.2"
+}

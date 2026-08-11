@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Make you no fear, because I ⟨be⟩ ⟨את⟩ wit you; from east I go bring your seed, and from west I go gather you.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "make no"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "⟨את⟩",
+      "marks": "wit you"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מִמִּזְרָח",
+      "gloss": "from east"
+    },
+    {
+      "surface": "אָבִיא",
+      "gloss": "I go bring"
+    },
+    {
+      "surface": "זַרְעֶךָ",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "וּמִֽמַּעֲרָב",
+      "gloss": "and from west"
+    },
+    {
+      "surface": "אֲקַבְּצֶךָּ",
+      "gloss": "I go gather you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:14.788833345Z",
+  "model": "glm-5.2"
+}

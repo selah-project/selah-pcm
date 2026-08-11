@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "No body ⟨be⟩ like you among di elohim, Adonai, and no work ⟨be⟩ like your works.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "No body"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "like you"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "among di elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "like your works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:48.768607002Z",
+  "model": "glm-5.2"
+}

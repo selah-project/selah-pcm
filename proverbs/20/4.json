@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Because of cold, lazy-man no go plow; ⟨im⟩ go beg for harvest time, and notin go dey.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Because of cold"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lazy-man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "go plow"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "go beg"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "for harvest time"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and notin go dey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:55.337565330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh Elohim bin form ⟨את⟩ di man, dust from di ground, and e bin breathe inside im nose breath of life; and di man come be living being.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "and bin form"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "and bin breathe"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "inside im nose"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "breath"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "of life"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "⟨to⟩ living being"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "living"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:06.862414701Z",
+  "model": "glm-5.2"
+}

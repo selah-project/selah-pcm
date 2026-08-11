@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 80,
+  "translation": "Grapevine from Mitsrayim you carry, you drive out goyim and you plant ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "grapevine"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "you carry"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "you drive out"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goyim"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "and you plant am",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.821946716Z",
+  "model": "glm-5.2"
+}

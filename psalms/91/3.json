@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "Because ⟨na⟩ ⟨im⟩ go snatch you from trap of bird-hunter, and from destruction wey dey kill.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "go snatch you"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "from trap"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "of bird-hunter"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "and from destruction"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wey dey kill"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:50.926677088Z",
+  "model": "glm-5.2"
+}

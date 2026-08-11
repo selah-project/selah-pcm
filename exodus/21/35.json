@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And if cow of man strike ⟨את⟩ cow of im neighbor and e die, dem go sell ⟨את⟩ di live cow and dem go share ⟨את⟩ im silver; and dem go also share ⟨את⟩ di dead one.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "strike"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cow"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "of im neighbor"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and e die"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "dem go sell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di live cow"
+    },
+    {
+      "surface": "השור",
+      "gloss": "di cow"
+    },
+    {
+      "surface": "החי",
+      "gloss": "live"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "and dem go share"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im silver"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "im silver"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dead one"
+    },
+    {
+      "surface": "המת",
+      "gloss": "di dead one"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "dem go share"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:43.092728764Z",
+  "model": "glm-5.2"
+}

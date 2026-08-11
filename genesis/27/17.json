@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And she bin give ⟨את⟩ di sweet food and ⟨את⟩ di bread wey she bin make, enter hand of Ya'akov im son.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "and she bin give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sweet food"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "di sweet food"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di bread"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "di bread"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "she bin make"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "enter hand of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:22.452262085Z",
+  "model": "glm-5.2"
+}

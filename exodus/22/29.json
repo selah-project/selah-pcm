@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Na so you go do for your cow, for your sheep — seven days e go siddon with im mama; for di eighth day, you go give ⟨am⟩ to Me.",
+  "tokens": [
+    {
+      "surface": "כֵּֽן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "לְשֹׁרְךָ֖",
+      "gloss": "for your cow"
+    },
+    {
+      "surface": "לְצֹאנֶ֑ךָ",
+      "gloss": "for your sheep"
+    },
+    {
+      "surface": "שִׁבְעַ֤ת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "יָמִים֙",
+      "gloss": "days"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "e go siddon"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אִמּ֔וֹ",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "בַּיּ֥וֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הַשְּׁמִינִ֖י",
+      "gloss": "di eighth ⟨one⟩"
+    },
+    {
+      "surface": "תִּתְּנוֹ",
+      "gloss": "you go give ⟨am⟩"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "to Me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:49.305116376Z",
+  "model": "glm-5.2"
+}

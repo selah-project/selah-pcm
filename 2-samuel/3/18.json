@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So now, do am, because Yahweh don talk to Davidi sey: 'By di hand of Davidi my servant, ⟨I go⟩ save ⟨את⟩ my people Yisrael from di hand of di Pelishtim, and from di hand of all dia enemies.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by di hand of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "⟨I go⟩ save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Pelishtim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "and from di hand of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dia enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:02.511087991Z",
+  "model": "glm-5.2"
+}

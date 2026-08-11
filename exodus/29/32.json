@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Aharon and im sons go chop ⟨את⟩ di flesh of di ram and ⟨את⟩ di bread wey dey inside di basket, for di entrance of ⟨di⟩ tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "and go chop"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di flesh of di ram"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "of di ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di bread"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "di bread"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "dey inside di basket"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:25.178338164Z",
+  "model": "glm-5.2"
+}

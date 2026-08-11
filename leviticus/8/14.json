@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bring near ⟨את⟩ di bullock of di sin-offering, and Aharon and im sons lay ⟨את⟩ dia hands on top di head of di bullock of di sin-offering.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "and e bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bullock"
+    },
+    {
+      "surface": "פר",
+      "gloss": "di bullock"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "of di sin-offering"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "and dey lay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hands"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hands"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "פר",
+      "gloss": "of di bullock"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "of di sin-offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:53.152989269Z",
+  "model": "glm-5.2"
+}

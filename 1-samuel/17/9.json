@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "If ⟨he⟩ fit fight wit me and ⟨he⟩ strike me, we go be ⟨as⟩ servants for una; but if I fit am and I strike am, una go be ⟨as⟩ servants for us, and una go serve us.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "⟨he⟩ fit"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "fight"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "and strike me"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "we go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "⟨as⟩ servants"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "but if"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "and I strike am"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "una go be"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "⟨as⟩ servants"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "and una go serve"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:03.079421938Z",
+  "model": "glm-5.2"
+}

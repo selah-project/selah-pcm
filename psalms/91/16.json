@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "With long life I go satisfy am, and I go show am my salvation.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "long"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "life"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "I go satisfy am"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "and I go show am"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "my salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:26.794367445Z",
+  "model": "glm-5.2"
+}

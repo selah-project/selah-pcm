@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "So I go carry ⟨את⟩ una go exile beyond Damasek, sey Yahweh — im name na Elohim of Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וְהִגְלֵיתִ֥י",
+      "gloss": "so I go carry go exile"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מֵהָ֣לְאָה",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "לְדַמָּ֑שֶׂק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "אָמַ֛ר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵֽי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שְׁמֽוֹ",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:41.458307890Z",
+  "model": "glm-5.2"
+}

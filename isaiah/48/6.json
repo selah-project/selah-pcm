@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 48:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "You don hear; see all ⟨of⟩ am; and una, una no go declare am? I make you hear new tings from now, tings wey dem keep hidden, and you no know dem.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "you don hear"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "all"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "declare"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "I make you hear"
+    },
+    {
+      "surface": "חדשות",
+      "gloss": "new tings"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "from now"
+    },
+    {
+      "surface": "ונצרות",
+      "gloss": "tings wey dem keep hidden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and you no"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "know"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:44.095650787Z",
+  "model": "glm-5.2"
+}

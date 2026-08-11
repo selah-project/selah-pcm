@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Dem dey give drink to all di animal dem of di field; wild ass dem dey break dia thirst.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "dem dey give drink"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "di animal dem of"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di field"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dem dey break"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "wild ass dem"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "dia thirst"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:39.978989382Z",
+  "model": "glm-5.2"
+}

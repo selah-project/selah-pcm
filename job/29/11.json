@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Bikos ear bin hear, and e bless me; and eye bin see, and e bear witness for me.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Bikos"
+    },
+    {
+      "surface": "אֹזֶן",
+      "gloss": "ear"
+    },
+    {
+      "surface": "שָׁמְעָה",
+      "gloss": "bin hear"
+    },
+    {
+      "surface": "וַתְאַשְּׁרֵנִי",
+      "gloss": "and e bless me"
+    },
+    {
+      "surface": "וְעַיִן",
+      "gloss": "and eye"
+    },
+    {
+      "surface": "רָאֲתָה",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "וַתְעִידֵנִי",
+      "gloss": "and e bear witness for me"
+    }
+  ],
+  "timestamp": "2026-08-11T15:00:03.403502496Z",
+  "model": "glm-5.2"
+}

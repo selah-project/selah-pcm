@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And I, even I, go make desolate ⟨את⟩ di land, and una enemies wey dey live inside am go dey appalled on top am.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "and I go make desolate"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I, even I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "and dem go dey appalled"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:53.917687162Z",
+  "model": "glm-5.2"
+}

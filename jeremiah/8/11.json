@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And dem dey treat di wound of my people daughter small-small, dem dey talk sey, 'Peace, peace,' but peace no dey.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "And dem dey treat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wound"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "di wound"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "על",
+      "gloss": "with"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "small-small"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem dey talk sey"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Peace"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "but no dey"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    }
+  ],
+  "timestamp": "2026-08-11T11:43:26.890382851Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Yarobeam bin build ⟨את⟩ Shekhem for inside di mountain of Efrayim, and e bin siddon for am; and e komot from dia, and e bin build ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for inside di mountain"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin siddon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and komot"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dia"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:25.100093715Z",
+  "model": "glm-5.2"
+}

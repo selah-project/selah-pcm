@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "As dem come down from di high place enter di city, ⟨he⟩ come talk wit Shaul on top di roof.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "as dem come down"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "from di high place"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨enter⟩ di city"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "⟨he⟩ come talk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "di roof"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:08.636402909Z",
+  "model": "glm-5.2"
+}

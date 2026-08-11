@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Like apple-tree among trees of di forest, so my beloved ⟨be⟩ among young men. Under im shadow I desire, and I sit down, and im fruit sweet to my palate.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "like apple-tree"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "among trees of"
+    },
+    {
+      "surface": "היער",
+      "gloss": "di forest"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my beloved"
+    },
+    {
+      "surface": "בין",
+      "gloss": "among"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "young men"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "under im shadow"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "I desire"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "and I sit down"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "and im fruit"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "to my palate"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:39.599158098Z",
+  "model": "glm-5.2"
+}

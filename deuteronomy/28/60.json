@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "and ⟨he⟩ go bring back upon you ⟨את⟩ all di sickness of Mitsrayim wey you dey fear from dia face, and dem go stick to you.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "and go bring back"
+    },
+    {
+      "surface": "בך",
+      "gloss": "upon you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di sickness of Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "di sickness"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "you dey fear"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "from dia face"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "and dem go stick"
+    },
+    {
+      "surface": "בך",
+      "gloss": "to you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:29.992754207Z",
+  "model": "glm-5.2"
+}

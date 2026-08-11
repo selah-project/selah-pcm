@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Yahweh talk sey, Who go entice ⟨את⟩ Ach'av, make im go up and fall for Ramot-Gil'ad? And one talk like dis, and di oda one talk like dis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "go entice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ach'av"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ach'av"
+    },
+    {
+      "surface": "וראל",
+      "gloss": "make im go up"
+    },
+    {
+      "surface": "ורפל",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "for Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "one"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "and di oda one"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "like dis"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:49.722888966Z",
+  "model": "glm-5.2"
+}

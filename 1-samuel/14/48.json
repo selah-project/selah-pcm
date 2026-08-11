@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e bin do mighty deed, and bin strike ⟨את⟩ Amalek, and bin deliver ⟨את⟩ Yisrael from di hand of di one wey dey plunder dem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and bin do"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mighty deed"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "and bin deliver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand of"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "di one wey dey plunder dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:01.620965587Z",
+  "model": "glm-5.2"
+}

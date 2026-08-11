@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨there bin get⟩ dose wey dey talk sey, \"We don borrow silver for di king tax — ⟨on top of⟩ our farm-land and our vineyard.\"",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "and ⟨there bin get⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dem dey talk"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "we don borrow"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "for di tax"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "our farm-land"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "and our vineyard"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:41.306647468Z",
+  "model": "glm-5.2"
+}

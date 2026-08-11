@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Like wetin dem dey do for ⟨di⟩ land of Mitsrayim wey una bin dey live, una no go do ⟨am⟩; and like wetin dem dey do for ⟨di⟩ land of Kena'an wey ⟨Me⟩ dey carry ⟨את⟩ una go dia, una no go do ⟨am⟩; and for dia custom-dem una no go waka.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Like wetin dem dey do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "una bin dey live"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for ⟨am⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "and like wetin dem dey do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Me⟩"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "dey carry"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "go dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "and for dia custom-dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "una go waka"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:38.493712137Z",
+  "model": "glm-5.2"
+}

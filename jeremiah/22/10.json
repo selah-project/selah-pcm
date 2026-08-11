@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make una no cry for dead ⟨man⟩, and make una no shake head for am; cry well-well for di one wey dey go, because im no go return again, and im go no ⟨again⟩ see ⟨את⟩ di land of im birthplace.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make (una) no"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "cry"
+    },
+    {
+      "surface": "למת",
+      "gloss": "for dead (man)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make (una) no"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "shake head"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "cry"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "cry"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "for di one wey dey go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "(im) go return"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and (im go) see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "of im birthplace"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:35.005682918Z",
+  "model": "glm-5.2"
+}

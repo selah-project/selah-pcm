@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Ha-El wey dey gird me wit strength, and ⟨im⟩ make my way perfect.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ha-El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "wey dey gird me"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wit strength"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨im⟩ make"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "perfect"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my way"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:04.777125453Z",
+  "model": "glm-5.2"
+}

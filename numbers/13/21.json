@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So dem go up, and dem spy ⟨את⟩ di land, from wilderness of Tsin reach Rechob, ⟨as⟩ ⟨you⟩ go enter Chamath.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "so dem go up"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "and dem spy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "from wilderness of"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "to enter"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:50.797771026Z",
+  "model": "glm-5.2"
+}

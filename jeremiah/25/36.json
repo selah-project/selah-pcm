@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Sound of di cry of di shepherd dem, and howling of di mighty one dem of di flock! Because Yahweh dey destroy ⟨את⟩ dia pasture.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "of di cry"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "of di shepherd dem"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "and howling"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "of di mighty one dem"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "of di flock"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dey destroy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia pasture"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "dia pasture"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:44.980476369Z",
+  "model": "glm-5.2"
+}

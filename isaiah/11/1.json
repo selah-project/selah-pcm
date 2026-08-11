@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And one go come out, one shoot from di stump of Yishai, and one branch from im roots go bear fruit.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and one go come out"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "one shoot"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "from di stump"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "of Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "and one branch"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "from im roots"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "go bear fruit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:50.335656397Z",
+  "model": "glm-5.2"
+}

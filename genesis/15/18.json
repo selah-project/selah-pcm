@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "For dat day, Yahweh bin cut ⟨את⟩ covenant with Avram, ⟨to⟩ talk sey: 'To your seed I don give ⟨את⟩ dis land, from river of Mitsrayim reach di big river, river Perat.'",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "bin cut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "covenant"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "with Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk sey"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "to your seed"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "from river"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "di river"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "di big"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "river"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:56.907095114Z",
+  "model": "glm-5.2"
+}

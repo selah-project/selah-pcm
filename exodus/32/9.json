@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Yahweh bin tell Mosheh: \"I don see ⟨את⟩ dis people, and see oh, na people wey neck hard dem ⟨be⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I don see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see oh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "neck"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dem ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T15:48:52.799523229Z",
+  "model": "glm-5.2"
+}

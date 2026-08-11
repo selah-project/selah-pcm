@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "dem come gather demsef together, to go fight with Yehoshua and with Yisraʾel — one mouth.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "dem come gather together"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "to go fight"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and with"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:56.190915028Z",
+  "model": "glm-5.2"
+}

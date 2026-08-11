@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Comot from di ark, you and your wife, and your son-dem and your son-dem dem wife-dem ⟨with⟩ you.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Comot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "and your wife"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "and your son-dem"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "and dem wife-dem"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "your son-dem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:01.257863713Z",
+  "model": "glm-5.2"
+}

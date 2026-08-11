@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "You love justice and you hate wickedness; because of dat, Elohim, your Elohim, don anoint you wit oil of joy pass your companion dem.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "you love"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "and you hate"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "על",
+      "gloss": "on account of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "don anoint you"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wit oil"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "of joy"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "pass your companion dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:13.490157375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "I no know; my soul bin set me ⟨for⟩ ⟨di⟩ chariot-dem of my people, di noble one.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my soul"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "bin set me"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "chariot-dem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "di noble one"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:02.087205968Z",
+  "model": "glm-5.2"
+}

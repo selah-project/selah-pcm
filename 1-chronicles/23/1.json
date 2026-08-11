@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So Dawid bin don old and don full of days, and e make Shelomoh im pikin king on top Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "So Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bin don old"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and don full"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "of days"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and e make king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:03.015984977Z",
+  "model": "glm-5.2"
+}

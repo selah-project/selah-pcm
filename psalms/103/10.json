@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "E no do us according to our sins, and E no pay us back according to our wrongdoing.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "according to our sins"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "E do"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "according to our wrongdoing"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "E pay back"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "on top us"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.786536115Z",
+  "model": "claude-opus-4-8"
+}

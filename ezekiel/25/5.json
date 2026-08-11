@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And I go give ⟨את⟩ Rabbah as place wey camel dem dey stay, and ⟨את⟩ di pikin dem of Ammon as place wey sheep dem dey lie down; and una go know sey na me ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "as place wey dem dey stay"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "camel dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "as place wey dem dey lie down"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep dem"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "and una go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:49.013976647Z",
+  "model": "glm-5.2"
+}

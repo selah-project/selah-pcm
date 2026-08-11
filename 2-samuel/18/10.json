@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And one man bin see ⟨את⟩ Avshalom, and bin tell Yoav, and e talk say, Look, I see ⟨את⟩ Avshalom dey hang for di terebinth.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "dey hang"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "for di terebinth"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:29.612031433Z",
+  "model": "glm-5.2"
+}

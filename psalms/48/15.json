@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Because dis one ⟨na⟩ Elohim, ⟨im na⟩ our Elohim, forever and ever; na Im go lead us beyond death.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and ever"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na Im"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "go lead us"
+    },
+    {
+      "surface": "על",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:19.808021956Z",
+  "model": "glm-5.2"
+}

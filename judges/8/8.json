@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im go up from dere go Peniel, and im tok to dem di same tin; and di men of Penuel anser ⟨את⟩ am di way wey di men of Sukot bin anser.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "And im go up"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Peniel"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and im tok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "di same tin"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "and dem anser"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ am",
+      "marks": "di men of Peniel"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Peniel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "di way wey"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "bin anser"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:25.251268214Z",
+  "model": "glm-5.2"
+}

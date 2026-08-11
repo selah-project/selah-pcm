@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Feast of Sukkot you go do for seven days, wen you don gather from ⟨your⟩ threshing-floor and from ⟨your⟩ winepress.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "feast"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "of Sukkot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for ⟨yourself⟩"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "wen you don gather"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "from ⟨your⟩ threshing-floor"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "and from ⟨your⟩ winepress"
+    }
+  ],
+  "timestamp": "2026-08-11T10:10:37.664658824Z",
+  "model": "glm-5.2"
+}

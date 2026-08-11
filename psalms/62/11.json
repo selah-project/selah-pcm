@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "No trust for oppression, and for robbery no dey vain; if wealth dey grow, no put ⟨una⟩ heart.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "trust"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "for oppression"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "and for robbery"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "dey vain"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "dey grow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "put"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:46.376602776Z",
+  "model": "glm-5.2"
+}

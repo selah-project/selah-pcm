@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 40:23",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And ⟨na⟩ gate for di inner court ⟨bin dey⟩ opposite di gate of di north and of di east; and ⟨he⟩ measure from gate to gate: one hundred cubit.",
+  "tokens": [
+    {
+      "surface": "ושער",
+      "gloss": "and ⟨na⟩ gate"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "for di court"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "di inner"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "השער",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "of di north"
+    },
+    {
+      "surface": "ולקדים",
+      "gloss": "and of di east"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "and ⟨he⟩ measure"
+    },
+    {
+      "surface": "משער",
+      "gloss": "from gate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gate"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:47.245997852Z",
+  "model": "glm-5.2"
+}

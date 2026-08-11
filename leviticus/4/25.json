@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di priest go take from di blood of di sin offering wit im finger, and put am on top di horns of di altar of burnt offering, and ⟨את⟩ im blood e go pour out near di foundation of di altar of burnt offering.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "from di blood"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "of di sin offering"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "wit im finger"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "di horns"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "of altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of burnt offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im blood"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "e go pour out"
+    },
+    {
+      "surface": "אל",
+      "gloss": "near"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "foundation"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "of altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of burnt offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:05.406893787Z",
+  "model": "glm-5.2"
+}

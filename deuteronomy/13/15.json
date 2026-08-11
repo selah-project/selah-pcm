@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "den make you find out well, make you search well, make you ask well; and if ⟨na⟩ true, di matter don stand confirmed, sey dis tin wey dey disgusting don dey done among you —",
+  "tokens": [
+    {
+      "surface": "וְדָרַשְׁתָּ֧",
+      "gloss": "den make you find out"
+    },
+    {
+      "surface": "וְחָקַרְתָּ֧",
+      "gloss": "make you search"
+    },
+    {
+      "surface": "וְשָׁאַלְתָּ֖",
+      "gloss": "make you ask"
+    },
+    {
+      "surface": "הֵיטֵ֑ב",
+      "gloss": "well"
+    },
+    {
+      "surface": "וְהִנֵּ֤ה",
+      "gloss": "and if"
+    },
+    {
+      "surface": "אֱמֶת֙",
+      "gloss": "true"
+    },
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "don stand confirmed"
+    },
+    {
+      "surface": "הַדָּבָ֔ר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "נֶעֶשְׂתָ֛ה",
+      "gloss": "don dey done"
+    },
+    {
+      "surface": "הַתּוֹעֵבָ֥ה",
+      "gloss": "di tin wey dey disgusting"
+    },
+    {
+      "surface": "הַזֹּ֖את",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בְּקִרְבֶּֽךָ",
+      "gloss": "among you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:44.396640088Z",
+  "model": "glm-5.2"
+}

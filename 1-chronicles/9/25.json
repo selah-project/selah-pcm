@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dia broda dem, for dia village dem, bin dey come for seven day dem, from time go reach time, wit dis dem.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "And dia broda dem"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "for dia village dem"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bin dey come"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "for seven"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "day dem"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "from time"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:06.908746792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And e come to pass, when David bin dey ⟨את⟩ ⟨with⟩ ⟨את⟩ Edom, as Yoav wey be chief of di army bin dey go up to bury ⟨את⟩ di dead body-dem, e come strike down all male for Edom.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בִּהְיוֹת",
+      "gloss": "when"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩ ⟨with⟩"
+    },
+    {
+      "surface": "אֱדוֹם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בַּעֲלוֹת",
+      "gloss": "as ⟨im⟩ bin dey go up"
+    },
+    {
+      "surface": "יוֹאָב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שַׂר",
+      "gloss": "chief"
+    },
+    {
+      "surface": "הַצָּבָא",
+      "gloss": "of di army"
+    },
+    {
+      "surface": "לִקְבֵּר",
+      "gloss": "to bury"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "di dead body-dem"
+    },
+    {
+      "surface": "הַחֲלָלִים",
+      "gloss": "di dead body-dem"
+    },
+    {
+      "surface": "וַיַּךְ",
+      "gloss": "e come strike down"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "male"
+    },
+    {
+      "surface": "בֶּאֱדוֹם",
+      "gloss": "for Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:44.268971934Z",
+  "model": "glm-5.2"
+}

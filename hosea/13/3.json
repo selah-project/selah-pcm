@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Because of dat, dem go be like morning cloud and like early dew wey dey go away, like chaff wey whirlwind dey blow comot from threshing-floor, and like smoke from window.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Because of dat"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "like cloud"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "and like dew"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "early"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wey dey go away"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "like chaff"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "wey whirlwind dey blow"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "comot from threshing-floor"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "and like smoke"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "from window"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:03.615717746Z",
+  "model": "glm-5.2"
+}

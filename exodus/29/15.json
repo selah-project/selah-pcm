@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And ⟨את⟩ di one ram you go take, and Aharon and im son-dem go lean ⟨את⟩ dia hand-dem on top di head of di ram.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di one ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "and dem go lean"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im son-dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hand-dem"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand-dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "of di ram"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:01.666529108Z",
+  "model": "glm-5.2"
+}

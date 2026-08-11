@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Sound of whip, and sound of wheel rumbling, and horse dey gallop, and chariot dey bounce",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sound of"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "whip"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and sound of"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "rumbling"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "wheel"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "and horse"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "dey gallop"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "and chariot"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "dey bounce"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:23.721616807Z",
+  "model": "glm-5.2"
+}

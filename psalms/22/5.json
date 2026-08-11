@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "For inside you, our papa-papa dem trust; dem trust, and you deliver dem.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "for inside you"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "dem trust"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "our papa-papa dem"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "dem trust"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "and you deliver dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:23.522710004Z",
+  "model": "glm-5.2"
+}

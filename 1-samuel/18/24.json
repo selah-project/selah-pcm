@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Shaul servants tell am sey, 'Na like dis kind words Dawid take talk.'",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "like dis kind words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:58.989487119Z",
+  "model": "glm-5.2"
+}

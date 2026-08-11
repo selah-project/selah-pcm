@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Yahweh una Elohim, wey dey waka before una, na ⟨im⟩ go fight for una, according to all wetin ⟨im⟩ do ⟨את⟩ una for Mitsrayim before una eye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wey dey waka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "go fight"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨im⟩ do"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "before una eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:20.907166906Z",
+  "model": "glm-5.2"
+}

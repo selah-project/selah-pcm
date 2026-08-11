@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And e bin join ⟨את⟩ di five curtain dem, one to one; and five curtain dem e bin join, one to one.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "and e bin join"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di five curtain dem"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "e bin join"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:27.050379216Z",
+  "model": "glm-5.2"
+}

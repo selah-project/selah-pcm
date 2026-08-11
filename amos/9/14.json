@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 9:14",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And I go bring back ⟨את⟩ di captivity of my people Yisrael, and dem go build cities wey dem don destroy, and dem go siddon inside; and dem go plant vineyards, and dem go drink ⟨את⟩ dia wine; and dem go make gardens, and dem go chop ⟨את⟩ dia fruit.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "And I go bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captivity"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "captivity"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "and dem go build"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "wey dem don destroy"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and dem go siddon"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "and dem go plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vineyards"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "and dem go drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia wine"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "dia wine"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "and dem go make"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "gardens"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "and dem go chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia fruit"
+    },
+    {
+      "surface": "פריהם",
+      "gloss": "dia fruit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:38.188428250Z",
+  "model": "glm-5.2"
+}

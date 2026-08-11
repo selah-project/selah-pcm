@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "You bin cut short di days of im youth; you bin cover am ⟨with⟩ shame. Selah.",
+  "tokens": [
+    {
+      "surface": "הִ֭קְצַרְתָּ",
+      "gloss": "you bin cut short"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "di days of"
+    },
+    {
+      "surface": "עֲלוּמָ֑יו",
+      "gloss": "im youth"
+    },
+    {
+      "surface": "הֶֽעֱטִ֨יתָ",
+      "gloss": "you bin cover"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בּוּשָׁ֣ה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:03.262018955Z",
+  "model": "glm-5.2"
+}

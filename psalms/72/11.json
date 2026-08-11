@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "And all kings go bow down to am; all nations go serve am.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "and go bow down"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "go serve am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:01.436691869Z",
+  "model": "glm-5.2"
+}

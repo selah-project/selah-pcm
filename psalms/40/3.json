@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And ⟨he⟩ carry me comot from di pit of roar, from di mud of swamp, and ⟨he⟩ stand my leg on top rock, ⟨he⟩ make my step solid.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "and ⟨he⟩ carry me comot"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "from di pit"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "of roar"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "from di mud"
+    },
+    {
+      "surface": "היון",
+      "gloss": "of swamp"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and ⟨he⟩ stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "rock"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my leg"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "⟨he⟩ make solid"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "my step"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:29.286451440Z",
+  "model": "glm-5.2"
+}

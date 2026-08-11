@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin call ⟨You⟩ wit all my heart — answer me, Yahweh; I go guard ⟨Your⟩ statutes.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "I bin call"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לב",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Your statutes"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "I go guard"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938332540Z",
+  "model": "glm-5.2"
+}

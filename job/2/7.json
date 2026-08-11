@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So ha-satan comot from ⟨את⟩ di front of Yahweh, and e strike ⟨את⟩ Iyyov wit bad sore, from di sole of im foot reach di crown of im head.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "So comot"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "di front"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di front"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "wit sore"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "from di sole"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "of im foot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "di crown of im head"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:43.095867363Z",
+  "model": "glm-5.2"
+}

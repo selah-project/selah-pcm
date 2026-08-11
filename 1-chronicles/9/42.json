@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Ahaz father ⟨את⟩ Jarah, and Jarah father ⟨את⟩ Alemeth and ⟨את⟩ Azmaveth and ⟨את⟩ Zimri, and Zimri father ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "and Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "and Jarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Azmaveth"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "and Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:44.862247440Z",
+  "model": "glm-5.2"
+}

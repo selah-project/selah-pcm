@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "«But ⟨na⟩ me go also judge ⟨את⟩ di nation wey dem go serve; after dat one, dem go komot wit big wealth.»",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "But also"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di nation"
+    },
+    {
+      "surface": "הַגּוֹי",
+      "gloss": "di nation"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יַעֲבֹדוּ",
+      "gloss": "dem go serve"
+    },
+    {
+      "surface": "דָּן",
+      "gloss": "go judge"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "⟨na⟩ me"
+    },
+    {
+      "surface": "וְאַחֲרֵי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כֵן",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "יֵצְאוּ",
+      "gloss": "dem go komot"
+    },
+    {
+      "surface": "בִּרְכֻשׁ",
+      "gloss": "wit wealth"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "big"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:12.601990700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And you go make ⟨את⟩ di boards for di Mishkan, wood of acacia, ⟨dem⟩ dey stand.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di boards"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "di boards"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "for di Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "⟨dem⟩ dey stand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:26.682128030Z",
+  "model": "glm-5.2"
+}

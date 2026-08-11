@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 121,
+  "translation": "Yahweh ⟨na⟩ ⟨im⟩ wey dey guard you, Yahweh ⟨na⟩ ⟨im⟩ wey dey shield you, upon your right hand side.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "dey guard you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "dey shield you"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "your right side"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:52.051862210Z",
+  "model": "glm-5.2"
+}

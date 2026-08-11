@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "⟨Di⟩ pikin-dem of Ham: Kush, and Mitsrayim, Put, and Kena'an.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "and Mitsrayim"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "and Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:41.249301300Z",
+  "model": "glm-5.2"
+}

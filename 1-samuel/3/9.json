@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 3:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Eli bin tell Shemuël, \"Go, lie down; and e go be sey if e call you, you go talk, 'Talk, Yahweh, for your servant dey listen.'\" So Shemuël bin go and bin lie down for im place.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "to Shemuël"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "e call"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "you"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dey listen"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "bin lie down"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:31.557562741Z",
+  "model": "glm-5.2"
+}

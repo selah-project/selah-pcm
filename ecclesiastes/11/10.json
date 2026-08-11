@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So comot worry from your heart, and make bad tin pass away from your body; because childhood and di black-hair time ⟨na⟩ vanity.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "and comot"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "worry"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "from your heart"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "and make pass away"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "from your body"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "childhood"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "and di black-hair time"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:59.273960673Z",
+  "model": "glm-5.2"
+}

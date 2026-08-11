@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Make una no round di corner of una head, and make una no spoil ⟨את⟩ di corner of ya beard.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "make una round"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "corner"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "una head"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "make una spoil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di corner of ya beard"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "corner"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ya beard"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:47.080563548Z",
+  "model": "glm-5.2"
+}

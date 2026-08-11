@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "and di priest go check ⟨את⟩ di plague, and if im appearance deep pass di skin, and inside am ⟨get⟩ yellow thin hair, den di priest go declare am unclean; na neteq — na leprosy of di head or of di beard.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and go check"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plague"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "di plague"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and if"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "im appearance"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "deep"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pass"
+    },
+    {
+      "surface": "העור",
+      "gloss": "di skin"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "and inside am"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hair"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "yellow"
+    },
+    {
+      "surface": "דק",
+      "gloss": "thin"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "and go declare unclean"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "di priest"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "leprosy"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "of di head"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "of di beard"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:11.061848743Z",
+  "model": "glm-5.2"
+}

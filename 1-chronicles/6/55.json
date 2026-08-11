@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and from half of di tribe of Menashsheh: ⟨את⟩ Aner and ⟨את⟩ im grazing-land, and ⟨את⟩ Bilam and ⟨את⟩ im grazing-land, for di clan of di sons of Kehath, di ones wey remain.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "and from half"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aner"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im grazing-land"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im grazing-land"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "for di clan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di sons"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "di ones wey remain"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:22.560341216Z",
+  "model": "glm-5.2"
+}

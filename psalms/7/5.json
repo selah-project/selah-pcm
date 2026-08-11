@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "If I bin repay di one wey dey at peace wit me wit evil, and I bin rescue ⟨di one wey dey⟩ trouble me without cause—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "I bin repay"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "di one wey dey at peace wit me"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wit evil"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "and I bin rescue"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "di one wey dey trouble me"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "without cause"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:55.590284178Z",
+  "model": "glm-5.2"
+}

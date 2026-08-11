@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yitro, father-in-law of Moshe, bin take ⟨את⟩ Tzipporah, wife of Moshe, after im send ⟨am⟩ away.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "father-in-law"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "after"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "im send ⟨am⟩ away"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:14.867809940Z",
+  "model": "glm-5.2"
+}

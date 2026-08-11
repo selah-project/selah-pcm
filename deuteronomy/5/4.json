@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Face to face Yahweh don talk wit una for di mountain, from inside di fire.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "to face"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "wit una"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:02.893229616Z",
+  "model": "glm-5.2"
+}

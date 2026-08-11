@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make my heart dey complete inside yor statutes, so dat I no go shame.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "make e dey"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "complete"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "inside yor statutes"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "I go shame"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:21.204634303Z",
+  "model": "glm-5.2"
+}

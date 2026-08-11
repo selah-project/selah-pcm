@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "E come talk sey, \"No be me spoil Yisra'el, na you and your papa house, because una abandon ⟨את⟩ di mitzvot of Yahweh and una dey follow di Baalim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ... talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "I spoil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨rather⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and ... house"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "of your papa"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "as una abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mitzvot"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "di mitzvot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "and ... dey follow"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "di Baalim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:26.969109527Z",
+  "model": "glm-5.2"
+}

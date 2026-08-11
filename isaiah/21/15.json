@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Because of di face of sword-dem dem run, because of di face of drawn sword, and because of di face of bent bow, and because of di face of heavy warfare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "of di face of"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sword-dem"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "dem run"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "of di face of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "drawn"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "and of di face of"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bow"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "bent"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "and of di face of"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "warfare"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:39.609646353Z",
+  "model": "glm-5.2"
+}

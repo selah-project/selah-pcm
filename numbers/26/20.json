@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And di son dem of Yehudah bin come ⟨to⟩ be — for dia family dem: for Shelah, im family — di Shelanite; for Perets, im family — di Partsite; for Zerach, im family — di Zarchite.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "בני",
+      "gloss": "son dem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "for dia family dem"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "for Shelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "di Shelanite"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "for Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "di Partsite"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "for Zerach"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "di Zarchite"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:51.011524489Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Yahweh ⟨na⟩ my share, I don talk sey I go keep ⟨את⟩ your words.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "my share"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I don talk"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sey I go keep",
+      "marks": "your words"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "your words"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:08.319827721Z",
+  "model": "glm-5.2"
+}

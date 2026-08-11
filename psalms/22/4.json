@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "But You ⟨be⟩ di Kadosh, wey dey sit-down on top ⟨di⟩ praise of Yisrael.",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֥ה",
+      "gloss": "But You"
+    },
+    {
+      "surface": "קָד֑וֹשׁ",
+      "gloss": "⟨be⟩ di Kadosh"
+    },
+    {
+      "surface": "י֝וֹשֵׁ֗ב",
+      "gloss": "wey dey sit-down"
+    },
+    {
+      "surface": "תְּהִלּ֥וֹת",
+      "gloss": "on top ⟨di⟩ praise"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:14.502804020Z",
+  "model": "glm-5.2"
+}

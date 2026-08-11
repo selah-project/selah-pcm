@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Eliab, im pikin; Yerocham, im pikin; Elkanah, im pikin.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Yerocham"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:49.074172211Z",
+  "model": "glm-5.2"
+}

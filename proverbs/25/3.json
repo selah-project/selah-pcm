@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Heaven for height, and earth for depth, and ⟨di⟩ heart of kings — no fitting search am out.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "for height"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "and earth"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "for depth"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "and heart"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "searching out"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:12.919016868Z",
+  "model": "glm-5.2"
+}

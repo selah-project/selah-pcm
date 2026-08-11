@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For Yahweh your Elohim dey bring you enter ⟨a⟩ good land — land of stream-dem of water, of spring-dem and deep-dem, wey dey come out for di valley and for di mountain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "dey bring you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "of stream-dem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "of spring-dem"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "and of deep-dem"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "wey dey come out"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "for di valley"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "and for di mountain"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:11.890408126Z",
+  "model": "glm-5.2"
+}

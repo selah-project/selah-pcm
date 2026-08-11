@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And ⟨dem go⟩ set throne for chesed, and ⟨somebody⟩ go siddon on top am for truth, for ⟨di⟩ tent of David, dey judge and dey seek justice, dey quick ⟨to do⟩ righteousness.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "and ⟨dem go⟩ set"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "for chesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "throne"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨somebody⟩ go siddon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "for truth"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "for ⟨di⟩ tent"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dey judge"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "and dey seek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "dey quick"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:06.467305395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Make dem vanish like water wey dey flow away; make im step arrow, like say dem cut am short.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Make dem vanish"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "wey dey flow away"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨for demself⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "make im step"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like say"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "dem cut am short"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:42.129963400Z",
+  "model": "glm-5.2"
+}

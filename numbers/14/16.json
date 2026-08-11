@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "\"Na because Yahweh no fit carry ⟨את⟩ dis people enter di land wey ⟨im⟩ swear to dem, na im ⟨im⟩ slaughter dem for wilderness!\"",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "na because"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "no fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "carry enter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨di⟩ people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "⟨im⟩ swear"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "na im ⟨im⟩ slaughter dem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:53:20.914005447Z",
+  "model": "glm-5.2"
+}

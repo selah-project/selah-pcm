@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Yahweh set ⟨a⟩ time, sey, \"Tomorrow Yahweh go do ⟨את⟩ dis ting for di land.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and set"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "time"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di ting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:12.855051575Z",
+  "model": "glm-5.2"
+}

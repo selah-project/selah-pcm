@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Eye of all ⟨dem⟩ dey look to you, and you dey give dem ⟨את⟩ dia food for im time.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Eye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia food"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dia food"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "for im time"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:03.374545987Z",
+  "model": "glm-5.2"
+}

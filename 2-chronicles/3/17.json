@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And im come raise ⟨את⟩ di pillars for front of di temple, one from di right side and one from di left side, and im come call di name of di right-side one Yakim, and di name of di left-side one Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and im come raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pillars"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "di pillars"
+    },
+    {
+      "surface": "על",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "פני",
+      "gloss": "front of"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "di temple"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "from di right side"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "and one"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "from di left side"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and im come call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "of di right-side one"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and di name"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "of di left-side one"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:04.798506780Z",
+  "model": "glm-5.2"
+}

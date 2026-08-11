@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go slaughter ⟨את⟩ di bull before Yahweh, for di entrance of Tent of Meeting.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "and you go slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bull"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "di bull"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of Tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:35.675745408Z",
+  "model": "glm-5.2"
+}

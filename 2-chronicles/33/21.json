@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Amon bin dey twenty-two year old wen e come be king, and e rule two year for Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "year old"
+    },
+    {
+      "surface": "עֶשְׂרִ֧ים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "וּשְׁתַּ֛יִם",
+      "gloss": "and two"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "אָמ֣וֹן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בְּמָלְכ֑וֹ",
+      "gloss": "wen e come be king"
+    },
+    {
+      "surface": "וּשְׁתַּ֣יִם",
+      "gloss": "and two"
+    },
+    {
+      "surface": "שָׁנִ֔ים",
+      "gloss": "year"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "e rule"
+    },
+    {
+      "surface": "בִּֽירוּשָׁלִָֽם",
+      "gloss": "for Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:54.457227479Z",
+  "model": "glm-5.2"
+}

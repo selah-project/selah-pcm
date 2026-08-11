@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Moshe and Aharon go enta to Paroh, and dem do as Yahweh don komand; Aharon trow ⟨את⟩ im staff down bifor Paroh and bifor im servant-dem, and e bikom ⟨a⟩ big snake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and dem go enta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "as"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don komand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "and im trow"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im staff"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "im staff"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bifor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "and bifor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e bikom"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "big snake"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:29.979187537Z",
+  "model": "glm-5.2"
+}

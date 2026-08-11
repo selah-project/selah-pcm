@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And im land don full ⟨wit⟩ silver and gold, and no end dey for im treasuries; and im land don full ⟨wit⟩ horses, and no end dey for im chariots.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "And don full"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "end"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "dey for im treasuries"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "and don full"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "horses"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "end"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "dey for im chariots"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:02.171802903Z",
+  "model": "glm-5.2"
+}

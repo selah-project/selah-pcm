@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Ahithophel bin talk to Absalom: \"Make I select now twelve thousand man, and I go stand up and I go pursue behind David dis night.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahithophel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "make I select"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "and I go stand up"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "and I go pursue"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "dis night"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:52.502650978Z",
+  "model": "glm-5.2"
+}

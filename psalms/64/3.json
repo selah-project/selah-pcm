@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Hide me from ⟨di⟩ secret council of evil-doers, from ⟨di⟩ tumult of doers of iniquity,",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "hide me"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "from ⟨di⟩ secret council"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "of evil-doers"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "from ⟨di⟩ tumult"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "of doers"
+    },
+    {
+      "surface": "און",
+      "gloss": "of iniquity"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:31.779018541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "So di servants of King Chizkiyahu bin come meet Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of King"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:09.544364181Z",
+  "model": "glm-5.2"
+}

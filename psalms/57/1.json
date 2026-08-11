@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "To di leader, ⟨Al-Tashchet⟩. For David, miktam, when e bin dey run from Shaul face, for inside cave.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Al-Tashchet⟩",
+      "marks": "do not destroy — title of song"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "do not destroy"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "when e bin dey run"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from face of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "for inside cave"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:45.344782956Z",
+  "model": "glm-5.2"
+}

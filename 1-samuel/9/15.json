@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Now Yahweh bin reveal ⟨את⟩ di ear of Shemu'el — one day before Sha'ul go come — say:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "bin reveal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ear"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ear"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "of Shemu'el"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:21.100233007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yahweh visit Sarah, ⟨את⟩ as e take be sey im don talk, and Yahweh do for Sarah as e take be sey im don speak.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "And Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as e take be sey"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "im don talk"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "for Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as e take be sey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "im don speak"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:09.077154796Z",
+  "model": "glm-5.2"
+}

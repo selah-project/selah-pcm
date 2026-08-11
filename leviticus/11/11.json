@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "⟨Dem⟩ go be abomination for una; from dia flesh una no go chop, and ⟨את⟩ dia dead-body una go detest.",
+  "tokens": [
+    {
+      "surface": "וְשֶׁ֖קֶץ",
+      "gloss": "and abomination"
+    },
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "מִבְּשָׂרָם֙",
+      "gloss": "from dia flesh"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תֹאכֵ֔לוּ",
+      "gloss": "una go chop"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia dead-body"
+    },
+    {
+      "surface": "נִבְלָתָ֖ם",
+      "gloss": "dia dead-body"
+    },
+    {
+      "surface": "תְּשַׁקֵּֽצוּ",
+      "gloss": "una go detest"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:24.804503118Z",
+  "model": "glm-5.2"
+}

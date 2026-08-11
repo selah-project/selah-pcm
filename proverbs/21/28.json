@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Witness of lies go perish, but di man wey dey listen go speak forever.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "witness"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "of lies"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "but di man"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "wey dey listen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "go speak"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:47.658114262Z",
+  "model": "glm-5.2"
+}

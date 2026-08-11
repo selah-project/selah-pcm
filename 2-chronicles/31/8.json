@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Yechizkiyahu and di chief-dem come, and dem see ⟨את⟩ di heap-dem; and dem bless ⟨את⟩ Yahweh and ⟨את⟩ im people Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "and di chief-dem"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and dem see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heap-dem"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "di heap-dem"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "and dem bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im people Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:10.335906923Z",
+  "model": "glm-5.2"
+}

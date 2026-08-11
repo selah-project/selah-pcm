@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Any man from di house of Yisra'el wey go slaughter cow, or sheep, or goat, for inside di camp, or wey go slaughter am outside di camp,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Any man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from di house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "go slaughter"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "עז",
+      "gloss": "goat"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "for inside di camp"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "go slaughter"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:06.133561850Z",
+  "model": "glm-5.2"
+}

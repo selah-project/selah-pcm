@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Dia pillar dem ⟨bin be⟩ twenty, and dia base dem twenty, bronze; di hook dem of di pillar dem and dia band dem, silver.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "dia pillar dem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "and dia base dem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronze"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "di hook dem"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "of di pillar dem"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "and dia band dem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:20.495616972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "For inside dem wey sword kill, dem go fall. Sword don dey given — drag ⟨את⟩ ⟨na⟩ she and all im multitude!",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dem wey ⟨sword⟩ kill"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dem go fall"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "don dey given"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "drag"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨na⟩ she"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "im multitude"
+    }
+  ],
+  "timestamp": "2026-08-11T12:14:24.460729529Z",
+  "model": "glm-5.2"
+}

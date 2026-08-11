@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And if any man strike any life of person, death e go die.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "And man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "⟨e⟩ strike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of person"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "e go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:31.770433912Z",
+  "model": "glm-5.2"
+}

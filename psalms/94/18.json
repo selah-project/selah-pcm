@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Wen I talk sey, \"My foot dey slip,\" your chesed, Yahweh, dey hold me up.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dey slip"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my foot"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "dey hold me up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:18.291177563Z",
+  "model": "glm-5.2"
+}

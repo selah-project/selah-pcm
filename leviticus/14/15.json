@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di priest go take from di log of di oil, and im go pour on palm of di priest, di left one.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "from di log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "of di oil"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "and go pour"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "of di priest"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "di left one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:07.112527149Z",
+  "model": "glm-5.2"
+}

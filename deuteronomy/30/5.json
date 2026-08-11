@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Yahweh wey be your Elohim go bring you enter ⟨inside⟩ di land wey your papa-papa-dem possess, and you go possess am; and ⟨e⟩ go do you good, and ⟨e⟩ go make you plenty pass your papa-papa-dem.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "and ⟨e⟩ go bring you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "dem possess"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "your papa-papa-dem"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "and you go possess am"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "and ⟨e⟩ go do you good"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "and ⟨e⟩ go make you plenty"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "pass your papa-papa-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:38.143683219Z",
+  "model": "glm-5.2"
+}

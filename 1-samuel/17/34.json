@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 17:34",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Dāwid talk to Shaul: \"Your servant bin dey shepherd for im papa sheep; and lion come, and ⟨את⟩ di bear, and e carry sheep from di flock.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dāwid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shepherd"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "for im papa"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "הארי",
+      "gloss": "lion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di bear"
+    },
+    {
+      "surface": "הדוב",
+      "gloss": "di bear"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "and carry"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "מהעדר",
+      "gloss": "from di flock"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:49.650328462Z",
+  "model": "glm-5.2"
+}

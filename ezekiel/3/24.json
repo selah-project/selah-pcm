@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And spirit bin enter inside me, and bin make me stand on top my ⟨feet⟩, and ⟨He⟩ bin speak ⟨את⟩ me, and bin talk to me, 'Enter, lock yourself inside di middle of your house.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "and bin enter"
+    },
+    {
+      "surface": "בי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "and bin make me stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my ⟨feet⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and ⟨He⟩ bin speak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "בא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "lock yourself"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "di middle of your house"
+    }
+  ],
+  "timestamp": "2026-08-11T12:03:20.199481497Z",
+  "model": "glm-5.2"
+}

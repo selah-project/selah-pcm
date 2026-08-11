@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "My Elohim, on top me my life-force dey sink down; because of dat I dey remember you from land of Yarden, and ⟨from⟩ Chermonim, from hill Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-force"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "⟨she⟩ dey sink down"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "I dey remember you"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "of Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "and Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "from hill"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:57.835063501Z",
+  "model": "glm-5.2"
+}

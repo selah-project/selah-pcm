@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So Elohim bin make ⟨את⟩ di animal of di earth according to im kind, and ⟨את⟩ di cattle according to im kind, and ⟨את⟩ evri creeping thing of di ground according to im kind; and Elohim see sey e good.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "So bin make"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di animal of di earth"
+    },
+    {
+      "surface": "חית",
+      "gloss": "animal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di cattle"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di cattle"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "evri creeping thing of di ground"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "creeping thing"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:00.926783884Z",
+  "model": "glm-5.2"
+}

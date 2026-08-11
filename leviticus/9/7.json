@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Mosheh bin tell Aharon sey: \"Come near to di altar, and do ⟨את⟩ your sin-offering and ⟨את⟩ your burnt-offering, and make atonement for yourself and for di people; and do ⟨את⟩ di people im offering, and make atonement for dem, as Yahweh don command.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin say"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "come near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your sin-offering"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "your sin-offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your burnt-offering"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "your burnt-offering"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and make atonement"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "and for"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di offering"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "offering"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people im"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and make atonement"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:35.258235611Z",
+  "model": "glm-5.2"
+}

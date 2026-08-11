@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Who don mold god, or pour out idol, wey no fit help at all?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יָצַ֥ר",
+      "gloss": "don mold"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "⟨את⟩",
+      "marks": "god"
+    },
+    {
+      "surface": "וּפֶ֣סֶל",
+      "gloss": "or idol"
+    },
+    {
+      "surface": "נָסָ֑ךְ",
+      "gloss": "pour out"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "wey no fit"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "help at all"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:53.218816369Z",
+  "model": "glm-5.2"
+}

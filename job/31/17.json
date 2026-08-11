@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "if I bin chop my piece ⟨na⟩ by myself, and ⟨I⟩ no allow orphan to chop from am—",
+  "tokens": [
+    {
+      "surface": "וְאֹכַ֣ל",
+      "gloss": "if I chop"
+    },
+    {
+      "surface": "פִּתִּ֣י",
+      "gloss": "my piece"
+    },
+    {
+      "surface": "לְבַדִּ֑י",
+      "gloss": "by myself"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אָכַ֖ל",
+      "gloss": "⟨I⟩ allow to chop"
+    },
+    {
+      "surface": "יָת֣וֹם",
+      "gloss": "orphan"
+    },
+    {
+      "surface": "מִמֶּֽנָּה",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:22.849406556Z",
+  "model": "glm-5.2"
+}

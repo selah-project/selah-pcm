@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "Because see, your enemies, Yahweh, because see, your enemies go perish; all di people wey dey do bad go scatter.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "go scatter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "people wey dey do"
+    },
+    {
+      "surface": "און",
+      "gloss": "bad"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:05.482230753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Because una sabi how we bin stay for land of Mitsrayim, and how we bin pass through inside di nation dem wey una pass through —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "how we bin stay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "how"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "we bin stay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "how we bin pass"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "how"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "we bin pass through"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nation dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "una pass through"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:16.299131531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Till ⟨di⟩ vanishing-point, I go establish your seed, and I go build your throne for generation ⟨and⟩ generation. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨di⟩ vanishing-point"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "I go establish"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "and I go build"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "for generation"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "⟨and⟩ generation"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "your throne"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:03.390361866Z",
+  "model": "glm-5.2"
+}

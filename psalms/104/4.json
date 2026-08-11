@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Wey dey make im messengers spirits, im servants fire wey dey flame.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֣ה",
+      "gloss": "wey dey make"
+    },
+    {
+      "surface": "מַלְאָכָ֣יו",
+      "gloss": "im messengers"
+    },
+    {
+      "surface": "רוּח֑וֹת",
+      "gloss": "spirits"
+    },
+    {
+      "surface": "מְ֝שָׁרְתָ֗יו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "fire"
+    },
+    {
+      "surface": "לֹהֵֽט",
+      "gloss": "wey dey flame"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:35.776756070Z",
+  "model": "glm-5.2"
+}

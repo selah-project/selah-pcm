@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And ⟨את⟩ all im fat im go bring from am, ⟨את⟩ di fat tail, and ⟨את⟩ di fat wey ⟨dey⟩ cover ⟨את⟩ di inside.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "im fat"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "im go bring"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fat tail"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "di fat tail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "wey cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di inside"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "di inside"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:51.062876056Z",
+  "model": "glm-5.2"
+}

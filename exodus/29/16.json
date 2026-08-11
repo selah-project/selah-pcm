@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go slaughter ⟨את⟩ di ram, and you go take ⟨את⟩ im blood, and you go sprinkle ⟨am⟩ on top di altar round about.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "and you go slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im blood"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "and you go sprinkle"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:01.666661408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "You crown di year wit your goodness, and your path dem dey drip fatness.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "you crown"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "di year"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "wit your goodness"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "and your path dem"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "dey drip"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "fatness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:34.652737053Z",
+  "model": "glm-5.2"
+}

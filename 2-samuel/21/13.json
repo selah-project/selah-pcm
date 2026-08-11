@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And ⟨he⟩ carry comot from dia ⟨את⟩ di bones of Sha'ul and ⟨את⟩ di bones of Yehonatan im son, and dem gather ⟨את⟩ di bones of di ones wey dem hang.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "carry comot"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bones"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bones"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "of Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "di bones"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "of Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bones"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "di bones"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "of di ones wey dem hang"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:03.713719742Z",
+  "model": "glm-5.2"
+}

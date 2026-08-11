@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "How happy ⟨are⟩ dem wey dey complete for dia way, dem wey dey waka for torah of Yahweh!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֥י",
+      "gloss": "how happy"
+    },
+    {
+      "surface": "תְמִֽימֵי",
+      "gloss": "complete"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "way"
+    },
+    {
+      "surface": "הַֽ֝הֹלְכִ֗ים",
+      "gloss": "dem wey dey waka"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "for torah of"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:10.714328166Z",
+  "model": "glm-5.2"
+}

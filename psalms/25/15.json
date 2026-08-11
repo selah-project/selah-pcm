@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "My eye dem dey always unto Yahweh, because ⟨na⟩ Him dey bring out my foot dem from net.",
+  "tokens": [
+    {
+      "surface": "עֵינַ֣י",
+      "gloss": "my eye dem"
+    },
+    {
+      "surface": "תָּ֭מִיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "because"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "Him"
+    },
+    {
+      "surface": "יוֹצִ֖יא",
+      "gloss": "dey bring out"
+    },
+    {
+      "surface": "מֵרֶ֣שֶׁת",
+      "gloss": "from net"
+    },
+    {
+      "surface": "רַגְלָֽי",
+      "gloss": "my foot dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:37.030257720Z",
+  "model": "glm-5.2"
+}

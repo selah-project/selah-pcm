@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So evening bin happen, and morning bin happen — day five.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so bin happen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin happen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "five"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:08.040707557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "So im go up from dere ⟨to⟩ Beer־Sheva.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "so im go up"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer־"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:23.455262665Z",
+  "model": "glm-5.2"
+}

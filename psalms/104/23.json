@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Man dey comot go ⟨im⟩ work and ⟨im⟩ labor until evening.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "Dey comot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Man"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "to ⟨im⟩ work"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "and to ⟨im⟩ labor"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "until"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.786638366Z",
+  "model": "claude-opus-4-8"
+}

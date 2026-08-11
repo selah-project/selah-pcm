@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "And I talk say, ⟨surely⟩ darkness go cover me, and night go shine round about me.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "and I talk say"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "⟨surely⟩"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "יְשׁוּפֵנִי",
+      "gloss": "go cover me"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "and night"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "go shine"
+    },
+    {
+      "surface": "בַּעֲדֵנִי",
+      "gloss": "round about me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:49.710593987Z",
+  "model": "glm-5.2"
+}

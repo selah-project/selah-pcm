@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Wake up, wake up, stand up, Yerushalaim, you wey drink from Yahweh hand ⟨את⟩ cup of im anger, ⟨את⟩ deep goblet of cup of staggering you drink, you drain am finish.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "you drink"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cup"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cup"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "of im anger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deep goblet"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "deep goblet"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cup"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "of staggering"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "you drink"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "you drain am finish"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:56.317775012Z",
+  "model": "glm-5.2"
+}

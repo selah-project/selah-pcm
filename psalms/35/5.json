@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Make dem be like chaff wey wind dey blow comot, and make messenger of Yahweh dey push dem away.",
+  "tokens": [
+    {
+      "surface": "יִֽהְי֗וּ",
+      "gloss": "make dem be"
+    },
+    {
+      "surface": "כְּמֹ֥ץ",
+      "gloss": "like chaff"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "wey wind dey blow comot"
+    },
+    {
+      "surface": "ר֑וּחַ",
+      "gloss": "wind"
+    },
+    {
+      "surface": "וּמַלְאַ֖ךְ",
+      "gloss": "and messenger"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דּוֹחֶֽה",
+      "gloss": "dey push dem away"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:13.771520968Z",
+  "model": "glm-5.2"
+}

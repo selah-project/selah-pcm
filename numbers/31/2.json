@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Take revenge, ⟨di⟩ revenge of di pikin-dem of Yisra'el from ⟨את⟩ di Midyanim-dem; after dat, you go dey gathered to ⟨di⟩ people wey be your own.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Take revenge"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "revenge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "di Midyanim-dem"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "di Midyanim-dem"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "after dat"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "go dey gathered"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "people wey be your own"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:23.291313351Z",
+  "model": "glm-5.2"
+}

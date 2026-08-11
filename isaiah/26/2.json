@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Open di gates, make righteous nation wey dey keep faith enter!",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "open"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "di gates"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "make ⟨im⟩ enter"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wey dey keep"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "faith"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:31.689237219Z",
+  "model": "glm-5.2"
+}

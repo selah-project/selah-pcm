@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Reuven, firstborn of Yisra'el; di pikin-dem of Reuven: ⟨na⟩ Chanokh, ⟨na⟩ im famiri be di Chanokhi famiri; ⟨na⟩ Pallu, ⟨na⟩ im famiri be di Pallui famiri.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famiri"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "di Chanokhi"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "Pallu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "famiri"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "di Pallui"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:12.173532221Z",
+  "model": "glm-5.2"
+}

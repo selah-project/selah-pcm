@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And any man from di pikin-dem of Yisra'el, and from di stranger wey dey sojak among dem, wey go hunt animal wey dey alive or bird wey dem fit chop — make e pour ⟨את⟩ im blood and cover am wit dust.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "and ⟨any⟩ man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "di stranger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wey dey sojak"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "go hunt"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "hunt"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "animal wey dey alive"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "bird"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dem fit chop"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "make e pour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im blood"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "and cover am"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "wit dust"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:42.402210685Z",
+  "model": "glm-5.2"
+}

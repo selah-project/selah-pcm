@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 41:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And ⟨behold⟩ seven ears of grain, wey dry up, thin, wey east wind scorch, dey sprout behind dem.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "and ⟨behold⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ears of grain"
+    },
+    {
+      "surface": "צנמות",
+      "gloss": "wey dry up"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "thin"
+    },
+    {
+      "surface": "שדפות",
+      "gloss": "wey east wind scorch"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "east wind"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "dey sprout"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "behind dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:35.345636746Z",
+  "model": "glm-5.2"
+}

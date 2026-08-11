@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "So as Avram bin enter Mitsrayim, di Mitsrayim people see ⟨את⟩ di woman, sey she fine well well.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "as bin enter"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "see"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "di Mitsrayim people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di woman"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "she"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:12.908659154Z",
+  "model": "glm-5.2"
+}

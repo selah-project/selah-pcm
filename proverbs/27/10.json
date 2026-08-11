@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Your friend and your papa friend, no abandon; and no enter your broda house for ⟨im⟩ day of your trouble; neighbor wey dey near better pass broda wey dey far.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "your friend"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "and friend of"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abandon"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and house of"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your broda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day of"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "your trouble"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "better"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "neighbor"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "wey dey near"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "pass broda"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "wey dey far"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:40.394640633Z",
+  "model": "glm-5.2"
+}

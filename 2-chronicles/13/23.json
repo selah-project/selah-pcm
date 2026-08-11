@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Abijah lie down with im papa dem, and dem bury ⟨את⟩ am for ⟨di⟩ city of David, and Asa im son come king for im place; for im day dem di land bin quiet ten year.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lie down"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abijah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa dem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for city of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "for im day dem"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bin quiet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "year"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:51.115647313Z",
+  "model": "glm-5.2"
+}

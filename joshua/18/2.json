@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And seven tribes remain among di sons of Yisra'el wey neva share ⟨את⟩ dia inheritance.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "remain"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "among di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "share"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia inheritance"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "dia inheritance"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tribes"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:57.031679465Z",
+  "model": "glm-5.2"
+}

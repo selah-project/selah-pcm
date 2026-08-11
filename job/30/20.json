@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "I dey cry to You, and You no dey answer me; I stand, and You dey gaze on me.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "I dey cry"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "You no dey answer me"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "I stand"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "and You dey gaze"
+    },
+    {
+      "surface": "בי",
+      "gloss": "on me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:23:57.430114987Z",
+  "model": "glm-5.2"
+}

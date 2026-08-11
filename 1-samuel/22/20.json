@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "But one son of Ahimelech, son of Achitub, escape — im name na Avyatar; and im run go meet Dawid.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "escape"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "of Ahimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "of Achitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "and im name"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "run go"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "meet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:32.965196558Z",
+  "model": "glm-5.2"
+}

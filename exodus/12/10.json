@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And make una no leave anytin from am reach morning; and wetin remain from am reach morning, make una burn am for fire.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "make una no leave"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "and wetin remain"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for fire"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "make una burn am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:53.621415843Z",
+  "model": "glm-5.2"
+}

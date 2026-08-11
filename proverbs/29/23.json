@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Pride of man go bring am low; but person wey ⟨im⟩ spirit low, honor go hold am.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "pride"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "go bring am low"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "but person wey ⟨im⟩ ... low"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "go hold"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "honor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:01.693067256Z",
+  "model": "glm-5.2"
+}

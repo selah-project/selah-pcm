@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And from Khushim ⟨im⟩ born ⟨את⟩ Avituv and ⟨את⟩ Elpa'al.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "and from Khushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "⟨im⟩ born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Elpa'al"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:27.145328343Z",
+  "model": "glm-5.2"
+}

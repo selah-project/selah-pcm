@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "⟨Im⟩ life-force dey crush for longing to ⟨im⟩ judgments, for evri time.",
+  "tokens": [
+    {
+      "surface": "גָּרְסָ֣ה",
+      "gloss": "dey crush"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "⟨im⟩ life-force"
+    },
+    {
+      "surface": "לְתַאֲבָ֑ה",
+      "gloss": "for longing"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֥יךָ",
+      "gloss": "⟨im⟩ judgments"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "עֵֽת",
+      "gloss": "time"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:02.191563843Z",
+  "model": "glm-5.2"
+}

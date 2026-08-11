@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And I go set My face against una, and una go fall before una enemies, and does wey hate una go rule over una, and una go run, and not ⟨be⟩ anybody wey dey pursue una.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go set"
+    },
+    {
+      "surface": "פני",
+      "gloss": "My face"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "against una"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "and una go fall"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "and dem go rule"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "over una"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "does wey hate una"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "and una go run"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and not ⟨be⟩"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "wey dey pursue"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:47.134249631Z",
+  "model": "glm-5.2"
+}

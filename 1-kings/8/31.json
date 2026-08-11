@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "When man sin against im neighbor, and dem lay oath on top am to make am swear, and di oath come before your altar for dis house —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dat one wey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "against im neighbor"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "and dem lay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oath"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "to make am swear"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and come"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "di oath"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "your altar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis house"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:59.598179184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 1:7",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Tell me, you wey my life dey love, how you dey feed, how you dey make ⟨them⟩ lie down for afternoon — why I go be like woman wey veil herself beside di flocks of your companions?",
+  "tokens": [
+    {
+      "surface": "הַגִּ֣ידָה",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לִּ֗י",
+      "gloss": "me"
+    },
+    {
+      "surface": "שֶׁ֤אָהֲבָה֙",
+      "gloss": "you wey"
+    },
+    {
+      "surface": "נַפְשִׁ֔י",
+      "gloss": "my life dey love"
+    },
+    {
+      "surface": "אֵיכָ֣ה",
+      "gloss": "how"
+    },
+    {
+      "surface": "תִרְעֶ֔ה",
+      "gloss": "you dey feed"
+    },
+    {
+      "surface": "אֵיכָ֖ה",
+      "gloss": "how"
+    },
+    {
+      "surface": "תַּרְבִּ֣יץ",
+      "gloss": "you dey make lie down"
+    },
+    {
+      "surface": "בַּֽצָּהֳרָ֑יִם",
+      "gloss": "for afternoon"
+    },
+    {
+      "surface": "שַׁלָּמָ֤ה",
+      "gloss": "why I go"
+    },
+    {
+      "surface": "אֶֽהְיֶה֙",
+      "gloss": "be"
+    },
+    {
+      "surface": "כְּעֹ֣טְיָ֔ה",
+      "gloss": "like woman wey veil herself"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "beside"
+    },
+    {
+      "surface": "עֶדְרֵ֥י",
+      "gloss": "di flocks"
+    },
+    {
+      "surface": "חֲבֵרֶֽיךָ",
+      "gloss": "of your companions"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:46.593455161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di Yehudim bin strike all dia enemies ⟨with⟩ blow of sword, and killing, and destruction, and dem do to dia haters wetin dem want.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehudim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dia enemies"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "blow"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "of sword"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "and killing"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "and destruction"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "to dia haters"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "wetin dem want"
+    }
+  ],
+  "timestamp": "2026-08-11T16:47:43.775208208Z",
+  "model": "glm-5.2"
+}

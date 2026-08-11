@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 2:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Stand up, move, and cross ⟨את⟩ di valley of Arnon! See, I don give for your hand ⟨את⟩ Sichon, king of Cheshbon, di Amori, and ⟨את⟩ im land — begin make you take possession, and enter fight with am for war!",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "סעו",
+      "gloss": "move"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "and cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di valley of Arnon"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "valley"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "of Arnon"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon, king of Cheshbon, di Amori"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begin"
+    },
+    {
+      "surface": "רש",
+      "gloss": "make you take possession"
+    },
+    {
+      "surface": "והתגר",
+      "gloss": "and enter fight"
+    },
+    {
+      "surface": "בו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "for war"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:40.248505310Z",
+  "model": "glm-5.2"
+}

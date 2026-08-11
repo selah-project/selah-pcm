@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So as King Chizkiyahu hear ⟨am⟩, e tear ⟨את⟩ im cloths, e cover imsef wit sackcloth, and e enta inside house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so e bin"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "as ⟨im⟩ hear"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "e tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloths"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "e cover imsef"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "wit sackcloth"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e enta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inside house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:23.178115141Z",
+  "model": "glm-5.2"
+}

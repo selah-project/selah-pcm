@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "⟨את⟩ who im go teach knowledge, and ⟨את⟩ who im go make understand di ting wey dem hear? Dem wey dem just finish comot from milk, dem wey dem comot from breast?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "who"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "im go teach"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "who"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "im go make understand"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "di ting wey dem hear"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "dem wey dem just finish comot from"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "milk"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "dem wey dem comot from"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "breast"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:16.044318929Z",
+  "model": "glm-5.2"
+}

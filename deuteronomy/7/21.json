@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make you no fear dia face, because Yahweh wey be ya Elohim dey inside ya midst, El wey ⟨be⟩ great and wey ⟨dey⟩ fearsome.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "fear"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "from dia face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "inside ya midst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "and fearsome"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:11.973137017Z",
+  "model": "glm-5.2"
+}

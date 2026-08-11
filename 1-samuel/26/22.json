@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And Dawid answer and talk say, \"See di king spear! And make one of di young boiz come across and take am.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and ⟨im⟩ answer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "di spear"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and make ⟨am⟩ come across"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "of di young boiz"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "and take am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:26.420122492Z",
+  "model": "glm-5.2"
+}

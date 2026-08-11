@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Because of di voice of di one wey dey mock and di one wey dey curse, because of enemy and di one wey dey take revenge.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "from di voice of"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "di one wey dey mock"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "and di one wey dey curse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "and di one wey dey take revenge"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:13.837054579Z",
+  "model": "glm-5.2"
+}

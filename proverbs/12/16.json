@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Fool — for di same day, dem go know im vexation; but ⟨di person⟩ wey dey cover shame, na prudent ⟨person⟩.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di same day"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dem go know"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "im vexation"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "but wey dey cover"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "shame"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "prudent"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:20.153240340Z",
+  "model": "glm-5.2"
+}

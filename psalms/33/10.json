@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Yahweh scatter di plan of nations; ⟨im⟩ frustrate di thoughts of peoples.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "scatter"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "plan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "frustrate"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "thoughts"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peoples"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:36.571863972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And she add again, and she born ⟨a⟩ son, and she call ⟨את⟩ im name Shelah; and e bin happen for Kezib, as she dey born ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "וַתֹּסֶף",
+      "gloss": "and she add"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "again"
+    },
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "son"
+    },
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "and she call"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "im name"
+    },
+    {
+      "surface": "שֵׁלָה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "בִכְזִיב",
+      "gloss": "for Kezib"
+    },
+    {
+      "surface": "בְּלִדְתָּהּ",
+      "gloss": "as she dey born"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:17.089006169Z",
+  "model": "glm-5.2"
+}

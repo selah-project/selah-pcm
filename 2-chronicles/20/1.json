@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e bin happen after dis one, pikin dem of Moav and pikin dem of Ammon, and wit dem from di Meunim, come against Yehoshafat for war.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "באו",
+      "gloss": "come"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin dem of"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and pikin dem of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "and wit dem"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "from di Meunim"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:19.216089528Z",
+  "model": "glm-5.2"
+}

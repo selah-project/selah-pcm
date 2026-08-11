@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "My life-breath dey among lion-dem, I dey lie down among those wey dey blaze — sons of man, their teeth na spear and arrow, and their tongue na sharp sword.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lion-dem"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "I dey lie down"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "those wey dey blaze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "their teeth"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spear"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "and arrow"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "and their tongue"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "sharp"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:36.045970272Z",
+  "model": "glm-5.2"
+}

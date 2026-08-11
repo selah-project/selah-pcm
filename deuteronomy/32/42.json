@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "I go make my arrows drunk wit blood, and my sword go chop flesh, from di blood of di wounded and di captives, from di head of di enemy leaders.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "I go make drunk"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "my arrows"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "wit blood"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "and my sword"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "from di blood"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "of di wounded"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "and di captives"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "from di head"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "of di leaders"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "of di enemy"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:03.833950373Z",
+  "model": "glm-5.2"
+}

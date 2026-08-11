@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I don inherit your testimonies forever, because dem be di joy of my heart.",
+  "tokens": [
+    {
+      "surface": "נָחַ֣לְתִּי",
+      "gloss": "I don inherit"
+    },
+    {
+      "surface": "עֵדְוֺתֶ֣יךָ",
+      "gloss": "your testimonies"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שְׂשׂ֖וֹן",
+      "gloss": "joy"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "of my heart"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "dem ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:43.341856533Z",
+  "model": "glm-5.2"
+}

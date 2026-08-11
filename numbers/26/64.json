@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "But among dis one dem, no man bin dey among di number wey Moshe and Aharon di priest count, wey dem count ⟨את⟩ ⟨di⟩ children of Yisra'el for di wilderness of Sinai.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "but among dis one dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "among di number of"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "dem count"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "children of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness of"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:27.312886917Z",
+  "model": "glm-5.2"
+}

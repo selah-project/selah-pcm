@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 45:24",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "And grain-offering: one efah per bull, and one efah per ram, ⟨e⟩ go prepare; and oil: ⟨one⟩ hin per efah.",
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "and grain-offering"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "one efah"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "per bull"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "and efah"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "per ram"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨e⟩ go prepare"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "and oil"
+    },
+    {
+      "surface": "הין",
+      "gloss": "hin"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "per efah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:19:07.897163616Z",
+  "model": "glm-5.2"
+}

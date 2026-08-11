@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di son-dem of Aharon, di priest-dem, go arrange ⟨את⟩ di pieces, ⟨את⟩ di head, and ⟨את⟩ di fat, on top di wood wey dey on top di fire wey dey on top di altar.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "and dem go arrange"
+    },
+    {
+      "surface": "בני",
+      "gloss": "son-dem of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priest-dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pieces"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "di pieces"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fat"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "di wood"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:08.886399216Z",
+  "model": "glm-5.2"
+}

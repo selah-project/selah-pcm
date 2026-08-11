@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "You bin raise di right hand of im enemy-dem; you bin make all im hater-dem glad.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "you bin raise"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "di right hand"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "of im enemy-dem"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "you bin make glad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "im hater-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.815407473Z",
+  "model": "glm-5.2"
+}

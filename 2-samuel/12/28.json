@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And now, gather ⟨את⟩ di rest of di people, and camp against di city, and capture am, lest I capture ⟨את⟩ di city and dem call my name on top am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di rest"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "di rest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "and camp"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "and capture am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "I capture"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "and dem call"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:17.546346736Z",
+  "model": "glm-5.2"
+}

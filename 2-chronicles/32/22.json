@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "So Yahweh save ⟨את⟩ Yechizkiyahu and ⟨את⟩ di people wey dey live for Yerushalayim, from di hand of Sancheriv, king of Ashshur, and from di hand of evri one. And e lead dem to safety, round about.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "so save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yechizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di people wey dey live"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey live"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "of Sancheriv"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashshur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "and from di hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of evri one"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "and lead dem"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:17.036275463Z",
+  "model": "glm-5.2"
+}

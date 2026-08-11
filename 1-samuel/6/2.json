@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Pelishtim bin call di priests and di diviners, sey, \"Wetin we go do to di ark of Yahweh? Make una tell us wit wetin we go send am to im place.\"",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "and ⟨bin⟩ call"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "to di priests"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "and to di diviners"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "to di ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "make una tell us"
+    },
+    {
+      "surface": "במה",
+      "gloss": "wit wetin"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "we go send am"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "to im place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:41.524726013Z",
+  "model": "glm-5.2"
+}

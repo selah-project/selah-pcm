@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e tell am say: \"Like dis Yahweh don talk: 'Because you let ⟨את⟩ di man wey I devote to destruction comot from your hand, your life go replace im life, and your people go replace im people.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "because"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "you let comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "wey I devote to destruction"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from your hand"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "go replace"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "your life"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "replace"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "and your people"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "replace"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:28.991050181Z",
+  "model": "glm-5.2"
+}

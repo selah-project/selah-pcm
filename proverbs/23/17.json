@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make your heart no envy ⟨di sinners⟩, but make ⟨e⟩ dey for di fear of Yahweh all day long.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "envy"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "your heart"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "di sinners"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨surely⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "for di fear ⟨of⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:21.158836619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If fire go out, and e catch thorns, and dem don chop stack of sheaves, or di standing corn, or di field, di person wey start di fire go pay back complete, ⟨im⟩ go pay ⟨את⟩ di damage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "go out"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "and e catch"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "thorns"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "and dem don chop"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "stack of sheaves"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "di standing corn"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "complete"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go pay back"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "di person wey start di fire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di damage"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "di damage"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:40.241445498Z",
+  "model": "glm-5.2"
+}

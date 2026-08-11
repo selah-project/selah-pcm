@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Dis ⟨be⟩ di names of di men wey Moshe bin send to spy ⟨את⟩ di land, and Moshe bin call Hoshea son of Nun, Yehoshua.",
+  "tokens": [
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "שְׁמוֹת",
+      "gloss": "names of"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לָתוּר",
+      "gloss": "to spy"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לְהוֹשֵׁעַ",
+      "gloss": "to Hoshea"
+    },
+    {
+      "surface": "בִּן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "נוּן",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "יְהוֹשֻֽׁעַ",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:40.324891293Z",
+  "model": "glm-5.2"
+}

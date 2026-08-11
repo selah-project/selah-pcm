@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And dem go gather dem — gathering of prisoner inside pit, and dem go lock dem inside prison — and after plenty days dem go visit ⟨punishment⟩ on dem.",
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "and dem go gather"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "gathering"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "of prisoner"
+    },
+    {
+      "surface": "על",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בור",
+      "gloss": "pit"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "and dem go lock"
+    },
+    {
+      "surface": "על",
+      "gloss": "inside"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "prison"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "and after plenty"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "dem go visit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:08.146496313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "⟨את⟩ di word wey I cut ⟨covenant⟩ ⟨את⟩ ⟨with⟩ una, wen una komot from Mitsrayim, and my Spirit dey stand for una midst: no fear.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "I cut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨with⟩ una"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "wen una komot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "and my Spirit"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "for una midst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "fear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:31.818800458Z",
+  "model": "glm-5.2"
+}

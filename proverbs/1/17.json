@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because not'ing dey winnow di net for nathing, for ⟨di⟩ eye of evri owner of wing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "for nathing"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "dey winnow"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "di net"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for eye of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "owner of"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "wing"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:29.683839050Z",
+  "model": "glm-5.2"
+}

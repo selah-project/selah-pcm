@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Seven days di priest wey go take im place from among im sons go wear dem — ⟨di one⟩ wey go enter inside ⟨di⟩ tent of meeting to minister for di holy place.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "go wear dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "from among im sons"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "to minister"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "for di holy place"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:25.178018066Z",
+  "model": "glm-5.2"
+}

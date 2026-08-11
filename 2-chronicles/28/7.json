@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And Zikhri, mighty man of Efrayim, kill ⟨את⟩ Ma'aseyahu son of di king, and ⟨את⟩ Azrikam, chief of di house, and ⟨את⟩ Elkanah, second to di king.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "and ⟨e⟩ kill"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mighty man"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ma'aseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Ma'aseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "second to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:00.273732724Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 142,
+  "translation": "Look ⟨to⟩ ⟨my⟩ right side, and see, and ⟨there is⟩ nobody wey sabi me — refuge don perish from me, nobody dey seek my nefesh.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Look"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right side"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨there is⟩ nobody"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "refuge"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nobody"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "my nefesh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:57.690315195Z",
+  "model": "glm-5.2"
+}

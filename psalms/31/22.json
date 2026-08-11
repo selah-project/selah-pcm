@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Blessed ⟨be⟩ Yahweh, because e don do wonder wit im chesed to me, for di city wey dem siege.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "e don do wonder"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wit im chesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for ⟨di⟩ city"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "wey dem siege"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.784961304Z",
+  "model": "claude-opus-4-8"
+}

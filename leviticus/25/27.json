@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "den e go calculate ⟨את⟩ di years of im sale, and e go refund ⟨את⟩ di remainder to di man wey e sell am to, and e go return to im inheritance.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "den e go calculate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di years of im sale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "di years"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "of im sale"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "and e go refund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di remainder"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "di remainder"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "e sell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and e go return"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "to im inheritance"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:27.278591580Z",
+  "model": "glm-5.2"
+}

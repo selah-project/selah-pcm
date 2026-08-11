@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And if ⟨im⟩ designate am for im son, na like di custom of daughters ⟨im⟩ go do for am.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "And if"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "for im son"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "im go designate am"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "like di custom"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "of daughters"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨im⟩ go do"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:39.624591760Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Stand up, go to Nineveh, dat big big city, and cry against am, sake of sey dia bad-belle don go up before my face.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stand up"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "big big"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "don go up"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "dia bad-belle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before my face"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:19.292217953Z",
+  "model": "glm-5.2"
+}

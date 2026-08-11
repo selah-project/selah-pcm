@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "⟨את⟩ Come with me from Levanon, my bride, ⟨את⟩ come with me from Levanon, come! Look from top of Amanah, from top of Shenir and Hermon, from den of lion-dem, from mountain-dem of leopard-dem.",
+  "tokens": [
+    {
+      "surface": "אִתִּ֤י",
+      "gloss": "⟨את⟩",
+      "marks": "with me from Levanon"
+    },
+    {
+      "surface": "מִלְּבָנוֹן֙",
+      "gloss": "from Levanon"
+    },
+    {
+      "surface": "כַּלָּ֔ה",
+      "gloss": "my bride"
+    },
+    {
+      "surface": "אִתִּ֖י",
+      "gloss": "⟨את⟩",
+      "marks": "with me from Levanon"
+    },
+    {
+      "surface": "מִלְּבָנ֣וֹן",
+      "gloss": "from Levanon"
+    },
+    {
+      "surface": "תָּב֑וֹאִי",
+      "gloss": "come"
+    },
+    {
+      "surface": "תָּשׁ֣וּרִי",
+      "gloss": "look"
+    },
+    {
+      "surface": "מֵרֹ֣אשׁ",
+      "gloss": "from top"
+    },
+    {
+      "surface": "אֲמָנָ֗ה",
+      "gloss": "Amanah"
+    },
+    {
+      "surface": "מֵרֹ֤אשׁ",
+      "gloss": "from top"
+    },
+    {
+      "surface": "שְׂנִיר֙",
+      "gloss": "Shenir"
+    },
+    {
+      "surface": "וְחֶרְמ֔וֹן",
+      "gloss": "and Hermon"
+    },
+    {
+      "surface": "מִמְּעֹנ֣וֹת",
+      "gloss": "from den"
+    },
+    {
+      "surface": "אֲרָי֔וֹת",
+      "gloss": "of lion-dem"
+    },
+    {
+      "surface": "מֵֽהַרְרֵ֖י",
+      "gloss": "from mountain-dem"
+    },
+    {
+      "surface": "נְמֵרִֽים",
+      "gloss": "of leopard-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:11.158064561Z",
+  "model": "glm-5.2"
+}

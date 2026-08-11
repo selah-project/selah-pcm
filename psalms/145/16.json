@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "You dey open ⟨את⟩ your hand, and dey satisfy every living ⟨thing⟩ wit delight.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "You dey open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "and dey satisfy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "every"
+    },
+    {
+      "surface": "חי",
+      "gloss": "living"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "wit delight"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:03.374658818Z",
+  "model": "glm-5.2"
+}

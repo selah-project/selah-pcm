@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "To who una go compare me, and make me equal, and liken me, make ⟨we⟩ ⟨go⟩ resemble?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "to who"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "una go compare me"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "and make equal"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "and liken me"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "make we resemble"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:38.712562332Z",
+  "model": "glm-5.2"
+}

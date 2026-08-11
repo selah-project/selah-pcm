@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And make Elohim give you dew of ⟨di⟩ heaven, and fatness of ⟨di⟩ earth, and plenty of grain and new wine.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and make ⟨Elohim⟩ give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "dew of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "and fatness of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and plenty of"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "grain"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "and new wine"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:55.384148760Z",
+  "model": "glm-5.2"
+}

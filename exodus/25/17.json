@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go make kapporet of pure gold: two cubit and half ⟨na⟩ im length, and one cubit and half ⟨na⟩ im width.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "two cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "im width"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:39.167291343Z",
+  "model": "glm-5.2"
+}

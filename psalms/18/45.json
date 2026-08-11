@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "For hearing of ear, dem go hear me; sons of foreign land go lie to me.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "for hearing"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "of ear"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dem go hear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me",
+      "marks": "me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "of foreign land"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "go lie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.841478945Z",
+  "model": "glm-5.2"
+}

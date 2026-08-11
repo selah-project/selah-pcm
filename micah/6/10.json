@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Abi ⟨dem⟩ still dey? ⟨Na⟩ fire for house of wicked person, treasuries of wickedness, and ⟨di⟩ short ephah wey dem curse?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "האש",
+      "gloss": "abi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "of wicked person"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "treasuries"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "of wickedness"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "and ephah"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "short"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "wey dem curse"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:01.685898895Z",
+  "model": "glm-5.2"
+}

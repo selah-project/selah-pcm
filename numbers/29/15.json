@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "and one-tenth part, one-tenth part to one ram, for di fourteen rams.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "and one-tenth part"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "one-tenth part"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "to one ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "for di four"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨and⟩ ten"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "rams"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:43.509108341Z",
+  "model": "glm-5.2"
+}

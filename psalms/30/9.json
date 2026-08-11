@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "To you, Yahweh, I dey call, and to Adonai I dey beg for favor.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I dey call"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "I dey beg for favor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:31.612695988Z",
+  "model": "glm-5.2"
+}

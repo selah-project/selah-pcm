@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "Na you ⟨be⟩ di El wey dey do wonder, you don make ⟨am⟩ known among di peoples your power.",
+  "tokens": [
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "הָ֭אֵל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "עֹ֣שֵׂה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "פֶ֑לֶא",
+      "gloss": "wonder"
+    },
+    {
+      "surface": "הוֹדַ֖עְתָּ",
+      "gloss": "you don make known"
+    },
+    {
+      "surface": "בָעַמִּ֣ים",
+      "gloss": "among di peoples"
+    },
+    {
+      "surface": "עֻזֶּֽךָ",
+      "gloss": "your power"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:45.879522827Z",
+  "model": "glm-5.2"
+}

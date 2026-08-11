@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "You sabi when I siddon and when I stand up; you understand my tot from far.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "you sabi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "when I siddon"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "and when I stand up"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "you understand"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "my tot"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "from far"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:36.052591813Z",
+  "model": "glm-5.2"
+}

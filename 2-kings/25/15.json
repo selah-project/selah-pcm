@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨את⟩ di firepan-dem, and ⟨את⟩ di sprinkle-bowl-dem — wetin ⟨be⟩ gold, gold; and wetin ⟨be⟩ silver, silver — chief of di executioner-dem take am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di firepan-dem"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "di firepan-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sprinkle-bowl-dem"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "di sprinkle-bowl-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "take"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "di executioner-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:25.238792319Z",
+  "model": "glm-5.2"
+}

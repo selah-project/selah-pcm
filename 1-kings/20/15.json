@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨im⟩ muster ⟨את⟩ di young men of di princes of di provinces, and dem bin two hundred and thirty-two; and after dem ⟨im⟩ muster ⟨את⟩ all di people, all di sons of Israel, seven thousand.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "and ⟨im⟩ muster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young men of di princes of di provinces"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "di young men"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "of di princes"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "of di provinces"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem bin"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "two hundred"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "and two"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "and after dem"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "⟨im⟩ muster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:15.768174332Z",
+  "model": "glm-5.2"
+}

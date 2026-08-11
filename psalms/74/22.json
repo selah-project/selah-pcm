@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Stand up, Elohim! Fight your case; remember your reproach from ⟨di⟩ fool ⟨man⟩ all di day.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "fight"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "your case"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "your reproach"
+    },
+    {
+      "surface": "מני",
+      "gloss": "from"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:01.063899966Z",
+  "model": "glm-5.2"
+}

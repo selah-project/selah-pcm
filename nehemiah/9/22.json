@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And you bin give dem kingdoms and peoples, and you bin divide dem to corners; and dem inherit ⟨את⟩ di land of Sichon, and ⟨את⟩ di land of di king of Cheshbon, and ⟨את⟩ di land of Og king of Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "and you bin give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdoms"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "and peoples"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "and you bin divide dem"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "to corners"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "and dem inherit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land of Sichon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "of Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di land of di king of Cheshbon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "of Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di land of Og king of Bashan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "of Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "of Bashan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:51:31.572661478Z",
+  "model": "glm-5.2"
+}

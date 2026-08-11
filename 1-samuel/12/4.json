@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem bin talk: You no oppress us and you no crush us, and you no take from any man hand anything at all.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem bin talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "you oppress us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "you crush us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "you take"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anything at all"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:30.817596558Z",
+  "model": "glm-5.2"
+}

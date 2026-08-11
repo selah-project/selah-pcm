@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "E never do like dis for evri oda nation; and as for ⟨im⟩ judgments, dem no know am at all. Praise Yah!",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "E never"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "do"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "גּוֹי",
+      "gloss": "oda nation"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִים",
+      "gloss": "and as for ⟨im⟩ judgments"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "dem no know am at all"
+    },
+    {
+      "surface": "יְדָעוּם",
+      "gloss": ""
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "יָהּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:19.791584963Z",
+  "model": "glm-5.2"
+}

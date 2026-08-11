@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di men take from dia provision, and ⟨את⟩ mouth of Yahweh dem no ask.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "and take"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "from dia provision"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mouth"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ask"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:28.491286048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Di words of Lemuel, king — di burden wey im mama teach am.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Di words of"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "משא",
+      "gloss": "di burden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "im mama teach"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:00.358186028Z",
+  "model": "glm-5.2"
+}

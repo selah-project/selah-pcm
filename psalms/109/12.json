@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make nobody no dey draw chesed to am, and make nobody no dey show favor to im orphan-dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "משך",
+      "gloss": "to dey draw"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make ... no"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "to dey show favor"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "to im orphan-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:13.207245451Z",
+  "model": "glm-5.2"
+}

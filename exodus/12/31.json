@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And im call Moshe and Aharon for night, and im talk, make una stand up, make una comot from inside my people, both una and ⟨di⟩ children of Yisra'el, and make una go, make una serve ⟨את⟩ Yahweh as una bin talk.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and im call"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "make una stand up"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "make una comot"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "and make una go"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "make una serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "as una bin talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:29.065454859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So Yahweh Elohim make deep sleep fall on top of di man, and im sleep; and ⟨He⟩ take one from im ribs, and ⟨He⟩ close flesh under-am.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "so ⟨He⟩ make fall"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "deep sleep"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "and im sleep"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and ⟨He⟩ take"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "from im ribs"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "and ⟨He⟩ close"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "under-am"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:28.342245058Z",
+  "model": "glm-5.2"
+}

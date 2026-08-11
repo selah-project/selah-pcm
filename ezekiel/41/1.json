@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And e carry me enter inside di temple, and e measure ⟨את⟩ di pillar-dem, six cubit wide from dis side, and six cubit wide from dat side — na di width of di tent.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "and e carry me enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "di temple"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "and e measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pillar-dem"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "di pillar-dem"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit-dem"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wide"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "from dis side"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and six"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit-dem"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wide"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "from dat side"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "width"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "di tent"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:19.406853448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "and ram skin dem wey dem make red, and takhash skin dem, and acacia wood.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "and skin dem"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "of ram"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "wey dem make red"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "and skin dem"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "of takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "and wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:02.914539928Z",
+  "model": "glm-5.2"
+}

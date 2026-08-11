@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make im pikin-dem dey waka-waka, dey roam about; make dem beg, and make dem find ⟨food⟩ from dia ruined place-dem.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "and make ... dey waka-waka"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "make dem dey roam about"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "and make dem beg"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "and make dem find"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "from dia ruined place-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:13.206984360Z",
+  "model": "glm-5.2"
+}

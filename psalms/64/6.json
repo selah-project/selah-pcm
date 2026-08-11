@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Dem dey strengthen demselves for evil matter, dem dey plan how to hide traps; dem talk, \"Who go see am?\"",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "dem dey strengthen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "demselves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "dem dey plan"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "to hide"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "traps"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go see am"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:28.248598311Z",
+  "model": "glm-5.2"
+}

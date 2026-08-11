@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Amram take ⟨את⟩ Yokheved, im aunty, for imself as wife, and she bon am ⟨את⟩ Aharon and ⟨את⟩ Mosheh. And di year-dem of di life of Amram bin ⟨be⟩ seven and thirty and one hundred year.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "And (he) take"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokheved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhebed"
+    },
+    {
+      "surface": "דודתו",
+      "gloss": "im aunty"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as wife"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she bon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרון",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "And di year-dem of"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "di life of"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:35.530044876Z",
+  "model": "glm-5.2"
+}

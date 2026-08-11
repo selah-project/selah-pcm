@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Teach me, Yahweh, ⟨di⟩ way of your statutes, and I go keep am to ⟨di⟩ end.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Teach me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "way"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "of your statutes"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "and I go keep am"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "to ⟨di⟩ end"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:59.075586827Z",
+  "model": "glm-5.2"
+}

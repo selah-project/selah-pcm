@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Yaakob bin talk, \"Swear to me dis day.\" And ⟨im⟩ swear to am. And ⟨im⟩ sell ⟨את⟩ im birthright to Yaakob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "swear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dis day"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "and ⟨im⟩ swear"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "and ⟨im⟩ sell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im birthright"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "im birthright"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:06.891696958Z",
+  "model": "glm-5.2"
+}

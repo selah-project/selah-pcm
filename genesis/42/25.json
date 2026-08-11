@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Yosef bin command, and dem fill ⟨את⟩ dia containers wit grain, and ⟨to⟩ return dia silver, each man inside im own sack, and ⟨to⟩ give dem food for di road; and e do for dem so.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "and dem fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia containers"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "dia containers"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grain"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "and to return"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "dia silver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "im own sack"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "and to give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "food"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and e do"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:25.588203636Z",
+  "model": "glm-5.2"
+}

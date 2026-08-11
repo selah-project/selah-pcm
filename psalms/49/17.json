@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "No fear, sey man go rich, sey di glory of im house go increase—",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "go rich"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "go increase"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "of im house"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:08.872134594Z",
+  "model": "glm-5.2"
+}

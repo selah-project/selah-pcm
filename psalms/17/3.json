@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "You tested my heart, you visited ⟨it⟩ in ⟨the⟩ night; you refined me, you did not find ⟨anything⟩; I planned — ⟨that⟩ my mouth would not cross over.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "you tested"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "you visited"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "you refined me"
+    },
+    {
+      "surface": "בל",
+      "gloss": "not"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "you find"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "my plans"
+    },
+    {
+      "surface": "בל",
+      "gloss": "not"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "would cross over"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:37.585004809Z",
+  "model": "glm-5.2"
+}

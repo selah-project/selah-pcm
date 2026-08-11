@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And ⟨the priest⟩ go present am before Yahweh, and ⟨he⟩ go make atonement for am, and ⟨she⟩ go dey clean from di source of im blood. Dis one na di torah of di woman wey born, for male or for female.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "and ⟨he⟩ go present am"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and ⟨he⟩ go make atonement"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "and ⟨she⟩ go dey clean"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "from di source"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "of im blood"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "na di torah"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "of di woman wey born"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "for male"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "for female"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:18.202326733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "You gather up all your rage, you turn back from di fierce-burning of your anger.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "you gather up"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "your rage"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "you turn back"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "from di fierce-burning"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "of your anger"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:35.929048224Z",
+  "model": "glm-5.2"
+}

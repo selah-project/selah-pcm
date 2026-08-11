@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "My skin don turn black upon me, and my bones dey burn from heat.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "my skin"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "don turn black"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "upon me"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "and my bones"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "dey burn"
+    },
+    {
+      "surface": "מני",
+      "gloss": "from"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "heat"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:10.371123449Z",
+  "model": "glm-5.2"
+}

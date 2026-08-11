@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And im words ⟨bin dey⟩ wit Yoav pikin of Tseruyah, and wit Evyatar di priest, and dem bin dey follow behind Adoniyah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "and im words ⟨bin dey⟩"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": ""
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "of Tseruyah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and wit"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "and dem bin dey help"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "follow behind"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:40.645513265Z",
+  "model": "glm-5.2"
+}

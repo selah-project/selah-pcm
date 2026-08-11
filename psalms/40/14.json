@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Make Yahweh ⟨be⟩ please to rescue me; Yahweh, run come help me.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "make ⟨be⟩ please"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "to rescue me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "to help me"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "run come"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:23.997662823Z",
+  "model": "glm-5.2"
+}

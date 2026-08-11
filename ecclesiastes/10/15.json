@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Di toil of ⟨di⟩ fools dey tire am; ⟨na⟩ because ⟨e⟩ no sabi ⟨how⟩ to waka go ⟨di⟩ city.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "di toil"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "of ⟨di⟩ fools"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "dey tire am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨because⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to waka go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨di⟩ city"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:48.738582268Z",
+  "model": "glm-5.2"
+}

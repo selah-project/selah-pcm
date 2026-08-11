@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Any man wey go mix am like am, or wey go put from am on top stranger, dem go cut am off from im people.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "go mix"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "like am"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "or wey"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go put"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "זר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "dem go cut off"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "from im people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:32.385987536Z",
+  "model": "glm-5.2"
+}

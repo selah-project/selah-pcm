@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 26:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And shepherd-dem of Gerar quarrel with shepherd-dem of Yitschak, dey talk sey, ⟨Na⟩ our own ⟨be⟩ di water; and e call di name of di well Esek, because dem bin dey quarrel wit am.",
+  "tokens": [
+    {
+      "surface": "ויריבו",
+      "gloss": "and quarrel"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "shepherd-dem"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "of Gerar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "shepherd-dem"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "of Yitschak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey talk sey"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "our own"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "of di well"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "Esek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "התעשקו",
+      "gloss": "dem bin dey quarrel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:08.865071319Z",
+  "model": "glm-5.2"
+}

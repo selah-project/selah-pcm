@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "But di people wey dey behind Omri bin overpower ⟨את⟩ di people wey dey behind Tibni, pikin of Ginat; so Tibni bin die, and Omri bin become king.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "bin overpower"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dey behind"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dey behind"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "of Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "bin become king"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:19.757198404Z",
+  "model": "glm-5.2"
+}

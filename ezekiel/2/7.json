@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And you go speak ⟨את⟩ my words to dem, whether dem go hear or whether dem go refuse, because rebellious dem ⟨be⟩.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "and you go speak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my words"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "whether"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dem go hear"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "or whether"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "dem go refuse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "rebellious"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:54.554070777Z",
+  "model": "glm-5.2"
+}

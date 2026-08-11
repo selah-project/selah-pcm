@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "But me, I ⟨be⟩ like fresh olive tree for di house of Elohim; I don trust for ⟨di⟩ chesed of Elohim, forever and ever.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But me,"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "like olive tree"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "fresh"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "I don trust"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "for chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and ever"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:23.743174376Z",
+  "model": "glm-5.2"
+}

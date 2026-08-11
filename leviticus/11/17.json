@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "and ⟨את⟩ di little owl, and ⟨את⟩ di cormorant, and ⟨את⟩ di great owl.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di little owl"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "di little owl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di cormorant"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "di cormorant"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di great owl"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "di great owl"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:27.369486956Z",
+  "model": "glm-5.2"
+}

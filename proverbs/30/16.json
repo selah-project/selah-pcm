@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Sheol, and womb wey dem close; ⟨di⟩ earth wey no dey satisfy with water, and fire wey no dey talk sey, 'Enough!'",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "and wey dem close"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "womb"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "dey satisfy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "with water"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "and fire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Enough"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:31.153683781Z",
+  "model": "glm-5.2"
+}

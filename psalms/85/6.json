@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "⟨Go⟩ you dey angry with us forever? ⟨Go⟩ you draw out your anger to generation and generation?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "you dey angry"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "with us"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "you draw out"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "your anger"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "and generation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:37.045553074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Six days you go work and do all your work,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "you go work"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "your work"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:17.300538308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And e bin make ⟨את⟩ di courtyard; for di south side, southward, di hangings of di courtyard ⟨bin be⟩ fine twisted linen, one hundred for cubit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di courtyard"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "for di side of"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "south"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "southward"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "hangings of"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fine linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twisted"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:20.495338405Z",
+  "model": "glm-5.2"
+}

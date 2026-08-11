@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make you ⟨surely⟩ send away — make you send away ⟨את⟩ di mama, and ⟨את⟩ di children dem make you take for yourself, so dat e go good for you and you go make days long.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "⟨surely⟩ send away"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "make you send away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mama"
+    },
+    {
+      "surface": "האם",
+      "gloss": "di mama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di children dem"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "di children dem"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "make you take"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "e go good"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "and you go make long"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:42.601146110Z",
+  "model": "glm-5.2"
+}

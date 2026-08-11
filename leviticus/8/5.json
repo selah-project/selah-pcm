@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Mosheh bin talk to di assembly: \"Dis na di thing wey Yahweh don command make dem do.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na di thing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make dem do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:06.835513318Z",
+  "model": "glm-5.2"
+}

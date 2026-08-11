@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And im bin tell di king of Yisra'el, put your hand on top di bow. And im bin put im hand, and Elisha put im two hands on top di hand of di king.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin tell"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "put"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "di bow"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "And bin put"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and put"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "im two hands"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "di hand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:47.358824073Z",
+  "model": "glm-5.2"
+}

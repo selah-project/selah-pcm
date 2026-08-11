@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Mosheh and Aharon bin comot from wit Paroh; and Mosheh bin cry out to Yahweh concerning di matter of di frogs wey ⟨he⟩ bin put upon Paroh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "And bin comot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from wit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "and bin cry out"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "of di frogs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bin put"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "upon Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:31.368181704Z",
+  "model": "glm-5.2"
+}

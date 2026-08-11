@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "and to dem wey dey for Khormah, and to dem wey dey for Bor-Ashan, and to dem wey dey for Atakh:",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "and to dem wey dey for"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "and to dem wey dey for"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "and to dem wey dey for"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:12.338007097Z",
+  "model": "glm-5.2"
+}

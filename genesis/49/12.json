@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "⟨Im⟩ eye dey shine from wine, and ⟨im⟩ teeth dey white from milk.",
+  "tokens": [
+    {
+      "surface": "חַכְלִילִ֥י",
+      "gloss": "dey shine"
+    },
+    {
+      "surface": "עֵינַ֖יִם",
+      "gloss": "eye"
+    },
+    {
+      "surface": "מִיָּ֑יִן",
+      "gloss": "from wine"
+    },
+    {
+      "surface": "וּלְבֶן",
+      "gloss": "and dey white"
+    },
+    {
+      "surface": "שִׁנַּ֖יִם",
+      "gloss": "teeth"
+    },
+    {
+      "surface": "מֵחָלָֽב",
+      "gloss": "from milk"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:41.544772183Z",
+  "model": "glm-5.2"
+}

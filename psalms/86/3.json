@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Show me favor, Adonai, for na to you I dey call, all di day.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Show me favor"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I dey call"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:21.012966178Z",
+  "model": "glm-5.2"
+}

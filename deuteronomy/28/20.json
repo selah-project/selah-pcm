@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Yahweh go send upon ⟨thee⟩ ⟨את⟩ the curse, ⟨את⟩ the confusion, and ⟨את⟩ the rebuke, in all wey thou send thy hand ⟨to do⟩, until ⟨dem⟩ destroy thee and until thou perish quick-quick, from before di badness of thy doings wey ⟨you⟩ leave Me.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "go send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "upon thee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the curse"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "the curse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the confusion"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "the confusion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "the rebuke"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "the rebuke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wey thou send"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "thy hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "to do"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "dem destroy thee"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and until"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "thou perish"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "quick-quick"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "רע",
+      "gloss": "di badness"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "of thy doings"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "you leave Me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:12.818994673Z",
+  "model": "glm-5.2"
+}

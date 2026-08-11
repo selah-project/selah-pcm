@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And wetin remain from di minchah ⟨na⟩ for Aharon and for im sons — holy of holies, from di fire-offerings of Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "And wetin remain"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di minchah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "for Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "and for im sons"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "of holies"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "from di fire-offerings"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:51.526712094Z",
+  "model": "glm-5.2"
+}

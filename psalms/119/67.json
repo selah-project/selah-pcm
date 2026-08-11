@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Before dem afflict me, I ⟨bin⟩ dey stray; but now your word I keep.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "before"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "dem afflict me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "dey stray"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "but now"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "your word"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "I keep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:50.890990259Z",
+  "model": "glm-5.2"
+}

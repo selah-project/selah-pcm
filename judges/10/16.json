@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem comot ⟨את⟩ di elohim of strangers from among dem, and dem serve ⟨את⟩ Yahweh; and im life-force come short because of di trouble of Israel.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "and dem comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di elohim of strangers"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "di elohim of"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "from among dem"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "and dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "and ... come short"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life-force"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "because of di trouble of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-11T10:29:54.799801940Z",
+  "model": "glm-5.2"
+}

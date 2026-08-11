@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di tin bin dey evil for di eye of Elohim concerning dis matter, and ⟨im⟩ strike ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "and bin dey evil"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and ⟨im⟩ strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:21.973756685Z",
+  "model": "glm-5.2"
+}

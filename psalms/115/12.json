@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Yahweh don remember us; ⟨im⟩ go bless, ⟨im⟩ go bless ⟨את⟩ house of Yisra'el, ⟨im⟩ go bless ⟨את⟩ house of Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "don remember us"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go bless"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:23.205725887Z",
+  "model": "glm-5.2"
+}

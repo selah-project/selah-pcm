@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Elkanah im pikin, and Evyasaf im pikin, and Asir im pikin.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "and Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "and Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:33.800865785Z",
+  "model": "glm-5.2"
+}

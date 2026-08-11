@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "As Ahab see ⟨את⟩ Eliyahu, Ahab talk sey, \"Na you be di one wey dey spoil Yisra'el?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨bin happen⟩"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "as ... see"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ... talk"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "wey dey spoil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:26.968852123Z",
+  "model": "glm-5.2"
+}

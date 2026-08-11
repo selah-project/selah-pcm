@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh go enter ⟨into⟩ judgment with di elders of im people and im princes, and una don burn di vineyard; di spoil of ⟨di⟩ poor dey inside una houses.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨into⟩ judgment"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "di elders of"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "and im princes"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "and una"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "don burn"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "di vineyard",
+      "marks": "di vineyard"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "di spoil of"
+    },
+    {
+      "surface": "העני",
+      "gloss": "⟨di⟩ poor"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "dey inside una houses"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.880278511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 4:12",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Because of dat, na so I go do to you, Yisra'el; as a result of dis wey I go do to you, prepare yourself to meet your Elohim, Yisra'el!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Because of dat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "as a result of"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dis"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "הכון",
+      "gloss": "prepare yourself"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:43.119522223Z",
+  "model": "glm-5.2"
+}

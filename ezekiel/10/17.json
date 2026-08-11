@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Wen dem stand, ⟨dem⟩ go stand; and wen dem rise up, ⟨dem⟩ go raise ⟨dem⟩ up; for di spirit of di living creature ⟨dey⟩ inside dem.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "for their standing"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dem go stand"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "and for their rising up"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "dem go raise up"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "of di living creature"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:05:07.261120748Z",
+  "model": "glm-5.2"
+}

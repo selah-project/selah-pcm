@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Make your enemy fall, no glad; and as e dey stumble, make your heart no jubilate,",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "as ⟨e⟩ fall"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "your enemy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "glad"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "and as ⟨e⟩ dey stumble"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "make ⟨e⟩ jubilate"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "your heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:49.014456395Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Eye of Yahweh dey toward di righteous, and im ear dey toward dia cry.",
+  "tokens": [
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "Eye of"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "dey toward"
+    },
+    {
+      "surface": "צַדִּיקִ֑ים",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "וְ֝אָזְנָ֗יו",
+      "gloss": "and im ear"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "dey toward"
+    },
+    {
+      "surface": "שַׁוְעָתָֽם",
+      "gloss": "dia cry"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:59.255096233Z",
+  "model": "glm-5.2"
+}

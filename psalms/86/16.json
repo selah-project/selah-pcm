@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Look my side and show favor to me; give your power to your servant, and save ⟨the⟩ son of your female servant.",
+  "tokens": [
+    {
+      "surface": "פְּנֵ֥ה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "אֵלַ֗י",
+      "gloss": "my side"
+    },
+    {
+      "surface": "וְחָ֫נֵּ֥נִי",
+      "gloss": "and show favor to me"
+    },
+    {
+      "surface": "תְּנָֽה",
+      "gloss": "give"
+    },
+    {
+      "surface": "עֻזְּךָ֥",
+      "gloss": "your power"
+    },
+    {
+      "surface": "לְעַבְדֶּ֑ךָ",
+      "gloss": "to your servant"
+    },
+    {
+      "surface": "וְ֝הוֹשִׁ֗יעָה",
+      "gloss": "and save"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "אֲמָתֶֽךָ",
+      "gloss": "your female servant"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:38.070938140Z",
+  "model": "glm-5.2"
+}

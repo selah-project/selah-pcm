@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "⟨E⟩ remember im chesed and im faithfulness to house of Yisrael; all di ends of di earth don see ⟨את⟩ ⟨di⟩ salvation of Elohim wey belong to us.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "and im faithfulness"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to house of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "don see"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "di ends of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salvation"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "salvation"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wey belong to us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:51.662387095Z",
+  "model": "glm-5.2"
+}

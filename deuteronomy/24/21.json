@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "When you dey harvest your vineyard, make you no glean behind you; ⟨e⟩ go belong to di stranger, to di orphan, and to di widow.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "you dey harvest"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "your vineyard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "make you glean"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "behind you"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "to di stranger"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "to di orphan"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "and to di widow"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go belong"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:34.079156979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "Same way El go pull you down patapata, e go snatch you comot from ⟨your⟩ tent, and e go uproot you from di land of di living. Selah.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "same way"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יִתָּצְךָ֪",
+      "gloss": "go pull you down"
+    },
+    {
+      "surface": "לָ֫נֶ֥צַח",
+      "gloss": "patapata"
+    },
+    {
+      "surface": "יַחְתְּךָ֣",
+      "gloss": "go snatch you"
+    },
+    {
+      "surface": "וְיִסָּחֲךָ֣",
+      "gloss": "and go comot"
+    },
+    {
+      "surface": "מֵאֹ֑הֶל",
+      "gloss": "from tent"
+    },
+    {
+      "surface": "וְשֵֽׁרֶשְׁךָ֨",
+      "gloss": "and go uproot you"
+    },
+    {
+      "surface": "מֵאֶ֖רֶץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "of di living"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:39.924184693Z",
+  "model": "glm-5.2"
+}

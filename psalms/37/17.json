@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "For di arm dem of wicked pipo go break, but Yahweh dey hold up di righteous dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "arm dem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked pipo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "go break"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "but dey hold up"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "di righteous dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:54.691305226Z",
+  "model": "glm-5.2"
+}

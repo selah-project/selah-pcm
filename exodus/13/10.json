@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And you go keep ⟨את⟩ dis rule for im appointed time, from year to year.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "and you go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis rule"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "di rule"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "for im appointed time"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "from year"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "to year"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:15.194701485Z",
+  "model": "glm-5.2"
+}

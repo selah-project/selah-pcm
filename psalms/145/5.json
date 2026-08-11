@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Di splendor of di glory of ⟨your⟩ majesty, and di words of ⟨your⟩ wonderful things, I go ponder.",
+  "tokens": [
+    {
+      "surface": "הֲ֭דַר",
+      "gloss": "di splendor"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "of di glory"
+    },
+    {
+      "surface": "הוֹדֶ֑ךָ",
+      "gloss": "of ⟨your⟩ majesty"
+    },
+    {
+      "surface": "וְדִבְרֵ֖י",
+      "gloss": "and di words"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶ֣יךָ",
+      "gloss": "of ⟨your⟩ wonderful things"
+    },
+    {
+      "surface": "אָשִֽׂיחָה",
+      "gloss": "I go ponder"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:28.705273127Z",
+  "model": "glm-5.2"
+}

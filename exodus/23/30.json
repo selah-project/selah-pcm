@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Small small I go drive dem comot from your front, until sey you go bear fruit, and you go inherit ⟨את⟩ di land.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "I go drive dem comot"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from your front"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "you go bear fruit"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "and you go inherit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:51.207261469Z",
+  "model": "glm-5.2"
+}

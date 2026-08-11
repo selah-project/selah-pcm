@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And Yehudah bin send ⟨את⟩ di young she-goat of di goats by hand of im friend di Adulamite, to take di pledge from hand of di woman, but e no find am.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young she-goat"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "young she-goat"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "of di goats"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im friend"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "di Adulamite"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "to take"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "di pledge"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "of di woman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but e no"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "find am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:47.033237417Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Your cloth no wear out from on top you, and your leg no swell, dis forty year.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "your cloth"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "wear out"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "from on top you"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "and your leg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "swell"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:36.341251901Z",
+  "model": "glm-5.2"
+}

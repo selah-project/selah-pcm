@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Make una fear ⟨את⟩ Yahweh, una im holy ones, because no deficiency ⟨dey⟩ for dose wey fear am.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Make una fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "una im holy ones"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "deficiency"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "for dose wey fear am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:39.776781303Z",
+  "model": "glm-5.2"
+}

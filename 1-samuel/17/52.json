@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di men of Yisra'el and of Yehudah bin rise and bin shout, and bin pursue ⟨את⟩ di Pelishtites until ⟨you⟩ enter di valley, and unto di gates of Ekron; and di wounded of di Pelishtites bin fall for di way of Sha'arayim, and unto Gat and unto Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "and bin rise"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and of Yehudah"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "and bin shout"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "and bin pursue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pelishtites"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "di Pelishtites"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "⟨you⟩ enter"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "di valley"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "di gates of"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "and bin fall"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "di wounded of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Pelishtites"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di way"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "of Sha'arayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:53.510801753Z",
+  "model": "glm-5.2"
+}

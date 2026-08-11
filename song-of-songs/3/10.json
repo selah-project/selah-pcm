@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Im pillar-dem, ⟨e⟩ make ⟨am⟩ wit silver; im base, gold; im seat, purple. Di inside, ⟨dem⟩ pave wit love, from di daughter-dem of Yerushalem.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "im pillar-dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨e⟩ make"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "im base"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "im seat"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purple"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "di inside"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "⟨dem⟩ pave"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "love"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "from di daughter-dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:02.613998188Z",
+  "model": "glm-5.2"
+}

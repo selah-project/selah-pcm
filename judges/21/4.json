@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And e come to pass for di next day, and di people wake up early morning, and dem build altar dey; and dem offer burnt sacrifice and peace sacrifice.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "for di next day"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "and dem wake up early morning"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "and dem build"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dey"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "and dem offer"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "burnt sacrifice"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "and peace sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:10.065510282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Put ⟨את⟩ di poles inside di rings on di sides of di Ark, to carry ⟨את⟩ di Ark wit dem.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poles"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di poles"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "inside di rings"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "di sides"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "of di Ark"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "di Ark"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wit dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:14.303003956Z",
+  "model": "glm-5.2"
+}

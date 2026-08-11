@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And im talk to Yehoshafat, \"You go go ⟨את⟩ wit me to war, to Ramot-Gil'ad?\" And Yehoshafat bin talk to king of Yisra'el, \"As I be, so you; as my people, so your people; as my horses, so your horses.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "you go go"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wit",
+      "marks": "me"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "to war"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "as I be"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "so you"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "as my people"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "so your people"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "as my horses"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "so your horses"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:42.398500772Z",
+  "model": "glm-5.2"
+}

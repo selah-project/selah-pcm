@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "How many times dem rebel against Am for wilderness, dem wound Am for waste land!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "How many times"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "dem rebel against Am"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "dem wound Am"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "for waste land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:06.569533049Z",
+  "model": "glm-5.2"
+}

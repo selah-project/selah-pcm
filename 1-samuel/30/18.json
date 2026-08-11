@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Dawid rescue ⟨את⟩ everything wey Amalek bin take, and ⟨את⟩ im two wives Dawid bin rescue.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "and rescue"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "everything"
+    },
+    {
+      "surface": "כל",
+      "gloss": "everything"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im two wives"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "im wives"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:50.139827094Z",
+  "model": "glm-5.2"
+}

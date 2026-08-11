@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "You don take up di case of my throat-life, Adonai, You don redeem my life.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "You don take up"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "di case of",
+      "marks": "di case of my throat-life"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my throat-life"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "You don redeem"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my life",
+      "marks": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.871969497Z",
+  "model": "glm-5.2"
+}

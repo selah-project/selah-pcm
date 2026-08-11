@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wen you lend your padi any kind tin, no enter im house make you go take wetin e don pledge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "you lend"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "your padi"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "any kind tin"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anything"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "make you go take wetin e don pledge"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "im pledge"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:02.279472245Z",
+  "model": "glm-5.2"
+}

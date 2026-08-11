@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 7:13",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Sorrow for dem, because dem don run away from me; destruction for dem, because dem don rebel against me; and I, I bin dey ransom dem, and dem don dey speak lies against me.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "sorrow"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "dem don run away"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "שד",
+      "gloss": "destruction"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "dem don rebel"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "I bin dey ransom dem"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dem don dey speak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lies"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:12.082106858Z",
+  "model": "glm-5.2"
+}

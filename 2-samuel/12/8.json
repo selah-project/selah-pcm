@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and I give you ⟨את⟩ di house of your master, and ⟨את⟩ di wives of your master into your bosom; and I give you ⟨את⟩ di house of Yisrael and of Yehudah; and if dat one ⟨be⟩ small, I for add give you like dis and like dis.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "and I give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of your master"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "of your master"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di wives of your master"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "di wives"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "of your master"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "into your bosom"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "and I give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Yisrael and of Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and of Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "I for add"
+    },
+    {
+      "surface": "לך",
+      "gloss": "give you"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "and like dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:51.043289683Z",
+  "model": "glm-5.2"
+}

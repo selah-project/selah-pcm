@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Why di nations go talk, 'Where ⟨be⟩ dia Elohim?' Make e know among di nations for our eye, di vengeance of di blood of your servants wey dem pour out.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "איה",
+      "gloss": "where"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "make e know"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "for our eye"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "di vengeance of"
+    },
+    {
+      "surface": "דם",
+      "gloss": "di blood of"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "wey dem pour out"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:01.650290224Z",
+  "model": "glm-5.2"
+}

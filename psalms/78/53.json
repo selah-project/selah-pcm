@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And e lead dem go safely, and dem no fear, and ⟨את⟩ dia enemies, di sea cover.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "and e lead dem go"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "safely"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "fear"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia enemies"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dia enemies"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "cover"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:07.039396744Z",
+  "model": "glm-5.2"
+}

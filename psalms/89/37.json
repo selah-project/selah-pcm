@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Im seed go dey forever, and im throne ⟨go dey⟩ like sun front of me.",
+  "tokens": [
+    {
+      "surface": "זַרְעוֹ",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "וְכִסְאוֹ",
+      "gloss": "and im throne"
+    },
+    {
+      "surface": "כַשֶּׁמֶשׁ",
+      "gloss": "like sun"
+    },
+    {
+      "surface": "נֶגְדִּי",
+      "gloss": "front of me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:54.899686481Z",
+  "model": "glm-5.2"
+}

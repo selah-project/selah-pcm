@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Im ways dey firm at all time; your judgments dey high, far from im sight; all im enemies, e dey puff ⟨at⟩ dem.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "dey firm"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "im ways"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "at all"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "high"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "your judgments"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "far from im sight"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "e dey puff"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨at⟩ dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:14.301249813Z",
+  "model": "glm-5.2"
+}

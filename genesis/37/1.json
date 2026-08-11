@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Ya'akov bin siddon for di land of im papa sojourn, for di land of Kena'an.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bin siddon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "sojourn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:06.026442360Z",
+  "model": "glm-5.2"
+}

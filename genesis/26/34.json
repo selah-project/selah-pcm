@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And Esav come sey im ⟨bin⟩ reach forty year, and im take wife: ⟨את⟩ Yehudit, daughter of Be'eri di Hittite, and ⟨את⟩ Bosmat, daughter of Elon di Hittite.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and im come sey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son ⟨bin⟩ reach"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and im take"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudit"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Yehudit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "of Be'eri"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hittite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "of Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hittite"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:50.666334442Z",
+  "model": "glm-5.2"
+}

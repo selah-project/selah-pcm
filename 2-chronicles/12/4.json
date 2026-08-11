@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And e capture ⟨את⟩ di fortified cities wey ⟨belong⟩ to Yehudah, and e come reach Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "and e capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fortified cities"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fortified"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "to Yehudah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.152771277Z",
+  "model": "glm-5.2"
+}

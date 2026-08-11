@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Discipline me, Yahweh, but only with justice; no be with your anger, so dat you no go reduce me to notin.",
+  "tokens": [
+    {
+      "surface": "יַסְּרֵ֥נִי",
+      "gloss": "discipline me"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "but only"
+    },
+    {
+      "surface": "בְּמִשְׁפָּ֑ט",
+      "gloss": "with justice"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no be"
+    },
+    {
+      "surface": "בְּאַפְּךָ֖",
+      "gloss": "with your anger"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "so dat you no go"
+    },
+    {
+      "surface": "תַּמְעִטֵֽנִי",
+      "gloss": "reduce me to notin"
+    }
+  ],
+  "timestamp": "2026-08-11T11:43:48.801290231Z",
+  "model": "glm-5.2"
+}

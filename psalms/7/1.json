@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Shiggaion wey David sing, wey e sing to Yahweh, on top di mata of Kush, pikin of Benyamini.",
+  "tokens": [
+    {
+      "surface": "שִׁגָּיוֹן",
+      "gloss": "Shiggaion"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "wey David"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שָׁר",
+      "gloss": "e sing"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "כוּשׁ",
+      "gloss": "of Kush"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יְמִינִי",
+      "gloss": "of Benyamini"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:56.201897311Z",
+  "model": "glm-5.2"
+}

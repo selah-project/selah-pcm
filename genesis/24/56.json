@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And e tell dem say, No delay ⟨את⟩ me, and Yahweh don make my road succeed; send me make I go to my master.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "delay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "don make succeed"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my road"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "send me"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "make I go"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "to my master"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:31.156578728Z",
+  "model": "glm-5.2"
+}

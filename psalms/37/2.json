@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Because dem go quick cut down like grass, and like green plant dem go dry up.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "quick"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "dem go cut down"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "and like green plant"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "fresh grass"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "dem go dry up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:38.653155296Z",
+  "model": "glm-5.2"
+}

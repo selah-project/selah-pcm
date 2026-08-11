@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Di land dey mourn, e dey waste away; Ləvanon dey shame, e don wither; HaSharon don become like wilderness, and Bashan and Karmel don strip bare.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "dey mourn"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "dey waste away"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "dey shame"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ləvanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "don wither"
+    },
+    {
+      "surface": "היה",
+      "gloss": "don become"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "HaSharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "like wilderness"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "and ⟨don strip bare⟩"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "and Karmel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:00.121588394Z",
+  "model": "glm-5.2"
+}

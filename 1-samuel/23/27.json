@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And messenger bin come meet Shaul, sey: Hurry quick, come, because Pelishtim dem don spread on top di land!",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "and messenger"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Hurry quick"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "don spread"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:14.972650275Z",
+  "model": "glm-5.2"
+}

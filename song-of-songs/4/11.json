@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 4:11",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Honey-comb dey drip from your lips, bride; honey and milk dey under your tongue, and di scent of your garments dey like di scent of Lebanon.",
+  "tokens": [
+    {
+      "surface": "נפת",
+      "gloss": "honey-comb"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "dey drip"
+    },
+    {
+      "surface": "שפתותיך",
+      "gloss": "from your lips"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bride"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "honey"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "and milk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "your tongue"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "and di scent"
+    },
+    {
+      "surface": "שלמתיך",
+      "gloss": "of your garments"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "like di scent"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "of Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:43.130364097Z",
+  "model": "glm-5.2"
+}

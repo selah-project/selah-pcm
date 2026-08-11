@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because dia kinsman-redeemer strong, ⟨na⟩ ⟨e⟩ go fight ⟨את⟩ dia case ⟨את⟩ ⟨with⟩ you.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גֹאֲלָ֥ם",
+      "gloss": "dia kinsman-redeemer"
+    },
+    {
+      "surface": "חָזָ֑ק",
+      "gloss": "strong"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨na⟩ ⟨e⟩"
+    },
+    {
+      "surface": "יָרִ֖יב",
+      "gloss": "go fight"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia case"
+    },
+    {
+      "surface": "רִיבָ֣ם",
+      "gloss": "dia case"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "⟨את⟩ ⟨with⟩ you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:16.995550166Z",
+  "model": "glm-5.2"
+}

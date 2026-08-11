@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "⟨E⟩ bin weaken my strength for di way, ⟨E⟩ don cut short my days.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "⟨E⟩ bin weaken"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di way"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "⟨E⟩ don cut short"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my days"
+    }
+  ],
+  "timestamp": "2026-08-11T16:37:37.313451083Z",
+  "model": "glm-5.2"
+}

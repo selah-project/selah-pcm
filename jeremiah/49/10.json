@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Because na me strip ⟨את⟩ Esau naked, me wey bin reveal ⟨את⟩ im hiding place, and ⟨he⟩ no go fit hide ⟨imself⟩ — dem don plunder im seed, and im brodas, and im neighbour dem, and ⟨he⟩ no dey again.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "strip naked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "me wey bin reveal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hiding place"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "im hiding place"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "and ⟨he⟩ go hide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "go fit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dem don plunder"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "and im brodas"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "and im neighbour dem"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "and ⟨he⟩ no dey again"
+    }
+  ],
+  "timestamp": "2026-08-11T11:59:34.968627001Z",
+  "model": "glm-5.2"
+}

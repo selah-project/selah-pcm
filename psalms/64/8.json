@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "But Elohim go shoot dem wit ⟨an⟩ arrow suddenly; ⟨dem⟩ go become wounds.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "but go shoot dem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "suddenly"
+    },
+    {
+      "surface": "היו",
+      "gloss": "go become"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "wounds"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:28.248847218Z",
+  "model": "glm-5.2"
+}

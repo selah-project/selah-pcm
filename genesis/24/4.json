@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "sey you go go to my land and to my birth-place, and you go take wife for my son, for Yitschaq.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "my birth-place"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "you go go"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wife"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for my son"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "for Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:02.529493203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "⟨את⟩ your silver you no go give to am for interest, and for profit you no go give your food.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your silver"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "your silver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "for interest"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "and for profit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "go give"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "your food"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:39.558512229Z",
+  "model": "glm-5.2"
+}

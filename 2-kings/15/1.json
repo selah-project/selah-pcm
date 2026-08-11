@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "For di twenty-seven year of Yarav'am, wey bin king of Yisra'el, Azaryah, pikin of Amatsyah, wey bin king of Yehudah, bin come king.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "of Yarav'am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bin come king"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "of Amatsyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:31.468513665Z",
+  "model": "glm-5.2"
+}

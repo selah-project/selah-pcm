@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And if una talk sey, 'Wetin we go chop for di seventh year? Lookam, we no go sow, and we no go gather ⟨את⟩ our produce?'",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "una go talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "we go chop"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lookam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "we go sow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "we go gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our produce"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "our produce"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:05.682344938Z",
+  "model": "glm-5.2"
+}

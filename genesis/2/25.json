@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di two of dem bin ⟨be⟩ naked, ⟨di⟩ adam and im wife, and dem no bin shame.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "and bin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "naked"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨di⟩ adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "bin shame"
+    }
+  ],
+  "timestamp": "2026-08-11T08:58:51.325491762Z",
+  "model": "glm-5.2"
+}

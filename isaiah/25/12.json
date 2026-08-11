@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨dem⟩ go bring down di fortress, di high stronghold of your walls — ⟨dem⟩ go lay am low, ⟨dem⟩ go bring am reach ground, unto dust.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "and ⟨dem⟩ go bring down di fortress"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "stronghold"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "of your walls"
+    },
+    {
+      "surface": "השח",
+      "gloss": "⟨dem⟩ go lay low"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "⟨dem⟩ go bring down"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "⟨dem⟩ go bring reach"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ground"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:27.267028969Z",
+  "model": "glm-5.2"
+}

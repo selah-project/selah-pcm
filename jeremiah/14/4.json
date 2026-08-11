@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Because di ground don crack, sey no rain bin dey for di land, farmer dem don shame; dem cover dia head.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "because"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "don crack"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "rain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "don shame"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "farmer dem"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "dem cover"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "dia head"
+    }
+  ],
+  "timestamp": "2026-08-11T11:46:38.356627837Z",
+  "model": "glm-5.2"
+}

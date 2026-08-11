@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 131,
+  "translation": "Make Yisra'el wait on top Yahweh, from now and reach forever.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "make ⟨am⟩ wait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "from now"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and reach"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:11.656222465Z",
+  "model": "glm-5.2"
+}

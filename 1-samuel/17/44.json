@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Filistia man bin talk to David, \"Come to me, and I go give ⟨את⟩ your flesh to di boids of heaven and to di animal of di field.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Come"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your flesh"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "your flesh"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "to di boids"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "and to di animal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:47.208231222Z",
+  "model": "glm-5.2"
+}

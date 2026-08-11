@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And David come stay for di strong place; because of dat, dem come call am city of David.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨im⟩ stay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "for di strong place"
+    },
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "כן",
+      "gloss": "of dat"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dem come call"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:37.243563074Z",
+  "model": "glm-5.2"
+}

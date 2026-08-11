@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yahweh make strong ⟨את⟩ di heart of Paroh, king of Mitsrayim, and e pursue behind ⟨di⟩ children of Yisra'el; and di children of Yisra'el bin dey go out wit high hand.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "and make strong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "and e pursue"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "bin dey go out"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "high"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:26.700225803Z",
+  "model": "glm-5.2"
+}

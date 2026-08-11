@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "But I too get heart like una; I no fall below una; and ⟨את⟩ who no get like ⟨these⟩?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "לי",
+      "gloss": "I"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "get heart"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "like una"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fall"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "below una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "who"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨these⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:19:36.944895339Z",
+  "model": "glm-5.2"
+}

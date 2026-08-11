@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "I, I make earth, and ⟨di⟩ man on top am I create; I, My hands stretch out ⟨di⟩ heavens, and all dia host I command.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I make"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "and ⟨di⟩ man"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "I create"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "My hands"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "stretch out"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨di⟩ heavens"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "dia host"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I command"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:27.420261614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Wetin we hear and we know am, and our papa-dem tell us.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wetin"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "we hear"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "and we know am"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "and our papa-dem"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:57.103091794Z",
+  "model": "glm-5.2"
+}

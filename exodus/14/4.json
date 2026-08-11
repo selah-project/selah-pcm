@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "I go make Paroh heart strong, and e go pursue after dem; I go show weight on top Paroh and on top all im army, and Mitsrayim go know sey na Me ⟨be⟩ Yahweh.' And dem do so.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "I go make strong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "and e go pursue"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "after dem"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "I go show weight"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "on top Paroh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "and on top all"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "im army"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "and go know"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "And dem do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:25.880207182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "⟨Dem⟩ don close up ⟨wia⟩ dia fat ⟨dey⟩; dia mouth, dem don speak wit pride.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "dia fat"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "dem don close up"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "dia mouth"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dem don speak"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "wit pride"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:15.544080979Z",
+  "model": "glm-5.2"
+}

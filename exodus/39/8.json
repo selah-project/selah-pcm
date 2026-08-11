@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And e make ⟨את⟩ di breastpiece — work of weaver, like di work of di ephod: gold, blue-violet, and purple, and crimson worm-dye, and fine twisted linen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di breastpiece"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "di breastpiece"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "of weaver"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "like di work"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "of di ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blue-violet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "and purple"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "and worm-dye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "crimson"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and fine"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twisted linen"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:19.481260783Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "To di leader, ⟨for⟩ David. Fool talk for im heart, \"Elohim no dey.\" Dem don spoil, dem do abominable tin, nobody dey do good.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨for⟩ David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "for im heart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "dem don spoil"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "dem do abominable tin"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "action"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nobody"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:22.766905303Z",
+  "model": "glm-5.2"
+}

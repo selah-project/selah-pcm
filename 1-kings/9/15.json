@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dis ⟨be⟩ di matter of di forced labor wey king Shelomah raise, to build ⟨את⟩ house of Yahweh and ⟨את⟩ im own house and ⟨את⟩ di Millo and ⟨את⟩ wall of Yerushalayim and ⟨את⟩ Chatzor and ⟨את⟩ Megiddo and ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "and dis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "המס",
+      "gloss": "of di forced labor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "raise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im own house"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im own house"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "di Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wall of Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "wall"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:09.803161904Z",
+  "model": "glm-5.2"
+}

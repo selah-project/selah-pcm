@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Almost dem finish me for ⟨di⟩ earth, but as for me, I no abandon ⟨di⟩ precept of you.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "almost"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "dem finish me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for ⟨di⟩ earth"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "but as for me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "I abandon"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "precept of you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:56.540133296Z",
+  "model": "glm-5.2"
+}

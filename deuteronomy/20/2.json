@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e go happen, as una dey come near to di battle, di kohen go come forward and im go speak to di people.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֕ה",
+      "gloss": "and e go happen"
+    },
+    {
+      "surface": "כְּקָֽרָבְכֶ֖ם",
+      "gloss": "as una dey come near"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הַמִּלְחָמָ֑ה",
+      "gloss": "di battle"
+    },
+    {
+      "surface": "וְנִגַּ֥שׁ",
+      "gloss": "and ⟨im⟩ go come forward"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "di kohen"
+    },
+    {
+      "surface": "וְדִבֶּ֥ר",
+      "gloss": "and im go speak"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:26.198321665Z",
+  "model": "glm-5.2"
+}

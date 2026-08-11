@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And one river bin dey come out from Eden to give water to ⟨את⟩ di garden, and from dere e bin divide and ⟨bin⟩ become four headwaters.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "and one river"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bin dey come out"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "from Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "to give water"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di garden"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "di garden"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "and from dere"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "bin divide"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨bin⟩ become"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "to four"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "headwaters"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:08.391374061Z",
+  "model": "glm-5.2"
+}

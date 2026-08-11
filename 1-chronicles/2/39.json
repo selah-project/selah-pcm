@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Azaryah bin born ⟨את⟩ Chelets, and Chelets bin born ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "וַעֲזַרְיָה",
+      "gloss": "and Azaryah"
+    },
+    {
+      "surface": "הֹלִיד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Chelets"
+    },
+    {
+      "surface": "חָלֶץ",
+      "gloss": "Chelets"
+    },
+    {
+      "surface": "וְחֶלֶץ",
+      "gloss": "and Chelets"
+    },
+    {
+      "surface": "הֹלִיד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אֶלְעָשָׂה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:47.903558722Z",
+  "model": "glm-5.2"
+}

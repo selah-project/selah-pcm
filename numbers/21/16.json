@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And from dere ⟨dem go⟩ Be'er; na im be di well wey Yahweh talk to Moshe, say: 'Gather ⟨את⟩ di people, and I go give dem water.'",
+  "tokens": [
+    {
+      "surface": "וּמִשָּׁ֖ם",
+      "gloss": "and from dere"
+    },
+    {
+      "surface": "בְּאֵ֑רָה",
+      "gloss": "to Be'er"
+    },
+    {
+      "surface": "הִ֣וא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "הַבְּאֵ֗ר",
+      "gloss": "di well"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אָמַ֤ר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְמֹשֶׁ֔ה",
+      "gloss": "to Moshe"
+    },
+    {
+      "surface": "אֱסֹף֙",
+      "gloss": "Gather"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "הָעָ֔ם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וְאֶתְּנָ֥ה",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:25.724502117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And im return na to Ramah, because na dere ⟨im⟩ house dey, and dere ⟨e⟩ judge ⟨את⟩ Yisra'el, and ⟨e⟩ build altar there for Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "and im return"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "to Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and there"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨e⟩ judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and ⟨e⟩ build"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:04.767729860Z",
+  "model": "glm-5.2"
+}

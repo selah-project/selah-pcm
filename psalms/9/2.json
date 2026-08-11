@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "I go praise Yahweh wit all my heart, I go tell of all ⟨di⟩ wonders wey you do.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "I go praise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "I go tell of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "⟨di⟩ wonders wey you do"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:17.027324611Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Yahweh, for trouble, dem come seek you; dem pour out whisper, your discipline on dem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "for trouble"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "dem come seek you"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "dem pour out"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "whisper"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "your discipline"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:38.919594753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Because my soul don belleful wit trouble, and my life don reach Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e don belleful"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "wit trouble"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my soul"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "and my life"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "to Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "dem don reach"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.786191448Z",
+  "model": "claude-opus-4-8"
+}

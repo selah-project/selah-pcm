@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 1:1",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di word of Yahweh wey bin come to Hoshea, son of Beeri, for di days of Uziyah, Yotam, Achaz, ⟨and⟩ Yechizkiyah, kings of Yehudah, and for di days of Yarov'am son of Yo'ash, king of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "of Beeri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "of Uziyah"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Yechizkiyah"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "and for di days"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "of Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "of Yo'ash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:29.881426716Z",
+  "model": "glm-5.2"
+}

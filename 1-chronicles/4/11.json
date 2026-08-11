@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Keluv, broda of Shuchah, bin born ⟨את⟩ Mechir — na ⟨im⟩ be papa of Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "and Keluv"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuchah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mechir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:43.864253436Z",
+  "model": "glm-5.2"
+}

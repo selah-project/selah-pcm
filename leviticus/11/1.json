@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Yahweh bin speak to Mosheh and to Aharon, ⟨e dey⟩ tell dem,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨e dey⟩ tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:51.284832417Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨את⟩ di rest of di people im give into di hand of Avishai im broda, and im arrange ⟨את⟩ dem to meet di sons of Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di rest of di people"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "di rest of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "im give"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "into di hand of"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "and im arrange"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:13.839201898Z",
+  "model": "glm-5.2"
+}

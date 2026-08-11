@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So Yahweh send ⟨את⟩ di burning snakes among di people, and dem bin bite ⟨את⟩ di people, and plenty people from Yisrael die.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "among di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di burning snakes"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "di snakes"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "di burning"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "and dem bin bite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and die"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "רב",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "from Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:03.233190482Z",
+  "model": "glm-5.2"
+}

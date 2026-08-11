@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨את⟩ wit una go dey, man man for tribe, man wey ⟨be⟩ head for di house of im fadas, na him.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "And ⟨את⟩ wit"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "una go dey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "for tribe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "of im fadas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na him"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:55.105657438Z",
+  "model": "glm-5.2"
+}

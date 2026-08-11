@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "My life, e dey bring back; e dey guide me for ⟨di⟩ road of righteousness, sake of im name.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "e dey bring back"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "e dey guide me"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "for road of"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:03.606996235Z",
+  "model": "glm-5.2"
+}

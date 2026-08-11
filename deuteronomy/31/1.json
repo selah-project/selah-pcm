@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Mosheh bin go, and im bin speak ⟨את⟩ di words dis ones to all Yisra'el,",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and im bin speak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di words"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis ones"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:37.926001511Z",
+  "model": "glm-5.2"
+}

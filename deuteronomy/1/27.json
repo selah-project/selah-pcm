@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And una dey murmur for una tent, and una talk sey, 'For hatred Yahweh get for us ⟨na⟩ im bring us comot from Mitsrayim, to put ⟨את⟩ us for hand of di Emori, to destroy us.'",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "and una dey murmur"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "for una tent"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "and una talk"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "for hatred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "im bring us comot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to put"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "to destroy us"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:31.761913586Z",
+  "model": "glm-5.2"
+}

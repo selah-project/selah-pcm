@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And dem give dem ⟨את⟩ city of refuge for di manslayer, ⟨את⟩ Shekhem and ⟨את⟩ im open land for hill ⟨of⟩ Efrayim, and ⟨את⟩ Gezer and ⟨את⟩ im open land.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "city of refuge"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "of refuge"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "for di manslayer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:34.721417032Z",
+  "model": "glm-5.2"
+}

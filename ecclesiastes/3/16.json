@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And again, I see under sun: place of judgment, ⟨na⟩ dere wickedness ⟨dey⟩; and place of righteousness, ⟨na⟩ dere wickedness ⟨dey⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "and again"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "of judgment"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "and place"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "of righteousness"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:43.164635091Z",
+  "model": "glm-5.2"
+}

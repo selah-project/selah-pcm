@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "So I bin tell you from dat time, before e come, I make you hear, make you no talk say, \"Na my idol do dem, and my carved image and my molten image, na im command dem.\"",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "so I bin tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "from dat time"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "before"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e come"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "I make you hear"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "talk say"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "my idol"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "do dem"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "and my carved image"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "and my molten image"
+    },
+    {
+      "surface": "צום",
+      "gloss": "command dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:44.095448662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "True true, no — dem no plant dem; true true, no — dem no sow dem; true true, no — root no take for di earth for dia stem. And wen breeze blow on top dem, dem dry up, and storm go carry dem away like dry grass.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "true true"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "dem plant dem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "true true"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "dem sow dem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "true true"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "root take"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "for dia stem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and wen"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "breeze blow"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dem dry up"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "and storm"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "like dry grass"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "go carry dem away"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:02.895115374Z",
+  "model": "glm-5.2"
+}

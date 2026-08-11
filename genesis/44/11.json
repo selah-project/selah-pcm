@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And dem quick-quick, carry down each man ⟨את⟩ im bag ground-ward, and each man open im bag.",
+  "tokens": [
+    {
+      "surface": "וַֽיְמַהֲר֗וּ",
+      "gloss": "and dem quick-quick"
+    },
+    {
+      "surface": "וַיּוֹרִ֛דוּ",
+      "gloss": "carry down"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im bag"
+    },
+    {
+      "surface": "אַמְתַּחְתּ֖וֹ",
+      "gloss": "im bag"
+    },
+    {
+      "surface": "אָ֑רְצָה",
+      "gloss": "ground-ward"
+    },
+    {
+      "surface": "וַֽיִּפְתְּח֖וּ",
+      "gloss": "and open"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אַמְתַּחְתּֽוֹ",
+      "gloss": "im bag"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:40.439836459Z",
+  "model": "glm-5.2"
+}

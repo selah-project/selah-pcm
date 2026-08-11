@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Dawud talk to am, \"Your blood dey on top your head, because your mouth testify against you, to talk sey, '⟨Na⟩ me kill ⟨את⟩ Meshiach of Yahweh.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "your blood"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "your head"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "your mouth"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "testify"
+    },
+    {
+      "surface": "בך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk sey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meshiach of Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Meshiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:01.207425241Z",
+  "model": "glm-5.2"
+}

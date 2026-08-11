@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And from am Moshe and Aharon and im son dem wash ⟨את⟩ dia hand dem and ⟨את⟩ dia leg dem.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "and wash"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im son dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hand dem"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia leg dem"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dia leg dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:53.332764365Z",
+  "model": "glm-5.2"
+}

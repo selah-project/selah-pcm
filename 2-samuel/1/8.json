@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And e ask me, 'Who you be?' And I ansa am, 'Amalekite ⟨na⟩ me.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e ask"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and I ansa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekite"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-11T16:06:53.002395690Z",
+  "model": "glm-5.2"
+}

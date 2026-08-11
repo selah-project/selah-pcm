@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Until di next day after di seventh Shabbat una go count fifty day; and una go present ⟨a⟩ new grain-offering to Yahweh.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di next day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "after di Shabbat"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "una go count"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "and una go present"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "grain-offering"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "new"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:43.160209568Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "But as for me, I ⟨be⟩ poor and I dey pain; your deliverance, Elohim, go lift me up high.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But as for me"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "and I dey pain"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "your deliverance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "go lift me up high"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:08.346706050Z",
+  "model": "glm-5.2"
+}

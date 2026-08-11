@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Make una understand, una wey no dey think among di people, and una fools — when una go get sense?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "make una understand"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "una wey no dey think"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "among di people"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "and una fools"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "una go get sense"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:09.493284270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "E dey crouch, e dey bow down, so dat di helpless one go fall under im power.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "e dey crouch"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "e dey bow down"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "so dat ... go fall"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "under im power"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "di helpless one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:39.631202474Z",
+  "model": "glm-5.2"
+}

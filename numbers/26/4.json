@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "from pikin of twenty year and above, as Yahweh don command ⟨את⟩ Moshe, and di Bnei-Yisrael, di ones wey bin come out from land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "from pikin of"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "and above"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di Bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "di ones wey bin come out"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:55.862489454Z",
+  "model": "glm-5.2"
+}

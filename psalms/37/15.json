@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Dia sword go enter inside dia ⟨own⟩ heart, and dia bows go break.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "dia sword"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "inside dia ⟨own⟩ heart"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "and dia bows"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "go break"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:35.386902444Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "How much more ⟨be⟩ say enosh na maggot, and son of adam ⟨na⟩ worm!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "How much more"
+    },
+    {
+      "surface": "כי",
+      "gloss": "say"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "maggot"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "and son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of adam"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "worm"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:24.490688605Z",
+  "model": "glm-5.2"
+}

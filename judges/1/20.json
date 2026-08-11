@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem give Kalev ⟨את⟩ Chevron, as Moshe bin talk; and im drive out from dere ⟨את⟩ di three pikin of Anaq.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem give"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "to Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "and im drive out"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di three pikin"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaq"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:10.619504650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem talk sey, \"Blood be dis! Di kings don destroy each oda, and ⟨dem⟩ bin strike man ⟨את⟩ im neighbour; and now, to di spoil, Moab!\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "destroy"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "don destroy"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "di kings"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and ⟨dem⟩ bin strike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "to di spoil"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:13.621024307Z",
+  "model": "glm-5.2"
+}

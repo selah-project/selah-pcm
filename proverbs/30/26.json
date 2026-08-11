@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Rock-badger dem ⟨na⟩ people wey no strong, but dem don put dia house for di rock.",
+  "tokens": [
+    {
+      "surface": "שְׁ֭פַנִּים",
+      "gloss": "rock-badger dem"
+    },
+    {
+      "surface": "עַ֣ם",
+      "gloss": "people"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עָצ֑וּם",
+      "gloss": "strong"
+    },
+    {
+      "surface": "וַיָּשִׂ֖ימוּ",
+      "gloss": "dem don put"
+    },
+    {
+      "surface": "בַסֶּ֣לַע",
+      "gloss": "for di rock"
+    },
+    {
+      "surface": "בֵּיתָֽם",
+      "gloss": "dia house"
+    }
+  ],
+  "timestamp": "2026-08-11T16:42:10.148900939Z",
+  "model": "glm-5.2"
+}

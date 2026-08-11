@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Dawid go, and e take ⟨את⟩ bones of Sha'ul and ⟨את⟩ bones of Yehonatan im son, from ⟨את⟩ men of Yavesh-Gil'ad, wey steal dem from street of Beit-Shan, where di Pelishtim bin hang dem, for di day wey Pelishtim bin strike ⟨את⟩ Sha'ul for Gilboa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and e go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bones of Sha'ul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bones of"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "bones of Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bones of"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "steal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "from street of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "where"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "di Pelishtim bin hang dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": ""
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "wey dem bin strike"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "for Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:38.265712788Z",
+  "model": "glm-5.2"
+}

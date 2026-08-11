@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And I go bless am, and I go still give you son from her; I go bless her, and she go become nations — kings of peoples go come from her.'",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "and I go bless"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ am",
+      "marks": "her (Sarah)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and I go still"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "give"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from her"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "I go bless her"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "and she go become"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "of peoples"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from her"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go come"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:05.834324250Z",
+  "model": "glm-5.2"
+}

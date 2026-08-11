@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I bin strike una wit blight and wit mildew and wit hail, ⟨את⟩ all di work of una hands, and ⟨none of⟩ una ⟨turn⟩ to me — na so Yahweh talk.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "I bin strike"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "wit blight"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "and wit mildew"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "and wit hail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di work of una hands"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "of una hands"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨none of⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me ⟨turn⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh talk"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:55.793509931Z",
+  "model": "glm-5.2"
+}

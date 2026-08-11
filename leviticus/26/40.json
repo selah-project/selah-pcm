@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And make dem go confess ⟨את⟩ dia iniquity, and ⟨את⟩ di iniquity of dia fadas, for dia trespass wey dem commit against Me, and also wey dem walk with Me for hostility —",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "and make dem go confess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia iniquity"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dia iniquity"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di iniquity"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di iniquity"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "of dia fadas"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "for dia trespass"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "dem commit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against Me"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "and also"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "dem walk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "with Me"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "for hostility"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:57.191722719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "For year twenty and six, year of Asa king of Yehudah, Elah pikin of Baʿsha come king upon Yisraʾel for Tirtsah, two year.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for year"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "and six"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "of Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "come king"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʿsha"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "for Tirtsah"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "two year"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:05.054014442Z",
+  "model": "glm-5.2"
+}

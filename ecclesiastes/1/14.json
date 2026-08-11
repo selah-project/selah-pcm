@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "I don see ⟨את⟩ all di work-dem wey dem don do under di sun, and see, di whole ⟨na⟩ nothing and chasing wind.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "I don see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "di work-dem"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "wey dem don do"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "di whole"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nothing"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "and chasing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:27.122954846Z",
+  "model": "glm-5.2"
+}

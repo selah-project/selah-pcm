@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Make dia eyes dark, comot from seeing, and make dia waist always dey shake.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "make ⟨dem⟩ dark"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dia eyes"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "comot from seeing"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "and dia waist"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "dey shake"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.500662247Z",
+  "model": "glm-5.2"
+}

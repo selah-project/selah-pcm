@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Den ah no go shame wen ah look all ya commandments.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "Den"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אֵבוֹשׁ",
+      "gloss": "go shame"
+    },
+    {
+      "surface": "בְּהַבִּיטִי",
+      "gloss": "wen ah look"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "ya commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:49.724683628Z",
+  "model": "glm-5.2"
+}

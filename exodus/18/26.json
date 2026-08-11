@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And dem bin dey judge ⟨את⟩ di people for all time — ⟨dem⟩ go bring ⟨את⟩ di hard matter to Mosheh, but every small matter na dem ⟨themselves⟩ go judge am.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "And dem bin dey judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di hard matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "dem go bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "but every"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "dem go judge am"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem ⟨themselves⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:20.741204042Z",
+  "model": "glm-5.2"
+}

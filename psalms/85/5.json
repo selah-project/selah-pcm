@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "Turn us back, Elohim of our salvation, and cancel ⟨di⟩ vexation wey dey with us.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Turn us back"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "our salvation"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "and cancel"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "⟨di⟩ vexation of you"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "with us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:37.045310189Z",
+  "model": "glm-5.2"
+}

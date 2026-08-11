@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And di officers go speak to di people, sey, who be di man wey build new house and never dedicate am? Make im go and go back to im house, make im no die for war and anoda man come dedicate am.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "and go speak"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "di officers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and never"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "dedicate am"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "make im go"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and go back"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to im house"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make im no"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "die"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "for war"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and anoda man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "dedicate am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:29.074044764Z",
+  "model": "glm-5.2"
+}

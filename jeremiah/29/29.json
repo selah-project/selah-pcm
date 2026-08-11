@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Tsephanyah di priest read ⟨את⟩ dis letter for di ear of Yirmeyahu di prophet.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and im read"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsephanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis letter"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "di letter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "for di ear of"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:57.173958671Z",
+  "model": "glm-5.2"
+}

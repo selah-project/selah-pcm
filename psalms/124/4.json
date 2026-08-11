@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "den di water for don sweep us comot, di torrent for pass over our life-force,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "den"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "for don sweep us comot"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "di torrent"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "for pass over"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "our life-force"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:38.530078764Z",
+  "model": "glm-5.2"
+}

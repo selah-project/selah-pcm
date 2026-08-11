@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Dem don set net for my steps, my life-breath don bend low; dem dig pit before me — ⟨dem⟩ don fall inside am. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "net"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "dem don set"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "for my steps"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "don bend low"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-breath"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "dem dig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before me"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "pit"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "⟨dem⟩ don fall"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:36.046408910Z",
+  "model": "glm-5.2"
+}

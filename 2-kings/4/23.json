@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And im tok sey, why you dey go to am today? E no ⟨be⟩ new moon, and e no ⟨be⟩ Sabbath. And she tok sey, Shalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tok sey"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "why"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "you"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new moon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she tok sey"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:23.732802549Z",
+  "model": "glm-5.2"
+}

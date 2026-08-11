@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Because na to Elohim of im papa im bin dey find, and for ⟨im⟩ commandment dem im bin waka, and no be like wetin Yisrael bin dey do.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "to Elohim of"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "bin dey find"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "and for commandment dem of"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin waka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "like wetin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael bin dey do"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.612727938Z",
+  "model": "glm-5.2"
+}

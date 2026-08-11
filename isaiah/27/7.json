@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Like di striking of di one wey strike am, ⟨so⟩ ⟨He⟩ strike am? Like di killing of im ⟨own⟩ killed ones, ⟨so⟩ dem kill?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "like di striking of"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "di one wey strike am"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "⟨He⟩ strike am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨or⟩ like"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "like di killing of"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "im killed ones"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dem kill"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:59.458877239Z",
+  "model": "glm-5.2"
+}

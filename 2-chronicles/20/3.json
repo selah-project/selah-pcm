@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yehoshafat fear, and e set ⟨את⟩ im face to seek Yahweh; and e proclaim fast upon all Yehudah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and e fear"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and e set"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "to seek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e proclaim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fast"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:19.216713910Z",
+  "model": "glm-5.2"
+}

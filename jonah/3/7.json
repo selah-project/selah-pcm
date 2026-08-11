@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e make proclamation, and e talk for inside Nineveh by decree of di king and im great ones, sey: Man and animal, cattle and flock, make dem no taste anytin at all, make dem no graze, and water, make dem no drink.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "and e make proclamation"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "for inside Nineveh"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "by decree"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "and im great ones"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "and animal"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cattle"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "and flock"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "make dem taste"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anytin at all"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "make dem graze"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "and water"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "make dem drink"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:03.104100578Z",
+  "model": "glm-5.2"
+}

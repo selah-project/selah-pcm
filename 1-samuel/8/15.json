@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And una seed and una vineyards im go tithe, and give to im officials and to im servants.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "and una seed"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "and una vineyards"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "im go tithe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "to im officials"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "and to im servants"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:44.336160877Z",
+  "model": "glm-5.2"
+}

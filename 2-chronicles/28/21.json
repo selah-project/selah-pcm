@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Because Achaz bin take portion from ⟨את⟩ house of Yahweh and ⟨את⟩ house of di king and di princes, and ⟨he⟩ give am to king of Ashur, but e no help am at all.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חָלַ֤ק",
+      "gloss": "bin take portion"
+    },
+    {
+      "surface": "אָחָז֙",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "house"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "house"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וְהַשָּׂרִ֑ים",
+      "gloss": "and di princes"
+    },
+    {
+      "surface": "וַיִּתֵּן֙",
+      "gloss": "and ⟨he⟩ give"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "to king of"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "but not"
+    },
+    {
+      "surface": "לְעֶזְרָ֖ה",
+      "gloss": "for help"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "to am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:32.633674957Z",
+  "model": "glm-5.2"
+}

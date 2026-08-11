@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Like man wey im mama dey console am, so I go console una, and for Yerushalayim una go ⟨be⟩ console.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "like man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "dey console am"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "go console una"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "and for Yerushalayim"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "una go console"
+    }
+  ],
+  "timestamp": "2026-08-11T11:40:04.154681442Z",
+  "model": "glm-5.2"
+}

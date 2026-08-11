@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Like dem, ⟨na⟩ so dia makers go be; evri person wey dey put trust for dem.",
+  "tokens": [
+    {
+      "surface": "כְּ֭מוֹהֶם",
+      "gloss": "like dem"
+    },
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "go be"
+    },
+    {
+      "surface": "עֹשֵׂיהֶ֑ם",
+      "gloss": "dia makers"
+    },
+    {
+      "surface": "כֹּ֭ל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "person wey"
+    },
+    {
+      "surface": "בֹּטֵחַ֣",
+      "gloss": "dey put trust"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:01.786764992Z",
+  "model": "glm-5.2"
+}

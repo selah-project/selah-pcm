@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Look among di nations, and look well, and full of wonder, wonder well, because ⟨na⟩ work ⟨dey happen⟩ for una days wey una no go believe even if dem tell am.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Look"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "and look well"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "and full of wonder"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "wonder well"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "work"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨dey happen⟩"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "for una days"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "una go believe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "even if"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dem tell am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:05.852840807Z",
+  "model": "glm-5.2"
+}

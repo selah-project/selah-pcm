@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Talk to ⟨di⟩ sons of Yisra'el, sey: wen one nepeš sin by mistake, from all ⟨di⟩ commandments of Yahweh wey dem no suppose do, and e do one from dem —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nepeš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "by mistake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "commandments"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "dem suppose do"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and do"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "one from"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:59.400632537Z",
+  "model": "glm-5.2"
+}

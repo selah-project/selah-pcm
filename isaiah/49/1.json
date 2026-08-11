@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Hear una, una island-dem, near me, and pay attention, una people-dem, from far: Yahweh don call me from ⟨di⟩ womb; from ⟨di⟩ inside of my mama im belly im don make dem remember my name.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hear una"
+    },
+    {
+      "surface": "איים",
+      "gloss": "island-dem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "near me"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "and pay attention"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "una people-dem"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "from womb"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "don call me"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my mama"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "im don make dem remember"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:36.575722370Z",
+  "model": "glm-5.2"
+}

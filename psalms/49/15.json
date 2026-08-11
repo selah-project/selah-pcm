@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Like sheep, dem set dem for Sheol; death go shepherd dem; and di upright go rule over dem for morning; and dia form go dey wear Sheol comot, ⟨so dat⟩ e no get house again.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "like sheep"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "for Sheol"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "dem set dem"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "go shepherd dem"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "and go rule"
+    },
+    {
+      "surface": "בם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "di upright"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "and dia form"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "go dey wear comot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "from house"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:16.661159474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Fada dem no go die for sake of pikin dem, and pikin dem no go die for sake of fada dem; each man for im own sin dem go die.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "go die"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fada dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "for sake of"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pikin dem"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "and pikin dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "go die"
+    },
+    {
+      "surface": "על",
+      "gloss": "for sake of"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fada dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "for im own sin"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "go die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:43.941170675Z",
+  "model": "glm-5.2"
+}

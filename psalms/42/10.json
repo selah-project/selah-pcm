@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "I go talk to El, my rock, 'Why you forget me? Why I dey go dark under di oppression of enemy?'",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rock"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "you forget me"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "dey go dark"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "under di oppression"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "of enemy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:23.776014241Z",
+  "model": "glm-5.2"
+}

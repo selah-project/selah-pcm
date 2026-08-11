@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "To di One wey lead im people for di wilderness, because im chesed dey last forever.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "to di One wey lead"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed dey last"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:11.355680155Z",
+  "model": "glm-5.2"
+}

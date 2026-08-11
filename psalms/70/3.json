@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 70,
+  "translation": "Make dem shame and make dem disgraced, dem wey dey find my life; make dem go back and make dem humiliated, dem wey dey glad for my trouble.",
+  "tokens": [
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "make dem shame"
+    },
+    {
+      "surface": "וְיַחְפְּרוּ",
+      "gloss": "and make dem disgraced"
+    },
+    {
+      "surface": "מְבַקְשֵׁי",
+      "gloss": "dem wey dey find"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "יִסֹּגוּ",
+      "gloss": "make dem go back"
+    },
+    {
+      "surface": "אָחוֹר",
+      "gloss": "backward"
+    },
+    {
+      "surface": "וְיִכָּלְמוּ",
+      "gloss": "and make dem humiliated"
+    },
+    {
+      "surface": "חֲפֵצֵי",
+      "gloss": "dem wey dey glad"
+    },
+    {
+      "surface": "רָעָתִי",
+      "gloss": "for my trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:16.876014226Z",
+  "model": "glm-5.2"
+}

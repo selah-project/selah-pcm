@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "\"Ah go send malakh go bifor you, and Ah go drive ⟨את⟩ komot di Kenaʿani, di Emori, and di Chiti, and di Perizzi, di Chivi, and di Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ah go send"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "bifor you"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malakh"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "and Ah go drive komot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kenaʿani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kenaʿani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "and di Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "and di Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "and di Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:24.810911490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "But all Yisraʼel and Yehudah bin love ⟨את⟩ David, because ⟨im⟩ dey go out and dey come in before dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "but all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʼel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "bin love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "dey go out"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "and dey come in"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:09.778032859Z",
+  "model": "glm-5.2"
+}

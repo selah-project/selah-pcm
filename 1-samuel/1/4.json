@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And when di day come, Elkanah bin sacrifice, and ⟨he⟩ bin give to Peninnah im wife and to all im son-dem and im daughter-dem portion-dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and when"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "bin sacrifice"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and bin give"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "to Peninnah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "im son-dem"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "and im daughter-dem"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "portion-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:43.510552464Z",
+  "model": "glm-5.2"
+}

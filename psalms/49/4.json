@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "My mouth go speak wisdoms, and di meditation of my heart ⟨na⟩ understanding.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "go speak"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wisdoms"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "and di meditation of"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "understanding"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:10.410314027Z",
+  "model": "glm-5.2"
+}

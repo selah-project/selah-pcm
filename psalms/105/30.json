@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "E make dia land swarm with frog, for inside di room of dia king dem.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "E make swarm"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dia land"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "frog"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "for inside di room"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dia king dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:25.050655609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I go pour my hot anger on Sin, di strong place of Mitsrayim, and I go cut off ⟨את⟩ di crowd of No.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "And I go pour"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "my hot anger"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "di strong place"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di crowd"
+    },
+    {
+      "surface": "המון",
+      "gloss": "di crowd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "of No"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:05.754997705Z",
+  "model": "glm-5.2"
+}

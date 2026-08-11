@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Dis na di names of di sons of Aharon, di anointed priests, di ones wey ⟨dem⟩ fill dia hand to serve as priest.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "di names"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "di anointed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di ones wey"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fill"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "to serve as priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:09.125298061Z",
+  "model": "glm-5.2"
+}

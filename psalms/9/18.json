@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Wicked people dem go return back to Sheol — all di nation dem wey dey forget Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "go return back"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people dem"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "to Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nation dem"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "wey dey forget"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:46.753630707Z",
+  "model": "glm-5.2"
+}

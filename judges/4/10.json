@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Barak call ⟨את⟩ Zevulun and ⟨את⟩ Naftali for Qedesh, and e go up on im legs ten thousand man, and Deborah go up with am.",
+  "tokens": [
+    {
+      "surface": "וזעק",
+      "gloss": "and call"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "on im legs"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Deborah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:28:02.501152019Z",
+  "model": "glm-5.2"
+}

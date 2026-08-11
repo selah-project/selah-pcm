@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 19:17",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Shaul talk to Mikal: \"Why you deceive me like dis, and you send away ⟨את⟩ my enemy, and ⟨im⟩ escape?\" And Mikal talk to Shaul: \"Na im tell me sey, 'Make you send me away—why I go kill you?'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "you deceive me"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "and you send away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my enemy"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemy"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "and ⟨im⟩ escape"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "make you send me away"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "אמיתך",
+      "gloss": "I go kill you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:32.029190499Z",
+  "model": "glm-5.2"
+}

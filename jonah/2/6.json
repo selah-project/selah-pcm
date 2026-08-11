@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Water bin surround me reach ⟨my⟩ throat, deep bin enclose me, reed bin tie for my head.",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֤וּנִי",
+      "gloss": "bin surround me"
+    },
+    {
+      "surface": "מַ֨יִם֙",
+      "gloss": "water"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "נֶ֔פֶשׁ",
+      "gloss": "throat"
+    },
+    {
+      "surface": "תְּה֖וֹם",
+      "gloss": "deep"
+    },
+    {
+      "surface": "יְסֹבְבֵ֑נִי",
+      "gloss": "bin enclose me"
+    },
+    {
+      "surface": "ס֖וּף",
+      "gloss": "reed"
+    },
+    {
+      "surface": "חָב֥וּשׁ",
+      "gloss": "bin tie"
+    },
+    {
+      "surface": "לְרֹאשִֽׁי",
+      "gloss": "for my head"
+    }
+  ],
+  "timestamp": "2026-08-11T16:31:58.485740854Z",
+  "model": "glm-5.2"
+}

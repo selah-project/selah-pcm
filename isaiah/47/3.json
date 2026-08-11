@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "Your nakedness go show; even your shame dem go see; vengeance I go take, and I no go spare man.",
+  "tokens": [
+    {
+      "surface": "תִּגָּל֙",
+      "gloss": "go show"
+    },
+    {
+      "surface": "עֶרְוָתֵ֔ךְ",
+      "gloss": "your nakedness"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "even"
+    },
+    {
+      "surface": "תֵּרָאֶ֖ה",
+      "gloss": "dem go see"
+    },
+    {
+      "surface": "חֶרְפָּתֵ֑ךְ",
+      "gloss": "your shame"
+    },
+    {
+      "surface": "נָקָ֣ם",
+      "gloss": "vengeance"
+    },
+    {
+      "surface": "אֶקָּ֔ח",
+      "gloss": "I go take"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "and I no go"
+    },
+    {
+      "surface": "אֶפְגַּ֖ע",
+      "gloss": "spare"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:27.439809369Z",
+  "model": "glm-5.2"
+}

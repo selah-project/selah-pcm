@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im carry me enter ⟨את⟩ to di opening of di court, and I look, and see — one hole for di wall.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and im carry me enter"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di opening"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "of di court"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "and I look"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "חר",
+      "gloss": "hole"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "for di wall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:04:15.178323358Z",
+  "model": "glm-5.2"
+}

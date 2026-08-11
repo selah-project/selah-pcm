@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Noach bin build altar for Yahweh; and e bin take from all di clean animal and from all di clean bird, and e bin offer burnt offerings on top di altar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "clean"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "and from all"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "clean"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and bin offer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "burnt offerings"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "on top di altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:55.343315500Z",
+  "model": "glm-5.2"
+}

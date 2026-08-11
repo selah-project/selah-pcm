@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And I go stretch measuring-line ontop Yerushalayim — ⟨את⟩ line of Shomron, and ⟨את⟩ plummet of Bet־Achav; and I go wipe ⟨את⟩ Yerushalayim, as dem dey wipe ⟨את⟩ plate — wipe am, and turn am upside down on im face.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "and I go stretch"
+    },
+    {
+      "surface": "על",
+      "gloss": "ontop"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "line of Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "line"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "of Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "plummet of Bet-Achav"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "plummet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "of Achav"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "and I go wipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "dem dey wipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plate"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "plate"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wipe am"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "and turn am upside down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "im face"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:45.540311128Z",
+  "model": "glm-5.2"
+}

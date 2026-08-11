@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And dem go sprout between grass, like willows beside streams of water.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "and dem go sprout"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "between"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "like willows"
+    },
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "streams"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.863575569Z",
+  "model": "glm-5.2"
+}

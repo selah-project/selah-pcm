@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So Moshe bin take ⟨את⟩ im wife and ⟨את⟩ im sons, and bin make dem ride on top di donkey, and bin go back to di land of Mitsrayim. And Moshe bin take ⟨את⟩ di staff of Elohim for im hand.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wife"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "bin make dem ride"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "di donkey"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bin go back"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di staff"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "di staff"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:08.162309575Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And you go bring ⟨את⟩ di grain offering wey dem go make from dis tin dem to Yahweh, and you go present am to di priest, and e go bring am near to di altar.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "and you go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di grain offering"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di grain offering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dem go make"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "from dis tin dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "and you go present am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "and e go bring am near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:26.598204540Z",
+  "model": "glm-5.2"
+}

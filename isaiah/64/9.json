@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Your holy cities don turn wilderness, Tziyon don turn wilderness, Yerushalayim ⟨na⟩ desolation.",
+  "tokens": [
+    {
+      "surface": "עָרֵי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "קָדְשְׁךָ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "don turn"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "wilderness"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "wilderness"
+    },
+    {
+      "surface": "הָיָתָה",
+      "gloss": "don turn"
+    },
+    {
+      "surface": "יְרוּשָׁלִַם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שְׁמָמָה",
+      "gloss": "desolation"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:00.405217106Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And di battle press heavy against Sha'ul, and di archers find am, men with bow, and e suffer well-well from di archers.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "and e press heavy"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "di battle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "against"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "and dem find am"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "di archers"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "with bow"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "and e suffer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "from di archers"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:07.943875565Z",
+  "model": "glm-5.2"
+}

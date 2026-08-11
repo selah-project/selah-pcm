@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Una wey dey ride white female donkeys, una wey dey sit on top saddle-blankets, and una wey dey walk for road — make una talk am!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "una wey dey ride"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "female donkeys"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "white"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "una wey dey sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "saddle-blankets"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "and una wey dey walk"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "make una talk am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:39.960755164Z",
+  "model": "glm-5.2"
+}

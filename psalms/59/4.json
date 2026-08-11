@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Because see, dem don hide dey wait for my throat, mighty one-dem don gather against me — no be my rebellion, and no be my sin, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "dem don hide dey wait"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "for my throat"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "dem don gather"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mighty one-dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my rebellion"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:40.403000987Z",
+  "model": "glm-5.2"
+}

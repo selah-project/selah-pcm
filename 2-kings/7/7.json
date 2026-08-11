@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So dem bin stand up and dem bin run for twilight, and dem bin leave behind ⟨את⟩ dia tents and ⟨את⟩ dia horses and ⟨את⟩ dia donkeys — di camp as e bin dey — and dem bin run for dia life.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "dem bin stand up"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "and dem bin run"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "for twilight"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "and dem bin leave behind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia tents"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "dia tents"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia horses"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "dia horses"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia donkeys"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dia donkeys"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e bin dey"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and dem bin run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "dia life"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:30.958494238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And David reach Makhana'im, and Avshalom cross ⟨את⟩ Yarden, ⟨na⟩ im and all ⟨di⟩ man of Yisrael wit am.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "and David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "reach"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Makhana'im"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "and Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ im"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:10.106870584Z",
+  "model": "glm-5.2"
+}

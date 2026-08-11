@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So Elohim look ⟨את⟩ di earth, and ⟨behold⟩ e don spoil; because all flesh don spoil ⟨את⟩ im own way on top di earth.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "so ⟨look⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and ⟨behold⟩"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "⟨e don spoil⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "⟨don spoil⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im own way"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "im own way"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:41.116849815Z",
+  "model": "glm-5.2"
+}

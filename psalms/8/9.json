@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Bird of di heaven, and fish of di sea, ⟨wey⟩ dey pass through di road of di sea.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "bird"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "of di heaven"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "and fish"
+    },
+    {
+      "surface": "הים",
+      "gloss": "of di sea"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨wey⟩ dey pass"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "through di road"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "of di sea"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:26.276419719Z",
+  "model": "glm-5.2"
+}

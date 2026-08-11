@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And dem inherit ⟨את⟩ all border of di Emori, from Arnon reach Yabbok, and from di wilderness reach Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "and dem inherit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all border of di Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "border of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "from Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di wilderness"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:31:10.198059801Z",
+  "model": "glm-5.2"
+}

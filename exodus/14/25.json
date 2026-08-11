@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And ⟨im⟩ comot ⟨את⟩ di wheel of dia chariot, and ⟨im⟩ drive dem wit heaviness, and Mitsrayim tok sey, \"Make we run from di face of Yisra'el, because Yahweh dey fight for dem against Mitsrayim!\"",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "and ⟨im⟩ comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wheel"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "wheel"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "of dia chariot"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "and ⟨im⟩ drive dem"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "wit heaviness"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "make we run"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "dey fight"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "against Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:56.344206696Z",
+  "model": "glm-5.2"
+}

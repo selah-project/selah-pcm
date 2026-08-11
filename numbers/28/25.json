@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And for di seventh day, holy gathering ⟨go⟩ be for una; all work of labor una no go do.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "and for di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "gathering"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "work"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "of labor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:41.530895387Z",
+  "model": "glm-5.2"
+}

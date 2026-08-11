@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Adonai, all my desire dey before You, and my groaning no hide from You.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "My Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "before You"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "my desire"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "and my groaning"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from You"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "hide"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.785497135Z",
+  "model": "claude-opus-4-8"
+}

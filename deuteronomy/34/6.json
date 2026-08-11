@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And ⟨he⟩ bury ⟨את⟩ am for di valley for di land of Moab, opposite Bet־Peor; and no man know ⟨את⟩ im burial place until dis day.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "And bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "for di valley"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "man know"
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im burial place"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "im burial place"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dis day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:29.513437904Z",
+  "model": "glm-5.2"
+}

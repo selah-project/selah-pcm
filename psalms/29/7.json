@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Di voice of Yahweh dey carve out flame dem of fire.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "dey carve out"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "flame dem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:28.460245291Z",
+  "model": "glm-5.2"
+}

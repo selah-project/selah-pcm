@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So ⟨He⟩ drive ⟨את⟩ di man comot, and ⟨He⟩ make ⟨them⟩ siddon for east side of Gan־Eden ⟨את⟩ di kerubim and ⟨את⟩ di flame of di sword wey dey turn evri side, make ⟨dem⟩ guard ⟨את⟩ di road to di tree of life.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "so ⟨He⟩ drive comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "and ⟨He⟩ make siddon"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "for east side"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "of Gan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kerubim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "di kerubim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di flame"
+    },
+    {
+      "surface": "להט",
+      "gloss": "di flame"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "of di sword"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "wey dey turn evri side"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "make ⟨dem⟩ guard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di road"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "to di tree"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "of life"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:59.577949606Z",
+  "model": "glm-5.2"
+}

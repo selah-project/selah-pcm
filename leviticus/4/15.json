@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di elders of di assembly go lean ⟨את⟩ dia hands on top ⟨di⟩ head of di bull before Yahweh, and dem go slaughter ⟨את⟩ di bull before Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "and go lean"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "elders of"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hands"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hands"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head of"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "di bull"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "and dem go slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bull"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "di bull"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:07.259093795Z",
+  "model": "glm-5.2"
+}

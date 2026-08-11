@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "After Yahweh una Elohim una go waka, and ⟨am⟩ una go fear, and ⟨את⟩ im commandments una go keep, and to im voice una go hear, and ⟨am⟩ una go serve, and to ⟨am⟩ una go hold tight.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "una go waka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "am (Yahweh)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "una go fear"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im commandments"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "im commandments"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "and to im voice"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "una go hear"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "am (Yahweh)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "una go serve"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "and to ⟨am⟩"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "una go hold tight"
+    }
+  ],
+  "timestamp": "2026-08-11T10:10:47.095373823Z",
+  "model": "glm-5.2"
+}

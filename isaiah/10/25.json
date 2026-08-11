@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Because still small small time, and ⟨di⟩ indignation go finish, and my anger upon dia destruction.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "small time"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "and go finish"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "indignation"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "and my anger"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "dia destruction"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:47.747300426Z",
+  "model": "glm-5.2"
+}

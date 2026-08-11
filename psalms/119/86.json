@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "All commandment of you ⟨na⟩ faithfulness; wit lie lie dem dey pursue me — help me!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "commandment of you"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "faithfulness"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wit lie lie"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "dem dey pursue me"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "help me!"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:56.539964836Z",
+  "model": "glm-5.2"
+}

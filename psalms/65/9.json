@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "And di dem wey dey siddon for di end dem dey fear from ⟨את⟩ your sign dem; di place dem wey morning dey come out and evening, you dey make dem sing.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "and dem dey fear"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem wey dey siddon"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "for di end"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "from",
+      "marks": "your sign dem"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "di place dem wey dey come out"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "and evening"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "you dey make dem sing"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.834318374Z",
+  "model": "glm-5.2"
+}

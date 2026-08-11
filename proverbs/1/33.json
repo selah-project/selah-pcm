@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But anybody wey dey hear me go siddon for safety, and ⟨e⟩ go dey quiet from di fear of bad tin.",
+  "tokens": [
+    {
+      "surface": "וְשֹׁמֵ֣עַֽ",
+      "gloss": "And anybody wey dey hear"
+    },
+    {
+      "surface": "לִ֭י",
+      "gloss": "me"
+    },
+    {
+      "surface": "יִשְׁכָּן",
+      "gloss": "go siddon"
+    },
+    {
+      "surface": "בֶּ֑טַח",
+      "gloss": "for safety"
+    },
+    {
+      "surface": "וְ֝שַׁאֲנַ֗ן",
+      "gloss": "and go dey quiet"
+    },
+    {
+      "surface": "מִפַּ֥חַד",
+      "gloss": "from di fear"
+    },
+    {
+      "surface": "רָעָֽה",
+      "gloss": "of bad tin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:38.830940564Z",
+  "model": "glm-5.2"
+}

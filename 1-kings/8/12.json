@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Den Shelomoh bin talk: Yahweh don talk sey ⟨e⟩ go dwell for thick darkness.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "go dwell"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "for thick darkness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:40.570480366Z",
+  "model": "glm-5.2"
+}

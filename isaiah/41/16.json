@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "You go winnow ⟨את⟩ dem, and wind go carry ⟨dem⟩, and storm go scatter ⟨dem⟩; and you go rejoice for Yahweh, for di Holy One of Israel you go boast.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "you go winnow"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and wind"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "go carry"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "and storm"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "go scatter"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "go rejoice"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "for di Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "you go boast"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:08.219443049Z",
+  "model": "glm-5.2"
+}

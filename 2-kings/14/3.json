@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e do wetin bin dey right for Yahweh im eye, only no like Dawid im papa; according to all wey Yoash im papa do, na so e do.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e do"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "wetin bin dey right"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "like Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na so e do"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:56.512155868Z",
+  "model": "glm-5.2"
+}

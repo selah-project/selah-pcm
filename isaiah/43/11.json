@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "I, I ⟨na⟩ Yahweh, and apart from me ⟨no⟩ dey any savior.",
+  "tokens": [
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "I"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "gloss": "I"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "and ⟨no⟩"
+    },
+    {
+      "surface": "מִבַּלְעָדַ֖י",
+      "gloss": "apart from me"
+    },
+    {
+      "surface": "מוֹשִֽׁיעַ",
+      "gloss": "savior"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:34.392609485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "All of dem dey look to You, make You give dem food for im time.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "All of dem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "make You give"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dem food"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "for im time"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:09.371417499Z",
+  "model": "glm-5.2"
+}

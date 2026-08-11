@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "From di ground unto above di entrance, di keruvim and di palm trees — dem make ⟨dem⟩; ⟨and⟩ na di wall of di hall.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "from di ground"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "above"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "di keruvim"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "and di palm trees"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "dem make"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "and ⟨na⟩ di wall"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "of di hall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:18.148493026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And all Yisra'el bin enroll demself by pedigree, and see, dem dey written for di book of di kings of Yisra'el and Yehudah; dem carry dem go Bavel because of dia unfaithfulness.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "enroll demself by pedigree"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "and see"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "dem dey written"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "di book"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "of di kings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "dem carry dem go exile"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "go Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "because of dia unfaithfulness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:57:57.189860258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "For e no go plenty-much remember ⟨את⟩ di days of im life, because Elohim dey answer am for di gladness of im heart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "plenty-much"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "go remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di days of im life"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "of im life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "dey answer am"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "for di gladness"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "of im heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:30.406354026Z",
+  "model": "glm-5.2"
+}

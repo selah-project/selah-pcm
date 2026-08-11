@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Shelomah bin love ⟨את⟩ Yahweh, to waka for di statutes of David im papa; only for di high places ⟨he⟩ dey sacrifice and dey burn incense.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "and bin love"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to waka"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "for di statutes"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "for di high places"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dey sacrifice"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "and dey burn incense"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:17.819225531Z",
+  "model": "glm-5.2"
+}

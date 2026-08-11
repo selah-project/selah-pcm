@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Ḥanah bin pray, and she talk say: My heart dey jump for joy for Yahweh, my horn don rise high for Yahweh, my mouth don wide open against my enemy dem, because I bin glad for your salvation.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "and bin pray"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ḥanah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk say"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "dey jump for joy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "don rise high"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "my horn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "don wide open"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my enemy dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "I bin glad"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "for your salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:50.393955796Z",
+  "model": "glm-5.2"
+}

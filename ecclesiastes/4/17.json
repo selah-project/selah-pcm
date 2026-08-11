@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Watch ya step as you dey go ⟨go⟩ house of Elohim, and ⟨e⟩ better well-well to listen, pass ⟨wetin⟩ fool dem dey give as sacrifice, because dem no know sey dem dey do bad tin.",
+  "tokens": [
+    {
+      "surface": "שְׁמֹ֣ר",
+      "gloss": "Watch"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ya step"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֤ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "תֵּלֵךְ֙",
+      "gloss": "you dey go"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "הָאֱלֹהִ֔ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְקָר֣וֹב",
+      "gloss": "and ⟨e⟩ better"
+    },
+    {
+      "surface": "לִשְׁמֹ֔עַ",
+      "gloss": "to listen"
+    },
+    {
+      "surface": "מִתֵּ֥ת",
+      "gloss": "pass ⟨wetin⟩"
+    },
+    {
+      "surface": "הַכְּסִילִ֖ים",
+      "gloss": "fool dem"
+    },
+    {
+      "surface": "זָ֑בַח",
+      "gloss": "dey give as sacrifice"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֵינָ֥ם",
+      "gloss": "dem no"
+    },
+    {
+      "surface": "יוֹדְעִ֖ים",
+      "gloss": "know"
+    },
+    {
+      "surface": "לַעֲשׂ֥וֹת",
+      "gloss": "sey dem dey do"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "bad tin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:56.549804113Z",
+  "model": "glm-5.2"
+}

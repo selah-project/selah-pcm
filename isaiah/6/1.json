@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "For di year wey King ʿUziyyahu bin die, I bin see ⟨את⟩ Adonai, im dey sit down on top throne wey ⟨na⟩ high and lifted up, and di hem of im robe dey full ⟨את⟩ di temple.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "for di year wey"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ʿUziyyahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "I bin see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "im dey sit down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "throne"
+    },
+    {
+      "surface": "רם",
+      "gloss": "high"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "and lifted up"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "and di hem of im robe"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "dey full"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di temple"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "di temple"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:08.500838805Z",
+  "model": "glm-5.2"
+}

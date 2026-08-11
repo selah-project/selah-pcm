@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Chur bin father ⟨את⟩ Uri, and Uri bin father ⟨את⟩ Betzalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "And Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "and Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin father"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betzalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:13.675784647Z",
+  "model": "glm-5.2"
+}

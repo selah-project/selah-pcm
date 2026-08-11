@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "E dey sit for ambush for di village courtyards; for hiding places e dey kill di innocent; im eyes dey watch for di helpless, e dey lurk.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "e dey sit"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "for ambush"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "di village courtyards"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "for hiding places"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "e dey kill"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "di innocent"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eyes"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "for di helpless"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "e dey lurk"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:14.301816401Z",
+  "model": "glm-5.2"
+}

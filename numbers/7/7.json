@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "⟨את⟩ Two carts and ⟨את⟩ four cows e give to di sons of Gershon, according to dia work.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Two carts"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "Two"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "carts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "four cows"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "four"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cows"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di sons"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "of Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "dia work"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:40.824829938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "So Yaʿaqov bin cook soup, and Esav come from di field, and e dey tired.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "so e bin cook"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "soup"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "dey tired"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:14.361191524Z",
+  "model": "glm-5.2"
+}

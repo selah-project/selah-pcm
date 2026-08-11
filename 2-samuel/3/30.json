@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Yoav and Avishai im broda kill Avner, because im kill ⟨את⟩ Asael dia broda for Givon for di war.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "So Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "and Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kill"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "because"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "המית",
+      "gloss": "im kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dia broda"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "for Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "for di war"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:05.038686342Z",
+  "model": "glm-5.2"
+}

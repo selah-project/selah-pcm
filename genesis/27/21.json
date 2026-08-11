@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Yitschak talk to Yaakob, \"Come near now, make I touch you, my son — you, ⟨na⟩ be my son Esav, or no?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "come near"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "and make I touch you"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "זה",
+      "gloss": "be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "or"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:58.866176671Z",
+  "model": "glm-5.2"
+}

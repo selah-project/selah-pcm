@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "To di choir leader, wit string instrument, on top di eighth ⟨tune⟩ — song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir leader"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "wit string instrument"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "di eighth"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:37.257277038Z",
+  "model": "glm-5.2"
+}

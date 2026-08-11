@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "And dem chop all grass for dia land, and dem chop ⟨את⟩ fruit of dia soil.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "and dem chop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "for dia land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "and dem chop"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "dia soil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:39.777915442Z",
+  "model": "glm-5.2"
+}

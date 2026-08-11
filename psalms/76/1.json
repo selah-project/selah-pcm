@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "To di choir leader, wit string-instrument. Poem-song wey dem give to Asaf, song.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir leader"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "wit string-instrument"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "poem-song"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "to Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:16.740111125Z",
+  "model": "glm-5.2"
+}

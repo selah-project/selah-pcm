@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "For dat day, dem go sing dis song for land of Yehudah: strong city ⟨be⟩ for us; Yahweh go put salvation ⟨as⟩ wall and rampart.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "dem go sing"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "di song"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "salvation"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "⟨He⟩ go put"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "wall"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "and rampart"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:31.688963514Z",
+  "model": "glm-5.2"
+}

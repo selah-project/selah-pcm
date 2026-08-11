@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Then Dawid talk make dem gather ⟨את⟩ di strangers wey dey for land of Yisrael, and e set stone-cutters to cut dressed stones to build ⟨the⟩ house of Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "then talk"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "make dem gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di strangers"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "di strangers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dey for land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "and e set"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "stone-cutters"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "to cut"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stones"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "dressed stones"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:09.449460694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And I go make ⟨את⟩ di house of Achav like di house of Yarov'am, son of Nevat, and like di house of Ba'sha, son of Achiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "of Achav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "like di house"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "of Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "of Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "and like di house"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "of Ba'sha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "of Achiyah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:27.675677873Z",
+  "model": "glm-5.2"
+}

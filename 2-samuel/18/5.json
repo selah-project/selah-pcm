@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And di king bin command ⟨את⟩ Yoav and ⟨את⟩ Avishay and ⟨את⟩ Itay, sey: 'Make una deal gently with me, with di young man, with Avshalom.' And all di people hear when di king bin dey command ⟨את⟩ all di commanders concerning di matter of Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and bin command"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Avishay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Itay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "gently"
+    },
+    {
+      "surface": "לי",
+      "gloss": "with me"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "with di young man"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "with Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "when bin dey command"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di commanders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "di commanders"
+    },
+    {
+      "surface": "על",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:10.461719854Z",
+  "model": "glm-5.2"
+}

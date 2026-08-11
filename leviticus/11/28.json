@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di person wey carry ⟨את⟩ dia dead body go wash im cloths, and im go dey unclean until evening — dem dey unclean for una.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "and di person wey carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia dead body"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "dia dead body"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "go wash"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "and im go dey unclean"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "dem dey unclean"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:00.750508436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Judge me as your righteousness dey, Yahweh Elohay, and make dem no glad for my ⟨matter⟩.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "judge me"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "as your righteousness dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "dem no glad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for my ⟨matter⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.709562152Z",
+  "model": "glm-5.2"
+}

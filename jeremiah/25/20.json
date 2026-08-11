@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "and ⟨את⟩ all di mixed people, and ⟨את⟩ all di kings of ⟨di⟩ land of Uts, and ⟨את⟩ all di kings of ⟨di⟩ land of Pelishtim, and ⟨את⟩ Ashkelon, and ⟨את⟩ Azzah, and ⟨את⟩ Ekron, and ⟨את⟩ di remnant of Ashdod;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di mixed people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "di mixed people"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di kings of Uts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "di kings"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨di⟩ land"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "of Uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di kings of Pelishtim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "di kings"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨di⟩ land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di remnant of Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "di remnant"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "of Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-11T11:50:32.510742354Z",
+  "model": "glm-5.2"
+}

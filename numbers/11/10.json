@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Moshe bin hear ⟨את⟩ di people dey cry, each family by imself, each man for di entrance of im tent; and Yahweh anger bin burn well well, and for Moshe eye ⟨e⟩ bin bad.",
+  "tokens": [
+    {
+      "surface": "ושימע",
+      "gloss": "and bin hear"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "dey cry"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "each family by imself"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "for di entrance"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "of im tent"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "and bin burn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "and for ... eye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨e⟩ bin bad"
+    }
+  ],
+  "timestamp": "2026-08-11T09:53:24.968298728Z",
+  "model": "glm-5.2"
+}

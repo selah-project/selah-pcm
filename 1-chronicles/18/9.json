@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "When Tou wey be king of Hamat hear sey David don strike ⟨את⟩ all di army of Hadadezer wey be king of Tzovah,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "when ⟨he⟩ hear"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "don strike"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di army"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army of"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzovah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:15.604445223Z",
+  "model": "glm-5.2"
+}

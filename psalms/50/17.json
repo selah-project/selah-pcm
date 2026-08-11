@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "But you bin hate discipline, and you bin fling my words behind you.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "but you"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "bin hate"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "and bin fling"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "behind you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:49.695588473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "For di sake of my name I go make my anger long, and my praise I go hold back from you, so dat I no cut you off.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "I go make long"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "my anger"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "and my praise"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "I go hold back"
+    },
+    {
+      "surface": "לך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat ⟨I⟩ no"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "cut you off"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:15.471145576Z",
+  "model": "glm-5.2"
+}

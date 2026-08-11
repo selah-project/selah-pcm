@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Plenty wash me from my iniquity, and from my sin cleanse me.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "wash me"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "from my iniquity"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "and from my sin"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "cleanse me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:54.190682920Z",
+  "model": "glm-5.2"
+}

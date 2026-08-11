@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "You command righteousness for your testimonies, and faithfulness ⟨be⟩ very-much.",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "you command"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "your testimonies"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "and faithfulness"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very-much"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:03.554742721Z",
+  "model": "glm-5.2"
+}

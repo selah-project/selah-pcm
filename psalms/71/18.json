@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "And even till old age and grey hair, Elohim, no abandon me, until I declare your arm to dis generation, to all ⟨wey⟩ go come, your power.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "old age"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "and grey hair"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abandon me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "I declare"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "your arm"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to dis generation"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "⟨wey⟩ go come"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "your power"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:18.484548447Z",
+  "model": "glm-5.2"
+}

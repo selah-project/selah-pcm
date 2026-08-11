@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 40:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And di chamber: one reed length, and one reed width; and between di chambers ⟨bin dey⟩ five cubits; and di threshold of di gate dey beside di porch of di gate, from inside: one reed.",
+  "tokens": [
+    {
+      "surface": "והתא",
+      "gloss": "and di chamber"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "reed"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "length"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "and reed"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "width"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "התאים",
+      "gloss": "di chambers"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "five"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubits"
+    },
+    {
+      "surface": "וסף",
+      "gloss": "and threshold"
+    },
+    {
+      "surface": "השער",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "from beside"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "porch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "reed"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:01.104827621Z",
+  "model": "glm-5.2"
+}

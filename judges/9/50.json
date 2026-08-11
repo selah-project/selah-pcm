@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Abimelek go Tevetz, and e camp against Tevetz, and e capture ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and e go"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "and e camp"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "against Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "and e capture am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:09.067514359Z",
+  "model": "glm-5.2"
+}

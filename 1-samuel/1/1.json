@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Now one man bin dey, from Ramatayim-Tsofim, from mount Efrayim, and im name bin ⟨be⟩ Elkanah, son of Yeroham, son of Elihu, son of Tohu, son of Tsuf, one Efrati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "Ramatayim"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "Tsofim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "from mount"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "and im name"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Yeroham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "Tohu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "Tsuf"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "Efrati"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:43.509973120Z",
+  "model": "glm-5.2"
+}

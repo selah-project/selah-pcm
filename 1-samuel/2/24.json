@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "No, my sons; because di report wey I dey hear no good at all — ⟨e dey make⟩ ⟨את⟩ people of Yahweh dey transgress.",
+  "tokens": [
+    {
+      "surface": "אַ֖ל",
+      "gloss": "No"
+    },
+    {
+      "surface": "בָּנָ֑י",
+      "gloss": "my sons"
+    },
+    {
+      "surface": "כִּ֠י",
+      "gloss": "because"
+    },
+    {
+      "surface": "לֽוֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוֹבָ֤ה",
+      "gloss": "good"
+    },
+    {
+      "surface": "הַשְּׁמֻעָה֙",
+      "gloss": "di report"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "I"
+    },
+    {
+      "surface": "שֹׁמֵ֔עַ",
+      "gloss": "dey hear"
+    },
+    {
+      "surface": "מַעֲבִרִ֖ים",
+      "gloss": "⟨e dey make⟩ dey transgress"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "people"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:21.571323355Z",
+  "model": "glm-5.2"
+}

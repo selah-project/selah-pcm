@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 22:40",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And You gird me with strength for battle; You make ⟨את⟩ my risers bend under me.",
+  "tokens": [
+    {
+      "surface": "וַתַּזְרֵ֥נִי",
+      "gloss": "And You gird me"
+    },
+    {
+      "surface": "חַ֖יִל",
+      "gloss": "with strength"
+    },
+    {
+      "surface": "לַמִּלְחָמָ֑ה",
+      "gloss": "for battle"
+    },
+    {
+      "surface": "תַּכְרִ֥יעַ",
+      "gloss": "You make bend"
+    },
+    {
+      "surface": "קָמַ֖י",
+      "gloss": "my risers"
+    },
+    {
+      "surface": "תַּחְתֵּֽנִי",
+      "gloss": "under me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:35.411467975Z",
+  "model": "glm-5.2"
+}

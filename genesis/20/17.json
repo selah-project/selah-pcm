@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Avraham bin pray to Elohim, and Elohim heal ⟨את⟩ Avimelekh and ⟨את⟩ im wife and im maidservants, and dem come born pikin.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "and bin pray"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "and heal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im wife"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "and im maidservants"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "and dem come born pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:32.589093568Z",
+  "model": "glm-5.2"
+}

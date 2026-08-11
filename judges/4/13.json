@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 4:13",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Sisera bin summon ⟨את⟩ all im chariots — nine hundred iron chariots — and ⟨את⟩ all di people wey ⟨bin dey⟩ wit am, from Harosheth of di goyim go reach ⟨di⟩ Kishon stream.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "bin summon"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im chariots"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "im chariots"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nine"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariots"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨bin dey⟩ wit ⟨את⟩ am"
+    },
+    {
+      "surface": "מחרשת",
+      "gloss": "from Harosheth"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "of di goyim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "stream"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:38.313293223Z",
+  "model": "glm-5.2"
+}

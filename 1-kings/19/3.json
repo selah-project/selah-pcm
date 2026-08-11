@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And ⟨im⟩ see, and ⟨im⟩ stand up, and ⟨im⟩ waka go, for im own life; and ⟨im⟩ enta Be'er-Sheva wey ⟨belong⟩ to Yehuda, and ⟨im⟩ leave ⟨את⟩ im servant dere.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and ⟨im⟩ see"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and ⟨im⟩ stand up"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨im⟩ waka go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im own life"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨im⟩ enta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "⟨belong⟩ to Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "and ⟨im⟩ leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servant"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:27.477660567Z",
+  "model": "glm-5.2"
+}

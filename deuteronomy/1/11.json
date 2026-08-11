@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim of una fadas, make e add to una like una a thousand times, and make e bless ⟨את⟩ una as e bin talk to una!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "una fadas"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "make e add"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "like una"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a thousand"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "and make e bless"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "una"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e bin talk"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:35.513564730Z",
+  "model": "glm-5.2"
+}

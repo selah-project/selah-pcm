@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Dawid divide dem, wit Tsadok from di sons of Elazar, and Achimelekh from di sons of Itamar, for dia appointed duties for dia service.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "and ⟨he⟩ divide dem"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "wit Tsadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "and Achimelekh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "for dia appointed duties"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "for dia service"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:16.256473200Z",
+  "model": "glm-5.2"
+}

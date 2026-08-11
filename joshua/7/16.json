@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So Yehoshua rise early for morning, and e bring ⟨את⟩ Yisra'el near by dia tribes; and dem catch di tribe of Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "So rise early"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "and e bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "by dia tribes"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and dem catch"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "di tribe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:08.677514562Z",
+  "model": "glm-5.2"
+}

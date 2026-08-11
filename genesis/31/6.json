@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And una sef sabi sey wit all my power I don serve ⟨את⟩ una papa.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "and una sef"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my power"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "I don serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una papa"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "una papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:40.077678487Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 4:2",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "I go gather ⟨את⟩ all di nations, and I go bring dem down go valley of Yehoshafat, and I go judge wit dem dia on top My people and My inheritance Yisra'el, wey dem scatter among di nations, and ⟨את⟩ My land dem divide.",
+  "tokens": [
+    {
+      "surface": "וְקִבַּצְתִּי֙",
+      "gloss": "I go gather"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all di nations"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַגּוֹיִ֔ם",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "וְה֣וֹרַדְתִּ֔ים",
+      "gloss": "and I go bring dem down"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עֵ֖מֶק",
+      "gloss": "valley"
+    },
+    {
+      "surface": "יְהֽוֹשָׁפָ֑ט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "וְנִשְׁפַּטְתִּ֨י",
+      "gloss": "and I go judge"
+    },
+    {
+      "surface": "עִמָּ֜ם",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "שָׁ֗ם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עַמִּ֨י",
+      "gloss": "My people"
+    },
+    {
+      "surface": "וְנַחֲלָתִ֤י",
+      "gloss": "and My inheritance"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פִּזְּר֣וּ",
+      "gloss": "dem scatter"
+    },
+    {
+      "surface": "בַגּוֹיִ֔ם",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "My land"
+    },
+    {
+      "surface": "אַרְצִ֖י",
+      "gloss": "My land"
+    },
+    {
+      "surface": "חִלֵּֽקוּ",
+      "gloss": "dem divide"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:51.863437669Z",
+  "model": "glm-5.2"
+}

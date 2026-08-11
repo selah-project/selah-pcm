@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem pull down ⟨את⟩ di pillar of Baal, and dem pull down ⟨את⟩ di house of Baal, and dem make am ⟨into⟩ toilet, up to today.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּתְּצ֔וּ",
+      "gloss": "and dem pull down"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "di pillar of Baal"
+    },
+    {
+      "surface": "מַצְּבַ֣ת",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "הַבָּ֑עַל",
+      "gloss": "of Baal"
+    },
+    {
+      "surface": "וַֽיִּתְּצ֨וּ",
+      "gloss": "and dem pull down"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di house of Baal"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house"
+    },
+    {
+      "surface": "הַבַּ֔עַל",
+      "gloss": "of Baal"
+    },
+    {
+      "surface": "וַיְשִׂמֻ֥הוּ",
+      "gloss": "and dem make am"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "⟨into⟩ toilet"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "up to"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "today"
+    }
+  ],
+  "timestamp": "2026-08-11T16:13:40.671596378Z",
+  "model": "glm-5.2"
+}

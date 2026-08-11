@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "'Make atonement for your people Yisrael, wey you redeem, O Yahweh; and no put innocent blood for inside your people Yisrael.' And di blood go receive atonement for dem.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "make atonement"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "for your people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "you redeem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "and go receive atonement"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:32.423494844Z",
+  "model": "glm-5.2"
+}

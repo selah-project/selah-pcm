@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "Therefore my people go know my name; therefore for dat day, say na me, di one wey dey speak — here I ⟨dey⟩!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "therefore"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "go know"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "therefore"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di one wey dey speak"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:33.711479278Z",
+  "model": "glm-5.2"
+}

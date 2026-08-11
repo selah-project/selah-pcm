@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And from among ⟨di⟩ sons of di priests ⟨dem be⟩ di mixers of di mixture, for di spices.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "and from among"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨di⟩ sons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "of di priests"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "di mixers"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "of di mixture"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "for di spices"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:35.229407871Z",
+  "model": "glm-5.2"
+}

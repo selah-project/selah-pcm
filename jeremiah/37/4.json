@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Now Yirmejahu bin dey come in and go out among di people, and dem neva put ⟨him⟩ inside ⟨את⟩ house of imprisonment.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Now Yirmejahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin dey come in"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and go out"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and neva"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dem put"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "house of imprisonment"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inside house of"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "imprisonment"
+    }
+  ],
+  "timestamp": "2026-08-11T11:55:23.292300023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Make una no oppress man ⟨את⟩ im fellow, and make you fear ⟨from⟩ Elohim wey be your own; because na me be Yahweh Elohim wey be una.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "make una oppress"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im fellow"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "im fellow"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "and make you fear"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "from Elohim wey be your own"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wey be una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:05.681642392Z",
+  "model": "glm-5.2"
+}

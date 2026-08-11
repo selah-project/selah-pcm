@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Because na ⟨the⟩ name of Yahweh I dey call; make una give greatness to Elohim wey be we own.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I dey call"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "make una give"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "greatness"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "to Elohim wey be we own"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:44.066875859Z",
+  "model": "glm-5.2"
+}

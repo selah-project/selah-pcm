@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "When Ya'akov bin finish to command ⟨את⟩ im sons, e gather im legs enter di bed, e breath im last, and dem gather am to im people.",
+  "tokens": [
+    {
+      "surface": "וַיְכַ֤ל",
+      "gloss": "bin finish"
+    },
+    {
+      "surface": "יַעֲקֹב֙",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לְצַוֺּ֣ת",
+      "gloss": "to command"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בָּנָ֔יו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "וַיֶּאֱסֹ֥ף",
+      "gloss": "e gather"
+    },
+    {
+      "surface": "רַגְלָ֖יו",
+      "gloss": "im legs"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הַמִּטָּ֑ה",
+      "gloss": "di bed"
+    },
+    {
+      "surface": "וַיִּגְוַ֖ע",
+      "gloss": "e breath im last"
+    },
+    {
+      "surface": "וַיֵּאָ֥סֶף",
+      "gloss": "dem gather am"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עַמָּֽיו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:39.533903087Z",
+  "model": "glm-5.2"
+}

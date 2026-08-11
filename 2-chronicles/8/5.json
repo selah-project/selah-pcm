@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bin build ⟨את⟩ Bet־Choron di upper one, and ⟨את⟩ Bet־Choron di lower one — cities wey dem fortify, walls, gates, and bars.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and e bin build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet־Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "di upper one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bet־Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "di lower one"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities of"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "fortification"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "walls"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "gates"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "and bars"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:29.814444560Z",
+  "model": "glm-5.2"
+}

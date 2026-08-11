@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And im make two cherubim of gold; beaten work im make ⟨את⟩ dem, from two end of di mercy seat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and im make"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "cherubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "beaten work"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im make"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di cherubim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "from two"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "end"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "of di mercy seat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:38.184627501Z",
+  "model": "glm-5.2"
+}

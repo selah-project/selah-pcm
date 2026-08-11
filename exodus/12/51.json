@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And e come to pass for di very bone of dis day, Yahweh bring out ⟨את⟩ di pikin-dem of Yisra'el from di land of Mitsrayim by dia army-dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "for di very bone"
+    },
+    {
+      "surface": "היום",
+      "gloss": "of di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bring out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin-dem of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "dia army-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:48.712319814Z",
+  "model": "glm-5.2"
+}

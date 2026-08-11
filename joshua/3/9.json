@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Yehoshua bin talk to di pikin-dem of Yisra'el: «Come here, and hear ⟨את⟩ di word-dem of Yahweh, una Elohim.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "come near"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "here"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word-dem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "word-dem of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:58.517596783Z",
+  "model": "glm-5.2"
+}

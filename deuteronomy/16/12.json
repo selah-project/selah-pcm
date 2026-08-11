@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And you go remember sey you bin be servant for Mitsrayim; and you go keep and do ⟨את⟩ dis ⟨dem⟩ statutes.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "and you go remember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "היית",
+      "gloss": "you bin be"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "and you go keep"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis statutes"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "statutes"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:27.666075919Z",
+  "model": "glm-5.2"
+}

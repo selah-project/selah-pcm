@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "We bin become orphans, ⟨we no get⟩ father; our mothers ⟨are⟩ like widows.",
+  "tokens": [
+    {
+      "surface": "יְתוֹמִ֤ים",
+      "gloss": "orphans"
+    },
+    {
+      "surface": "הָיִ֨ינוּ",
+      "gloss": "we bin become"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨we no get⟩"
+    },
+    {
+      "surface": "אָ֔ב",
+      "gloss": "father"
+    },
+    {
+      "surface": "אִמֹּתֵ֖ינוּ",
+      "gloss": "our mothers"
+    },
+    {
+      "surface": "כְּאַלְמָנֽוֹת",
+      "gloss": "like widows"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:56.170751459Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "E set am as testimony for Yosef, wen im comot go upon ⟨di⟩ land of Mitsrayim — language wey I no know, I dey hear.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "testimony"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "for Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "E set am"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "wen im comot"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "language"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "I dey hear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:11.139137893Z",
+  "model": "glm-5.2"
+}

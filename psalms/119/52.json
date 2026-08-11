@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin remember your judgments from old time, Yahweh, and I con find comfort.",
+  "tokens": [
+    {
+      "surface": "זָ֘כַ֤רְתִּי",
+      "gloss": "I bin remember"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֖יךָ",
+      "gloss": "your judgments"
+    },
+    {
+      "surface": "מֵעוֹלָ֥ם",
+      "gloss": "from old time"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וָֽאֶתְנֶחָֽם",
+      "gloss": "and I con find comfort"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938769705Z",
+  "model": "glm-5.2"
+}

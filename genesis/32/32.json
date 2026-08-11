@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And di sun rise for am as im pass ⟨את⟩ Penuel, and im dey limp on top im thigh.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "and di sun rise"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "im pass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and im"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "dey limp"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "im thigh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:50.904548882Z",
+  "model": "glm-5.2"
+}

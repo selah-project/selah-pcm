@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Im children dey far from safety, and dem go crush dem for di gate, and nobody dey deliver.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "dey far"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Im children"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "from safety"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "and dem go crush dem"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "for di gate"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "dey deliver"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:12.110448379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 16:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "So ⟨he⟩ send and bring am inside, and ⟨he⟩ ⟨be⟩ reddish, with fine eyes, and good to look upon. And Yahweh talk say, stand up, pour oil for am, because na dis one ⟨be⟩ ⟨him⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "So ⟨he⟩ send"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "and bring am inside"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and ⟨he⟩"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "⟨be⟩ reddish"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "eyes"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "and good"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "to look upon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "משחהו",
+      "gloss": "pour oil for am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "זה",
+      "gloss": "na dis one"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩ ⟨him⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:36.653294341Z",
+  "model": "glm-5.2"
+}

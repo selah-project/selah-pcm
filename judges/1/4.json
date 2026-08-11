@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yehudah go up, and Yahweh give ⟨את⟩ di Kena'ani and di Perizzi inside dia hand; and dem strike dem for Bezek — ten thousand man.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "And go up"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kena'ani and di Perizzi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'ani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "and di Perizzi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "inside dia hand"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "and dem strike dem"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "for Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:07.021297261Z",
+  "model": "glm-5.2"
+}

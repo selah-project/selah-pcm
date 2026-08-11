@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e come happen, wen di army of di Kasdim bin pull up from Jerusalem, because of di army of Pharaoh,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "wen...pull up"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "of di Kasdim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:55:32.255010118Z",
+  "model": "glm-5.2"
+}

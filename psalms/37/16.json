@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Small thing wey righteous ⟨man⟩ get ⟨be⟩ better pass plenty wealth of wicked dem.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "⟨be⟩ better"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small thing"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "wey righteous ⟨man⟩ get"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "pass plenty wealth of"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked dem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "many"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:35.387036125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "On top ten-string instrument, and on top navel; on top higgayon with kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ten-string instrument"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "with kinnor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:24.845480953Z",
+  "model": "glm-5.2"
+}

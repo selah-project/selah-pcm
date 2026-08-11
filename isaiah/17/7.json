@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "For that day, man go look to im Maker, and im eyes go look to di Holy One of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "that"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "go look"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "im Maker"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "and im eyes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "go look"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:32.890195437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Dis one na di book of di generations of Adam. For di day wey Elohim bin create man, for di likeness of Elohim ⟨im⟩ make ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "סֵ֔פֶר",
+      "gloss": "book"
+    },
+    {
+      "surface": "תּוֹלְדֹ֖ת",
+      "gloss": "generations"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "of Adam"
+    },
+    {
+      "surface": "בְּי֗וֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "בְּרֹ֤א",
+      "gloss": "wey ⟨im⟩ create"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אָדָ֔ם",
+      "gloss": "man"
+    },
+    {
+      "surface": "בִּדְמ֥וּת",
+      "gloss": "for di likeness"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "⟨im⟩ make"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:41.618855069Z",
+  "model": "glm-5.2"
+}

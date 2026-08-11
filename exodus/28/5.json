@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And dem go take ⟨את⟩ di gold, and ⟨את⟩ di blue-violet, and ⟨את⟩ di purple, and ⟨את⟩ di crimson worm ⟨thread⟩, and ⟨את⟩ di fine linen.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di blue-violet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "di blue-violet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di purple"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "di purple"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "crimson worm thread"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "worm"
+    },
+    {
+      "surface": "השני",
+      "gloss": "crimson"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fine linen"
+    },
+    {
+      "surface": "השש",
+      "gloss": "di fine linen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:23.235703916Z",
+  "model": "glm-5.2"
+}

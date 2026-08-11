@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Every swarming thing wey dey fly, wey dey waka on top four ⟨legs⟩ — e ⟨be⟩ detestable thing for una.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Every"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "swarming thing"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "wey dey fly"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wey dey waka"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "detestable thing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:27.369933922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Shomron don perish — ⟨im⟩ king, like foam on top di water.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "im king"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "like foam"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di surface of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:52.913155659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And she talk to Avraham, 'Comot dis slave-woman and ⟨את⟩ im son! Because di son of dis slave-woman no go inherit wit my son, wit Yitschak.'",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "And she talk"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "to Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Comot"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "dis slave-woman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im son"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "im son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "go inherit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "di son"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "of di slave-woman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:59.838855731Z",
+  "model": "glm-5.2"
+}

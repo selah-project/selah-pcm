@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "For ⟨he⟩ see say wise men dey die, fool and senseless man dey perish together, and dem go leave dia wealth for other people.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨he⟩ see"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "say wise men"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "dey die"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "and senseless man"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "dey perish"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "and dem go leave"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "for other people"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dia wealth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:07.061954318Z",
+  "model": "glm-5.2"
+}

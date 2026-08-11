@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 8:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ go sweep through Yehudah, ⟨he⟩ go flood and pass, until ⟨he⟩ reach neck; and di stretching out of im wings go fill di width of your land, O Immanu El.",
+  "tokens": [
+    {
+      "surface": "וחלף",
+      "gloss": "and go sweep"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "through Yehudah"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "go flood"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "and pass"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "neck"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "reach"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨it go be⟩"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "di stretching out"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "of im wings"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "go fill"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "di width"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "of your land"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "O Immanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:40.134313433Z",
+  "model": "glm-5.2"
+}

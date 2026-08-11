@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Di sin of Yehudah dey written wit pen of iron, wit ⟨di⟩ claw of diamond, dem engrave am on top di tablet of dia heart, and on top di horns of una altars.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "dey written"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "wit pen"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "wit claw"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "of diamond"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "dem engrave am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "of dia heart"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "and on top di horns"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "of una altars"
+    }
+  ],
+  "timestamp": "2026-08-11T11:46:51.321829458Z",
+  "model": "glm-5.2"
+}

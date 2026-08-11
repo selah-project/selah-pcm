@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "and im bin go afta di man of Yisra'el go inside di tent, and im bin pierce ⟨את⟩ di two of dem — ⟨את⟩ di man of Yisra'el and ⟨את⟩ di woman — reach im belly; and di plague bin stop from on top di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "afta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go inside"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "di tent"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "and bin pierce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two of dem"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di woman"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "im belly"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "and bin stop"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "di plague"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:59.226092069Z",
+  "model": "glm-5.2"
+}

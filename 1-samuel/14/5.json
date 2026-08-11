@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Di peak of di one bin dey stick out from north, dey face Mitsmash; and di one from south dey face Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "di peak"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "of di one"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "bin dey stick out"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "from north"
+    },
+    {
+      "surface": "מול",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mitsmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "and di one"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "from south"
+    },
+    {
+      "surface": "מול",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-08-11T16:03:58.781037874Z",
+  "model": "glm-5.2"
+}

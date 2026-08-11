@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "You go trample on top of lion and cobra; you go crush young lion and dragon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lion"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "and cobra"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "you go trample"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "you go crush"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "young lion"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "and dragon"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:26.793831315Z",
+  "model": "glm-5.2"
+}

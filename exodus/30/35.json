@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And you go make ⟨את⟩ am incense, perfume, work of perfumer, salted, pure, holy.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (incense)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incense"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "perfume"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work of"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "perfumer"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "salted"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:30.704993315Z",
+  "model": "glm-5.2"
+}

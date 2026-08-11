@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Comot from my side, una wey dey do evil; and I go keep ⟨את⟩ di commandments of my Elohim.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "comot"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from my side"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "una wey dey do evil"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "and I go keep"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "di commandments"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "of my Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:00.659681907Z",
+  "model": "glm-5.2"
+}

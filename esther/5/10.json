@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "But Haman bin hold imsef, and e enter inside im house; and e send make dem bring ⟨את⟩ im friends and ⟨את⟩ Zeresh im wife.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "bin hold imsef"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "and e enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and e send"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "make dem bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im friends"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "im friends"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    }
+  ],
+  "timestamp": "2026-08-11T16:47:14.617607236Z",
+  "model": "glm-5.2"
+}

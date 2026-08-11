@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "⟨Dem wey come from⟩ pikin of Asnah, ⟨dem wey come from⟩ pikin of Meunim, ⟨dem wey come from⟩ pikin of Nephisim.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Asnah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meunim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nephisim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:34.406817686Z",
+  "model": "glm-5.2"
+}

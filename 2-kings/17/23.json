@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 17:23",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Until Yahweh remove ⟨את⟩ Yisra'el from im face, as ⟨e⟩ bin speak by di hand of all im servants di prophets; and dem carry Yisra'el go exile from im land to Ashur — until dis day.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dat⟩"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "remove"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by di hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di prophets"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "and dem carry go exile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "to Ashur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:15.398076633Z",
+  "model": "glm-5.2"
+}

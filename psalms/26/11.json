@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "But as for me, for my integrity I go waka; redeem me, and show me favor.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But as for me"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "for my integrity"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go waka"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "redeem me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "and show me favor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:17.772713948Z",
+  "model": "glm-5.2"
+}

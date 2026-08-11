@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Look ⟨at⟩ di heaven and see, and gaze at di clouds — dem high pass you.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "look"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "and gaze at"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "di clouds"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dem high pass"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:41.541789074Z",
+  "model": "glm-5.2"
+}

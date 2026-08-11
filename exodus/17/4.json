@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Mosheh bin cry to Yahweh, sey, 'Wetin I go do to dis people? Small more and dem go stone me!'",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "and bin cry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to dis people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "and dem go stone me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:17.718869926Z",
+  "model": "glm-5.2"
+}

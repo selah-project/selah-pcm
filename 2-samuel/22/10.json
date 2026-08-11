@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "⟨E⟩ bend heaven and ⟨e⟩ come down, and thick dark cloud dey under im feet.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "⟨E⟩ bend"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "and ⟨e⟩ come down"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "and thick dark cloud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im feet"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:51.724224532Z",
+  "model": "glm-5.2"
+}

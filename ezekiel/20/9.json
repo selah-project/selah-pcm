@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 20:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "But I act for di sake of My name, so dat ⟨e⟩ no go spoil for di eye of di nation dem wey dey among dem, wey I make Myself know to dem for dia eye, to bring dem out from di land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "but I act"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "My name"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat ⟨e⟩ no go"
+    },
+    {
+      "surface": "החל",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nation dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "dey among dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "I make Myself know"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "for dia eye"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "to bring dem out"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:08:46.354807874Z",
+  "model": "glm-5.2"
+}

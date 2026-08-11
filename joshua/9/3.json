@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But di people wey dey live for Givʿon hear ⟨את⟩ wetin Yehoshua do to Yericho and to ʿAi,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "and di people wey dey live"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givʿon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin Yehoshua do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "to Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "and to ʿAi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:56.191131732Z",
+  "model": "glm-5.2"
+}

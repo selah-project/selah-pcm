@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Stand up, go down reach di potter house, and for dere I go make you hear ⟨את⟩ my word-dem.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "and go down"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨di⟩ house"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "of di potter"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "and for dere"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "I go make you hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my word-dem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my word-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:48:37.164862695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Dis one na di generation of Shem: Shem ⟨bin dey⟩ hundred year old wen im born ⟨את⟩ Arpakhshad, two year after di flood.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "generation"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "old"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wen im born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "two year"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "after"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "di flood"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:43.696390757Z",
+  "model": "glm-5.2"
+}

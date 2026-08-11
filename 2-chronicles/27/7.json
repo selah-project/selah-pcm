@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 27:7",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And di rest of di matter-dem of Yotam, and all im war-dem, and im way-dem, ⟨dem⟩ dey written for di book of di king-dem of Yisrael and Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "and rest"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "of matter-dem"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "im war-dem"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "and im way-dem"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "dey written"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "book"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "of king-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:28.501446301Z",
+  "model": "glm-5.2"
+}

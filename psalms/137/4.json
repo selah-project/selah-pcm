@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "How we go sing ⟨את⟩ song of Yahweh, on top foreign soil?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "How"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "we go sing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "song of Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "soil"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "foreign"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:34.669648469Z",
+  "model": "glm-5.2"
+}

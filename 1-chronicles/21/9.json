@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Yahweh bin talk to Gad, David seer, sey make e talk",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "seer"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make e talk"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:51.190015383Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 9:29",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Make somebody ⟨bin⟩ put ⟨את⟩ dis people for my hand, and I go komot ⟨את⟩ Avimelek! And im talk to Avimelek, 'Make your army plenty, and komot!'",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "make who"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "for my hand"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "and I go komot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "to Avimelek"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "make plenty"
+    },
+    {
+      "surface": "צבאך",
+      "gloss": "your army"
+    },
+    {
+      "surface": "וצאה",
+      "gloss": "and komot"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:42.989032144Z",
+  "model": "glm-5.2"
+}

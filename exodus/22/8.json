@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 22:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "For evri matter of trespass — about ox, about donkey, about sheep, about garment, about any lost thing wey person go talk sey, 'Na im be dis' — di matter of both of dem go come before Elohim; di person wey Elohim declare sey e do wrong go pay back two times to im neighbour.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "trespass"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ox"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "donkey"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "garment"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "lost thing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "person go talk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "זה",
+      "gloss": "be dis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "before"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "of both of dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ירשיען",
+      "gloss": "declare sey e do wrong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go pay back"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two times"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "to im neighbour"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:40.242011065Z",
+  "model": "glm-5.2"
+}

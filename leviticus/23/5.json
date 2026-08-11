@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For di first month, for di fourteenth ⟨day⟩ of di month, between di evenings, ⟨na⟩ Pesach for Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "for four"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "di evenings"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:43.191500548Z",
+  "model": "glm-5.2"
+}

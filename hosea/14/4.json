@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Ashshur no go save us; upon horse we no go ride; and we no go talk again, '⟨You dem⟩ be our Elohim,' to di work of our hand dem; because for you di fatherless ⟨na⟩ ⟨there⟩ ⟨e⟩ find compassion.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "go save us"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "horse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "we go ride"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "we go talk"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "to di work"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "of our hand dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "find compassion"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "fatherless"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:08.487281008Z",
+  "model": "glm-5.2"
+}

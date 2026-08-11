@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e carry ⟨am⟩ come, and e enter di city, and im mother-in-law see ⟨את⟩ wetin e gather; and e bring out and give am ⟨את⟩ wetin remain after e don full.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "and e carry"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "and e enter"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "and im mother-in-law see"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "im mother-in-law"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin e gather"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "e gather"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "and e bring out"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "and e give"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin remain after e don full"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "remain"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "after e don full"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:30.892132181Z",
+  "model": "glm-5.2"
+}

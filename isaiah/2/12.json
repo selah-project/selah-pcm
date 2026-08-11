@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Because ⟨na⟩ day belong to Yahweh Tsevaot, upon every proud and high ⟨tin⟩, and upon every lifted-up and low ⟨tin⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "belong to Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "proud"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "and high"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lifted-up"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "and low"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:18.319457503Z",
+  "model": "glm-5.2"
+}

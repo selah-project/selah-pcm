@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Because di word of Yahweh dey straight, and all im work dey inside faithfulness.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "straight"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "inside faithfulness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:15.259267114Z",
+  "model": "glm-5.2"
+}

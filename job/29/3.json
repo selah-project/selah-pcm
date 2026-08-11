@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "wen im lamp bin dey shine on top my head, by im light I dey waka through darkness;",
+  "tokens": [
+    {
+      "surface": "בְּהִלּ֣וֹ",
+      "gloss": "wen ⟨im⟩ bin dey shine"
+    },
+    {
+      "surface": "נֵר֣וֹ",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "עֲלֵי֣",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רֹאשִׁ֑י",
+      "gloss": "my head"
+    },
+    {
+      "surface": "לְאוֹר֣וֹ",
+      "gloss": "by im light"
+    },
+    {
+      "surface": "אֵ֣לֵךְ",
+      "gloss": "I dey waka"
+    },
+    {
+      "surface": "חֹֽשֶׁךְ",
+      "gloss": "through darkness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:23:19.546199916Z",
+  "model": "glm-5.2"
+}

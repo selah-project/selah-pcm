@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Shalmaneser, king of Ashur, bin march up against am, and Hoshea come be im servant, and e bin dey bring am tribute.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bin march up"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Shalmaneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "im"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin dey bring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribute"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:31.822385285Z",
+  "model": "glm-5.2"
+}

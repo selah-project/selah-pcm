@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Among di worst hypocrites, mockers for feast, dem dey grind teeth against me.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "among di worst hypocrites"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "mockers"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "for feast"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "dem dey grind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "teeth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:12.468522104Z",
+  "model": "glm-5.2"
+}

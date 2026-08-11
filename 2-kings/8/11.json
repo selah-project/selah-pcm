@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e set ⟨את⟩ im face steadfast, until ⟨he⟩ shame; and di man of Elohim cry.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "and e set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "steadfast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בש",
+      "gloss": "⟨he⟩ shame"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:56.372376629Z",
+  "model": "glm-5.2"
+}

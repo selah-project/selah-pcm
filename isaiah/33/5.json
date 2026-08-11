@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Yahweh don lift up, because ⟨im⟩ dey stay for high place; ⟨im⟩ fill Tsiyon wit judgment and righteousness.",
+  "tokens": [
+    {
+      "surface": "נִשְׂגָּ֣ב",
+      "gloss": "don lift up"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "because"
+    },
+    {
+      "surface": "שֹׁכֵ֖ן",
+      "gloss": "⟨im⟩ dey stay"
+    },
+    {
+      "surface": "מָר֑וֹם",
+      "gloss": "for high place"
+    },
+    {
+      "surface": "מִלֵּ֣א",
+      "gloss": "⟨im⟩ fill"
+    },
+    {
+      "surface": "צִיּ֔וֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מִשְׁפָּ֖ט",
+      "gloss": "wit judgment"
+    },
+    {
+      "surface": "וּצְדָקָֽה",
+      "gloss": "and righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:45.655245638Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "For di leader, on top Lilies, for di pikin-dem of Korach. Makhskil. Song of yedidot.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "for di leader"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Lilies"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di pikin-dem of"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskhil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "of yedidot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:01.891780775Z",
+  "model": "glm-5.2"
+}

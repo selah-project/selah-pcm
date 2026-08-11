@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So dem tell David, sey: \"See, Pelishtim dem dey fight against Keilah, and dem dey plunder ⟨את⟩ di treshing-floor dem.\"",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "so dem tell"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim dem"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "dey fight"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "against Keilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "dey plunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di treshing-floor dem"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "di treshing-floor dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:16.997441677Z",
+  "model": "glm-5.2"
+}

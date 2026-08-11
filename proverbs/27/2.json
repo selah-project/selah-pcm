@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Make stranger shine you, and no be your mouth; person wey no dey your inside, and no be your lip.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "make ⟨am⟩ shine you"
+    },
+    {
+      "surface": "זר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "your mouth"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "person wey no dey your inside"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "your lip"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:40.213498618Z",
+  "model": "glm-5.2"
+}

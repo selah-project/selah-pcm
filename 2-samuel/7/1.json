@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "E bin happen, di king bin dey siddon for im house, and Yahweh don give am rest from all im enemies wey dey round about.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bin happen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bin dey siddon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "for im house"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "don give rest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "im enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:22.727726318Z",
+  "model": "glm-5.2"
+}

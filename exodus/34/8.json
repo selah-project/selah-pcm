@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And Moshe bin quick quick, and ⟨im⟩ bow down reach ground and ⟨im⟩ prostate.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "and bin quick quick"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "reach ground"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and prostate"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:38.672653383Z",
+  "model": "glm-5.2"
+}

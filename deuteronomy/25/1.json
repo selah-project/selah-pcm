@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "If case dey wey pipo dey drag, and dem come near to di judgment, and dem judge dem, and dem declare ⟨את⟩ di righteous person righteous and dem declare ⟨את⟩ di wicked person guilty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "case dey"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "drag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "pipo"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "and dem come near"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "di judgment"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "and dem judge dem"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "and dem declare righteous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di righteous person"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "di righteous person"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "and dem declare guilty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wicked person"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "di wicked person"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:52.893325414Z",
+  "model": "glm-5.2"
+}

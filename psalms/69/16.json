@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Make flood of water no carry me away, and make deep no swallow me, and make well no close im mouth on top me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "make e carry me away"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "flood"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "make e swallow me"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "deep"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "make e close"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "באר",
+      "gloss": "well"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:04.245599703Z",
+  "model": "glm-5.2"
+}

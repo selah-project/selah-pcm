@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "Song for Asaph: El, Elohim, Yahweh, bin speak and bin call di earth, from where sun dey rise reach where e dey enter.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "for Asaph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth",
+      "marks": "di earth"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "from where sun dey rise"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "where e dey enter"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.824147837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Shemuel take ⟨את⟩ Shaul and ⟨את⟩ im boy-servant, and e bring dem enter di dining-room, and e give dem place for di head of di invited-dem, and dem bin dey like thirty man.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im boy-servant"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "im boy-servant"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "and e bring dem"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "enter di dining-room"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and e give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "for di head"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "of di invited-dem"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "like thirty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:38.572746458Z",
+  "model": "glm-5.2"
+}

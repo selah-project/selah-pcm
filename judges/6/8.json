@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "sey Yahweh bin send a man, a prophet, to di sons of Yisrael, and e talk to dem, 'Like dis Yahweh talk, Elohim of Yisrael: I, I bin bring una ⟨את⟩ up from Mitsrayim, and I bin bring una ⟨את⟩ out from house of servants.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "a prophet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "I bin bring up"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "from Mitsrayim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "and I bin bring out"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "from house of servants"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house of"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servants"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.811554019Z",
+  "model": "glm-5.2"
+}

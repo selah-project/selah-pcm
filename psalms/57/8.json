@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "My heart ⟨be⟩ firm, O Elohim, my heart ⟨be⟩ firm; I go sing and I go make music.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "firm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "firm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "I go sing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "and I go make music"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:36.046513855Z",
+  "model": "glm-5.2"
+}

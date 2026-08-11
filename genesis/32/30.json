@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Yaakov ask, im talk sey, 'Abeg tell me ya name.' And im talk sey, 'Why dis one wey you dey ask for my name?' And im bless ⟨את⟩ am for there.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "and im ask"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "tell"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ya name"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "you dey ask"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for my name"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "and im bless"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:50.904293753Z",
+  "model": "glm-5.2"
+}

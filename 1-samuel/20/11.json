@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yehonatan bin talk to David, Come, make we comot go di field. And di two of dem bin comot go di field.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "and make we comot"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and bin comot"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:04.934256066Z",
+  "model": "glm-5.2"
+}

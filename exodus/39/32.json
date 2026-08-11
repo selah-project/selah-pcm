@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And all di work of di Mishkan, di Tent of Meeting, bin finish; and di sons of Yisra'el do according to all wey Yahweh bin command ⟨את⟩ Mosheh — so dem do am.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "and bin finish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "di work of"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "di Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "di Tent of"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Meeting"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem do am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:10.011002329Z",
+  "model": "glm-5.2"
+}

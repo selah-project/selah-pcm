@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And di Kasdim go come back, and dem go fight against dis city, and dem go catch am, and dem go burn am wit fire.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "and ⟨dem⟩ go come back"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "di Kasdim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "and ⟨dem⟩ go fight"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "and ⟨dem⟩ go catch am"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "and ⟨dem⟩ go burn am"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    }
+  ],
+  "timestamp": "2026-08-11T11:55:27.897549635Z",
+  "model": "glm-5.2"
+}

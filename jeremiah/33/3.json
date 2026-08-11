@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Call to Me and I go answer you, and I go tell you great and hidden tings wey you no know.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Call"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "and I go answer you"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "and I go tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "great"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "and hidden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "you know"
+    }
+  ],
+  "timestamp": "2026-08-11T11:53:58.381842330Z",
+  "model": "glm-5.2"
+}

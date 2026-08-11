@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Because wicked man dey boast about wetin im life dey crave, and di greedy person dey bless ⟨am⟩ — e dey scorn Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "dey boast"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "wetin e dey crave"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "and di greedy person"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "dey bless"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "e dey scorn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:08.501137936Z",
+  "model": "glm-5.2"
+}

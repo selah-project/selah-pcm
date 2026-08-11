@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "No be about your sacrifices I go correct you; your burnt offerings ⟨dey⟩ before me always.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "No be"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "about"
+    },
+    {
+      "surface": "זְ֭בָחֶיךָ",
+      "gloss": "your sacrifices"
+    },
+    {
+      "surface": "אוֹכִיחֶ֑ךָ",
+      "gloss": "I go correct you"
+    },
+    {
+      "surface": "וְעוֹלֹתֶ֖יךָ",
+      "gloss": "your burnt offerings"
+    },
+    {
+      "surface": "לְנֶגְדִּ֣י",
+      "gloss": "before me"
+    },
+    {
+      "surface": "תָמִֽיד",
+      "gloss": "always"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:03.844048878Z",
+  "model": "glm-5.2"
+}

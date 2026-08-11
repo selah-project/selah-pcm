@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And Paroh bin talk to Yosef say: For my dream, I bin dey stand on top of di edge of di river.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "for my dream"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "I dey"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "edge"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "di river"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:37.584495872Z",
+  "model": "glm-5.2"
+}

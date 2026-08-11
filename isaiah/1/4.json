@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Woe! Sinful nation, people wey ⟨be⟩ heavy with iniquity, seed of evil-doers, sons wey dey corrupt! Dem don forsake ⟨את⟩ Yahweh, dem don despise ⟨את⟩ di Holy One of Yisrael, dem don turn backward.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Woe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sinful"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "wey ⟨be⟩ heavy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "with iniquity"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "of evil-doers"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "wey dey corrupt"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Dem don forsake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "dem don despise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Holy One of Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "di Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "dem don turn"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "backward"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:11.548660522Z",
+  "model": "glm-5.2"
+}

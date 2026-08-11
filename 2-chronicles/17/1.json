@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Yehoshafat im pikin bin king for im ples, and ⟨im⟩ bin strengthen imsef against Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "bin king"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im ples"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "and bin strengthen imsef"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:07.725055632Z",
+  "model": "glm-5.2"
+}

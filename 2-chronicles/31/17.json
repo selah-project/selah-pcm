@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "and ⟨את⟩ di registration by pedigree of di kohanim to ⟨di⟩ house of dia papa-dem, and di Levi-dem from twenty year and upward, for dia guard-duty-dem inside dia division-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di registration by pedigree"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "registration by pedigree"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di kohanim"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to house of"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dia papa-dem"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levi-dem"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "from son of"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "and upward"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "for dia guard-duty-dem"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "inside dia division-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:15:12.101669535Z",
+  "model": "glm-5.2"
+}

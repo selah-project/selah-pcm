@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Na only through pride fight dey come, but ⟨wit⟩ ⟨di⟩ people wey dey take advice, wisdom dey.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "na only"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "through pride"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "fight"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "people wey dey take advice"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "people wey dey take advice"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom dey"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:58.883801362Z",
+  "model": "glm-5.2"
+}

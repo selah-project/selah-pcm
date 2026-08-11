@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di king command ⟨את⟩ Benayahu son of Yehoyada, and ⟨im⟩ come out, and ⟨im⟩ strike am, and ⟨im⟩ die; and di kingdom come stand firm for hand of Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and command"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and ⟨im⟩ come out"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "and ⟨im⟩ strike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨im⟩ die"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "and di kingdom"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "stand firm"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hand of"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:54.073005046Z",
+  "model": "glm-5.2"
+}

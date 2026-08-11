@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Because if you dey refuse to send ⟨את⟩ my people, here I dey bring tomorrow locust inside your border!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "you dey refuse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "to send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "bring"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "locust"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "inside your border"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:30.892177268Z",
+  "model": "glm-5.2"
+}

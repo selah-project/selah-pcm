@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e bin sprinkle from am on top di altar seven times, and e bin anoint ⟨את⟩ di altar and ⟨את⟩ all im utensils, and ⟨את⟩ di basin and ⟨את⟩ im stand, to sanctify dem.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "and bin sprinkle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "and bin anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "all im utensils"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im utensils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di basin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "di basin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im stand"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "im stand"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "to sanctify dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:48.597525404Z",
+  "model": "glm-5.2"
+}

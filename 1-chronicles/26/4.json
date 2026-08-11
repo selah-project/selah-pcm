@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And to Oved-Edom, sons: Shemayah di firstborn, Yehozavad di second, Yoakh di third, and Sakar di fourth, and Netanel di fifth.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "And to Oved-Edom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "di firstborn"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoakh"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "di third"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "and Sakar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "di fourth"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "and Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "di fifth"
+    }
+  ],
+  "timestamp": "2026-08-11T14:03:31.625422745Z",
+  "model": "glm-5.2"
+}

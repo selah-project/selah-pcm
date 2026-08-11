@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Great ⟨be⟩ Adonai wey we get, and im power plenty; to im understanding, no number dey.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Great"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai wey we get"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and im power plenty"
+    },
+    {
+      "surface": "כח",
+      "gloss": "power"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "to im understanding"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number dey"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:20.361291978Z",
+  "model": "glm-5.2"
+}

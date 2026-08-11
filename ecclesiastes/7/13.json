@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Look ⟨את⟩ di work of Elohim, for who go fit straighten ⟨את⟩ wetin ⟨e⟩ don bend?",
+  "tokens": [
+    {
+      "surface": "רְאֵה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di work of Elohim"
+    },
+    {
+      "surface": "מַעֲשֶׂה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יוּכַל",
+      "gloss": "go fit"
+    },
+    {
+      "surface": "לְתַקֵּן",
+      "gloss": "straighten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin ⟨e⟩ don bend"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עִוְּתוֹ",
+      "gloss": "⟨e⟩ don bend"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:47.445844129Z",
+  "model": "glm-5.2"
+}

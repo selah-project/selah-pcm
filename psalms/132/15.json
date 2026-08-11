@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "Her provisions I go bless well-well; her poor people I go satisfy wit bread.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Her provisions"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "I go bless"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "her poor people"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "I go satisfy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wit bread"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:24.393244175Z",
+  "model": "glm-5.2"
+}

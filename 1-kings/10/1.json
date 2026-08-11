@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di queen of Sheba bin hear ⟨את⟩ di fame of Shelomoh wey concern di Name of Yahweh, and she come make she test am with hard riddles.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "And di queen"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "of Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "bin hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fame"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "di fame"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "of Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "wey concern di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "and she come"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "make she test am"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "with hard riddles"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:50.842796301Z",
+  "model": "glm-5.2"
+}

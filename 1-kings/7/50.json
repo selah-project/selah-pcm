@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 7:50",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di basins and di trimming shears and di sprinkling bowls and di ladles and di firepans — refined gold; and di hinges for di doors of di house, di inner one, for di holy of holies, for di doors of di house, for di hall, gold.",
+  "tokens": [
+    {
+      "surface": "והספות",
+      "gloss": "and di basins"
+    },
+    {
+      "surface": "והמזמרות",
+      "gloss": "and di trimming shears"
+    },
+    {
+      "surface": "והמזרקות",
+      "gloss": "and di sprinkling bowls"
+    },
+    {
+      "surface": "והכפות",
+      "gloss": "and di ladles"
+    },
+    {
+      "surface": "והמחתות",
+      "gloss": "and di firepans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "refined"
+    },
+    {
+      "surface": "והפתות",
+      "gloss": "and di hinges"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "for di doors"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "di inner one"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "for di holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "of holies"
+    },
+    {
+      "surface": "לדלתי",
+      "gloss": "for di doors"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "for di hall"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:43.875611018Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And dem leave ⟨את⟩ dia god dem there; and Dawid talk, and dem burn dem for fire.",
+  "tokens": [
+    {
+      "surface": "וַיַּעַזְבוּ",
+      "gloss": "And dem leave"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "there"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia god dem"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֑ם",
+      "gloss": "dia god dem"
+    },
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "דָּוִ֔יד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וַיִּשָּׂרְפ֖וּ",
+      "gloss": "and dem burn"
+    },
+    {
+      "surface": "בָּאֵֽשׁ",
+      "gloss": "for fire"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:31.955415279Z",
+  "model": "glm-5.2"
+}

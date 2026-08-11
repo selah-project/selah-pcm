@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Dis na di generation of dem wey dey seek ⟨Am⟩, dem wey dey seek Your face — Ya'akov. Selah.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "דּוֹר",
+      "gloss": "generation"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "dem wey dey seek ⟨Am⟩"
+    },
+    {
+      "surface": "מְבַקְשֵׁי",
+      "gloss": "dem wey dey seek"
+    },
+    {
+      "surface": "פָנֶיךָ",
+      "gloss": "Your face"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:34.676216673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "\"My Adonai, hear me: land ⟨worth⟩ four hundred shekel of silver, between me and you—wetin e be? So bury ⟨את⟩ your dead body.\"",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "my Adonai"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hear me"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and you"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your dead body"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "your dead body"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bury"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:32.556128986Z",
+  "model": "glm-5.2"
+}

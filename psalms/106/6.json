@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "We don sin together wit our papa-dem, we don do crooked tin, we don do wicked-wicked.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "we don sin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together wit"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "our papa-dem"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "we don do crooked tin"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "we don do wicked-wicked"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:07.363360587Z",
+  "model": "glm-5.2"
+}

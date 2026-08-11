@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Because ⟨e⟩ look down from im height of holiness, Yahweh, from heaven to earth ⟨e⟩ look well.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "⟨e⟩ look down"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "from im height"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "of holiness"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "from heaven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "⟨e⟩ look well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:47.188410250Z",
+  "model": "glm-5.2"
+}

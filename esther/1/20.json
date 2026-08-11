@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem go hear di king decree wey ⟨e⟩ go do for all im kingdom, because e ⟨be⟩ big; and all di women go give honor to dia husband, from di great one reach di small one.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "and dem go hear"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "decree"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "im kingdom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "big"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "di women"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "go give"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "honor"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "to dia husband"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "to di great one"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "di small one"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:40.286523397Z",
+  "model": "glm-5.2"
+}

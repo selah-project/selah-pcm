@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "Elohim, ⟨your⟩ way ⟨be⟩ for holiness; who ⟨be⟩ El wey great like Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "for holiness"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "⟨your⟩ way"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wey great"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "like Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:36.674720088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "and Tziklag, and Beit-ha-Markavot, and Chatzar-Susah.",
+  "tokens": [
+    {
+      "surface": "וְצִֽקְלַ֥ג",
+      "gloss": "and Tziklag"
+    },
+    {
+      "surface": "וּבֵית",
+      "gloss": "and Beit"
+    },
+    {
+      "surface": "הַמַּרְכָּב֖וֹת",
+      "gloss": "ha-Markavot"
+    },
+    {
+      "surface": "וַחֲצַ֥ר",
+      "gloss": "and Chatzar"
+    },
+    {
+      "surface": "סוּסָֽה",
+      "gloss": "Susah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:50.299056800Z",
+  "model": "glm-5.2"
+}

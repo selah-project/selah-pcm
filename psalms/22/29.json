@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Because na Yahweh get ⟨di⟩ kingdom, and ⟨na⟩ im dey rule among di nations.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahweh get"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "and im dey rule"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:57.654440397Z",
+  "model": "glm-5.2"
+}

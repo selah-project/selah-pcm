@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And evri clay pot wey any of dem fall inside, evri wetin dey inside am go dey unclean, and ⟨את⟩ am una go break.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pot"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "clay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "fall"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "dey inside am"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "go dey unclean"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "una go break"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:15.956706284Z",
+  "model": "glm-5.2"
+}

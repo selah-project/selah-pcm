@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Praise am, all im angels, praise am, all im hosts!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Praise am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "im angels"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "im hosts"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:17.420488332Z",
+  "model": "glm-5.2"
+}

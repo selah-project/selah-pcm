@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dis dem be di name dem of di pikin dem of Gershon, by dia familie dem: Livni and Shimi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and dis dem"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin dem of"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "by dia familie dem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "and Shimi"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:37.031724485Z",
+  "model": "glm-5.2"
+}

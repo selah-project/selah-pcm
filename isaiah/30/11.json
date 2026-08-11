@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Comot for di road, turn away from di path, make ⟨am⟩ cease from our face ⟨את⟩ Holy One of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ס֚וּרוּ",
+      "gloss": "comot"
+    },
+    {
+      "surface": "מִנֵּי",
+      "gloss": "for"
+    },
+    {
+      "surface": "דֶ֔רֶךְ",
+      "gloss": "di road"
+    },
+    {
+      "surface": "הַטּ֖וּ",
+      "gloss": "turn away"
+    },
+    {
+      "surface": "מִנֵּי",
+      "gloss": "from"
+    },
+    {
+      "surface": "אֹ֑רַח",
+      "gloss": "di path"
+    },
+    {
+      "surface": "הַשְׁבִּ֥יתוּ",
+      "gloss": "make ⟨am⟩ cease"
+    },
+    {
+      "surface": "מִפָּנֵ֖ינוּ",
+      "gloss": "from our face"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Holy One"
+    },
+    {
+      "surface": "קְד֥וֹשׁ",
+      "gloss": "Holy One"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:43.224730202Z",
+  "model": "glm-5.2"
+}

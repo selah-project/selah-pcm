@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And dem command ⟨את⟩ di sons of Binyamin, dem talk sey, Go, and una go hide for di vineyards.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and dem command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem talk sey"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "go"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "and una go hide"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "for di vineyards"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:06.189257076Z",
+  "model": "glm-5.2"
+}

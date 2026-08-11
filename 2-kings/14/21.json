@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "All di pipul of Yehudah bin take ⟨את⟩ Azaryah, and im bin ⟨be⟩ son of sixteen years, and dem make am king ⟨instead of⟩ im papa Amatsyah.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עם",
+      "gloss": "di pipul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and im"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dem make king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "instead of im papa Amatsyah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:59.344157260Z",
+  "model": "glm-5.2"
+}

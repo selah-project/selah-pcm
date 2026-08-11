@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And now, one request I dey ask from ⟨את⟩ you — no turn back ⟨את⟩ my face. And she talk to am say, Talk.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "request"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dey ask"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ from you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk say"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:16.993945613Z",
+  "model": "glm-5.2"
+}

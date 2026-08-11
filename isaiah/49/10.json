@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Dem no go hungry, and dem no go thirst; sun-heat and sun no go strike dem: because di One wey dey show dem compassion go lead dem, and beside spring of water e go guide dem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "dem go hungry"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "dem go thirst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "go strike dem"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "sun-heat"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "and sun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "di One wey dey show dem compassion"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "go lead dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and beside"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "spring of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "e go guide dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:00.629506183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Yehu bin come to Yizre'el, and Izevel hear ⟨am⟩, and she put paint for im two eye dem, and she arrange ⟨את⟩ im head, and she look through di window.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "to Yizre'el"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "and Izevel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "and she put"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "paint"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "for im two eye dem"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "and she arrange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im head"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "im head"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "and she look"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "through"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "di window"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:42.855833322Z",
+  "model": "glm-5.2"
+}

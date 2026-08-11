@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yeχu talk say, 'Make una sanctify solemn assembly for Baal.' And dem proclaim am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk say"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yeχu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "make una sanctify"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "solemn assembly"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem proclaim am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:31.773236741Z",
+  "model": "glm-5.2"
+}

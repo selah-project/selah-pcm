@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 36:27",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And ⟨את⟩ my spirit I go put inside una, and I go make am sey for my statutes una go waka, and my judgments una go keep, and una go do dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my spirit"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "inside una"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "for my statutes"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "una go waka"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "and my judgments"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and una go do"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:32.500686975Z",
+  "model": "glm-5.2"
+}

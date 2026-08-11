@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And di king tell am sey, How many times I dey swear you sey make you no dey talk to me notin but tru, for di Name of Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "עד",
+      "gloss": "how"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "many"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "dey swear you"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "make you dey talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "רק",
+      "gloss": "but"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tru"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:57.932180821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Singers dem go front, instrument-players dem follow behind; for di middle of young women wey dey play tambourine.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "dem go front"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "singers dem"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "behind"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "instrument-players dem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for di middle of"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "young women"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "wey dey play tambourine"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:16.494853922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dis tin come be sin, and di people dey go before di one reach Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di tin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "for sin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dey go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:03.418973211Z",
+  "model": "glm-5.2"
+}

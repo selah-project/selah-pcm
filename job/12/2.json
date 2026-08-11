@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "True true, na una be di ⟨people⟩, and wit una wisdom go die.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "true true"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨people⟩"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "and wit una"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "go die"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    }
+  ],
+  "timestamp": "2026-08-11T13:19:36.944712601Z",
+  "model": "glm-5.2"
+}

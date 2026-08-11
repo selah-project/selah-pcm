@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "E give dia shower as hail, fire wey dey flame for dia land.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "E give"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "dia shower"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "as hail"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "wey dey flame"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "for dia land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:25.050905488Z",
+  "model": "glm-5.2"
+}

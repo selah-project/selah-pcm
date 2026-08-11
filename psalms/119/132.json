@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Turn ⟨im⟩ face to me, and show me favor, as ⟨be⟩ di custom for people wey love your name.",
+  "tokens": [
+    {
+      "surface": "פְּנֵה",
+      "gloss": "turn"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "to me"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "and show me favor"
+    },
+    {
+      "surface": "כְּ֝מִשְׁפָּ֗ט",
+      "gloss": "as ⟨be⟩ di custom"
+    },
+    {
+      "surface": "לְאֹהֲבֵ֥י",
+      "gloss": "for people wey love"
+    },
+    {
+      "surface": "שְׁמֶֽךָ",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:33.424382222Z",
+  "model": "glm-5.2"
+}

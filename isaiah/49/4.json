@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "But I, I bin talk: For nothing I bin tire; for emptiness and vapor my strength I don finish. Truly, my verdict ⟨na⟩ wit ⟨את⟩ Yahweh, and my work ⟨na⟩ wit ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "But I"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "for nothing"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "I bin tire"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "for emptiness"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "and vapor"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "I don finish"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my verdict"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "and my work"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:36.576258719Z",
+  "model": "glm-5.2"
+}

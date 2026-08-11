@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "Yahweh don swear to David ⟨am⟩ ⟨be⟩ truth, e no go turn back from am: from di fruit of your belly, I go put on top throne for you.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "don swear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨am⟩ ⟨be⟩ truth"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "go turn back"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from am"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "from di fruit"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "of your belly"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "on top throne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:29.190232938Z",
+  "model": "glm-5.2"
+}

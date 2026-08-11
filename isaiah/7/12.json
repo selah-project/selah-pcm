@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Ahaz talk sey: Ah no go ask, and ah no go test ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ah go ask"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ah go test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:47.045425644Z",
+  "model": "glm-5.2"
+}

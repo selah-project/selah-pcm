@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "So ⟨he⟩ go, and ⟨he⟩ take ⟨them⟩, and ⟨he⟩ bring ⟨them⟩ to im mama; and im mama make sweet food, di kind wey im papa love.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨he⟩ go"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and ⟨he⟩ take"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨he⟩ bring"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "to im mama"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "and ⟨she⟩ make"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "sweet food"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "di kind wey"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "⟨he⟩ love"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:18.531673519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Wicked man dey run wen nobody dey pursue am, but righteous people dey get bold heart like young lion.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "dey run"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wen nobody dey"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pursue"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "but righteous people"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "like young lion"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "dey get bold heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:29.405892652Z",
+  "model": "glm-5.2"
+}

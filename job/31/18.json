@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 31:18",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "because from my small-small, ⟨im⟩ grow like father ⟨grow⟩ me, and from my mama belly ⟨I⟩ guide am?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "מִ֭נְּעוּרַי",
+      "gloss": "from my small-small"
+    },
+    {
+      "surface": "גְּדֵלַ֣נִי",
+      "gloss": "grow me"
+    },
+    {
+      "surface": "כְאָ֑ב",
+      "gloss": "like father"
+    },
+    {
+      "surface": "וּמִבֶּ֖טֶן",
+      "gloss": "and from belly"
+    },
+    {
+      "surface": "אִמִּ֣י",
+      "gloss": "my mama"
+    },
+    {
+      "surface": "אַנְחֶֽנָּה",
+      "gloss": "guide am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:22.849642377Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "But e leave ⟨את⟩ di advice of di elders wey dem give am, and e take advice with ⟨את⟩ di young men wey grow up with ⟨את⟩ ⟨am⟩ — di ones wey dey stand before am.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "But e leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di advice"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "di advice"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "of di elders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "dem give am"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "and e take advice with"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young men"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "di young men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grow up"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "di ones wey dey stand"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:29.595612094Z",
+  "model": "glm-5.2"
+}

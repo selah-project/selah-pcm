@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Di snarl of king ⟨be⟩ like young lion, ⟨na⟩ im terror; anybody wey provoke am dey sin against im own life.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "snarl"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "like young lion"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "terror"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "anybody wey provoke am"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "dey sin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im own life"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:58.565420748Z",
+  "model": "glm-5.2"
+}

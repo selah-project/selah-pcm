@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "But ⟨את⟩ Binyamin, broda of Yosef, Ya'akov no send wit ⟨את⟩ im broda-dem, for e bin talk sey, \"Make trouble no meet am.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im broda-dem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda-dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e bin talk"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "no meet am"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:15.783401465Z",
+  "model": "glm-5.2"
+}

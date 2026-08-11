@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "If your brother, di Ivri man or di Ivri woman, sell imself to you, and e serve you six years, den for di seventh year you go send am free from wit you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "If"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "sell imself"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "di Ivri man"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "di Ivri woman"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "and e serve you"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "and for di year"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "you go send am"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "free"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "from wit you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:47.158623736Z",
+  "model": "glm-5.2"
+}

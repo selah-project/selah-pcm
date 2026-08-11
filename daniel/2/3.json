@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Di king tell dem say: Dream I bin dream, and my spirit bin trouble, to know ⟨את⟩ di dream.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "di king tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨di king⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "dream"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "I bin dream"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "and bin trouble"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dream"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "di dream"
+    }
+  ],
+  "timestamp": "2026-08-11T13:39:12.231074061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Six day-dem work go dey done, but for di seventh day ⟨na⟩ Shabbat, complete rest, holy gathering. All work una no go do — Shabbat ⟨na⟩ ⟨im⟩ to Yahweh, for all di place-dem wey una dey stay.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "day-dem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "go dey done"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "but for day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "complete rest"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "gathering"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "place-dem wey una dey stay"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:43.429375234Z",
+  "model": "glm-5.2"
+}

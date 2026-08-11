@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Make una sing praise to Yahweh, wey dey sit down for Tsiyon; make una tell among di pipo-pipo wetin e don do.",
+  "tokens": [
+    {
+      "surface": "זַמְּר֗וּ",
+      "gloss": "make una sing praise"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "יֹשֵׁ֣ב",
+      "gloss": "wey dey sit down"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הַגִּ֥ידוּ",
+      "gloss": "make una tell"
+    },
+    {
+      "surface": "בָ֝עַמִּ֗ים",
+      "gloss": "among di pipo-pipo"
+    },
+    {
+      "surface": "עֲלִילֹתָֽיו",
+      "gloss": "wetin e don do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:47.898346739Z",
+  "model": "glm-5.2"
+}

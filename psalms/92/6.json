@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "How big ⟨be⟩ di tings wey you do, Yahweh; very deep ⟨be⟩ di tings wey you dey tink!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "How"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "big ⟨be⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "di tings wey you do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "deep ⟨be⟩"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "di tings wey you dey tink"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:29.446556285Z",
+  "model": "glm-5.2"
+}

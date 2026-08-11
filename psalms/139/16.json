@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "Your eye dem see my unformed mass, and for Your book, all of dem dem write down — di day dem wey dem form, and no be one dey among dem.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "my unformed mass"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "see"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Your eye dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and for"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "Your book"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "dem write down"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di day dem"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "wey dem form"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dey among dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:45.372851807Z",
+  "model": "glm-5.2"
+}

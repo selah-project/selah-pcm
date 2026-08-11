@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And e go be, wen e ⟨don⟩ get guilt for one of dis tin dem, e go confess dat ⟨thing⟩ wey e sin on top am.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "e get guilt"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "for one"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "of dis tin dem"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "e go confess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat ⟨thing⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "e sin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:22.558602525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "and ⟨את⟩ di da'ah, and ⟨את⟩ di ayyah, according to im kind.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di da'ah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "di da'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "di ayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "according to im kind"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:08.640634709Z",
+  "model": "glm-5.2"
+}

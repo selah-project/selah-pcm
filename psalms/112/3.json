@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "Wealth and riches ⟨dey⟩ for im house, and im righteousness dey stand forever.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Wealth"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "and riches"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "for im house"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "and im righteousness"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.904960181Z",
+  "model": "glm-5.2"
+}

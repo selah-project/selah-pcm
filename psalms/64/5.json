@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 64,
+  "translation": "Make dem shoot for hidden place di blameless man, suddenly dem go shoot am, and dem no go fear.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "make dem shoot"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "for hidden place"
+    },
+    {
+      "surface": "תם",
+      "gloss": "di blameless man"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "suddenly"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "dem go shoot am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no go"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "fear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:28.248385685Z",
+  "model": "glm-5.2"
+}

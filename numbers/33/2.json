@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Moshe bin write ⟨את⟩ dia going-outs for dia journeys, by mouth of Yahweh; and na dis one dem be dia journeys for dia going-outs.",
+  "tokens": [
+    {
+      "surface": "וַיִּכְתֹּ֨ב",
+      "gloss": "And bin write"
+    },
+    {
+      "surface": "מֹשֶׁ֜ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia going-outs"
+    },
+    {
+      "surface": "מוֹצָאֵיהֶ֛ם",
+      "gloss": "dia going-outs"
+    },
+    {
+      "surface": "לְמַסְעֵיהֶ֖ם",
+      "gloss": "for dia journeys"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "by"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֵ֥לֶּה",
+      "gloss": "and na dis one dem"
+    },
+    {
+      "surface": "מַסְעֵיהֶ֖ם",
+      "gloss": "dia journeys"
+    },
+    {
+      "surface": "לְמוֹצָאֵיהֶֽם",
+      "gloss": "for dia going-outs"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:08.163698654Z",
+  "model": "glm-5.2"
+}

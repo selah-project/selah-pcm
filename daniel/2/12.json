@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "All because of dis, di king bin dey enraged and furious, and e say make dem destroy all di wise men of Bavel.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "קֳבֵ֣ל",
+      "gloss": "because of"
+    },
+    {
+      "surface": "דְּנָ֔ה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "מַלְכָּ֕א",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בְּנַ֖ס",
+      "gloss": "bin dey enraged"
+    },
+    {
+      "surface": "וּקְצַ֣ף",
+      "gloss": "and furious"
+    },
+    {
+      "surface": "שַׂגִּ֑יא",
+      "gloss": "greatly"
+    },
+    {
+      "surface": "וַאֲמַר֙",
+      "gloss": "and e say"
+    },
+    {
+      "surface": "לְה֣וֹבָדָ֔ה",
+      "gloss": "make dem destroy"
+    },
+    {
+      "surface": "לְכֹ֖ל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חַכִּימֵ֥י",
+      "gloss": "di wise men"
+    },
+    {
+      "surface": "בָבֶֽל",
+      "gloss": "of Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:55.646966508Z",
+  "model": "glm-5.2"
+}

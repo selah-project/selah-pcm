@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Wit rebukes for iniquity You don discipline ⟨each⟩ man, and You melt like moth wetin e dey desire; truly, every man ⟨na⟩ vanity. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Wit rebukes"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "You don discipline"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "and You melt"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "like moth"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "wetin e dey desire"
+    },
+    {
+      "surface": "אך",
+      "gloss": "truly"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:16.200137907Z",
+  "model": "glm-5.2"
+}

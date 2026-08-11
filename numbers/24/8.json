@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 24:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "El bring am comot from Mitsrayim, ⟨im⟩ get horns of wild bull — ⟨he⟩ go chop di nations, im enemies, and ⟨he⟩ go crush dia bones, and im arrows go smash dem.",
+  "tokens": [
+    {
+      "surface": "אֵ֚ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוֹצִיא֣וֹ",
+      "gloss": "bring am comot"
+    },
+    {
+      "surface": "מִמִּצְרַ֔יִם",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "כְּתוֹעֲפֹ֥ת",
+      "gloss": "like horns of"
+    },
+    {
+      "surface": "רְאֵ֖ם",
+      "gloss": "wild bull"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יֹאכַ֞ל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "nations"
+    },
+    {
+      "surface": "צָרָ֗יו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "וְעַצְמֹתֵיהֶ֛ם",
+      "gloss": "and dia bones"
+    },
+    {
+      "surface": "יְגָרֵ֖ם",
+      "gloss": "go crush"
+    },
+    {
+      "surface": "וְחִצָּ֥יו",
+      "gloss": "and im arrows"
+    },
+    {
+      "surface": "יִמְחָֽץ",
+      "gloss": "go smash"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:09.560969556Z",
+  "model": "glm-5.2"
+}

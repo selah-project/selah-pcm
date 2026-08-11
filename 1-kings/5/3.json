@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Ten fattened cattle, and twenty pasture cattle, and one hundred sheep — apart from deer, and gazelle, and roebuck, and fattened fowl.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "Ten"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "cattle"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "fattened"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "cattle"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "pasture"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "deer"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "and gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "and roebuck"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "and fowl"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "fattened"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:45.343096328Z",
+  "model": "glm-5.2"
+}

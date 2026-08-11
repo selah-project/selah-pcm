@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Shelomoh tell am ⟨את⟩ all her matters; no matter bin dey hidden from di king wey ⟨he⟩ no tell am.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "And Shelomoh tell"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all her matters"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "her matters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "hidden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "⟨he⟩ tell"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:50.843208087Z",
+  "model": "glm-5.2"
+}

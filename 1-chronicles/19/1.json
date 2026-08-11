@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And e come to pass after dis, Nachash wey be king of di sons of Ammon die, and im son come king under am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨im⟩ die"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and ⟨im⟩ come king"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:22.077331850Z",
+  "model": "glm-5.2"
+}

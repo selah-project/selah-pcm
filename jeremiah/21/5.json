@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And I go fight against una — me myself — ⟨את⟩ una wit hand wey dem stretch out, and wit strong arm, and wit anger, and wit fury, and wit great wrath.",
+  "tokens": [
+    {
+      "surface": "וְנִלְחַמְתִּ֤י",
+      "gloss": "And I go fight against"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "me myself"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בְּיָ֥ד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "נְטוּיָ֖ה",
+      "gloss": "wey dem stretch out"
+    },
+    {
+      "surface": "וּבִזְר֣וֹעַ",
+      "gloss": "and wit arm"
+    },
+    {
+      "surface": "חֲזָקָ֑ה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "וּבְאַ֥ף",
+      "gloss": "and wit anger"
+    },
+    {
+      "surface": "וּבְחֵמָ֖ה",
+      "gloss": "and wit fury"
+    },
+    {
+      "surface": "וּבְקֶ֥צֶף",
+      "gloss": "and wit wrath"
+    },
+    {
+      "surface": "גָּדֽוֹל",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T16:21:44.210284878Z",
+  "model": "glm-5.2"
+}

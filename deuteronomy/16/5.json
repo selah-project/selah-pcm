@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "You no go fit sacrifice ⟨את⟩ di Pesach inside any of una gates wey Yahweh una Elohim dey give you.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תוּכַל",
+      "gloss": "you go fit"
+    },
+    {
+      "surface": "לִזְבֹּחַ",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pesach"
+    },
+    {
+      "surface": "הַפָּסַח",
+      "gloss": "di Pesach"
+    },
+    {
+      "surface": "בְּאַחַד",
+      "gloss": "inside any"
+    },
+    {
+      "surface": "שְׁעָרֶיךָ",
+      "gloss": "of una gates"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:41.558515647Z",
+  "model": "glm-5.2"
+}

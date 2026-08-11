@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "A thousand go fall for your side, and ten thousand for your right hand; ⟨but⟩ e no go come near you.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "for your side"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "and ten thousand"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "for your right hand"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "go come near"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:53.499089681Z",
+  "model": "glm-5.2"
+}

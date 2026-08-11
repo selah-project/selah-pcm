@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "So di people go out to di field to meet Yisra'el, and di war bin happen for di forest of Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "so go out"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "to di field"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and bin happen"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "di war"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "for di forest"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:10.461993440Z",
+  "model": "glm-5.2"
+}

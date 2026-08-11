@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 12:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Look! El ⟨na⟩ my salvation, I go trust, and I no go fear; sey my strength and my song ⟨na⟩ Yah, Yahweh, and ⟨e⟩ don become to me salvation.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Look!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "my salvation"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "I go trust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no go"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "my strength"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "and my song"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨e⟩ don become"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:56.089426816Z",
+  "model": "glm-5.2"
+}

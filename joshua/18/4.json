@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Give una three men per tribe, and I go send dem, and make dem stand up, and make dem walk through di land, and make dem write ⟨את⟩ am down according to di size of dia inheritance, and make dem come to me.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "per tribe"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "and I go send dem"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "and make dem stand up"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "and make dem walk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "through di land"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "and make dem write"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ am",
+      "marks": "di land"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "dia inheritance"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and make dem come"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:57.032101170Z",
+  "model": "glm-5.2"
+}

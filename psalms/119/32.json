@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Road of ya commandment dem I go run, because you don broaden my heart.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "road"
+    },
+    {
+      "surface": "מִצְוֺתֶ֥יךָ",
+      "gloss": "of ya commandment dem"
+    },
+    {
+      "surface": "אָר֑וּץ",
+      "gloss": "I go run"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "because"
+    },
+    {
+      "surface": "תַרְחִ֣יב",
+      "gloss": "you don broaden"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "my heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:20.930700546Z",
+  "model": "glm-5.2"
+}

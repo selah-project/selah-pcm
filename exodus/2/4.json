@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And im sister stand far away, make she go know wetin dem go do to am.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "im sister"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "far away"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "make she go know"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dem go do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:13.041437131Z",
+  "model": "glm-5.2"
+}

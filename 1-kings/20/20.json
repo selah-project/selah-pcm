@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And dem strike, each man im man; and Aram run, and Yisrael pursue dem; and Ben־Hadad, king of Aram, escape on top horse wit horsemen.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "im man"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and ⟨dem⟩ run"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "and pursue dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "and escape"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "horse"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "wit horsemen"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:18.154431336Z",
+  "model": "glm-5.2"
+}

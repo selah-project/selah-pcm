@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yahweh tok to Moshe, \"Stretch ⟨את⟩ your hand on top di sea, and make di water return on top Mitsrayim, on top im chariot and on top im horsemen.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "stretch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and make ⟨dem⟩ return"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "im chariot"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "im horsemen"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:56.344479460Z",
+  "model": "glm-5.2"
+}

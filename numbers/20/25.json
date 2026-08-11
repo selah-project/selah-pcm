@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Take ⟨את⟩ Aharon and ⟨את⟩ Elazar im pikin, and carry dem go up Hor, di mountain.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "and carry go up"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "Hor, di mountain"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:28.741849094Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Beside di frame dem di ring dem bin dey, ⟨as⟩ house for di pole dem, to carry ⟨את⟩ di table.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "beside"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "di frame dem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "di ring dem"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "⟨as⟩ house"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "for di pole dem"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:08.170711988Z",
+  "model": "glm-5.2"
+}

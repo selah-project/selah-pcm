@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 5:23",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "\"My servants dem go go down from Lebanon to di sea, and I go make dem rafts for di sea, reach di place wey you go send to me, and I go break dem apart for dere, and you go carry ⟨dem⟩; and you go do ⟨את⟩ wetin I want, to give food for my house.\"",
+  "tokens": [
+    {
+      "surface": "עבדי",
+      "gloss": "My servants"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "dem go go down"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "to di sea"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אשימם",
+      "gloss": "go make dem"
+    },
+    {
+      "surface": "דברות",
+      "gloss": "rafts"
+    },
+    {
+      "surface": "בים",
+      "gloss": "for di sea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "you go send"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ונפצתים",
+      "gloss": "and I go break dem apart"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for dere"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "go carry"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin I want"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "wetin I want"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "for my house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:19.957002087Z",
+  "model": "glm-5.2"
+}

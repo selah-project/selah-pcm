@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "See, you fine well-well, my lover; see, you fine well-well; your two eye ⟨be⟩ like dove.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "see"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "you fine well-well"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "see"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "you fine well-well"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "your two eye"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "like dove"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:39.848860900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di people neva turn back to di one wey dey strike dem, and ⟨את⟩ Yahweh of hosts dem no seek.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "And di people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "שב",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "עד",
+      "gloss": "to"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "di one wey dey strike dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yahweh of hosts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "dem seek"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:29.703175295Z",
+  "model": "glm-5.2"
+}

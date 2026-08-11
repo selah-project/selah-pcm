@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Evri tin be di same: one event dey for di righteous and for di wicked, for di good and for di clean and for di unclean, for di person wey dey sacrifice and for di person wey no dey sacrifice; as di good person na so di sinner; di person wey dey swear, as di person wey dey fear oath.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "be di same"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to evri"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "event"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "for di righteous"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "and for di wicked"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "for di good"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "and for di clean"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "and for di unclean"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "and for di person wey dey sacrifice"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "and for di person wey"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dey sacrifice"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "as di good person"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "na so di sinner"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "di person wey dey swear"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "oath"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wey dey fear"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:46.183518754Z",
+  "model": "glm-5.2"
+}

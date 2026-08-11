@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨E⟩ bin make ⟨את⟩ evri tin fine for im time; also, ⟨e⟩ don put ⟨את⟩ eternity for dia heart, apart from sey man no go fit find ⟨את⟩ di work wey Elohim don do, from beginning go reach end.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri tin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin make"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "for im time"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eternity"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "eternity"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "don put"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "for dia heart"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "go fit find"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "don do"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "from beginning"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "end"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:23.675155629Z",
+  "model": "glm-5.2"
+}

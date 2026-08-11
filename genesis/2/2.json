@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Elohim bin finish in di seventh day im work wey ⟨he⟩ bin do; and ⟨he⟩ bin rest in di seventh day from all im work wey ⟨he⟩ bin do.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bin finish"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "bin rest"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:56.473071339Z",
+  "model": "glm-5.2"
+}

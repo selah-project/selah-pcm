@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 126,
+  "translation": "Dey go, ⟨im⟩ go dey go, dey cry, dey carry di seed bag, e go soteh ⟨im⟩ come, ⟨im⟩ go come with song of joy, dey carry im sheaves.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Dey go"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "⟨im⟩ go dey go"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "dey cry"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dey carry"
+    },
+    {
+      "surface": "משך",
+      "gloss": "di seed bag"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "of seed"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e go soteh ⟨im⟩ come"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "⟨im⟩ go come"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "with song of joy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dey carry"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "im sheaves"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:20.974786834Z",
+  "model": "glm-5.2"
+}

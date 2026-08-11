@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Na me I don command my consecrated ones; I don also call my mighty ones for my anger, ⟨dem⟩ wey dey rejoice for my majesty.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "na me I"
+    },
+    {
+      "surface": "צִוֵּיתִי",
+      "gloss": "don command"
+    },
+    {
+      "surface": "לִמְקֻדָּשַׁי",
+      "gloss": "my consecrated ones"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "also"
+    },
+    {
+      "surface": "קָרָאתִי",
+      "gloss": "I don call"
+    },
+    {
+      "surface": "גִּבּוֹרַי",
+      "gloss": "my mighty ones"
+    },
+    {
+      "surface": "לְאַפִּי",
+      "gloss": "for my anger"
+    },
+    {
+      "surface": "עַלִּיזֵי",
+      "gloss": "⟨dem⟩ wey dey rejoice"
+    },
+    {
+      "surface": "גַּאֲוָתִי",
+      "gloss": "for my majesty"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:48.152365072Z",
+  "model": "glm-5.2"
+}

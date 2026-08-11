@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joel 2:24",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di threshing-floor dem go full wit grain, and di wine-vat dem go overflow wit new wine and oil.",
+  "tokens": [
+    {
+      "surface": "ומלאו",
+      "gloss": "and go full"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "di threshing-floor dem"
+    },
+    {
+      "surface": "בר",
+      "gloss": "wit grain"
+    },
+    {
+      "surface": "והשיקו",
+      "gloss": "and go overflow"
+    },
+    {
+      "surface": "היקבים",
+      "gloss": "di wine-vat dem"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "wit new wine"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "and oil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:21.546382192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Dis people wey I form for myself, dem go tell about my praise.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dis"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "I form"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "my praise"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "dem go tell about"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:29.872326954Z",
+  "model": "glm-5.2"
+}

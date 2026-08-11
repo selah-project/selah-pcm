@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Because day and night Your hand dey heavy on me; my vigor turn to drought, for di dry heat of harvest. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "day"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "and night"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "dey heavy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on me"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Your hand"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "turn"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "my vigor"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "for di dry heat"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "of harvest"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.445183132Z",
+  "model": "glm-5.2"
+}

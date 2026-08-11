@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "And ⟨He⟩ go bring back on top dem ⟨את⟩ dia wickedness, and for dia evil ⟨He⟩ go cut dem off; ⟨He⟩ go cut dem off — Yahweh, our Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and go bring back"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia wickedness"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "dia wickedness"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "and for dia evil"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "go cut dem off"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "go cut dem off"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:04.815402939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Dis ⟨na⟩ di sea, great and broad for hand, over dey ⟨be⟩ crawling-creatures wey no get number, living-creatures small ones with great ones.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "and broad"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "for hand"
+    },
+    {
+      "surface": "שם",
+      "gloss": "over dey"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "crawling-creatures"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wey no get"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "living-creatures"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "small ones"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "great ones"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:09.371100979Z",
+  "model": "glm-5.2"
+}

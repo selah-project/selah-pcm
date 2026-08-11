@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "My pikin, if you tek my word dem, and my commandment dem you hide wit ⟨את⟩ yourself,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you tek"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my word dem"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "and my commandment dem"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "you hide"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yourself"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:48.743655788Z",
+  "model": "glm-5.2"
+}

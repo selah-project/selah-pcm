@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Or dem make am know to am, im sin wey e sin, and e go bring ⟨את⟩ im offering, a he-goat of goats, male, without blemish.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "dem make am know"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "im sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "e sin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "and e go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im offering"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "im offering"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "a he-goat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "of goats"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "without blemish"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:06.726547745Z",
+  "model": "glm-5.2"
+}

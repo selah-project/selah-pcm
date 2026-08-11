@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat and ⟨את⟩ im open-land, and ⟨את⟩ Rechov and ⟨את⟩ im open-land — four cities.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:05.894581320Z",
+  "model": "glm-5.2"
+}

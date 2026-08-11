@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Moshe bin come out to meet im in-law, and e bin bow down, and bin kiss am, and dem bin ask, man to im fellow, about peace, and dem bin enter di tent.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bin come out"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "im in-law"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and bin bow down"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and bin kiss"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "and dem bin ask"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "to im fellow"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "about peace"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem bin enter"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "di tent"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:54.420414846Z",
+  "model": "glm-5.2"
+}

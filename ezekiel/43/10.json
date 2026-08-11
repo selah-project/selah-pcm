@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "You, son of man, show ⟨את⟩ house of Israel ⟨את⟩ di house, make dem shame for dia iniquity dem, and make dem measure ⟨את⟩ di design.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "show"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "make dem shame"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "for dia iniquity dem"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "and make dem measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di design"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "di design"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:30.273636344Z",
+  "model": "glm-5.2"
+}

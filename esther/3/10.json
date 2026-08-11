@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So di king pull ⟨את⟩ im signet ring from im hand, and im give am to Haman, son of Hamdata di Agagite, di enemy of di Yehudim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "so ⟨di king⟩ pull"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im signet ring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "im signet ring"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "and im give am"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "to Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "of Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "di Agagite"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "di enemy"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "of di Yehudim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:37.399372417Z",
+  "model": "glm-5.2"
+}

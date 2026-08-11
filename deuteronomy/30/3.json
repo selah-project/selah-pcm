@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "den Yahweh your Elohim go turn ⟨את⟩ your captivity, and e go show you pity, and e go turn back and gather you from all di peoples wey Yahweh your Elohim don scatter you—right dia.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "den ⟨im⟩ go turn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your captivity"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "your captivity"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "and ⟨im⟩ go show you pity"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and ⟨im⟩ go turn back"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "and gather you"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "di peoples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "don scatter you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "right dia"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:02.457741349Z",
+  "model": "glm-5.2"
+}

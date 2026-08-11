@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e come to pass, as di kingdom bin strong for im hand, ⟨say⟩ e strike ⟨את⟩ im servants, di ones wey strike ⟨את⟩ di king, im papa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bin strong"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "⟨say⟩ e strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "di ones wey strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:16.293367998Z",
+  "model": "glm-5.2"
+}

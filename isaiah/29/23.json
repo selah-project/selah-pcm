@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "For wen im children wey be work of my hand, dey inside im midst, dem go make my name holy, and dem go make ⟨את⟩ Holy One of Ya'akov holy, and ⟨את⟩ Elohim of Yisra'el dem go stand for awe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "wen see"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "im children"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "of my hand"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "inside im midst"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "dem go make holy"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "and dem go make holy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Holy One of Ya'akov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Holy One"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Ya'akov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Elohim of Yisra'el"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "dem go stand for awe"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:15.386580628Z",
+  "model": "glm-5.2"
+}

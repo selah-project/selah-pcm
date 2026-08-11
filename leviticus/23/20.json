@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And di priest go wave ⟨את⟩ dem, together wit di bread of di firstfruits as wave-offering before Yahweh, together wit di two ram-lambs — dem go be holy for Yahweh, for di priest.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "and go wave"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (di two lambs plus di bread)"
+    },
+    {
+      "surface": "על",
+      "gloss": "together wit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di bread"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "of di firstfruits"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "as wave-offering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "together wit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ram-lambs"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "for di priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:19.645111391Z",
+  "model": "glm-5.2"
+}

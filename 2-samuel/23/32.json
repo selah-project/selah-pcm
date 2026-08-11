@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Elyachba di Shaalbonite, ⟨from⟩ ⟨di⟩ sons of Yashen, Yehonatan,",
+  "tokens": [
+    {
+      "surface": "אֶלְיַחְבָּא֙",
+      "gloss": "Elyachba"
+    },
+    {
+      "surface": "הַשַּׁ֣עַלְבֹנִ֔י",
+      "gloss": "di Shaalbonite"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "sons"
+    },
+    {
+      "surface": "יָשֵׁ֖ן",
+      "gloss": "of Yashen"
+    },
+    {
+      "surface": "יְהוֹנָתָֽן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:34.758578367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 1:15",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And with great wrath I dey vex against di nations, di ⟨carefree ones⟩, wey ⟨bin⟩ only vex me small; and dem don help for evil.",
+  "tokens": [
+    {
+      "surface": "וקצף",
+      "gloss": "and with wrath"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "dey vex"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "di ⟨carefree ones⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "bin vex"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "don help"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "for evil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:33:35.478798052Z",
+  "model": "glm-5.2"
+}

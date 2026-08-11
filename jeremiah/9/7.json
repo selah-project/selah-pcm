@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Arrow wey dey slaughter — ⟨dat⟩ na dia tongue. Deceit e don speak; with im mouth peace im ⟨wit⟩ neighbor e dey speak, and for im inside ambush e dey set.",
+  "tokens": [
+    {
+      "surface": "חֵ֥ץ",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "wey dey slaughter"
+    },
+    {
+      "surface": "לְשׁוֹנָ֖ם",
+      "gloss": "dia tongue"
+    },
+    {
+      "surface": "מִרְמָ֣ה",
+      "gloss": "deceit"
+    },
+    {
+      "surface": "דִבֵּ֑ר",
+      "gloss": "e don speak"
+    },
+    {
+      "surface": "בְּפִ֗יו",
+      "gloss": "with im mouth"
+    },
+    {
+      "surface": "שָׁל֤וֹם",
+      "gloss": "peace"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbor"
+    },
+    {
+      "surface": "רֵעֵ֨הוּ֙",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "יְדַבֵּ֔ר",
+      "gloss": "e dey speak"
+    },
+    {
+      "surface": "וּבְקִרְבּ֖וֹ",
+      "gloss": "and for im inside"
+    },
+    {
+      "surface": "יָשִׂ֥ים",
+      "gloss": "e dey set"
+    },
+    {
+      "surface": "אָרְבּֽוֹ",
+      "gloss": "im ambush"
+    }
+  ],
+  "timestamp": "2026-08-11T11:44:38.859312017Z",
+  "model": "glm-5.2"
+}

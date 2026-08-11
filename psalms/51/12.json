@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Clean heart, create for me, O Elohim, and correct spirit, renew inside my inside.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "clean"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "create"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and spirit"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "correct"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "renew"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inside my inside"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:35.870759298Z",
+  "model": "glm-5.2"
+}

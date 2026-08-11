@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "E dey throw ⟨im⟩ ice like pieces of food; before ⟨im⟩ cold, who go fit stand?",
+  "tokens": [
+    {
+      "surface": "מַשְׁלִּיךְ",
+      "gloss": "E dey throw"
+    },
+    {
+      "surface": "קַרְחוֹ",
+      "gloss": "⟨im⟩ ice"
+    },
+    {
+      "surface": "כְפִתִּים",
+      "gloss": "like pieces of food"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "before"
+    },
+    {
+      "surface": "קָרָתוֹ",
+      "gloss": "⟨im⟩ cold"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "go fit stand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:19.791065867Z",
+  "model": "glm-5.2"
+}

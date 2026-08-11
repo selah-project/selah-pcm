@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 95,
+  "translation": "so I swear for my anger: \"if dem go enter my rest!\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "I swear"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "for my anger"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "dem go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "my rest"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:47.579393475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And dem go round about through all di land, and dem come back from di end of nine months and twenty days to Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "and dem go round about"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "through all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come back"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "from di end of"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nine"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "months"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "days"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "to Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:07.689330382Z",
+  "model": "glm-5.2"
+}

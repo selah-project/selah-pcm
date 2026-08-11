@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Dem fill am wit four row of stone: row of odem, pitdah, and bareqet — na di first row.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "dem fill"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "four"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "row"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "טור",
+      "gloss": "row"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odem"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "pitdah"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "and bareqet"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "di row"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di first"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:57.581221980Z",
+  "model": "glm-5.2"
+}

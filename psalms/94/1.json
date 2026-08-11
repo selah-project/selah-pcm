@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "El of vengeance, Yahweh; El of vengeance, shine forth!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "of vengeance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "of vengeance"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "shine forth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:41.150589484Z",
+  "model": "glm-5.2"
+}

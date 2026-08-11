@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And ⟨את⟩ all di valour man dem—seven thousand—and di craftsman and di smith—one thousand; all of dem na mighty warrior dem, person dem wey dey fight war; and king of Bavel bring dem as exile go Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "man dem"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "of valour"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "and di craftsman"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "and di smith"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "one thousand"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "mighty warrior dem"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "person dem wey dey do"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "war"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "and e bring dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "as exile"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "go Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:32.678142308Z",
+  "model": "glm-5.2"
+}

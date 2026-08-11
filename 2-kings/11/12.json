@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨im⟩ bring out ⟨את⟩ di son of di king, and ⟨im⟩ put on top am ⟨את⟩ di crown and ⟨את⟩ di testimony, and dem make am king and dem anoint am, and dem clap ⟨dia⟩ hand, and dem talk: \"Make di king live!\"",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "and ⟨im⟩ bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨im⟩ put"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di crown"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "di crown"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di testimony"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "di testimony"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "and dem make king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "and dem anoint am"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and dem clap"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "make ⟨im⟩ live"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:51.498507015Z",
+  "model": "glm-5.2"
+}

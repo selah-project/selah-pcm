@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Because e don make am smooth for im own eye, to find im iniquity to hate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "e don make am smooth"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im own eye"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "to find"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "im iniquity"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "to hate"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:16.263802274Z",
+  "model": "glm-5.2"
+}

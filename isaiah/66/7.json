@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Before she begin labor, she don born; before pain come to her, she don deliver male child.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Before"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "she begin labor"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "she don born"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "Before"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "come"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "pain"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to her"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "she don deliver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male child"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:28.139519182Z",
+  "model": "glm-5.2"
+}

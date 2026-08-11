@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Mordecai bin know ⟨את⟩ all wey bin happen, and Mordecai bin tear ⟨את⟩ im cloths, and e bin put on sackcloth and ashes, and e bin comot go inside di city, and e bin cry one big and bitter cry.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "and Mordecai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bin know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bin happen"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "and bin tear"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloths"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "and bin put on"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sackcloth"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "and ashes"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and bin comot"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "and bin cry"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "cry"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "big"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "and bitter"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:37.235742971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "From Yahweh ⟨come⟩ di steps of ⟨a⟩ man; ⟨im⟩ make dem stand firm, and ⟨im⟩ dey delight for im way.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "di steps of"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨a⟩ man"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "⟨im⟩ make dem stand firm"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "and im way"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "⟨im⟩ dey delight"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:56.275383836Z",
+  "model": "glm-5.2"
+}

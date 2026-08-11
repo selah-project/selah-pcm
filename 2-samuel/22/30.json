@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "For by You I go run ⟨against⟩ troop; by my Elohim I go leap wall.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "by You"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "I go run"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "troop"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "by my Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "I go leap"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wall"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:48.188978523Z",
+  "model": "glm-5.2"
+}

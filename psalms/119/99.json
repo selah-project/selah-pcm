@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "From all my teachers I get understanding pass dem, because your testimonies na my meditation.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "From all"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "my teachers"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "I get understanding pass dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "your testimonies"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "na my meditation"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨for me⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:29.769618681Z",
+  "model": "glm-5.2"
+}

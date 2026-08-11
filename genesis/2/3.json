@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So Elohim bin bless ⟨את⟩ di seventh day, and ⟨he⟩ bin set am apart, because for inside am ⟨he⟩ bin rest from all im work wey Elohim bin create to do.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bin bless"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di seventh day"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "bin set apart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for inside am"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "bin rest"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bin create"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:56.473348554Z",
+  "model": "glm-5.2"
+}

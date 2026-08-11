@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Wey my hand go stand firm wit am; my arm too go make am strong.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "go stand firm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "אף",
+      "gloss": "too"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "my arm"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "go make am strong"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:35.817707238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "Make una dey glad for front of Yahweh, sey ⟨e⟩ don come make ⟨e⟩ judge ⟨את⟩ di earth; ⟨e⟩ go judge ⟨את⟩ di world wit righteousness, and ⟨את⟩ di peoples wit straightness.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בא",
+      "gloss": "don come"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "make ⟨e⟩ judge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨e⟩ go judge"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "di world"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "wit righteousness"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "and di peoples"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "wit straightness"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.839001480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Shemuël come take ⟨את⟩ di flask of oil, e come pour am on top im head, and come kiss am, and come talk, ⟨no be so?⟩ sey Yahweh don anoint you on top im inheritance, as leader?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "come take"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di flask of oil"
+    },
+    {
+      "surface": "פך",
+      "gloss": "flask"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "of oil"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "come pour"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "come kiss am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨no be so?⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "don anoint you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "im inheritance"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "as leader"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:47.958482405Z",
+  "model": "glm-5.2"
+}

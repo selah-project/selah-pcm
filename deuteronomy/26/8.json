@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And Yahweh bring we comot from Mitsrayim wit strong hand and wit arm wey ⟨e⟩ stretch out and wit great fear and wit signs and wit wonders.",
+  "tokens": [
+    {
+      "surface": "וזיוצאנו",
+      "gloss": "and ⟨im⟩ bring we comot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "and wit arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wey ⟨e⟩ stretch out"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "and wit fear"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "great"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "and wit signs"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "and wit wonders"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:25.461440844Z",
+  "model": "glm-5.2"
+}

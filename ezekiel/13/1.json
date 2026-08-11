@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di word of Yahweh bin come to me, sey make I talk,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make I talk"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:21.853888514Z",
+  "model": "glm-5.2"
+}

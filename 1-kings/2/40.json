@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Shimi bin stand up, bin saddle ⟨את⟩ im donkey, and bin go Gath, go meet Akish, to find ⟨את⟩ im servants. Shimi bin go, bin bring ⟨את⟩ im servants from Gath.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin stand up"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "bin saddle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im donkey"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "im donkey"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bin bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "from Gath"
+    }
+  ],
+  "timestamp": "2026-08-11T16:09:40.682369668Z",
+  "model": "glm-5.2"
+}

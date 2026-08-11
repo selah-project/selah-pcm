@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But ⟨את⟩ di house of Yehudah I go show pity, and I go save dem by Yahweh dia Elohim; and I no go save dem by bow, and by sword, and by war, by horses and by horsemen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "I go show pity"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "and I go save"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no go"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "save dem"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "by bow"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "and by sword"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "and by war"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "by horses"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "and by horsemen"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:00.598874222Z",
+  "model": "glm-5.2"
+}

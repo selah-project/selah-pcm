@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Paroh go talk about ⟨di⟩ pikin dem of Yisra'el, sey, 'Dem don enta wahala for ⟨di⟩ land, ⟨di⟩ wilderness don lock dem inside.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "about ⟨di⟩ pikin dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "don enta wahala"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for ⟨di⟩ land"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "don lock"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dem inside"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨di⟩ wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:25.880061236Z",
+  "model": "glm-5.2"
+}

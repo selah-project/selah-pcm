@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And you go talk for ⟨di⟩ day dat one: \"I go tank Yahweh, sey ⟨bin⟩ you vex for me, ⟨but⟩ your anger don turn back, and you go comfort me.\"",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go talk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "I go tank you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "you vex"
+    },
+    {
+      "surface": "בי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨don⟩ turn back"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "your anger"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "and you go comfort me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:56.089200083Z",
+  "model": "glm-5.2"
+}

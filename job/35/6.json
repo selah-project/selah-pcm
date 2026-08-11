@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "If you sin, wetin you do to ⟨am⟩? And if your transgressions plenty, wetin you do to ⟨am⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "you sin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "you do"
+    },
+    {
+      "surface": "בו",
+      "gloss": "to ⟨am⟩"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "and if plenty"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "your transgressions"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:41.542053792Z",
+  "model": "glm-5.2"
+}

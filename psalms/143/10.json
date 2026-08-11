@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "Teach me make I do wetin dey please you, because na you be my Elohim; your good Spirit, make e guide me for inside di land wey dey level.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "teach me"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make I do"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "wetin dey please you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "your Spirit"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "make e guide me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for inside di land"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "wey dey level"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:53.378383804Z",
+  "model": "glm-5.2"
+}

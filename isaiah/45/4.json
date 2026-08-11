@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "For di sake of Ya'akov my servant, and Yisra'el my chosen one, I call you by ya name, I surname you, even though you no know me.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisra'el"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "my chosen one"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "I call"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "by ya name"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "I surname you"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "even though you no"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "know me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:13.614639590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No chop ⟨את⟩ di bread of person wey get bad eye, and no crave im sweet tin dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bread"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "crave"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "im sweet tin dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:26.402071137Z",
+  "model": "glm-5.2"
+}

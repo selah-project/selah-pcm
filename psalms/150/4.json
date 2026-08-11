@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 150,
+  "translation": "Praise ⟨am⟩ wit tof and dance, praise ⟨am⟩ wit minnim and ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Praise ⟨am⟩"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "wit tof"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "and dance"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise ⟨am⟩"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "wit minnim"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "and ugav"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:15.842053963Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Yahweh go strike Mitsrayim, striking and healing; and dem go return to Yahweh, and im go answer dem, and heal dem.",
+  "tokens": [
+    {
+      "surface": "וְנָגַ֧ף",
+      "gloss": "and go strike"
+    },
+    {
+      "surface": "יְהוָה֛",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נָגֹ֣ף",
+      "gloss": "striking"
+    },
+    {
+      "surface": "וְרָפ֑וֹא",
+      "gloss": "and healing"
+    },
+    {
+      "surface": "וְשָׁ֨בוּ֙",
+      "gloss": "and dem go return"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "to"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְנֶעְתַּ֥ר",
+      "gloss": "and im go answer"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "וּרְפָאָֽם",
+      "gloss": "and heal dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:12.081063297Z",
+  "model": "glm-5.2"
+}

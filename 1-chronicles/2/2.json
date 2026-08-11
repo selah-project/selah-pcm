@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Dan, Yosef, and Binyamin, Naftali, Gad, and Asher.",
+  "tokens": [
+    {
+      "surface": "דָּן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וּבִנְיָמִן",
+      "gloss": "and Binyamin"
+    },
+    {
+      "surface": "נַפְתָּלִי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "גָּד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וְאָשֵׁר",
+      "gloss": "and Asher"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:16.650898361Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨he⟩ bin talk to am: \"No, I no go go; but to my land and to where I born, na dere I go go.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go go"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "instead"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "where I born"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "I go go"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:58.333039844Z",
+  "model": "glm-5.2"
+}

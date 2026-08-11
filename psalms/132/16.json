@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "And her priests I go clothe wit salvation, and her faithful ones go shout for joy — dem go really shout.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "And her priests"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "I go clothe"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "wit salvation"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "and her faithful ones"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "go shout for joy"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "dem go really shout"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:24.393374870Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And ⟨one⟩-tenth part of ⟨the⟩ ephah of fine flour ⟨as⟩ grain offering, mixed with oil ⟨wey dem⟩ beat, one-fourth part of ⟨the⟩ hin.",
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "and one-tenth part"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "of ⟨the⟩ ephah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "of fine flour"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "as grain offering"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "mixed"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "with oil"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "wey dem beat"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "one-fourth part"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "of ⟨the⟩ hin"
+    }
+  ],
+  "timestamp": "2026-08-11T15:56:16.261131193Z",
+  "model": "glm-5.2"
+}

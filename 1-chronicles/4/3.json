@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Wè dis na of di fada of Eitam: Yizreel, wè Yishma, wè Yidbash; wè di name of dia sista na Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Wè dis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "of di fada of"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eitam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "wè Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "wè Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "wè di name of"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dia sista"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "na Tselelponi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:43.375669006Z",
+  "model": "glm-5.2"
+}

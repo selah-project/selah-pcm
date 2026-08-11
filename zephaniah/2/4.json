@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "For Gaza go ⟨be⟩ abandoned, and Ashkelon go ⟨be⟩ desolation; Ashdod — dem go drive am out for afternoon, and Ekron go ⟨be⟩ uprooted.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "abandoned"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "and Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "desolation"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "for afternoon"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "dem go drive am"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "and Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "go be uprooted"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:00.356674200Z",
+  "model": "glm-5.2"
+}

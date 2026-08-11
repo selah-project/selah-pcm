@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 35:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And ⟨there⟩ go be there highway, and road; and ⟨dem⟩ go call am ⟨את⟩ di Way of Holiness; unclean person no go pass through am; but na for dem wey dey travel di road, and foolish people no go lose dia way.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and go be"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "מסלול",
+      "gloss": "highway"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "and road"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "and ⟨di⟩ road"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "of Holiness"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go call"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעברנו",
+      "gloss": "go pass through am",
+      "marks": "unclean person"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean person"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "but na"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wey dey travel"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "and foolish people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "go lose dia way"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:03.561202984Z",
+  "model": "glm-5.2"
+}

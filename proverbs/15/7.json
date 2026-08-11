@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "Lips of wise people dey scatter knowledge, but heart of fools ⟨no be⟩ so.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "lips"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "of wise people"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "dey scatter"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "but heart"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "of fools"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨no be⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:56.400278289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "But when I dey limp, dem rejoice, and dem gather togeda; smiters gather against me, and I no know — dem tear, and dem no stop.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "but when I dey limp"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "dem rejoice"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "and dem gather togeda"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "dem gather"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "smiters"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "dem tear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dem stop"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:12.468409704Z",
+  "model": "glm-5.2"
+}

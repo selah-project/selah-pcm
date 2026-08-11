@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And ⟨את⟩ di table and all im tools, and ⟨את⟩ di lampstand and im tools, and ⟨את⟩ di altar of incense.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im tools"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di lampstand"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di lampstand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im tools"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:20.597825610Z",
+  "model": "glm-5.2"
+}

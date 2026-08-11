@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And anoda war bin come again ⟨את⟩ di Pelishtites, and Elchanan, son of Ya'ur, bin strike ⟨את⟩ Lachmi, broda of Golyat di Gittite; and di wood of im spear bin be like loom of weavers.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "war"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pelishtites"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtites"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Ya'ur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lachmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lachmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "di Gittite"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "and di wood"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "of im spear"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "like loom"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "of weavers"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:40.603119500Z",
+  "model": "glm-5.2"
+}

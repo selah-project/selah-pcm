@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e bring ⟨את⟩ di ark inside di tabernacle, and e put ⟨את⟩ di veil of di screen, and e cover di ark of di testimony, as Yahweh bin command ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di veil"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "di veil"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "of di screen"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "and e cover"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "of di testimony"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:40.050817370Z",
+  "model": "glm-5.2"
+}

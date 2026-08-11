@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "I talk for my heart: Elohim go judge ⟨את⟩ di righteous one and ⟨את⟩ di wicked one, because ⟨na⟩ time dey for every desire, and upon every work ⟨e dey⟩ there.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "for my heart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di righteous one"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "di righteous one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di wicked one"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "di wicked one"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "go judge"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for every"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "desire"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:38.423964225Z",
+  "model": "glm-5.2"
+}

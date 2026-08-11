@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Make you no put ⟨את⟩ your handmaid before ⟨a⟩ daughter of worthlessness; because from plenty of my complaint and my vexation I bin speak until now.»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Make you no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your handmaid"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "your handmaid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "of worthlessness"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "from plenty"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "of my complaint"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "and my vexation"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I bin speak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "now"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:25.778576051Z",
+  "model": "glm-5.2"
+}

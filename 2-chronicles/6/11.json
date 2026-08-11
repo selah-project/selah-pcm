@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And I don put dere ⟨את⟩ di ark, wey dey inside ⟨na⟩ di covenant of Yahweh, wey im cut wit di pikin-dem of Yisrael.",
+  "tokens": [
+    {
+      "surface": "וָאָשִׂ֥ים",
+      "gloss": "and I don put"
+    },
+    {
+      "surface": "שָׁם֙",
+      "gloss": "dere"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "הָ֣אָר֔וֹן",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "בְּרִ֣ית",
+      "gloss": "di covenant"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כָּרַ֖ת",
+      "gloss": "im cut"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:37.018562870Z",
+  "model": "glm-5.2"
+}

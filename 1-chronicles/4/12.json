@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Eshton bin born ⟨את⟩ Bet־Rafa, and ⟨את⟩ Paseach, and ⟨את⟩ Tchinah, papa of Ir־Nachash. Dis na di men of Rekah.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "and Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet־Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Tchinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tchinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:43.864389192Z",
+  "model": "glm-5.2"
+}

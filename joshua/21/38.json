@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And from di tribe of Gad: ⟨את⟩ city of refuge for di person wey kill, ⟨את⟩ Ramoth for Gilad, and ⟨את⟩ im open-land; and ⟨את⟩ Machanaim and ⟨את⟩ im open-land.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "and from di tribe"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "city of refuge"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "of refuge"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "for di person wey kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth for Gilad"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "for Gilad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Machanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:42.941303101Z",
+  "model": "glm-5.2"
+}

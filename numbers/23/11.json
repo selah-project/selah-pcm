@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Balak talk to Bil'am: Wetin you do to me? To curse my enemies I carry you come, and look, you don bless dem well!",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "and ⟨Balak⟩ talk"
+    },
+    {
+      "surface": "בָּלָק֙",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בִּלְעָ֔ם",
+      "gloss": "Bil'am"
+    },
+    {
+      "surface": "מֶ֥ה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עָשִׂ֖יתָ",
+      "gloss": "you do"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לָקֹ֤ב",
+      "gloss": "to curse"
+    },
+    {
+      "surface": "אֹיְבַי֙",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "לְקַחְתִּ֔יךָ",
+      "gloss": "I carry you come"
+    },
+    {
+      "surface": "וְהִנֵּ֖ה",
+      "gloss": "and look"
+    },
+    {
+      "surface": "בֵּרַ֥כְתָּ",
+      "gloss": "you don bless"
+    },
+    {
+      "surface": "בָּרֵֽךְ",
+      "gloss": "dem well"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:56.601960497Z",
+  "model": "glm-5.2"
+}

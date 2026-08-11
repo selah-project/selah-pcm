@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "When ⟨im⟩ bin strive with ⟨את⟩ Aram-Naharaim and with ⟨את⟩ Aram-Tsoba, and Yoav bin return and bin strike ⟨את⟩ Edom for Valley of Salt — twelve thousand.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "when im bin strive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin return"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "for Valley"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "of Salt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:17.672023275Z",
+  "model": "glm-5.2"
+}

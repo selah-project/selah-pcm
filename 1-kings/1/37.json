@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di way wey Yahweh bin dey with my oga di king, na so make e dey with Shlomo, and make ⟨im⟩ make ⟨את⟩ im throne big pass di throne of my oga di king Dawid.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "di way wey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my oga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make e dey"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "and make ⟨im⟩ make big"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im throne"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "im throne"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "pass di throne of"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my oga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:48.351990346Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Then Yahweh stretch ⟨im⟩ hand, and e touch my mouth; then Yahweh tok to me, \"See, I don put my word inside your mouth.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Then stretch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨im⟩ hand"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "and touch"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "then tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don put"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my word"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "inside your mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:40:10.815744484Z",
+  "model": "glm-5.2"
+}

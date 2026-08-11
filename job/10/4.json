@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "You get eye of flesh, or as sey dem dey see mortal man, na so you too dey see?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "you get eye"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "of flesh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you get"
+    },
+    {
+      "surface": "אם",
+      "gloss": "or"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "as sey dem dey see"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "na so you too dey see"
+    }
+  ],
+  "timestamp": "2026-08-11T13:19:35.051252700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Declaring ⟨di⟩ end from ⟨di⟩ beginning, and from before, tins wey dem never do, ⟨im dey⟩ say, My plan go stand, and all my desire I go do.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Declaring"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "from ⟨di⟩ beginning"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨di⟩ end"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "and from before"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "My plan"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "my desire"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:36.502798593Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "because ⟨im⟩ go turn ⟨את⟩ your son from behind Me, and dem go serve oda elohim, and di anger of Yahweh go burn against una, and ⟨im⟩ go destroy you quick-quick.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יָסִ֤יר",
+      "gloss": "go turn"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your son"
+    },
+    {
+      "surface": "בִּנְךָ֙",
+      "gloss": "your son"
+    },
+    {
+      "surface": "מֵֽאַחֲרַ֔י",
+      "gloss": "from behind Me"
+    },
+    {
+      "surface": "וְעָבְד֖וּ",
+      "gloss": "and dem go serve"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אֲחֵרִ֑ים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "וְחָרָ֤ה",
+      "gloss": "and go burn"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "di anger"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "בָּכֶ֔ם",
+      "gloss": "against una"
+    },
+    {
+      "surface": "וְהִשְׁמִידְךָ֖",
+      "gloss": "and go destroy you"
+    },
+    {
+      "surface": "מַהֵֽר",
+      "gloss": "quick-quick"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:51.170266130Z",
+  "model": "glm-5.2"
+}

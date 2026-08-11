@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "You, You bin command make dem dey guard Your precepts well well!",
+  "tokens": [
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "You"
+    },
+    {
+      "surface": "צִוִּ֥יתָה",
+      "gloss": "You bin command"
+    },
+    {
+      "surface": "פִקֻּדֶ֗יךָ",
+      "gloss": "Your precepts"
+    },
+    {
+      "surface": "לִשְׁמֹ֥ר",
+      "gloss": "make dem dey guard"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "well well"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:10.714830319Z",
+  "model": "glm-5.2"
+}

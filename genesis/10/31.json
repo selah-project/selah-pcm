@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "⟨These⟩ ⟨na⟩ sons of Shem, according to dia families, according to dia languages, for dia lands, according to dia nations.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "These"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "according to dia families"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "according to dia languages"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "for dia lands"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "according to dia nations"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:24.436281796Z",
+  "model": "glm-5.2"
+}

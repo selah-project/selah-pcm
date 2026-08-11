@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "So ⟨e⟩ abandon di dwelling place of Shiloh, di tent wey ⟨e⟩ pitch among man-dem.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "and abandon"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "dwelling place"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "of Shiloh"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wey dwell"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "among man-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:02.901184445Z",
+  "model": "glm-5.2"
+}

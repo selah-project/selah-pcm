@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And I, I go set ⟨את⟩ my face against dat man, and I go cut ⟨את⟩ ⟨am⟩ off from among im people, because of im seed ⟨im⟩ give to Molech, so dat ⟨im⟩ go defile ⟨את⟩ my sanctuary, and to profane ⟨את⟩ di name of my holiness.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "And I"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I go set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "against dat man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(dat)"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "from among"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "of im seed"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨im⟩ give"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to Molech"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "⟨im⟩ go defile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my sanctuary"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "my sanctuary"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "and to profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "of my holiness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:28.702751623Z",
+  "model": "glm-5.2"
+}

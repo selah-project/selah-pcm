@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Make ⟨di⟩ enemy pursue my life, and overtake ⟨me⟩, and trample my life to ⟨di⟩ ground, and make my glory siddon for dust. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "make ⟨di⟩ enemy pursue"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "⟨enemy⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ושיג",
+      "gloss": "and overtake ⟨me⟩"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "and trample"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "to ⟨di⟩ ground"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "and my glory"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "for dust"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "make siddon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:55.590494730Z",
+  "model": "glm-5.2"
+}

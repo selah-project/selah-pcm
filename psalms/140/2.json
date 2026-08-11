@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "Pull me out, Yahweh, from ⟨di⟩ evil man; from ⟨di⟩ man of violence guard me.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "pull me out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "from man"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "from man"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "of violence"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "guard me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:29.071994227Z",
+  "model": "glm-5.2"
+}

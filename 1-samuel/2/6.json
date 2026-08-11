@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Yahweh dey kill and dey make alive; ⟨im⟩ dey bring down Sheol and dey bring up.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מֵמִ֣ית",
+      "gloss": "dey kill"
+    },
+    {
+      "surface": "וּמְחַיֶּ֑ה",
+      "gloss": "and dey make alive"
+    },
+    {
+      "surface": "מוֹרִ֥יד",
+      "gloss": "⟨im⟩ dey bring down"
+    },
+    {
+      "surface": "שְׁא֖וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "וַיָּֽעַל",
+      "gloss": "and dey bring up"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:57.183148978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "If we talk say, Make we enter di city, den di hunger wey dey di city go kill us dere; and if we siddon here, we go still die. So now make we go, make we enta di camp of Aram; if dem let us live, we go live; and if dem kill us, den we go die.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "we talk say"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "make we enter"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "den di hunger"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wey dey di city"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "go kill us"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "we siddon"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "we go still die"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "make we go"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "make we enta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "dem let us live"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "we go live"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "dem kill us"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "we go die"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:23.876037291Z",
+  "model": "glm-5.2"
+}

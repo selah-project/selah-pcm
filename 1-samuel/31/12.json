@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "all di strong men rise, and dem waka all di night, and dem take ⟨את⟩ body of Sha'ul and ⟨את⟩ body of im sons from wall of Bet־Shan, and dem come reach Yavesh, and dem burn ⟨את⟩ dem for dere.",
+  "tokens": [
+    {
+      "surface": "וַיָּקֻמוּ",
+      "gloss": "rise"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "man"
+    },
+    {
+      "surface": "חַיִל",
+      "gloss": "strong"
+    },
+    {
+      "surface": "וַיֵּלְכוּ",
+      "gloss": "and dem waka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַלַּיְלָה",
+      "gloss": "di night"
+    },
+    {
+      "surface": "וַיִּקְחוּ",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "body of Sha'ul"
+    },
+    {
+      "surface": "גְּוִיַּת",
+      "gloss": "body of"
+    },
+    {
+      "surface": "שָׁאוּל",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "and ⟨את⟩",
+      "marks": "body of im sons"
+    },
+    {
+      "surface": "גְּוִיֹּת",
+      "gloss": "body of"
+    },
+    {
+      "surface": "בָּנָיו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "מֵחוֹמַת",
+      "gloss": "from wall of"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שָׁן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "וַיָּבֹאוּ",
+      "gloss": "and dem come reach"
+    },
+    {
+      "surface": "יָבֵשָׁה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "וַיִּשְׂרְפוּ",
+      "gloss": "and dem burn"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "dem for dere"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "for dere"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:10.940041035Z",
+  "model": "glm-5.2"
+}

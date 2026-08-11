@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di mountains go melt under ⟨am⟩, and di valleys go split open, like wax from di face of fire, like water wey dem pour down slope.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "And go melt"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under ⟨am⟩"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "and di valleys"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "go split open"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "like wax"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "האש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "like water"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "wey dem pour"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "down slope"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:24.923625227Z",
+  "model": "glm-5.2"
+}

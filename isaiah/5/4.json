@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Wetin ⟨I for⟩ do again for my vineyard, wey I never do inside am? Why I bin wait make e produce grapes, but e produce wild sour grapes?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wetin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "do"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "for my vineyard"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wey I never"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "do"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Why"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "I bin wait"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make e produce"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "grapes"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "but e produce"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "wild sour grapes"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:00.331739905Z",
+  "model": "glm-5.2"
+}

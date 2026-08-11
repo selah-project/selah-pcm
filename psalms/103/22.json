@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Make una bless Yahweh, all im works, for every place wey e dey rule. Bless Yahweh, O my ⟨life-force⟩, ⟨את⟩ Yahweh!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "make una bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "im works"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for every"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "place"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "wey e dey rule"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bless"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my ⟨life-force⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:22.646294282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And I go bring back ⟨את⟩ di captive-people of Mitsrayim, and I go make dem return to di land of Patros, to dia land of origin, and dem go be dia ⟨na⟩ low kingdom.",
+  "tokens": [
+    {
+      "surface": "וְשַׁבְתִּי֙",
+      "gloss": "And I go bring back"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di captive-people"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "captive-people"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "וַהֲשִׁבֹתִ֤י",
+      "gloss": "and I go make return"
+    },
+    {
+      "surface": "אֹתָם֙",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "to di land"
+    },
+    {
+      "surface": "פַּתְר֔וֹס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מְכֽוּרָתָ֑ם",
+      "gloss": "of dia origin"
+    },
+    {
+      "surface": "וְהָ֥יוּ",
+      "gloss": "and dem go be"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מַמְלָכָ֥ה",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "שְׁפָלָֽה",
+      "gloss": "low"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:18.480833952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "Remember, Yahweh, ⟨for⟩ di sons of Edom ⟨את⟩ di day of Yerushalayim; di ones wey bin dey talk, \"Bare am, bare am, down to ⟨im⟩ foundation inside am!\"",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Remember"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨for⟩ di sons of"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di day of Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "di ones wey bin dey talk"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bare am"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bare am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "down to"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "di foundation"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:20.956178436Z",
+  "model": "glm-5.2"
+}

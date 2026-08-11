@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Di wicked don turn strange from womb; dem don wander from belly, speakers of lie.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "don turn strange"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "di wicked"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "from womb"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "dem don wander"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "from belly"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "speakers"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "of lie"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:42.787655244Z",
+  "model": "glm-5.2"
+}

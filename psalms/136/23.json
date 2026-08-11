@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "Wen we dey for low position, ⟨im⟩ remember us; for im chesed dey last forever.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֭בְּשִׁפְלֵנוּ",
+      "gloss": "Wen we dey for low position"
+    },
+    {
+      "surface": "זָכַר",
+      "gloss": "⟨im⟩ remember"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "us"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "im chesed dey last"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:50.428496525Z",
+  "model": "glm-5.2"
+}

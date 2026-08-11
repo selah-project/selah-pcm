@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Bad tin dey pursue sinner, but good tin, Yahweh dey pay ⟨את⟩ di righteous ⟨back⟩.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "sinner"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "dey pursue"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di righteous"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "Yahweh dey pay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good tin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:57.159056296Z",
+  "model": "glm-5.2"
+}

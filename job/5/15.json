@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 5:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨He⟩ dey save from sword — from dia mouth; and from strong hand ⟨He⟩ dey save ⟨di⟩ poor one.",
+  "tokens": [
+    {
+      "surface": "וישע",
+      "gloss": "and ⟨He⟩ dey save"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "from sword"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "from dia mouth"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "and from hand"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "strong"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "poor one"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:49.294655698Z",
+  "model": "glm-5.2"
+}

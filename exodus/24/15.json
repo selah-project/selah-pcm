@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Mosheh bin go up to di mountain, and di cloud bin cover ⟨את⟩ di mountain.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "bin cover"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "di cloud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mountain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:57.557019999Z",
+  "model": "glm-5.2"
+}

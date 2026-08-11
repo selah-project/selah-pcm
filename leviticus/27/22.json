@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if ⟨im⟩ sanctify ⟨את⟩ field wey ⟨im⟩ buy, wey no ⟨be⟩ from field of im possession, to Yahweh,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "field"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "field"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "wey ⟨im⟩ buy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "from field"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "of im possession"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "⟨im⟩ sanctify"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:00.361349634Z",
+  "model": "glm-5.2"
+}

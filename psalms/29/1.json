@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Song wey David sing. Give Yahweh, una sons of El, give Yahweh glory and power.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wey David sing"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "give"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "una sons"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "of El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "give"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "and power"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:47.194615713Z",
+  "model": "glm-5.2"
+}

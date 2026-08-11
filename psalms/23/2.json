@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For greenu pasture wey grass dey grow, e dey make me lie down; beside water wey dey rest, e dey lead me.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "for pasture"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grass"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "e dey make me lie down"
+    },
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "מי",
+      "gloss": "water"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "wey dey rest"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "e dey lead me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:03.606804670Z",
+  "model": "glm-5.2"
+}

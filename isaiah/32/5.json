@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Dem no go call ⟨di⟩ fool noble again, and to ⟨di⟩ miser dem no go talk sey e generous.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "call"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "to fool"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "noble"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "and to miser"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "generous"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:12.721993851Z",
+  "model": "glm-5.2"
+}

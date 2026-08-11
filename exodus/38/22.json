@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And Betzalel pikin of Uri, pikin of Chur, from di tribe of Yehudah, bin make ⟨את⟩ evri tin wey Yahweh bin command ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "and Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "from di tribe of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri tin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:43.088660643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Make dem thank Yahweh for im chesed, and for im wonders wey e do for ⟨pickin⟩ of human being!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "make dem thank"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "for im chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "and for im wonders"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for ⟨pickin⟩ of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "human being"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:59.051226715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "For dat day, Adonai go take away ⟨את⟩ di fine ornament of di ankle-anklets, and di headbands, and di moon-crescents.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֨וֹם",
+      "gloss": "for day"
+    },
+    {
+      "surface": "הַה֜וּא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יָסִ֣יר",
+      "gloss": "go take away"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "di fine ornament"
+    },
+    {
+      "surface": "תִּפְאֶ֧רֶת",
+      "gloss": "fine ornament"
+    },
+    {
+      "surface": "הָעֲכָסִ֛ים",
+      "gloss": "di ankle-anklets"
+    },
+    {
+      "surface": "וְהַשְּׁבִיסִ֖ים",
+      "gloss": "and di headbands"
+    },
+    {
+      "surface": "וְהַשַּׂהֲרֹנִֽים",
+      "gloss": "and di moon-crescents"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:43.614196530Z",
+  "model": "glm-5.2"
+}

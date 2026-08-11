@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And im bin make ⟨את⟩ di Sea, cast ⟨metal⟩, ten cubit from im rim to im rim, round all around, and five cubit im height, and line of thirty cubit bin dey go round ⟨את⟩ am all around.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and im bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di Sea"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "cast ⟨metal⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "from im rim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "im rim"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "round"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "and five"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "and line"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "of thirty"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "bin dey go round"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    }
+  ],
+  "timestamp": "2026-08-11T14:06:13.940119710Z",
+  "model": "glm-5.2"
+}

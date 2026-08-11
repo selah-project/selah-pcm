@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "⟨Na⟩ im go lend to you, and you no go lend to am; ⟨na⟩ im go be di head, and you go be di tail.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "go lend"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "go lend to am"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "for head"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "for tail"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:31.004252370Z",
+  "model": "glm-5.2"
+}

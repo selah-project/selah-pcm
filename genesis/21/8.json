@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di pikin grow and dem wean am; and Avraham make big feast for di day wey dem wean ⟨את⟩ Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "And grow"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "and dem wean am"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and make"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "feast"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "wey dem wean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:38.211608842Z",
+  "model": "glm-5.2"
+}

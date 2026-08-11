@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go take from di blood of di bull, and put ⟨am⟩ on top di horn of di altar wit your finger; and ⟨את⟩ all di blood, you go pour out to di foundation of di altar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "from blood"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "of di bull"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "horn"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "wit your finger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di blood"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "you go pour out"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "foundation"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:35.675873018Z",
+  "model": "glm-5.2"
+}

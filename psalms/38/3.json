@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Because your arrows dem don sink inside me, and your hand don press down on top me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "your arrows dem"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "don sink"
+    },
+    {
+      "surface": "בי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "and don press down"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:36.766534762Z",
+  "model": "glm-5.2"
+}

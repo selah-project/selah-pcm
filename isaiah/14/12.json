@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 14:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "How you fall from heaven, O Helel, son of dawn! Dem cut you down to earth, O weakener of nations!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "How"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "you fall"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "from heaven"
+    },
+    {
+      "surface": "הילל",
+      "gloss": "O Helel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "of dawn"
+    },
+    {
+      "surface": "נגדעת",
+      "gloss": "Dem cut you down"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "to earth"
+    },
+    {
+      "surface": "חולש",
+      "gloss": "O weakener"
+    },
+    {
+      "surface": "על",
+      "gloss": "of"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:38.749289486Z",
+  "model": "glm-5.2"
+}

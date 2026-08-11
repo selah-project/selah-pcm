@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And ⟨he⟩ go prepare ⟨את⟩ one, from di turtle-doves or from di young pigeons, from wetin im hand fit reach.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "and go prepare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "one"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "di turtle-doves"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di young"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "pigeons"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "from wetin"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "fit reach"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:30.589036700Z",
+  "model": "glm-5.2"
+}

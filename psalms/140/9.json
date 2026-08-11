@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "Make you no grant, Yahweh, di desires of di wicked man; im plan, make you no bring am out, make ⟨dem⟩ no rise up. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "grant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "desires"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "im plan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "bring am out"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "make ⟨dem⟩ no rise up"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:20.158315016Z",
+  "model": "glm-5.2"
+}

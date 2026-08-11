@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And I go bless dem wey dey bless you, and I go curse am wey dey curse you; and inside you all di families of di ground go ⟨be⟩ bless.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "And I go bless"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "dem wey dey bless you"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "and am wey dey curse you"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "I go curse"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "and go ⟨be⟩ bless"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "di families"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "of di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T15:39:51.303713967Z",
+  "model": "glm-5.2"
+}

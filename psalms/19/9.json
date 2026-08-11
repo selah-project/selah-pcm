@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Di orders wey Yahweh give dem straight, dem dey make heart glad; di command wey Yahweh give pure, ⟨e⟩ dey shine light for eyes.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "di orders"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dem straight"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "dem dey make glad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "di command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pure"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "dey shine light"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "eyes"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:17.385048175Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "But una wey dey abandon Yahweh, wey dey forget ⟨את⟩ my holy mountain, una wey dey arrange table for Gad, and wey dey fill mixed wine for Meni —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "but una"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "wey dey abandon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "wey dey forget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my holy mountain"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "my holy"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "wey dey arrange"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "for Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "table"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "and wey dey fill"
+    },
+    {
+      "surface": "למני",
+      "gloss": "for Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mixed wine"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:04.214481697Z",
+  "model": "glm-5.2"
+}

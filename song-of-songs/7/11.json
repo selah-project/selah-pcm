@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Na me ⟨be⟩ for my beloved, and im longing dey upon me.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "for my beloved"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "and upon me"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "im longing dey"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:24.974081768Z",
+  "model": "glm-5.2"
+}

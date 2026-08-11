@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "But Yarov'am, son of Nevat, wey be servant of Shelomoh, son of David, bin stand up, and e rebel against im master.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant of"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "and rebel"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:29.127426072Z",
+  "model": "glm-5.2"
+}

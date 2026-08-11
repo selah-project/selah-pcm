@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And from di sons of Binyamin: Sallu pikin of Meshullam, pikin of Hodavjah, pikin of Hasenuah.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenuah"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:36.079892824Z",
+  "model": "glm-5.2"
+}

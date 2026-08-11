@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Eliyahu talk, \"As Yahweh of hosts dey live, wey I stand before im face — today I go show myself to am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "I stand"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before im face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "I go show myself"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:14.232742137Z",
+  "model": "glm-5.2"
+}

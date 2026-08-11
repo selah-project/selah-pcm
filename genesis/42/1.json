@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Ya'akov bin see sey grain dey for Mitsrayim, and Ya'akov bin tell im pikin-dem, sey, \"Wetin una dey look each oda?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dey"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "grain"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "una dey look each oda"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:15.782821559Z",
+  "model": "glm-5.2"
+}

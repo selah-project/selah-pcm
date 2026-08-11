@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Dawid and all Yisra'el go Yerushalayim, ⟨na⟩ ⟨she⟩ be Jebus, and di Jebusite dey there, ⟨na⟩ dem be di inhabitants of di land.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨na⟩ ⟨she⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Jebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and there"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "di Jebusite"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "inhabitants"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    }
+  ],
+  "timestamp": "2026-08-11T15:07:00.032357353Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "hand",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "And e give ⟨את⟩ im voice for cry, and Mitsrayim hear, and di house of Paroh hear.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "And e give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im voice"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "im voice"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "for cry"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "and dem hear"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "and e hear"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.763868678Z",
+  "model": "claude-opus-4-8"
+}

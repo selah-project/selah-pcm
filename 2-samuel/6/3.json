@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem put ⟨את⟩ di ark of Elohim on top new cart, and dem carry am from di house of Avinadav wey dey for Giv'ah; and Uzza and im broda Ahio, di sons of Avinadav, dey drive ⟨את⟩ di new cart.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "dem put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark of Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "cart"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "new"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "dem carry am"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from di house of"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "for Giv'ah"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "and Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "and im broda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "dey drive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di new cart"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "di cart"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "new"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:49.866149499Z",
+  "model": "glm-5.2"
+}

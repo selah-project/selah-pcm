@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and e build ⟨את⟩ di wall-dem of di house inside with plank-dem of cedar; from di floor of di house reach di wall-dem of di ceiling — e overlay with wood for inside. And e overlay ⟨את⟩ di floor of di house with plank-dem of cypress.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and e build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wall-dem"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "di wall-dem"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "with plank-dem"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "of cedar"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "from di floor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "di wall-dem"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "of di ceiling"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "e overlay"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "with wood"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "And e overlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di floor"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "di floor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "with plank-dem"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "of cypress"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:20.417244339Z",
+  "model": "glm-5.2"
+}

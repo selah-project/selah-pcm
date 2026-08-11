@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Mosheh bring near ⟨את⟩ Aharon and ⟨את⟩ im sons, and e wash ⟨את⟩ dem wit water.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "And bring near"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "and wash"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wit water"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:06.835855457Z",
+  "model": "glm-5.2"
+}

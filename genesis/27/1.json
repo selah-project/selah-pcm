@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Come e bin happen, as Yitschak don old, and im eye dem come weak make e no fit see, e come call ⟨את⟩ Esav, im big son, and e tell am, My son. And e tell am, Here I dey.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Come e bin happen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "don old"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "come weak"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye dem"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "make e no fit see"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e come call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "di big one"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "My son"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Here I dey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:38.627499356Z",
+  "model": "glm-5.2"
+}

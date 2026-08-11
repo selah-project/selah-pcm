@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Because you make am blessings forever; you make am glad wit joy ⟨for⟩ ⟨את⟩ your face.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "you make am"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "blessings"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "you make am glad"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wit joy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:38.379232534Z",
+  "model": "glm-5.2"
+}

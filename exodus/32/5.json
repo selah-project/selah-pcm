@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Aharon bin see ⟨am⟩, and e build altar front of am, and Aharon bin proclaim, and e talk sey, festival to Yahweh tomorrow.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and build"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "front of am"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and proclaim"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festival"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:21.521534027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "⟨Im⟩ go subdue people-dem under us, and nation-dem under our feet.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "go subdue"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "people-dem"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "under us"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "and nation-dem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "our feet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:53.002806204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "At one moment I go speak concerning one nation and concerning one kingdom, to pluck up and to break down and to destroy ⟨am⟩;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "at one moment"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "I go speak"
+    },
+    {
+      "surface": "על",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "one nation"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and concerning"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "one kingdom"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "to pluck up"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "and to break down"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "and to destroy"
+    }
+  ],
+  "timestamp": "2026-08-11T11:48:04.644591726Z",
+  "model": "glm-5.2"
+}

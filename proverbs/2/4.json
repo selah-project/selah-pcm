@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "if you seek am like silver, and like hidden treasure dem you search am out;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "you seek am"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "like silver"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "and like hidden treasure dem"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "you search am out"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:48.744183591Z",
+  "model": "glm-5.2"
+}

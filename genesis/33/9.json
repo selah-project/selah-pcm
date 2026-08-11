@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Esav talk say, \"I get plenty, my broda; make wetin be your own stay for you.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And im talk"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "I get"
+    },
+    {
+      "surface": "לי",
+      "gloss": "I get"
+    },
+    {
+      "surface": "רב",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broda"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make"
+    },
+    {
+      "surface": "לך",
+      "gloss": "stay for you"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "be your own"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:16.090978998Z",
+  "model": "glm-5.2"
+}

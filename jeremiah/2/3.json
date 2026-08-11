@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Israel ⟨na⟩ holy ⟨thing⟩ to Yahweh, firstfruit of im produce. All ⟨di⟩ people wey dey chop am go incur guilt; trouble go come meet dem — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "holy ⟨thing⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "firstfruit"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "of im produce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "⟨di⟩ people wey dey chop am"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "go incur guilt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "meet dem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:57.035869663Z",
+  "model": "glm-5.2"
+}

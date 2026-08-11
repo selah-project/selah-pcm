@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Truly, vanity — sons of man! Lie — sons of man! For balance, to go up; dem ⟨be⟩ altogether from vanity.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "truly"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "for balance"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "to go up"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "from vanity"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "altogether"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:46.376437994Z",
+  "model": "glm-5.2"
+}

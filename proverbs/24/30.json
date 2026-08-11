@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "I pass beside ⟨di⟩ farm of one lazy man, and beside ⟨di⟩ vineyard of one man wey ⟨dey⟩ lack sense.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "farm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lazy"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "I pass"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and beside"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lack"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sense"
+    }
+  ],
+  "timestamp": "2026-08-11T16:41:39.360845416Z",
+  "model": "glm-5.2"
+}

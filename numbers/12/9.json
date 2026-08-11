@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And ⟨di⟩ anger of Yahweh bin burn against dem, and e go.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "and bin burn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    }
+  ],
+  "timestamp": "2026-08-11T14:26:22.742966226Z",
+  "model": "glm-5.2"
+}

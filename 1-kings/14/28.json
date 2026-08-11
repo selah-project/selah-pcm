@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e bin dey happen, any time wey di king dey enter house of Yahweh, di runner dem go carry dem, and dem go return dem to room of di runner dem.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "and bin dey happen"
+    },
+    {
+      "surface": "מִדֵּי",
+      "gloss": "any time wey"
+    },
+    {
+      "surface": "בֹ֥א",
+      "gloss": "dey enter"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יִשָּׂאוּם֙",
+      "gloss": "go carry dem"
+    },
+    {
+      "surface": "הָֽרָצִ֔ים",
+      "gloss": "di runner dem"
+    },
+    {
+      "surface": "וֶהֱשִׁיב֖וּם",
+      "gloss": "and go return dem"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תָּ֥א",
+      "gloss": "room of"
+    },
+    {
+      "surface": "הָרָצִֽים",
+      "gloss": "di runner dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:42.814721543Z",
+  "model": "glm-5.2"
+}

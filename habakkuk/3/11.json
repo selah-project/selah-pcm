@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Sun and moon stand still for dia dwelling-place; for di light of ya arrow dem dey walk; for di brightness of di flash of ya spear.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "and moon"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stand still"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "for dia dwelling-place"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "for di light"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "of ya arrow"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "dem dey walk"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "for di brightness"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "of di flash"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "of ya spear"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:02.067510574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "So where now my hope dey? And as for my hope, who go see am?",
+  "tokens": [
+    {
+      "surface": "וְ֭אַיֵּה",
+      "gloss": "so where"
+    },
+    {
+      "surface": "אֵפ֣וֹ",
+      "gloss": "now"
+    },
+    {
+      "surface": "תִקְוָתִ֑י",
+      "gloss": "my hope"
+    },
+    {
+      "surface": "וְ֝תִקְוָתִ֗י",
+      "gloss": "and my hope"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "who"
+    },
+    {
+      "surface": "יְשׁוּרֶֽנָּה",
+      "gloss": "go see am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:32.770355402Z",
+  "model": "glm-5.2"
+}

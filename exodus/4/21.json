@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Yahweh talk to Mosheh: 'As you dey go back Mitsrayim, see all di wonders wey I bin put for your hand, and make you do dem before Paroh — and I, I go make ⟨את⟩ im heart strong, and ⟨he⟩ no go send ⟨את⟩ di people.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And e talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "as you dey go"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "to return"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim-ward"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "di wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "I bin put"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and you go do dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "I go make strong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im heart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨he⟩ no go"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:17.014144061Z",
+  "model": "glm-5.2"
+}

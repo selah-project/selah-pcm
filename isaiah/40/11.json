@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Like shepherd wey dey feed im flock, e go feed ⟨am⟩; wit im arm e go gather di lambs, and for im chest e go carry dem; di ones wey dey nurse e go gently lead.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "like shepherd"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "im flock"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "e go feed"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "wit im arm"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "e go gather"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "di lambs"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "and for im chest"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "e go carry"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "di ones wey dey nurse"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "e go gently lead"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:44.247289878Z",
+  "model": "glm-5.2"
+}

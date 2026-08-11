@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Bikos Yahweh dey pleased wit ⟨im⟩ people, ⟨e⟩ dey beautify di humble wit salvation.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bikos"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "dey pleased"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "wit ⟨im⟩ people"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "⟨e⟩ dey beautify"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "humble"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "wit salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:48.983818733Z",
+  "model": "glm-5.2"
+}

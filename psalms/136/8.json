@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "⟨את⟩ di sun, make e rule for day-time, sake of sey im chesed dey forever.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "make e rule"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day-time"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dey forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:58.102918269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And now, my head go rise high above my enemies wey dey surround me, and I go sacrifice for im tent sacrifices of joyful shout, I go sing, yes, I go sing praise to Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "go rise high"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "על",
+      "gloss": "above"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "wey dey surround me"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "and I go sacrifice"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "for im tent"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifices"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "of joyful shout"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "I go sing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "yes, I go sing praise"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:44.546170768Z",
+  "model": "glm-5.2"
+}

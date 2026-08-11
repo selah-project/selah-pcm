@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "You go pay dem back, Yahweh, according to wetin dia hand dem do.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "You go pay dem back"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "reward"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "according to wetin"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:06.315428205Z",
+  "model": "glm-5.2"
+}

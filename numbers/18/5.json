@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And una go keep ⟨את⟩ di custody of di holy place, and ⟨את⟩ di custody of di altar, and ⟨there⟩ go no dey again wrath upon di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "and una go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di custody"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "custody"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "of di holy place"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "custody"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "wrath"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:55:40.607151258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di curse of Yahweh dey for di house of di wicked man, but ⟨im⟩ go bless di home of di righteous ones.",
+  "tokens": [
+    {
+      "surface": "מְאֵרַ֣ת",
+      "gloss": "curse"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "וּנְוֵ֖ה",
+      "gloss": "but home"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "righteous ones"
+    },
+    {
+      "surface": "יְבָרֵֽךְ",
+      "gloss": "go bless"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:15.459756016Z",
+  "model": "glm-5.2"
+}

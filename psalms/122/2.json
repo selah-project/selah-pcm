@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 122,
+  "translation": "Our two-leg dem stand inside your gate dem, O Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עֹמְדוֹת",
+      "gloss": "stand"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "dem bin"
+    },
+    {
+      "surface": "רַגְלֵינוּ",
+      "gloss": "our two-leg dem"
+    },
+    {
+      "surface": "בִּשְׁעָרַיִךְ",
+      "gloss": "inside your gate dem"
+    },
+    {
+      "surface": "יְרוּשָׁלִַם",
+      "gloss": "O Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:18.773392102Z",
+  "model": "glm-5.2"
+}

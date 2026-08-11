@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 14:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Den Amatsyah send messengers to Yehoash son of Yehoachaz son of Yehu, king of Israel, say: 'Come, make we see face.'",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsyah"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messengers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "of Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "of Yehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "נתראה",
+      "gloss": "make we see"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:16.294094253Z",
+  "model": "glm-5.2"
+}

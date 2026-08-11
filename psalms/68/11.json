@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Your living ⟨creatures⟩ dey settle inside am; wit your goodness you go prepare ⟨am⟩ for di poor wey belong to Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "your living ⟨creatures⟩"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dey settle"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "you go prepare"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "wit your goodness"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "for di poor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wey belong to Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.317343746Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "di covenant wey ⟨im⟩ cut wit ⟨את⟩ Avraham, and im oath to Yitschaq;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "⟨im⟩ cut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "and im oath"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "to Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:05.293808474Z",
+  "model": "glm-5.2"
+}

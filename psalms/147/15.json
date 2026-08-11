@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Di One wey dey send im word go earth — im word dey run quick-quick.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Di One wey dey send"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "im word"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "go earth"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "quick-quick"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "dey run"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "im word"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:11.688647141Z",
+  "model": "glm-5.2"
+}

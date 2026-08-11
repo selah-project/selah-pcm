@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "and ⟨את⟩ Kibtsayim and ⟨את⟩ im open land, and ⟨את⟩ Bet־Horon and ⟨את⟩ im open land — four cities.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bet־Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:34.721612143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And you — lift up ⟨את⟩ your staff, and stretch out ⟨את⟩ your hand upon di sea, and divide am; and di children of Yisra'el go enter inside di sea on dry ground.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your staff"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "your staff"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "and stretch out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "and divide am"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and go enter"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "on dry ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:25.220860180Z",
+  "model": "glm-5.2"
+}

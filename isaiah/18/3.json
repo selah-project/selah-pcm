@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "All una wey dey live for di world, and una wey dey stay for di earth: wen dem lift up signal for di mountains, una go see; and wen dem blow shofar, una go hear.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "una wey dey live for"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "di world"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "and una wey dey stay for"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "wen dem lift up"
+    },
+    {
+      "surface": "נס",
+      "gloss": "signal"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "for di mountains"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "una go see"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "and wen dem blow"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "una go hear"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:46.286328962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Dem wander for wilderness, for desert wasteland, road; city wey dem fit stay dem no find.",
+  "tokens": [
+    {
+      "surface": "תָּע֣וּ",
+      "gloss": "dem wander"
+    },
+    {
+      "surface": "בַ֭מִּדְבָּר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "בִּישִׁימ֣וֹן",
+      "gloss": "for desert wasteland"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "road"
+    },
+    {
+      "surface": "עִ֥יר",
+      "gloss": "city"
+    },
+    {
+      "surface": "מוֹשָׁ֗ב",
+      "gloss": "to stay"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "מָצָֽאוּ",
+      "gloss": "dem find"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:42.830914160Z",
+  "model": "glm-5.2"
+}

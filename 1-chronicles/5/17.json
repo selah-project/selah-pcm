@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "All of dem bin register ⟨for⟩ dia family lineage for di time of Yotam, wey ⟨be⟩ king of Yehudah, and for di time of Yarav'am, wey ⟨be⟩ king of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "bin register"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di time of"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "and for di time of"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:40.018716271Z",
+  "model": "glm-5.2"
+}

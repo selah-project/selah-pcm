@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Na so una go dey talk, each man to im neighbor and each man to im broda: \"Wetin Yahweh ansa? and wetin Yahweh don talk?\"",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "una go dey talk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and each man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:25.817148435Z",
+  "model": "glm-5.2"
+}

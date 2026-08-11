@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Night, dem turn am to day; light dey near from di face of darkness.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "to day"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "dem turn am"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dey near"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "of darkness"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:48.271550984Z",
+  "model": "glm-5.2"
+}

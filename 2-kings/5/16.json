@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "But im talk say, \"As long as Yahweh dey live, di one wey I stand before — I no go take ⟨any⟩.\" And ⟨Naaman⟩ press am make im take, but im refuse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "but im talk say"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di one wey"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "I stand"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before"
+    },
+    {
+      "surface": "אם",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "take"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "and press"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "make im take"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "but im refuse"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:51.298405742Z",
+  "model": "glm-5.2"
+}

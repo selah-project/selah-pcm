@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And garrison of Pelishtim bin come out go di crossing-point of Mikhmas.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "garrison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Pelishtim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di crossing-point"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "of Mikhmas"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:05.017731639Z",
+  "model": "glm-5.2"
+}

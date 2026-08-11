@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 10:43",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "From di sons of Nevo: Ye'iel, Mattityah, Zavad, Zevina, Yiddo, and Yo'el, Benayah.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "from di sons of"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Ye'iel"
+    },
+    {
+      "surface": "מתתיה",
+      "gloss": "Mattityah"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad"
+    },
+    {
+      "surface": "זבינא",
+      "gloss": "Zevina"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Yiddo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yo'el"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Benayah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:47:36.551220675Z",
+  "model": "glm-5.2"
+}

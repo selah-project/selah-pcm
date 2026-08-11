@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "Elohim don go up wit shout of joy, Yahweh wit di sound of shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "don go up"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "wit shout of joy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "wit di sound"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "of shofar"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:43.927656052Z",
+  "model": "glm-5.2"
+}

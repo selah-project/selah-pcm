@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem go ask about your welfare, and dem go give you two loaves of bread, and you go take ⟨am⟩ from dia hand.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "and dem go ask"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "about your welfare"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "and dem go give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "loaves of bread"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "from dia hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:47.959213390Z",
+  "model": "glm-5.2"
+}

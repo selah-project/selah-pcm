@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And Yosef come meet dem for morning, and e look ⟨את⟩ dem, and see say dem dey vex-face.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "meet dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and e look"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "and see say"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "dem dey vex-face"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:09.335453936Z",
+  "model": "glm-5.2"
+}

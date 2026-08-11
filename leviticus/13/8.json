@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And di priest go look, and if ⟨be⟩ say di scurf don spread for di skin, den di priest go declare am unclean—na tzaraat e be.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "and go look"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and if ⟨be⟩ say"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "don spread"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "di scurf"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "for di skin"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "and go declare am unclean"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na e be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:34.364493809Z",
+  "model": "glm-5.2"
+}

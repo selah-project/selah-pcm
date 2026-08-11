@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "king of Tirzah, one; all di kings, thirty and one.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirzah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "and one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:13.664475275Z",
+  "model": "glm-5.2"
+}

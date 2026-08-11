@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Zimri bin destroy ⟨את⟩ all di house of Baasha, according to di word of Yahweh wey ⟨e⟩ speak unto Baasha by di hand of Yehu di prophet —",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "bin destroy"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di house of Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "of Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "according to di word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨e⟩ speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by di hand"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "of Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:32.058034520Z",
+  "model": "glm-5.2"
+}

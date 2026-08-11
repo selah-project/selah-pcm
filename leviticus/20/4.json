@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And if di people of di land truly hide ⟨את⟩ dia eye-dem from dat man, as ⟨im⟩ dey give of im seed to Molech, so dat dem no kill ⟨את⟩ ⟨am⟩ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "And if"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "truly hide"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "dem hide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia eye-dem"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dia eye-dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dat man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(dat)"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "as ⟨im⟩ dey give"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "of im seed"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to Molech"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat ... no"
+    },
+    {
+      "surface": "המית",
+      "gloss": "kill"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:28.702972756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "If una leave ⟨את⟩ Yahweh and serve strange god dem, ⟨im⟩ go turn back and do bad to una, and finish una, afta di one wey do good to una.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תַעַזְבוּ",
+      "gloss": "una leave"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַעֲבַדְתֶּם",
+      "gloss": "and serve"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "god dem of"
+    },
+    {
+      "surface": "נֵכָר",
+      "gloss": "strange"
+    },
+    {
+      "surface": "וְשָׁב",
+      "gloss": "go turn back"
+    },
+    {
+      "surface": "וְהֵרַע",
+      "gloss": "and do bad"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "וְכִלָּה",
+      "gloss": "and finish"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ una",
+      "marks": "una"
+    },
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "di one wey"
+    },
+    {
+      "surface": "הֵיטִיב",
+      "gloss": "do good"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:52.271234620Z",
+  "model": "glm-5.2"
+}

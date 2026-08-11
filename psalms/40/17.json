@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Make all dem wey dey find you glad and make dem dey joy inside you; make dem wey love your rescue dey tok sey, 'Yahweh, make you big!' all di time.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "make dem glad"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "and make dem dey joy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "dem wey dey find you"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "make dem tok"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "all di time"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "make you big"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "dem wey love"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "your rescue"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:22.117094800Z",
+  "model": "glm-5.2"
+}

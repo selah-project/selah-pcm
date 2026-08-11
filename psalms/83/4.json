@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Against your people dem dey plot secret plan, and dem dey take counsel against di people wey you hide.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Against"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people dem"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "dey plot"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "secret plan"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "and dem dey take counsel"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "di people wey you hide"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:44.268079015Z",
+  "model": "glm-5.2"
+}

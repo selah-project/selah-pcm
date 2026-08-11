@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Only di tree wey you know say e no be food-tree, na ⟨את⟩ am you go destroy and cut down; and you go build siege-work on top di town wey dey make war with you, until you subdue am.",
+  "tokens": [
+    {
+      "surface": "רַ֞ק",
+      "gloss": "only"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תֵּדַ֗ע",
+      "gloss": "you know"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "say"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "be"
+    },
+    {
+      "surface": "מַאֲכָל֖",
+      "gloss": "food-tree"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "e"
+    },
+    {
+      "surface": "אֹת֥וֹ",
+      "gloss": "⟨את⟩ am",
+      "marks": "di tree"
+    },
+    {
+      "surface": "תַשְׁחִ֖ית",
+      "gloss": "you go destroy"
+    },
+    {
+      "surface": "וְכָרָ֑תָּ",
+      "gloss": "and cut down"
+    },
+    {
+      "surface": "וּבָנִ֣יתָ",
+      "gloss": "and you go build"
+    },
+    {
+      "surface": "מָצ֗וֹר",
+      "gloss": "siege-work"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הָעִיר֙",
+      "gloss": "di town"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הִ֨וא",
+      "gloss": "e"
+    },
+    {
+      "surface": "עֹשָׂ֧ה",
+      "gloss": "dey make"
+    },
+    {
+      "surface": "עִמְּךָ֛",
+      "gloss": "with you"
+    },
+    {
+      "surface": "מִלְחָמָ֖ה",
+      "gloss": "war"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "until"
+    },
+    {
+      "surface": "רִדְתָּֽהּ",
+      "gloss": "you subdue am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:39.933390177Z",
+  "model": "glm-5.2"
+}

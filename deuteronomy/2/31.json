@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh bin talk to me: 'See, I don start to give am give you — ⟨את⟩ Sichon and ⟨את⟩ im land — before your face. Begin drive dem out, make you take over ⟨את⟩ im land.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "I don start"
+    },
+    {
+      "surface": "תת",
+      "gloss": "to give am give you"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before your face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begin"
+    },
+    {
+      "surface": "רש",
+      "gloss": "drive dem out"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "make you take over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:30.797309321Z",
+  "model": "glm-5.2"
+}

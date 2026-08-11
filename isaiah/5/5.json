@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And now, make I go tell ⟨את⟩ una wetin I dey do to my vineyard: I go remove im hedge, and e go dey for consumption; I go break im wall, and e go dey for trampling.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "I go tell"
+    },
+    {
+      "surface": "נא",
+      "gloss": "make I"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "to my vineyard"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "I go remove"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "im hedge"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go dey"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "for consumption"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "I go break"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "im wall"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go dey"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "for trampling"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:40.227606518Z",
+  "model": "glm-5.2"
+}

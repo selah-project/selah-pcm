@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 49:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Yehudah, you—ya broda dem go praise you; ya hand ⟨dey⟩ for di neck of ya enemy dem; ya papa pickin dem go bow down give you.",
+  "tokens": [
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "you"
+    },
+    {
+      "surface": "יוֹדוּךָ",
+      "gloss": "dem go praise you"
+    },
+    {
+      "surface": "אַחֶיךָ",
+      "gloss": "ya broda dem"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "ya hand"
+    },
+    {
+      "surface": "בְּעֹרֶף",
+      "gloss": "for di neck"
+    },
+    {
+      "surface": "אֹיְבֶיךָ",
+      "gloss": "ya enemy dem"
+    },
+    {
+      "surface": "יִשְׁתַּחֲוּוּ",
+      "gloss": "dem go bow down"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "give you"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "pickin dem"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "ya papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:51.266695902Z",
+  "model": "glm-5.2"
+}

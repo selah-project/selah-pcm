@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Yahweh, ⟨na⟩ for inside heaven your chesed dey; your faithfulness dey reach sky.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "for inside heaven"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "your faithfulness"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dey reach"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sky"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:21.067560275Z",
+  "model": "glm-5.2"
+}

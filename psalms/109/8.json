@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make im days come be few, make anoda man take im position.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "make ⟨dem⟩ come be"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "im days"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "few"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "im position"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "make ⟨man⟩ take"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:13.930485270Z",
+  "model": "glm-5.2"
+}

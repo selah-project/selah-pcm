@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Di words of Agur, son of Yakeh — di burden. Di oracle of di man to Itiel, to Itiel and Ukal:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Di words of"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Agur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Yakeh"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "di burden"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "di oracle of"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "di man"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "to Itiel"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "to Itiel"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "and Ukal"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:43.811129653Z",
+  "model": "glm-5.2"
+}

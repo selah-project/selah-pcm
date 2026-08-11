@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And ⟨di⟩ shoham stones, and stones for setting, for di ephod and for di breastpiece.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "and ⟨di⟩ stones"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "and stones"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "for setting"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "for di ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "and for di breastpiece"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:55.531138809Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "⟨את⟩ one ram you go make for morning, and ⟨את⟩ di second ram you go make between di evening-dem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "one ram"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di second ram"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "di evening-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:13.556176171Z",
+  "model": "glm-5.2"
+}

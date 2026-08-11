@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "⟨Im⟩ comot ⟨את⟩ di altar dem of foreign worship and di high place dem; ⟨im⟩ break ⟨את⟩ di sacred pillar dem, and ⟨im⟩ cut down ⟨את⟩ di Asherah dem.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar dem of foreign worship"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "di altar dem"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "of foreign worship"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "and di high place dem"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "break"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sacred pillar dem"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "di sacred pillar dem"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "cut down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Asherah dem"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "di Asherah dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:19.498087585Z",
+  "model": "glm-5.2"
+}

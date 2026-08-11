@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Heart of person wey get understanding dey get knowledge, and ear of wise people dey seek knowledge.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "of person wey get understanding"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "dey get"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "and ear"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "of wise people"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:57.251831482Z",
+  "model": "glm-5.2"
+}

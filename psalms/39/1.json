@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "To di leader, to Yedutun — one song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "to Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "one song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:33.335125394Z",
+  "model": "glm-5.2"
+}

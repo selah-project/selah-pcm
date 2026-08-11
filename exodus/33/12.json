@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Mosheh bin talk to Yahweh, say: 'See, you dey tell me, say make I bring up ⟨את⟩ dis people, but you never make me know ⟨את⟩ di one wey you go send with me. And you don talk, say: \"I know you by name, and you don find favor for my eye.\"'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ bin talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dey tell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "העל",
+      "gloss": "say make I bring up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "but you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "never make me know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one wey you go send"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "you go send"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "with me"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "I know you"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by name"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "you don find"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:52.259180409Z",
+  "model": "glm-5.2"
+}

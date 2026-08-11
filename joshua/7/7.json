@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 7:7",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Yehoshua bin talk: Ah! Adonai Yahweh, why you bin make dis people pass over ⟨את⟩ Yarden, to give us inside hand of di Emori, to destroy us? If only say we bin gree, we for siddon for di oda side of Yarden!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "העברת",
+      "gloss": "you bin make pass"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "make pass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨di⟩ people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ us"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "להאבידנו",
+      "gloss": "to destroy us"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "If only"
+    },
+    {
+      "surface": "הואלנו",
+      "gloss": "say we bin gree"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "we for siddon"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "for di oda side"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "of Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:38.077717242Z",
+  "model": "glm-5.2"
+}

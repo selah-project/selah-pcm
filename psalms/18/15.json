@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And ⟨im⟩ bin send ⟨im⟩ arrow and scatter dem, and lightning plenty, and ⟨im⟩ bin confuse dem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "And ⟨im⟩ bin send"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "⟨im⟩ arrow"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "and scatter dem"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "and lightning"
+    },
+    {
+      "surface": "רב",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "and ⟨im⟩ bin confuse dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:10.724584765Z",
+  "model": "glm-5.2"
+}

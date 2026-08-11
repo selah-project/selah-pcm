@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And you go put ⟨את⟩ di table outside di curtain, and ⟨את⟩ di lampstand opposite di table, on di south side of di tabernacle; and di table you go put on di north side.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "di curtain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di lampstand"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di lampstand"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "side"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of di tabernacle"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "south"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "and di table"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "you go put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "side"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "north"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:07.831719761Z",
+  "model": "glm-5.2"
+}

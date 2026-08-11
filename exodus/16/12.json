@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "\"Ah don hear ⟨את⟩ di complain of di sons of Yisra'el; tell dem sey: 'Between di evenings una go chop meat, and for morning una go full wit bread; and una go know sey na Me Yahweh, una Elohim.'\"",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ah don hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di complain"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "di complain"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "di evenings"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go chop"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "meat"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "and for morning"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "una go full"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "and una go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:54.649609685Z",
+  "model": "glm-5.2"
+}

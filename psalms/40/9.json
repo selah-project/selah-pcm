@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "For to do wetin go please You, my Elohim, I don desire am; and Your Torah dey inside my inward parts.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "for to do"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "wetin go please You"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "I don desire am"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "and Your Torah"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "my inward parts"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:35.247463051Z",
+  "model": "glm-5.2"
+}

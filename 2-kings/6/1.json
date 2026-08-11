@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 6:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di sons of di prophets bin talk to Elisha, say, look now, di place wey we dey stay before you, don too tight for us.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di prophets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dey stay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tight"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "for us"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:35.531764794Z",
+  "model": "glm-5.2"
+}

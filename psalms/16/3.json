@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "To di holy ones wey dey for di earth, na dem; and di great ones, all my desire dey for inside dem.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "To di holy ones"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dey for di earth"
+    },
+    {
+      "surface": "המה",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "and di great ones"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "my desire"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dey for inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:34.290231378Z",
+  "model": "glm-5.2"
+}

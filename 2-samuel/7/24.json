@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And you bin establish ⟨את⟩ your people Yisrael for yourself as a people till eternity, and you, Yahweh, bin become dia Elohim.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "and you bin establish"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your people Yisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "as a people"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eternity"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bin become"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:45.221196868Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Because Yisra'el bin tear ⟨imself⟩ from on top of ⟨di⟩ house of David, and dem make ⟨את⟩ Yarav'am son of Nevat king, and Yarav'am bin drive ⟨את⟩ Yisra'el from behind Yahweh, and ⟨e⟩ make dem commit sin — great sin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "bin tear"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "and dem make king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarav'am"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "and bin drive"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "from behind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "and make dem commit sin"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:15.397660351Z",
+  "model": "glm-5.2"
+}

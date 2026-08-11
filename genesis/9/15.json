@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "and I go remember ⟨את⟩ my covenant wey dey between me and between una, and between evri living breathing-creature for all flesh; and di water go no more be for flood to destroy all flesh.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "and I go remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "and between una"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "breathing-creature"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "living"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "more"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "for flood"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:29.813680507Z",
+  "model": "glm-5.2"
+}

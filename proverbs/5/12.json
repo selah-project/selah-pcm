@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "and you go talk, 'How I bin hate discipline, and my heart bin scorn correction!'",
+  "tokens": [
+    {
+      "surface": "וְֽאָמַרְתָּ֗",
+      "gloss": "and you go talk"
+    },
+    {
+      "surface": "אֵ֭יךְ",
+      "gloss": "How"
+    },
+    {
+      "surface": "שָׂנֵ֣אתִי",
+      "gloss": "I bin hate"
+    },
+    {
+      "surface": "מוּסָ֑ר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "וְ֝תוֹכַ֗חַת",
+      "gloss": "and"
+    },
+    {
+      "surface": "נָאַ֥ץ",
+      "gloss": "bin scorn"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "my heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:15.754266709Z",
+  "model": "glm-5.2"
+}

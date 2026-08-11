@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "As one bin dey fall di beam, ⟨את⟩ di iron fall inside di water, and e cry out, and e talk, 'Ah! Adonai wey, and e bin borrow!'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "as e bin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "bin dey fall"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "di beam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di iron"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "di iron"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fall"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "and e cry out"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "borrow"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:25.291176025Z",
+  "model": "glm-5.2"
+}

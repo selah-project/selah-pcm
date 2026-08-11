@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "Truly, our sickness na ⟨im⟩ carry, and our pains ⟨e⟩ bear; and we, we value am as struck-down, person wey Elohim hit, and afflicted.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "our sickness"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "carry"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "and our pains"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "⟨e⟩ bear"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "and we"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "we value am"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "as struck-down"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "person wey hit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "and afflicted"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:22.084102035Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "And I trample peoples for my anger, and I make dem drunk for my fury, and I bring down to di earth dia lifeblood.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "and I trample"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peoples"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "for my anger"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "and I make dem drunk"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "for my fury"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "and I bring down"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "to di earth"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "dia lifeblood"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:46.086531362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "And ⟨dem⟩ tell Ya'akov, sey, \"Look, yua pikin Yosef dey come to you.\" And Yisra'el strong im bodi, and im siddon for di bed.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Ya'akov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "yua pikin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "and strong im bodi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and siddon"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "di bed"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:46.485550556Z",
+  "model": "glm-5.2"
+}

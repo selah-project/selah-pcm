@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Fire dey go before am, and e dey burn up im enemies all around.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "and dey burn up"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "im enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:05.378019070Z",
+  "model": "glm-5.2"
+}

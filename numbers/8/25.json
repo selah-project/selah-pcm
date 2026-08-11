@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And from fifty years, ⟨he⟩ go return from di army of di work, and ⟨he⟩ no go work again.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "go return"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "from di army"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "of di work"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "go work"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:07.002199119Z",
+  "model": "glm-5.2"
+}

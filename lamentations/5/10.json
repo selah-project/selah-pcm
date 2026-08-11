@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Our skin, like oven, don scorch, because of di fierce heat of hunger.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "our skin"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "like oven"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "don scorch"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "di fierce heat"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "of hunger"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:53.910267067Z",
+  "model": "glm-5.2"
+}

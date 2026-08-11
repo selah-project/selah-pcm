@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And all Yisra'el bin dey go down to di Pelishtim, to sharpen, each man ⟨את⟩ im hoe, and ⟨את⟩ im mattock, and ⟨את⟩ im axe, and ⟨את⟩ im pickaxe.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "And bin dey go down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "di Pelishtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "to sharpen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hoe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "im hoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im mattock"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "im mattock"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im axe"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "im axe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im pickaxe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "im pickaxe"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:16.024622911Z",
+  "model": "glm-5.2"
+}

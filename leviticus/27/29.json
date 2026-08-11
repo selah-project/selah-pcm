@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Any devoted thing wey dem go devote from among man, e no go ⟨be⟩ ransom; death e go die.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "any"
+    },
+    {
+      "surface": "חֵ֗רֶם",
+      "gloss": "devoted thing"
+    },
+    {
+      "surface": "אֲשֶׁ֧ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יָחֳרַ֛ם",
+      "gloss": "dem go devote"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from among"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִפָּדֶ֑ה",
+      "gloss": "e go ransom"
+    },
+    {
+      "surface": "מ֖וֹת",
+      "gloss": "death"
+    },
+    {
+      "surface": "יוּמָֽת",
+      "gloss": "e go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:05.747619005Z",
+  "model": "glm-5.2"
+}

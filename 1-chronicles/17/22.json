@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And you bin give ⟨את⟩ your people Yisra'el to yourself for ⟨a⟩ people till eternity; and you, Yahweh, you bin become to dem for Elohim.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "and you bin give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your people Yisra'el"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to yourself"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for people"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eternity"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "you bin become"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:02.410105814Z",
+  "model": "glm-5.2"
+}

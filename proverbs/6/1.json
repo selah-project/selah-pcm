@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "My pikin, if you bin stand surety for your padi, if you bin strike your hand with stranger,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "My pikin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "you bin stand surety"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "for your padi"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "you bin strike"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "with stranger"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:16.450286747Z",
+  "model": "glm-5.2"
+}

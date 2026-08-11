@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Di ants ⟨na⟩ people wey no get power, but dem dey prepare ⟨dia⟩ food for summer.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Di ants"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨na⟩ people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עז",
+      "gloss": "get power"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "but dem dey prepare"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "for summer"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "⟨dia⟩ food"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.788215021Z",
+  "model": "claude-opus-4-8"
+}

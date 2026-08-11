@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e come be, for di return of di year, Ben-Hadad take stock of ⟨את⟩ Aram, and ⟨he⟩ go up Afek-ward, for war, with Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "for di return"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "of di year"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "⟨he⟩ take stock of"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and ⟨he⟩ go up"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek-ward"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:55.818093526Z",
+  "model": "glm-5.2"
+}

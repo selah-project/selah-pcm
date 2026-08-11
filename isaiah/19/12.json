@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Where dem dey now, una wise ones? And make dem tell you now, and make dem know wetin Yahweh, Sebaot, don plan against Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "Where dem dey"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "now"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "una wise ones"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "And make dem tell"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "and make dem know"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "don plan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:55.910274532Z",
+  "model": "glm-5.2"
+}

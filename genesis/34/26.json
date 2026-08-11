@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And ⟨את⟩ Hamor and ⟨את⟩ Shekhem im pikin dem kill wit edge of sword, and dem take ⟨את⟩ Dinah from house of Shekhem and komot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dem kill"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "edge of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and dem komot"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:08.199107495Z",
+  "model": "glm-5.2"
+}

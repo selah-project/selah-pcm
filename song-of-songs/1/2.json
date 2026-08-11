@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Make im kiss me with kisses of im mouth, because your love better pass wine.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "make im kiss me"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "with kisses"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "of im mouth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "⟨dem⟩ good"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "your love"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "pass wine"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:14.427161656Z",
+  "model": "glm-5.2"
+}

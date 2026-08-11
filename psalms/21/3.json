@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Di desire of im heart you give am, and di request of im lips you no deny am at all. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "di desire"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "of im heart"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "you give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "and di request"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "of im lips"
+    },
+    {
+      "surface": "בל",
+      "gloss": "at all"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "you no deny"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:50.997916942Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "So dem bin sit down for three years, no war bin dey between Aram and between Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "so dem bin sit down"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "war"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:42.397916227Z",
+  "model": "glm-5.2"
+}

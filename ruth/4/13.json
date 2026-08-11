@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So Boaz take ⟨את⟩ Ruth, and she come be im wife, and e come go in to am, and Yahweh give am belle, and she born son.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruth"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruth"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and she come be"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "for wife"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come go in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "belle"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:59.092690015Z",
+  "model": "glm-5.2"
+}

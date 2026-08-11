@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "⟨Im⟩ seed go dey mighty for ⟨di⟩ earth; di generation of di upright go ⟨be⟩ blessed.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for earth"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "of di upright"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "go ⟨be⟩ blessed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.904822121Z",
+  "model": "glm-5.2"
+}

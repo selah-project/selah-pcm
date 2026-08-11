@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Yehoram bin stand up on top im papa kingdom; e bin make imsef strong, and e kill ⟨את⟩ all im brodas wit sword — and even some of di princes of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin stand up"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "e bin make imsef strong"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "e kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im brodas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "princes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:09.780871680Z",
+  "model": "glm-5.2"
+}

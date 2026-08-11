@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "⟨All⟩ valley go lift up, and ⟨all⟩ mountain and hill go low down; and di crooked place go turn straight ground, and di rough places go turn plain.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valley"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "go lift up"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "and hill"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "go low down"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "di crooked place"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "to straight ground"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "and di rough places"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "to plain"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:52.484784695Z",
+  "model": "glm-5.2"
+}

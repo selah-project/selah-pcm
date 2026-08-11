@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "If dem talk, 'Come ⟨wit⟩ us, make we lie dey wait for blood, make we hide dey wait for di innocent without reason,'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Come"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "make we lie dey wait"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "for blood"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "make we hide dey wait"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "for di innocent"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "without reason"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:26.992991131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "⟨E⟩ send darkness, and e come dark, and dem no rebel against ⟨את⟩ im word.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "⟨E⟩ send"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "and e come dark"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "dem rebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im word"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "im word"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:34.568315053Z",
+  "model": "glm-5.2"
+}

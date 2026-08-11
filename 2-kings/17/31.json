@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Avvites make Nivchaz and ⟨את⟩ Tartak, and di Sefarvites dey burn ⟨את⟩ dia pikin-dem for fire to Adrammelech and Anammelech; na dis be di elohim of Sefarvaim.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "and di Avvites"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "make"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nivchaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "and di Sefarvites"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "dey burn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia pikin-dem"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dia pikin-dem"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for fire"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "to Adrammelech"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "and Anammelech"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "di elohim"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "of Sefarvaim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:46.963906690Z",
+  "model": "glm-5.2"
+}

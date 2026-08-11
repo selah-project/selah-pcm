@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Di watchmen wey dey patrol for di city find me; dem beat me, dem wound me; dem carry ⟨את⟩ my veil comot from on top me — di watchmen of di wall dem.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "find me"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "di watchmen"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "wey dey patrol"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "dem beat me"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "dem wound me"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dem carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my veil"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "my veil"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "comot from on top me"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "di watchmen"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "of di wall dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:00.261464908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Im road-dem na road-dem of fine-fine, and all im track-dem na shalom.",
+  "tokens": [
+    {
+      "surface": "דְּרָכֶ֥יהָ",
+      "gloss": "im road-dem"
+    },
+    {
+      "surface": "דַרְכֵי",
+      "gloss": "road-dem"
+    },
+    {
+      "surface": "נֹ֑עַם",
+      "gloss": "of fine-fine"
+    },
+    {
+      "surface": "וְֽכָל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "נְתִ֖יבוֹתֶ֣יהָ",
+      "gloss": "im track-dem"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:45.093548421Z",
+  "model": "glm-5.2"
+}

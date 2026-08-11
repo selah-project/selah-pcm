@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yahweh talk to Satan sey, \"You dey come from where?\" And Satan answer ⟨את⟩ Yahweh and talk sey, \"From dey roam for di earth, and from dey waka about inside am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "from where"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "you dey come"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "and answer"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "from dey roam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "and from dey waka about"
+    },
+    {
+      "surface": "בה",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:48.393995860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Di wise man, im eye dey for im head; but di fool dey waka for darkness. And I come know, even I myself, sey one event dey happen to ⟨את⟩ all of dem.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "di wise man"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "dey for im head"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "but di fool"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "and I come know"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I myself"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "sey event dey happen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dey happen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all of dem"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:49.748153857Z",
+  "model": "glm-5.2"
+}

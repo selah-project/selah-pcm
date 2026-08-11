@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No bow down to dia elohim, and no serve dem, and no do like dia doings; because destroying you go destroy dem, and breaking you go break dia standing pillars.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "bow down"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "to dia elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "serve dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "like dia doings"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "destroying"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "you go destroy dem"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "and breaking"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "you go break"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "dia standing pillars"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:35.042389151Z",
+  "model": "glm-5.2"
+}

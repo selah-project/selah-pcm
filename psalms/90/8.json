@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 90,
+  "translation": "You don set our iniquities before you; our hidden ⟨sins⟩ ⟨na⟩ for di light of your face.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "You don set"
+    },
+    {
+      "surface": "עֲוֺנֹתֵ֣ינוּ",
+      "gloss": "our iniquities"
+    },
+    {
+      "surface": "לְנֶגְדֶּ֑ךָ",
+      "gloss": "before you"
+    },
+    {
+      "surface": "עֲ֝לֻמֵ֗נוּ",
+      "gloss": "our hidden ⟨sins⟩"
+    },
+    {
+      "surface": "לִמְא֥וֹר",
+      "gloss": "for di light"
+    },
+    {
+      "surface": "פָּנֶֽיךָ",
+      "gloss": "of your face"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.837316368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Wey dey give rain on top di face of ⟨di⟩ earth, and dey send water on top di face of ⟨di⟩ outside place.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "wey dey give"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rain"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "and dey send"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "outside place"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:42.922377923Z",
+  "model": "glm-5.2"
+}

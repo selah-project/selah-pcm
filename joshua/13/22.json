@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 13:22",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And ⟨את⟩ Bilam son of Beor, di diviner, di pikin-dem of Yisrael bin kill am wit sword, among dia ⟨fallen ones⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "הקוסם",
+      "gloss": "di diviner"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "bin kill"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "אל",
+      "gloss": "among"
+    },
+    {
+      "surface": "חלליהם",
+      "gloss": "dia fallen ones"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:47.161690302Z",
+  "model": "glm-5.2"
+}

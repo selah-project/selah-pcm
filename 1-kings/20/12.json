@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e come to pass, as ⟨he⟩ hear ⟨את⟩ dis matter — and ⟨he⟩ dey drink, ⟨he⟩ and di kings, for di tents — and ⟨he⟩ talk to im servants, Position una. And dem position against di city.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "as ⟨he⟩ hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and ⟨he⟩"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "dey drink"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "and di kings"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "for di tents"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "position una"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "and dem position"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:49.770076187Z",
+  "model": "glm-5.2"
+}

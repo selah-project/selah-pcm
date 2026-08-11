@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And im servant dem carry am — ⟨he⟩ don die — from Megiddo, and dem bring am enter Yerushalayim, and dem bury am for im own grave. And ⟨di⟩ people of di land take ⟨את⟩ Yehoachaz pikin of Yoshyahu, and dem anoint ⟨את⟩ am, and dem make ⟨את⟩ am king for im papa place.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "and dem carry am for chariot"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨he⟩ don die"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "from Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "and dem bring am enter"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "and dem bury am"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "for im own grave"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and ⟨di⟩ take"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "of Yoshyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "and dem anoint"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "and dem make king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for im papa place"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:54.061416420Z",
+  "model": "glm-5.2"
+}

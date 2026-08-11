@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 21:29",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Una neva ask di pipul wey dey pass by di way? And ⟨את⟩ dia sign una no fit reject?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "una ask"
+    },
+    {
+      "surface": "עוברי",
+      "gloss": "di pipul wey dey pass"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "by di way"
+    },
+    {
+      "surface": "ואתתם",
+      "gloss": "⟨את⟩",
+      "marks": "dia sign"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תנכרו",
+      "gloss": "fit reject"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:14.876725547Z",
+  "model": "glm-5.2"
+}

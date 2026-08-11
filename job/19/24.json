@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 19:24",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Wit iron pen and ⟨with⟩ lead — forever for ⟨di⟩ rock dem go carve ⟨dem⟩!",
+  "tokens": [
+    {
+      "surface": "בְּעֵט",
+      "gloss": "wit pen"
+    },
+    {
+      "surface": "בַּרְזֶל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "וְעֹפֶרֶת",
+      "gloss": "and lead"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "בַּצּוּר",
+      "gloss": "for rock"
+    },
+    {
+      "surface": "יֵחָצְבוּן",
+      "gloss": "dem go carve"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:49.692823094Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "hand",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e ask Yahweh for am, and e give am food, and ⟨את⟩ di sword of Golyat di Pelishti e give am.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "And e ask"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "and food"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sword of Golyat di Pelishti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "of Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Pelishti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.775146437Z",
+  "model": "claude-opus-4-8"
+}

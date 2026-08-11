@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And e dey mock ⟨את⟩ Yisrael, and Yehonatan pikin of Shimʿi wey ⟨be⟩ broda of Dawid, strike am.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "and e dey mock"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and strike am"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimʿi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:40.719827516Z",
+  "model": "glm-5.2"
+}

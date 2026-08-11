@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di priest go burn ⟨את⟩ di fat on top di altar; and di chest go be for Aharon and for im pikin-dem.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִ֧יר",
+      "gloss": "And go burn"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di fat"
+    },
+    {
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "and go be"
+    },
+    {
+      "surface": "הֶֽחָזֶ֔ה",
+      "gloss": "di chest"
+    },
+    {
+      "surface": "לְאַהֲרֹ֖ן",
+      "gloss": "for Aharon"
+    },
+    {
+      "surface": "וּלְבָנָֽיו",
+      "gloss": "and for im pikin-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:52.316007997Z",
+  "model": "glm-5.2"
+}

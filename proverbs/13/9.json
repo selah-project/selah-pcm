@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di light of ⟨di⟩ righteous ⟨people⟩ dey shine bright, but di lamp of wicked ⟨people⟩ go quench.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "di light"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "of righteous ⟨people⟩"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "dey shine bright"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "but di lamp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked ⟨people⟩"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "go quench"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:58.883532647Z",
+  "model": "glm-5.2"
+}

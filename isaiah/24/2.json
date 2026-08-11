@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And e go be: as di common people, so di priest; as di servant, so im master; as di maid, so im oga woman; as di buyer, so di seller; as di lender, so di borrower; as di creditor, so di person wey dey owe am.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "And e go be"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "as di common people"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "so di priest"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "as di servant"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "so im master"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "as di maid"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "so im oga woman"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "as di buyer"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "so di seller"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "as di lender"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "so di borrower"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "as di creditor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "di person wey dey owe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:27:32.303360686Z",
+  "model": "glm-5.2"
+}

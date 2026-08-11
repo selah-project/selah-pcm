@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And di chief executioner bin take ⟨את⟩ Serayah di head priest, and ⟨את⟩ Tsefanyah di second priest, and ⟨את⟩ di three keepers of di threshold.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief of"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "executioners"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "second"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di three"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "di three"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "keepers of"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "di threshold"
+    }
+  ],
+  "timestamp": "2026-08-11T16:15:06.635338250Z",
+  "model": "glm-5.2"
+}

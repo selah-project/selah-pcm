@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make you no wear shaatnez, wool and linen together.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "make you wear"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "shaatnez"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wool"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "and linen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:07.660302261Z",
+  "model": "glm-5.2"
+}

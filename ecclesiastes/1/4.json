@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Generation dey go, and generation dey come, but ⟨di⟩ earth dey stand forever.",
+  "tokens": [
+    {
+      "surface": "דּ֤וֹר",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "הֹלֵךְ֙",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "וְד֣וֹר",
+      "gloss": "and generation"
+    },
+    {
+      "surface": "בָּ֔א",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "וְהָאָ֖רֶץ",
+      "gloss": "but ⟨di⟩ earth"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עֹמָֽדֶת",
+      "gloss": "dey stand"
+    }
+  ],
+  "timestamp": "2026-08-11T16:44:47.863664790Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And wen Aharon dey light ⟨את⟩ di lamps for evening time, e go burn am — incense wey no dey stop, before Yahweh, for all una generations.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "and wen e dey light"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lamps"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "di lamps"
+    },
+    {
+      "surface": "בין",
+      "gloss": "for between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "di evenings"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "e go burn am"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incense"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wey no dey stop"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "for all una generations"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:16.648444701Z",
+  "model": "glm-5.2"
+}

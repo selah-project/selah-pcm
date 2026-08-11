@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 113,
+  "translation": "Make ⟨di⟩ name of Yahweh ⟨be⟩ blessed, from now and till ⟨for⟩ ever.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "make ⟨...⟩ ⟨be⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "from now"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨for⟩ ever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:24.604130071Z",
+  "model": "glm-5.2"
+}

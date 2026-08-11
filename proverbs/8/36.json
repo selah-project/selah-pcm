@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "But anybody wey sin against me, ⟨dey⟩ do violence to im ⟨own⟩ life; all dem wey hate me don love death.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "But anybody wey sin against"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "do violence"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "to im life"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "dem wey hate me"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "don love"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:17.927015291Z",
+  "model": "glm-5.2"
+}

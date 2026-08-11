@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Mosheh and Aharon do ⟨את⟩ all dis wonders before Paroh, and Yahweh make strong ⟨את⟩ di heart of Paroh, and ⟨he⟩ no send ⟨את⟩ di children of Yisra'el comot from im land.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "And Mosheh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis wonders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "di wonders"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "and make strong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart of Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di children of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "comot from im land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:25.268834031Z",
+  "model": "glm-5.2"
+}

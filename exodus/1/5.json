@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And all ⟨di⟩ life-force of di ones wey komot from ⟨di⟩ thigh of Ya'akov bin ⟨be⟩ seventy life-force; and Yosef bin already dey for Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin happen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life-force"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "of di ones wey komot"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "thigh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life-force"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "and Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:45.064573036Z",
+  "model": "glm-5.2"
+}

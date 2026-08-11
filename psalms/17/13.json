@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Stand up, Yahweh, meet ⟨im⟩ face, make am bend down; rescue my life from di wicked man, ⟨by⟩ ya sword.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stand up"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "meet"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "make am bend down"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "from di wicked man"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ya sword"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:01.893775449Z",
+  "model": "glm-5.2"
+}

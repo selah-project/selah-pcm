@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 2:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Huram talk: Bless-ed be Yahweh, Elohim of Yisra'el, wey make ⟨את⟩ di heaven and ⟨את⟩ di earth, wey give David di king ⟨a⟩ son wey get wisdom, wey sabi sense and understanding, wey go build house for Yahweh and house for im kingdom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bless-ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heaven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wey sabi"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sense"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "and understanding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "go build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "and house"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "for im kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:06:07.408773314Z",
+  "model": "glm-5.2"
+}

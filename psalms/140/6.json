@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 140,
+  "translation": "Di arrogant dem hide trap for me, and rope dem, dem spread net beside di road; snare dem dem set for me. Selah.",
+  "tokens": [
+    {
+      "surface": "טָֽמְנֽוּ",
+      "gloss": "dem hide"
+    },
+    {
+      "surface": "גֵאִ֨ים",
+      "gloss": "arrogant"
+    },
+    {
+      "surface": "פַּ֡ח",
+      "gloss": "trap"
+    },
+    {
+      "surface": "לִ֗י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "וַחֲבָלִ֗ים",
+      "gloss": "and rope dem"
+    },
+    {
+      "surface": "פָּ֣רְשׂוּ",
+      "gloss": "dem spread"
+    },
+    {
+      "surface": "רֶ֭שֶׁת",
+      "gloss": "net"
+    },
+    {
+      "surface": "לְיַד",
+      "gloss": "beside"
+    },
+    {
+      "surface": "מַעְגָּ֑ל",
+      "gloss": "di road"
+    },
+    {
+      "surface": "מֹקְשִׁ֖ים",
+      "gloss": "snare dem"
+    },
+    {
+      "surface": "שָֽׁתוּ",
+      "gloss": "dem set"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T16:39:02.807913717Z",
+  "model": "glm-5.2"
+}

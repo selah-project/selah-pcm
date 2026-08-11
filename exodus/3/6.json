@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ talk sey, I ⟨be⟩ Elohim of your papa, Elohim of Avraham, Elohim of Yitschak, and Elohim of Yaakov. And Moshe hide im face, because im dey fear to look toward ⟨di⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "and Elohim of"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "and ⟨im⟩ hide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨im⟩ dey fear"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "to look"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨di⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:29.496584884Z",
+  "model": "glm-5.2"
+}

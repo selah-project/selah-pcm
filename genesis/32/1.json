@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Laban bin wake up early for morning, and e bin kiss im son-dem and im daughter-dem, and e bin bless ⟨את⟩ ⟨dem⟩; and e bin go, and Laban bin go back to im place.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "and bin wake up early"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "and bin kiss"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "im son-dem"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "and im daughter-dem"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "and bin bless"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin go back"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "to im place"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:22.022251455Z",
+  "model": "glm-5.2"
+}

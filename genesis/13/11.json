@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So Lot choose for imself ⟨את⟩ all di plain of HaYarden, and Lot move from east; and dem separate, man from im brother.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "So choose"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di plain of HaYarden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "di plain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "of HaYarden"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "and move"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "from east"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "and dem separate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:51.643546968Z",
+  "model": "glm-5.2"
+}

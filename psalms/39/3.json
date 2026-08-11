@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "I bin tie-mouth, silent; I keep quiet — even from good; and my pain bin dey boil.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "I bin tie-mouth"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "silent"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "I keep quiet"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "even from good"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "and my pain"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bin dey boil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:33.335546477Z",
+  "model": "glm-5.2"
+}

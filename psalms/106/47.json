@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 106:47",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Save us, Yahweh wey ⟨be⟩ our Elohim, and gather us from among di nations, so we fit give thanks to your holy name, so we fit boast for your praise.",
+  "tokens": [
+    {
+      "surface": "הושיענו",
+      "gloss": "save us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "wey ⟨be⟩ our Elohim"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "and gather us"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from among"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "so we fit give thanks"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "to your name"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "holy"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "so we fit boast"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "for your praise"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:44.204400565Z",
+  "model": "glm-5.2"
+}

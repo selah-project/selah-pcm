@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make I stand up now, make I waka round di town, for di market-square dem and for di wide-road dem, I go look for ⟨את⟩ di one wey my life love; I fine-am, and I no see-am.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "make I stand up"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "make I waka round"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di town"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "for di market-square dem"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "and for di wide-road dem"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "I go look for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one wey my life love"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wey love"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "I fine-am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "see-am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:35.469044552Z",
+  "model": "glm-5.2"
+}

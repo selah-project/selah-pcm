@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Wealth of rich person ⟨na⟩ im strong city; ruin of poor people na dia poverty.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "wealth of"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich person"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "city"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "im strength"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ruin of"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "poor people"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "dia poverty"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:38.087486188Z",
+  "model": "glm-5.2"
+}

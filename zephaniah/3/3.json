@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Im leaders for inside ⟨her⟩ na lions wey dey roar; im judges na wolves of evening — dem no dey leave bone till morning.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Im leaders"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "for inside ⟨her⟩"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lions"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "wey dey roar"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "im judges"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "wolves"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "of evening"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "dey leave"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "till morning"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:18.252345860Z",
+  "model": "glm-5.2"
+}

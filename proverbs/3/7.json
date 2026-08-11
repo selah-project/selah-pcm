@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "No make yourself wise for your own eye dem; fear ⟨את⟩ Yahweh, and turn comot from bad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "No"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "make yourself"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your own eye dem"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "and turn comot"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "from bad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:08.148556250Z",
+  "model": "glm-5.2"
+}

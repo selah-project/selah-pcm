@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Me, to Elohim I go call, and Yahweh go save me.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "Me"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶקְרָא",
+      "gloss": "I go call"
+    },
+    {
+      "surface": "וַיהוָה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "יוֹשִׁיעֵנִי",
+      "gloss": "go save me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:25.596739083Z",
+  "model": "glm-5.2"
+}

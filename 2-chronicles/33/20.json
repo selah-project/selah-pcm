@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Menashsheh lie down with im papa-dem, and dem bury am for im house; and Amon im pikin come rule for im place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and e lie down"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "and dem bury am"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "for im house"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and e come rule"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:45.766626038Z",
+  "model": "glm-5.2"
+}

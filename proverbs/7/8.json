@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "dey pass through di market near im corner, and di road to im house, ⟨he⟩ dey march.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "dey pass through"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "di market"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "near"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "im corner"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "and di road"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "to im house"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "⟨he⟩ dey march"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:09.975277021Z",
+  "model": "glm-5.2"
+}

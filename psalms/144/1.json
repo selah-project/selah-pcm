@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "For Dawid. Bless Yahweh, my Rock, di One wey dey teach my hand for war, my finger dem for battle.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "For Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my Rock"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "di One wey dey teach"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "for war"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "my finger dem"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for battle"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:13.693905474Z",
+  "model": "glm-5.2"
+}

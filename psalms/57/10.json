@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "I go thank you among di peoples, Adonai; I go sing for you among di nations.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "I go thank you"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "among di peoples"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "I go sing for you"
+    },
+    {
+      "surface": "בל",
+      "gloss": "among"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:56.597976038Z",
+  "model": "glm-5.2"
+}

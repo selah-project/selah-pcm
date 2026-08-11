@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And ⟨dem⟩ go scrape ⟨את⟩ di house for inside round about, and dem go pour ⟨את⟩ di dust wey dem scrape outside di city go unclean place.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "⟨dem⟩ go scrape"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "and dem go pour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dust"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "di dust"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "dem scrape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:24.036722850Z",
+  "model": "glm-5.2"
+}

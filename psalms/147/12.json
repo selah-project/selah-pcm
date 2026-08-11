@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Praise Yahweh, O Yerushalayim; praise your Elohim, O Tziyon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Praise"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "O Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "praise"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:00.110644873Z",
+  "model": "glm-5.2"
+}

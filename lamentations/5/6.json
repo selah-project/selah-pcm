@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "To Mitsrayim we give hand, to Ashshur, to satisfy ⟨with⟩ bread.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "we give"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "to satisfy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:00.913790255Z",
+  "model": "glm-5.2"
+}

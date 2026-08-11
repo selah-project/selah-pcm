@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Achaz take ⟨את⟩ di silver and ⟨את⟩ di gold wey dem find for house of Yahweh, and for di treasuries of house of di king, and e send am to di king of Ashur as bribe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di silver"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wey dem find"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "and for di treasuries"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and e send"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "as bribe"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:16.172314531Z",
+  "model": "glm-5.2"
+}

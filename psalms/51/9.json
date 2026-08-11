@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Make you clean me wit ezob and I go dey clean; wash me and I go dey more white pass snow.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "make you clean me"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "wit ezob"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "and I go dey clean"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "wash me"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "and more pass snow"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "I go dey white"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:35.870297465Z",
+  "model": "glm-5.2"
+}

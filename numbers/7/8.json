@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And ⟨את⟩ four carts and ⟨את⟩ eight cows e give to di sons of Merari, according to dia work, under di hand of Itamar, son of Aharon di priest.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "And ⟨את⟩",
+      "marks": "four carts"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "carts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "eight cows"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "eight"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cows"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di sons"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "of Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "dia work"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "under di hand"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "of Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:40.824992997Z",
+  "model": "glm-5.2"
+}

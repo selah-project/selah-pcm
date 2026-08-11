@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because of di matter wey dem no come meet una ⟨את⟩ wit bread and wit water for di road, wen una bin komot from Mitsrayim, and because dem hire against you ⟨את⟩ Bilam pikin of Beʿor, from Petor of Aram Naharayim, to curse you.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "dem come meet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "wit bread"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "and wit water"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "wen una bin komot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "dem hire"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beʿor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "from Petor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "to curse you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:11.391806887Z",
+  "model": "glm-5.2"
+}

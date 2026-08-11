@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Di Elohim of di nations wey my papa-papa dem destroy — na dem rescue dem? ⟨את⟩ Gozan, and ⟨את⟩ Charan, and Retsef, and di sons of Eden, wey dey for Telashar.",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "na dem rescue"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "Elohim of di nations"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "destroy"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "my papa-papa dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "and Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "dey for Telashar"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:08.525584523Z",
+  "model": "glm-5.2"
+}

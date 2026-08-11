@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Wise woman don build im house, but foolishness, wit ⟨im⟩ own hand ⟨e⟩ go pull am down.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "wise woman"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "⟨na⟩ woman"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "don build"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "but foolishness"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "wit im hand"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "go pull am down"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:42.331719062Z",
+  "model": "glm-5.2"
+}

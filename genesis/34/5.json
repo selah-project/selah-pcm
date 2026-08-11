@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And Ya'akov hear sey ⟨im⟩ don make ⟨את⟩ Dinah im daughter unclean, and im bin dey with ⟨את⟩ im livestock for di field, and Ya'akov keep quiet until dem come.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "and Ya'akov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "don make unclean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "im daughter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "את",
+      "gloss": "with ⟨את⟩"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "im livestock"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "and keep quiet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "באם",
+      "gloss": "dem come"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:33.943762045Z",
+  "model": "glm-5.2"
+}

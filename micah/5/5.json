@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And dem go shepherd ⟨את⟩ di land of Ashur wit sword, and ⟨את⟩ di land of Nimrod for im gates; and ⟨he⟩ go deliver from Ashur, wen ⟨he⟩ enter inside our land and wen ⟨he⟩ tread for our border.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "and dem go shepherd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land of Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di land of Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "of Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "for im gates"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "and go deliver"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "from Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "⟨he⟩ enter"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "inside our land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "and wen"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "⟨he⟩ tread"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "for our border"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:32.422093773Z",
+  "model": "glm-5.2"
+}

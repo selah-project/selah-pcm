@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So make una love Yahweh wey be una Elohim, and make una keep im charge, and im statutes, and im judgments, and im commandments, all di days.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "so make una love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "and make una keep"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "im charge"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "and im statutes"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "and im judgments"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "and im commandments"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:25.666819882Z",
+  "model": "glm-5.2"
+}

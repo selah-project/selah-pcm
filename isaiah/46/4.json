@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And even to old age, na me ⟨be⟩; and even to grey hair, me, I go carry; na me make, and me, I go bear, and me, I go carry, and I go deliver.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "And even to"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "old age"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and even to"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "grey hair"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "I go carry"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "make"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "I go bear"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "I go carry"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "and I go deliver"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:32.198643625Z",
+  "model": "glm-5.2"
+}

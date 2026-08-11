@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Yahweh, Elohim of us, bin cut covenant wit us for Chorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim of us"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "bin cut"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "wit us"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "for Chorev"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:02.892853401Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Im left hand dey under my head, and im right hand dey hug me.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "im left hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dey under"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "and im right hand"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "dey hug me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:32.493744227Z",
+  "model": "glm-5.2"
+}

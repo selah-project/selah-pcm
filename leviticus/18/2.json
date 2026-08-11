@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Talk to ⟨di⟩ pikin-dem of Yisra'el, and tell dem: ⟨Me⟩, na Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨Me⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:38.493532676Z",
+  "model": "glm-5.2"
+}

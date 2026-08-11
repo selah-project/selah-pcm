@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And now, make you no free am, because you ⟨be⟩ wise man, and you go know ⟨את⟩ wetin you go do to am, and you go bring down ⟨את⟩ im grey head with blood to Sheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "make you free"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "and you go know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "and you go bring down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im grey head"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "im grey head"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "with blood"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:07.028729453Z",
+  "model": "glm-5.2"
+}

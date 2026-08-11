@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "Look, Adonai Yahweh dey come wit power, and im arm go rule for am. Look, im reward dey ⟨with⟩ ⟨את⟩ am, and im work dey front of am.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "wit power"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "and im arm"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "go rule"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "im reward"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "and im work"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "dey front of am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:44.247099375Z",
+  "model": "glm-5.2"
+}

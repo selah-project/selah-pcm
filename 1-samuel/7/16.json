@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And e bin dey go from year to year, and e bin dey go round Bet-El, and ⟨di⟩ Gilgal, and ⟨di⟩ Mitspah, and e bin dey judge ⟨את⟩ Yisraël for ⟨את⟩ all dis places here.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "and bin dey go"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "from"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "to year"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "and bin dey go round"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "and Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "and Mitspah"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "and bin dey judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis places here"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "di places"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis here"
+    }
+  ],
+  "timestamp": "2026-08-11T14:33:42.253764840Z",
+  "model": "glm-5.2"
+}

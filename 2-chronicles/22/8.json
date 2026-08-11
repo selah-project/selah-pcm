@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e come pass, as Yehu bin dey execute judgement wit di house of Achav, dat im find ⟨את⟩ di chief-dem of Yehudah and di pikin-dem of di broda of Achazyahu wey dey serve Achazyahu, and im kill dem.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֕י",
+      "gloss": "and e come pass"
+    },
+    {
+      "surface": "כְּהִשָּׁפֵ֥ט",
+      "gloss": "as bin dey execute judgement"
+    },
+    {
+      "surface": "יֵה֖וּא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "אַחְאָ֑ב",
+      "gloss": "of Achav"
+    },
+    {
+      "surface": "וַיִּמְצָא֩",
+      "gloss": "dat im find"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di chief-dem of Yehudah"
+    },
+    {
+      "surface": "שָׂרֵ֨י",
+      "gloss": "di chief-dem"
+    },
+    {
+      "surface": "יְהוּדָ֜ה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "וּבְנֵ֨י",
+      "gloss": "and di pikin-dem"
+    },
+    {
+      "surface": "אֲחֵ֧י",
+      "gloss": "of di broda"
+    },
+    {
+      "surface": "אֲחַזְיָ֛הוּ",
+      "gloss": "of Achazyahu"
+    },
+    {
+      "surface": "מְשָׁרְתִ֥ים",
+      "gloss": "wey dey serve"
+    },
+    {
+      "surface": "לַאֲחַזְיָ֖הוּ",
+      "gloss": "Achazyahu"
+    },
+    {
+      "surface": "וַיַּהַרְגֵֽם",
+      "gloss": "and im kill dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:41.198687081Z",
+  "model": "glm-5.2"
+}

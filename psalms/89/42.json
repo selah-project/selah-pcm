@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "All ⟨dem⟩ wey dey pass road dey plunder am; e don become disgrace to im neighbor-dem.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "dey plunder am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wey dey pass"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e don become"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "disgrace"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "to im neighbor-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.815281106Z",
+  "model": "glm-5.2"
+}

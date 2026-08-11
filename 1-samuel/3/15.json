@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Samuel lie down until morning, and ⟨im⟩ open ⟨את⟩ di doors of di house of Yahweh. And Samuel fear to tell ⟨את⟩ di vision to Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and ⟨im⟩ lie down"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and ⟨im⟩ open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di doors"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "di doors"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "and Samuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "to tell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "di vision"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:37.250766349Z",
+  "model": "glm-5.2"
+}

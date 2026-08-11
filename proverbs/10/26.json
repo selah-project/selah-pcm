@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Like vinegar to ⟨di⟩ teeth, and like smoke to ⟨di⟩ eyes, so di lazy man ⟨be⟩ to di people wey send am.",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "like vinegar"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "to teeth"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "and like smoke"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "to eyes"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "di lazy man"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "to di people wey send am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:34.856517434Z",
+  "model": "glm-5.2"
+}

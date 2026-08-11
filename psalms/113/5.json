@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 113,
+  "translation": "Who come be like Yahweh wey be we Elohim, di One wey dey raise Imsef up to sit down?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "like Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "we Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "di One wey dey raise Imsef up"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "to sit down"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:16.060394010Z",
+  "model": "glm-5.2"
+}

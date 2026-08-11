@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Di prudent man see trouble, ⟨im⟩ hide; but di simpletons pass by, dem get punishment.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "prudent man"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "⟨im⟩ hide"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "simpletons"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dem pass by"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "dem get punishment"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:40.394919258Z",
+  "model": "glm-5.2"
+}

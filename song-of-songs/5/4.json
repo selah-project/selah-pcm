@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "My beloved stretch im hand from di hole, and my belle bin dey move for am.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "my beloved"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stretch"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "החר",
+      "gloss": "di hole"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "and my belle"
+    },
+    {
+      "surface": "המו",
+      "gloss": "bin dey move"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.790728655Z",
+  "model": "claude-opus-4-8"
+}

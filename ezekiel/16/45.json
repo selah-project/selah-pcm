@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": " Daughter of your mama, ⟨na⟩ you—wey hate ⟨את⟩ im husband and ⟨את⟩ im pikin-dem; and sista of your sista-dem, ⟨na⟩ you—wey dia husband-dem and dia pikin-dem hate. Your mama, ⟨na⟩ Chitit, and your papa, ⟨na⟩ Emori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "of your mama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨na⟩ you",
+      "marks": "you (2fs pronoun, not DOM)"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "wey hate"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "im husband"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "and im pikin-dem"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "and sista"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "of your sista-dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨na⟩ you",
+      "marks": "you (2fs pronoun, not DOM)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "dia husband-dem hate"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "dia husband-dem"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "and dia pikin-dem"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "your mama"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chitit"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "and your papa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Emori"
+    }
+  ],
+  "timestamp": "2026-08-11T12:07:49.740240507Z",
+  "model": "glm-5.2"
+}

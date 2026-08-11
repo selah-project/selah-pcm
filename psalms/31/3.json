@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Bend your ear to me, quick-quick rescue me; be ⟨to⟩ me for rock of strength, for house of fortresses, to save me.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "bend"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "your ear"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "quick-quick"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "rescue me"
+    },
+    {
+      "surface": "היה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨to⟩ me"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "for rock"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "of strength"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "of fortresses"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "to save me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:19.206100824Z",
+  "model": "glm-5.2"
+}

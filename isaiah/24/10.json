@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "⟨E don⟩ scatter — di city of emptiness; ⟨dem don⟩ lock evri house, ⟨no⟩ entry.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "scatter"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "city"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "emptiness"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "lock"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "entry"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:35.555902731Z",
+  "model": "glm-5.2"
+}

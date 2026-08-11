@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And I go strike ⟨את⟩ di people wey dey live for dis city, and ⟨את⟩ man and ⟨את⟩ animal — by big disease dem go die.",
+  "tokens": [
+    {
+      "surface": "וְהִכֵּיתִ֗י",
+      "gloss": "and I go strike"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di people wey dey live for dis city"
+    },
+    {
+      "surface": "יֽוֹשְׁבֵי֙",
+      "gloss": "di people wey dey live"
+    },
+    {
+      "surface": "הָעִ֣יר",
+      "gloss": "for city"
+    },
+    {
+      "surface": "הַזֹּ֔את",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "man"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "animal"
+    },
+    {
+      "surface": "הַבְּהֵמָ֑ה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "בְּדֶ֥בֶר",
+      "gloss": "by disease"
+    },
+    {
+      "surface": "גָּד֖וֹל",
+      "gloss": "big"
+    },
+    {
+      "surface": "יָמֻֽתוּ",
+      "gloss": "dem go die"
+    }
+  ],
+  "timestamp": "2026-08-11T16:21:52.962273562Z",
+  "model": "glm-5.2"
+}

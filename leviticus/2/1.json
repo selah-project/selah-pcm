@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And when ⟨any⟩ soul bring near korban of minchah to Yahweh, fine flour ⟨shall⟩ ⟨be⟩ im korban; and e go pour oil on top am, and e go put frankincense on top am.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "And soul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "bring near"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "of minchah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "shall be"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "im korban"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "and e go pour"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and e go put"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "frankincense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:51.526241311Z",
+  "model": "glm-5.2"
+}

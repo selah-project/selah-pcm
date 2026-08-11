@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "For my sake, for my sake I go do am, because how ⟨go⟩ dem profane my name? And my glory I no go give to anoda.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "for my sake"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "for my sake"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "איך",
+      "gloss": "how"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "dem go profane"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "and my glory"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "to anoda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "give"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:15.471442026Z",
+  "model": "glm-5.2"
+}

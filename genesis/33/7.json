@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Le'ah sef come near, and ⟨im⟩ pikin-dem, and ⟨dem⟩ bow down. And after, Yosef and Rakhel come near and ⟨dem⟩ bow down.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "and come near"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sef"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'ah"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "and ⟨im⟩ pikin-dem"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "come near"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "and Rakhel"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and bow down"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:19.294007031Z",
+  "model": "glm-5.2"
+}

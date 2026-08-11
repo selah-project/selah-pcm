@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Dia idols — silver and gold, work of hand of man.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "dia idols"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:58.959257099Z",
+  "model": "glm-5.2"
+}

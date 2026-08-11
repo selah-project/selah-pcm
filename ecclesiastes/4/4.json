@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And I bin see ⟨את⟩ all di toil and ⟨את⟩ all di success of work, say na jealousy of man against im neighbour ⟨be⟩ dis; dis too na hevel and chasing of wind.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "and I bin see"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "di toil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "di success"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "of work"
+    },
+    {
+      "surface": "כי",
+      "gloss": "say"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jealousy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "against im neighbour"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "na hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "and chasing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "of wind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:14.097255940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Elohim bin come to Abimelekh for dream of di night, and ⟨e⟩ bin talk to am, 'See, you ⟨be⟩ dead man, because of ⟨di⟩ woman wey you take, and she get husband.'",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "for dream"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "of di night"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "see you"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dead"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "you take"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and she"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "get"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "husband"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:58.761223901Z",
+  "model": "glm-5.2"
+}

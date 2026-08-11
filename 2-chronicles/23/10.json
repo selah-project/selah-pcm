@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And e make all di people stand, each man wit im weapon for im hand, from di right side of di house reach di left side of di house, near di altar and di house, around di king.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "and e make stand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and each man"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "im weapon"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "from di side"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "di right"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "di side"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "di left"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "near di altar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "and di house"
+    },
+    {
+      "surface": "על",
+      "gloss": "around"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:18.644023997Z",
+  "model": "glm-5.2"
+}

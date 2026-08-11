@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "Dem ⟨go⟩ still dey bear fruit for old age; fat and green dem ⟨go⟩ be.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "go dey bear fruit"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "for old age"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "fat"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "and green"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go be"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:22.708604192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Wen you vow one vow to Yahweh your Elohim, no delay to pay am; because Yahweh your Elohim go surely require am from wit you, and e go be sin for inside you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wen"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "you vow"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "one vow"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "delay"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "to pay am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "require"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "go surely require am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "from wit you"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for inside you"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:17.233861862Z",
+  "model": "glm-5.2"
+}

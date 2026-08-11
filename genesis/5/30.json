@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Lamech live after e born ⟨את⟩ Noach five hundred and ninety-five year, and e born sons and daughters.",
+  "tokens": [
+    {
+      "surface": "וַֽיְחִי",
+      "gloss": "and e live"
+    },
+    {
+      "surface": "לֶ֗מֶךְ",
+      "gloss": "Lamech"
+    },
+    {
+      "surface": "אַֽחֲרֵי֙",
+      "gloss": "after"
+    },
+    {
+      "surface": "הוֹלִיד֣וֹ",
+      "gloss": "e born"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נֹ֔חַ",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "חָמֵ֤שׁ",
+      "gloss": "five"
+    },
+    {
+      "surface": "וְתִשְׁעִים֙",
+      "gloss": "and ninety"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "and five"
+    },
+    {
+      "surface": "מֵאֹ֖ת",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "and e born"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "and daughters"
+    }
+  ],
+  "timestamp": "2026-08-11T15:38:47.256687751Z",
+  "model": "glm-5.2"
+}

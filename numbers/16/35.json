@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And fire come out from ⟨את⟩ Yahweh, and e chop ⟨את⟩ di two hundred and fifty man wey dey bring near di incense.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "and fire"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "come out"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two hundred and fifty man"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "di fifty"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "and two hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "wey dey bring near"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "di incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:54:53.326735899Z",
+  "model": "glm-5.2"
+}

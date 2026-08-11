@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "⟨Im⟩ turn sea to dry ground, for di river dem pass wit foot, there we bin glad for am.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "⟨im⟩ turn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "to dry ground"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "for di river"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "dem pass"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "wit foot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "we bin glad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:09.397971430Z",
+  "model": "glm-5.2"
+}

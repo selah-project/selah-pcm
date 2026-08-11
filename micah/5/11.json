@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 5:11",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go cut off ⟨את⟩ witchcraft from your hand, and sorcerer-dem no go dey for you.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "⟨את⟩",
+      "marks": "witchcraft"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "from your hand"
+    },
+    {
+      "surface": "ומעוננים",
+      "gloss": "and sorcerer-dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:32.606659551Z",
+  "model": "glm-5.2"
+}

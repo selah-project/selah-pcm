@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di water finish from inside di water-skin, and she bin throw ⟨את⟩ di pikin under one of di shrubs.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "and finish"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "di water-skin"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "and she bin throw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "of di shrubs"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:07.337465406Z",
+  "model": "glm-5.2"
+}

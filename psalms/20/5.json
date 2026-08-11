@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make ⟨im⟩ give you wetin dey for your heart, and make ⟨im⟩ fill all your plan.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "make ⟨im⟩ give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "wetin dey for your heart"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "your plan"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "make ⟨im⟩ fill"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:37.694754445Z",
+  "model": "glm-5.2"
+}

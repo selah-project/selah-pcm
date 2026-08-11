@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "and one round bread-loaf, and one flat bread of oil, and one thin biscuit, from di basket of di unleavened bread wey dey before Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "and one round bread-loaf"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "and one flat bread"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "of bread"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "of oil"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "and one thin biscuit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "from di basket"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "of di unleavened bread"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dey before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:17.791651711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Kayin know ⟨את⟩ im wife, and she conceive, and she born ⟨את⟩ Chanokh; and e bin dey build city, and e call di name of di city like di name of im pikin, Chanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "and e know"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wife"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "and she conceive"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and she born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dey build"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "like di name"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "of im pikin"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:07.999287425Z",
+  "model": "glm-5.2"
+}

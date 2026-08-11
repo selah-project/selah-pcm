@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "⟨He⟩ make darkness im hiding place, round about am im shelter — darkness of water, thick cloud of di skies.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "make"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "im hiding place"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "round about am"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "im shelter"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "darkness of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "thick cloud of"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "di skies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:57.260898473Z",
+  "model": "glm-5.2"
+}

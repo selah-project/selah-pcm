@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And all di congregation of ⟨di⟩ sons of Yisra'el bin travel from di wilderness of Sin, according to dia journeys, by di mouth of Yahweh, and dem bin camp for Refidim; and ⟨bin get⟩ no water for di people to drink.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "and dem bin travel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di congregation"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "from di wilderness"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "according to dia journeys"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem bin camp"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "for Refidim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨bin get⟩ no"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "to drink"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:17.718270032Z",
+  "model": "glm-5.2"
+}

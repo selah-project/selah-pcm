@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "All ⟨di⟩ earth go bow down to you, and dem go sing to you, dem go sing your name. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ earth"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "go bow down"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "and dem go sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "dem go sing"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:47.955187117Z",
+  "model": "glm-5.2"
+}

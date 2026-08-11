@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Any one wey dey split hoof and wey dey completely divide di hoof-cleft, wey dey bring up cud among di beast — ⟨את⟩ dat one una go chop.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Any one"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "wey dey split"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "and wey dey completely divide"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "di hoof-cleft"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "wey dey bring up"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "among di beast"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dat one"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:51.285242581Z",
+  "model": "glm-5.2"
+}

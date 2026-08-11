@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Bird go fall on top trap for di ground, and bait no dey for am? Trap go spring up from di ground, and e no catch notin?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "bird"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פח",
+      "gloss": "trap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "and bait"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "go spring up"
+    },
+    {
+      "surface": "פח",
+      "gloss": "trap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "and catch"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "go catch"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:38.109502330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Di mountains bin drip from before Yahweh — dis one Sinai — from before Yahweh, Elohim of Yisrael.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "bin drip"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:46.246947441Z",
+  "model": "glm-5.2"
+}

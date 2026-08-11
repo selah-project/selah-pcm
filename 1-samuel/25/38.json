@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And e come pass, like ten days, and Yahweh strike ⟨את⟩ Nabal, and e die.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come pass"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "like ten"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and e die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:11.103370314Z",
+  "model": "glm-5.2"
+}

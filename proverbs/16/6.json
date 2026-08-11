@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "By chesed and truth iniquity dey atoned for; and by di fear of Yahweh, ⟨person⟩ dey turn away from evil.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "by chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "and truth"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dey atoned for"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "and by fear of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סור",
+      "gloss": "turn away"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "from evil"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:03.238039477Z",
+  "model": "glm-5.2"
+}

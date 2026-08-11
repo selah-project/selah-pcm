@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Shaul take three thousand chosen men from all Yisra'el, and ⟨e⟩ waka go find ⟨את⟩ Dawud and im men, upon di face of di rocks of di wild goats.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and ⟨e⟩ take"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "chosen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨e⟩ waka go"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "and im men"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "di rocks of"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "di wild goats"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:44.902214394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "For there I go make horn sprout for David, I don arrange lamp for my Mashíaj.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "I go make sprout"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "horn"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "I don arrange"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "for my Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:13.162417356Z",
+  "model": "glm-5.2"
+}

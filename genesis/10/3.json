@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨di⟩ pikin-dem of Gomer: Ashkenaz, and Riphat, and Togarmah.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And ⟨di⟩ pikin-dem"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "of Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "and Riphat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "and Togarmah"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:49.738575143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yahweh talk to Shemuel, say, \"Hear di voice of di people, to evri wetin dem go talk to you; because no be you dem reject, but ⟨את⟩ me dem reject, from make I king for dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ you"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "dem reject"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "dem reject"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "from make-I-king"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:05.568449897Z",
+  "model": "glm-5.2"
+}

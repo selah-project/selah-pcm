@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And una go perish among di nations, and di land of una enemies go chop ⟨את⟩ una.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "and una go perish"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "and go chop"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "of una enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:57.191410808Z",
+  "model": "glm-5.2"
+}

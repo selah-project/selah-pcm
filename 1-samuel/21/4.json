@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So now, wetin dey under your hand? Five bread, put for my hand, or wetin dey available.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dey"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "five"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "put"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "for my hand"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wetin dey available"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:23.043127531Z",
+  "model": "glm-5.2"
+}

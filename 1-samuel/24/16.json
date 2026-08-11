@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Yahweh go ⟨be⟩ judge, and ⟨e⟩ go judge between me and between you; and make ⟨e⟩ see, and make ⟨e⟩ plead ⟨את⟩ my case, and make ⟨e⟩ judge me from your hand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨e⟩ go be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "judge"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "and go judge"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and between you"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and make ⟨e⟩ see"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "and make ⟨e⟩ plead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my case"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "my case"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "and make ⟨e⟩ judge me"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "from your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:26.066732570Z",
+  "model": "glm-5.2"
+}

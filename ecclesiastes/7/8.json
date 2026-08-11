@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "E good, di end of a matter pass im beginning; e good, person wey get long spirit pass person wey get high spirit.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e good"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "di end"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "of a matter"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "pass im beginning"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e good"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "long"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "pass high"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:44.125247037Z",
+  "model": "glm-5.2"
+}

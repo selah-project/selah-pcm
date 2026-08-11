@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 95,
+  "translation": "forty year I bin detest ⟨be⟩ dis generation, and I talk: \"na people wey dey stray for heart dem be, and dem no know my road-dem.\"",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "I bin detest"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dis generation"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na people"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "wey dey stray"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "for heart"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "know"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my road-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:47.579232550Z",
+  "model": "glm-5.2"
+}

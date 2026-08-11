@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "After dat, Moshe and Aharon bin go meet Paroh, and dem talk sey: \"Na so Yahweh, Elohim of Yisra'el, don talk: Send ⟨את⟩ my people make dem go do festival for me for inside di wilderness.\"",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "after dat"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "make dem go do festival"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for inside di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:59.367993163Z",
+  "model": "glm-5.2"
+}

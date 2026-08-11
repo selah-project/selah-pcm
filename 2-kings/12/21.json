@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And im servant-dem bin rise, and dem bin plan conspiracy, and dem strike ⟨את⟩ Y'oash for Bet-Milo, di one wey dey go down Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "and dem bin rise"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "and dem bin plan"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "conspiracy"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Y'oash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Y'oash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "di one wey dey go down"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-11T11:13:36.236838061Z",
+  "model": "glm-5.2"
+}

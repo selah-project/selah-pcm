@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And dis na di lineage of Esav, papa of Edom, for mount Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and dis na"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "di lineage"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for mount"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:00.049132238Z",
+  "model": "glm-5.2"
+}

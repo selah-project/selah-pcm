@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Shelach bin live after e bin born ⟨את⟩ Ever, three year and four hundred year, and e bin born son dem and daughter dem.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "and bin live"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "e bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "year"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "and bin born"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "son dem"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "and daughter dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:39.985833527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Am too dem go carry go Ashur, as gift to King Yarev; shame go take Efrayim, and Yisrael go shame because of ⟨im⟩ own plan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "am (di calf\/idol)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "go Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "dem go carry"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "as gift"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to King"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "ואבוש",
+      "gloss": "and go shame"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "because of im own plan"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:52.912996459Z",
+  "model": "glm-5.2"
+}

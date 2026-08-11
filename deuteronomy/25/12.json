@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "den una go cut off ⟨את⟩ im hand; make una eye no pity am.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "den una go cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "make pity"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "una eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:54.098236265Z",
+  "model": "glm-5.2"
+}

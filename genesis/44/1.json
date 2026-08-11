@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And e command di one wey dey on top im house, sey: \"Fill ⟨את⟩ di men dem bag wit food, as much as dem fit carry, and put silver, each man, for di mouth of im bag.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one wey dey on top im house"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di men dem bag"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "bag"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "food"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "dem fit"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "carry"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "and put"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "for di mouth"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "im bag"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:31.782576801Z",
+  "model": "glm-5.2"
+}

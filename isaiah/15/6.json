@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "Because di waters of Nimrim go turn to desolation; because di grass don dry up, di tender grass don finish, green thing no dey exist.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מי",
+      "gloss": "di waters"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "of Nimrim"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "desolation"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go turn to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "don dry up"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "di grass"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tender grass"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "green thing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey exist"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:29.279178441Z",
+  "model": "glm-5.2"
+}

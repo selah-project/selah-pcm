@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Only, dem no go make ⟨את⟩ di money wey dem put for dia hand as account, because na for faithfulness dem dey do.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "dem go make as account"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "di money"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di money"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "wey dem put"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "for faithfulness"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dey do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:34.025750445Z",
+  "model": "glm-5.2"
+}

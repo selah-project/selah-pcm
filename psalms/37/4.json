@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And make you find sweet enjoyment for Yahweh, and ⟨im⟩ go give you di desire of your heart.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "And make you find sweet enjoyment"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨im⟩ go give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "di desire"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "of your heart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:38.653405776Z",
+  "model": "glm-5.2"
+}

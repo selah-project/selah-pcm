@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 20:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Abimelech bin wake up early for morning, and im bin call all im servants, and im bin tell ⟨את⟩ all dis words for dia ears; and di men bin fear well-well.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "and bin wake up early"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelech"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis words"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "for dia ears"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "and bin fear"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:40.846065088Z",
+  "model": "glm-5.2"
+}

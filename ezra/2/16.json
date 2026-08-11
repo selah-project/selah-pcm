@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "⟨Di⟩ pikin-dem of Ater, ⟨through⟩ Hezekiah, ninety and eight.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Ater"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "through Hezekiah"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ninety"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "and eight"
+    }
+  ],
+  "timestamp": "2026-08-11T13:44:11.990173406Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 122,
+  "translation": "Sake of di house of Yahweh, Elohim wey be we own, ⟨na⟩ ⟨im⟩ I go dey find good thing for you.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wey be we own"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "⟨na⟩ ⟨im⟩ I go dey find"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good thing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:38.007480501Z",
+  "model": "glm-5.2"
+}

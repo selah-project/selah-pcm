@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di king of Shimron־Meron, one; di king of Akshaf, one.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T14:30:06.002194151Z",
+  "model": "glm-5.2"
+}

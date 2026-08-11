@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "For dat time, Yahweh bin tell me say, carve two stone tablet dem like di first one dem, and climb up come meet me for di mountain, and make ⟨an⟩ ark of wood for yusef.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for dat time"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "carve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yusef"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "tablet dem"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stone"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "like di first one dem"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "and climb up"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "come meet me"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and make"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yusef"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wood"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:54.067780491Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make dem dey before Yahweh alway, and make ⟨e⟩ cut dia memory comot from di earth.",
+  "tokens": [
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "make dem dey"
+    },
+    {
+      "surface": "נֶֽגֶד",
+      "gloss": "before"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תָּמִ֑יד",
+      "gloss": "alway"
+    },
+    {
+      "surface": "וְיַכְרֵ֖ת",
+      "gloss": "and make e cut off"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "from earth"
+    },
+    {
+      "surface": "זִכְרָֽם",
+      "gloss": "dia memory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:52.722437063Z",
+  "model": "glm-5.2"
+}

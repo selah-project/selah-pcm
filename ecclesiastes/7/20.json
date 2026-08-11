@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because ⟨for⟩ human being, no righteous person dey for di earth wey dey do good and wey no go sin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "human being"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous person"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dey do"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and wey no go"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:15.719811480Z",
+  "model": "glm-5.2"
+}

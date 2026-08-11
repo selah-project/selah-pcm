@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "and ⟨את⟩ Resen, between Ninweh and between Kalach — ⟨na⟩ dat one ⟨be⟩ di great city.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ dat one"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "great"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:36.272031312Z",
+  "model": "glm-5.2"
+}

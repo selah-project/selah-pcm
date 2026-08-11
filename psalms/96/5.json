@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 96,
+  "translation": "Because all di elohim of di nations ⟨be⟩ idols, but Yahweh bin make heaven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim of"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "idols"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "but Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin make"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:50.772174364Z",
+  "model": "glm-5.2"
+}

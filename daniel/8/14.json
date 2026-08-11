@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ talk to me, \"Unto evening-morning, two thousand and three hundred; and di sanctuary go dey justified.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "two thousand"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "and ⟨it⟩ go dey justified"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "di sanctuary"
+    }
+  ],
+  "timestamp": "2026-08-11T13:42:47.926240701Z",
+  "model": "glm-5.2"
+}

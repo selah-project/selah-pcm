@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Paroh turn, and e enter im house, and e no put im mind even to dis one sef.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "and e turn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and e no"
+    },
+    {
+      "surface": "שת",
+      "gloss": "put"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im mind"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to dis one sef"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:59.330506710Z",
+  "model": "glm-5.2"
+}

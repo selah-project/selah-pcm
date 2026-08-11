@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 75,
+  "translation": "And all ⟨di⟩ horns of ⟨di⟩ wicked ones I go cut off; ⟨di⟩ horns of ⟨di⟩ righteous one go rise up.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "And all"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horns"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked ones"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "I go cut off"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "go rise up"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "horns"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "of righteous one"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:50.426564850Z",
+  "model": "glm-5.2"
+}

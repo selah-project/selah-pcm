@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ talk sey, \"Who tell you sey you naked? Abi na from di tree wey ah command you make you no chop from am, you chop?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Who"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naked"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Abi na from"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ah command you"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chop"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "you chop"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:05.770675224Z",
+  "model": "glm-5.2"
+}

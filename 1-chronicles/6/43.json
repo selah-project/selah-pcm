@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and ⟨את⟩ Chilez and ⟨את⟩ ⟨im⟩ open-land-dem, ⟨את⟩ Devir and ⟨את⟩ ⟨im⟩ open-land-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Chilez"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chilez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:27.533134495Z",
+  "model": "glm-5.2"
+}

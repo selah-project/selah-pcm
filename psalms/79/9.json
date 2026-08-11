@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Help us, Elohim of our salvation, on top of di matter of di glory of your name, and deliver us, and atone for our sins, for di sake of your name.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "help us"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "our salvation"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter of"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory of"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "and deliver us"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "and atone for"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "our sins"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:01.649952593Z",
+  "model": "glm-5.2"
+}

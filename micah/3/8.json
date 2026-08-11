@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "But as for me, I dey full of power, ⟨את⟩ Spirit of Yahweh, and justice and might, to declare to Ya'akob im transgression and to Yisra'el im sin.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "but as for me"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "dey full of"
+    },
+    {
+      "surface": "כח",
+      "gloss": "power"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Spirit of Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Spirit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "and justice"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "and might"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "to declare"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Ya'akob"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "im transgression"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "and to Yisra'el"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "im sin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:51.768384812Z",
+  "model": "glm-5.2"
+}

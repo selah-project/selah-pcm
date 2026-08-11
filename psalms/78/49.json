@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "Im bin send against dem burning of im nose — outburst of passion, and anger, and distress — a sending of messengers of evil.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Im bin send"
+    },
+    {
+      "surface": "בם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "burning"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "of im nose"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "outburst of passion"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "and anger"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "and distress"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "a sending"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "of messengers"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "of evil"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.677794698Z",
+  "model": "glm-5.2"
+}

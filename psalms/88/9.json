@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "You don move my acquaintances far from me, you don make me ⟨to be⟩ abomination to dem; I bin dey locked up, and I no fit come out.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "you don move far"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "my acquaintances"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "you don make me"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "למו",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "locked up"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no fit"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "come out"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:04.465511964Z",
+  "model": "glm-5.2"
+}

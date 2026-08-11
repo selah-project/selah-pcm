@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Train di boy according to di mouth of im road; even wen e don grow old, e no go turn from am.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "train"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "על",
+      "gloss": "according to"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di mouth"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "of im road"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "e don grow old"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "go turn"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:12.199810068Z",
+  "model": "glm-5.2"
+}

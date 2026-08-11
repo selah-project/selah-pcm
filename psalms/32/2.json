@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "How happy ⟨be⟩ di man wey Yahweh no calculate ⟨for⟩ am iniquity, and wey no deceit dey inside im spirit!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "how happy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "calculate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and wey no"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "inside im spirit"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "deceit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.444860531Z",
+  "model": "glm-5.2"
+}

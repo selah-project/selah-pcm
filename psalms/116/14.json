@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "My vows to Yahweh I go fulfill, ⟨now⟩ in front of all ⟨im⟩ people.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "my vows"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "I go fulfill"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨now⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨im⟩ people"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:40.930559584Z",
+  "model": "glm-5.2"
+}

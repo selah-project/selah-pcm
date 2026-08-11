@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Me, Yahweh, ⟨na⟩ im dey guard am; every moment I dey give am water; make e no visit am, night and day I dey guard am.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "Me"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נֹֽצְרָ֔הּ",
+      "gloss": "⟨na⟩ im dey guard am"
+    },
+    {
+      "surface": "לִרְגָעִ֖ים",
+      "gloss": "every moment"
+    },
+    {
+      "surface": "אַשְׁקֶ֑נָּה",
+      "gloss": "I dey give am water"
+    },
+    {
+      "surface": "פֶּ֚ן",
+      "gloss": "make e no"
+    },
+    {
+      "surface": "יִפְקֹ֣ד",
+      "gloss": "visit"
+    },
+    {
+      "surface": "עָלֶ֔יהָ",
+      "gloss": "am"
+    },
+    {
+      "surface": "לַ֥יְלָה",
+      "gloss": "night"
+    },
+    {
+      "surface": "וָי֖וֹם",
+      "gloss": "and day"
+    },
+    {
+      "surface": "אֶצֳּרֶֽנָּה",
+      "gloss": "I dey guard am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:01.781172801Z",
+  "model": "glm-5.2"
+}

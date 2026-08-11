@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Heart of wise man ⟨dey⟩ for im right hand, but heart of fool ⟨dey⟩ for im left hand.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "of wise man"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "for im right hand"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "but heart"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "of fool"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "for im left hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:27.286904622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "and too costly ⟨be⟩ di ransom for dia life-breath, and e go stop forever.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "and too costly"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "di ransom"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "for dia life-breath"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "and e go stop"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:07.061580427Z",
+  "model": "glm-5.2"
+}

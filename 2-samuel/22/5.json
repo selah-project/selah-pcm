@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Because di breakers of death surround me, di torrents of Belial dey terrify me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "dem surround me"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "di breakers of"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "di torrents of"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "dey terrify me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:13.283755170Z",
+  "model": "glm-5.2"
+}

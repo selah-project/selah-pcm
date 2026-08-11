@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And dem born to Chanokh ⟨את⟩ Irad; and Irad born ⟨את⟩ Mechiyael; and Mechiyael born ⟨את⟩ Metushael; and Metushael born ⟨את⟩ Lemekh.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "and dem born"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "to Chanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "and Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechiyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mechiyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "and Mechiyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "and Metushael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:07.999600401Z",
+  "model": "glm-5.2"
+}

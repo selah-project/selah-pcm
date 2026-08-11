@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "den di papa of di young woman and im mama go take, and bring out ⟨את⟩ di virginity-tokens of di young woman to di old men of di city, for di gate:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di young woman"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and im mama"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "and bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di virginity-tokens of di young woman"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "virginity-tokens"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "of di young woman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "di old men"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "for di gate"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:53.457647314Z",
+  "model": "glm-5.2"
+}

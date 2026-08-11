@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 17:14",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And I go make am stand for inside my house and for inside my kingship till ⟨di⟩ age, and im throne go dey established till age.",
+  "tokens": [
+    {
+      "surface": "והעמדתיהו",
+      "gloss": "and I go make am stand"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "for inside my house"
+    },
+    {
+      "surface": "ובמלכותי",
+      "gloss": "and for inside my kingship"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨di⟩ age"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "and im throne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "established"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "age"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:17.921493848Z",
+  "model": "glm-5.2"
+}

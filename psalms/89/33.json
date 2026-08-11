@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "And I go visit dia rebellion wit rod, and dia perversity wit plagues.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "and I go visit"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "wit rod"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "dia rebellion"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "and wit plagues"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dia perversity"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:23.483551958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Yahweh, save ⟨am⟩! Di king, make ⟨im⟩ answer us for di day wey we call!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "save ⟨am⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "make ⟨im⟩ answer us"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "wey we call"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:44.107407204Z",
+  "model": "glm-5.2"
+}

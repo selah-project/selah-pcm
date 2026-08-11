@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yahweh talk to am: Call im name Yiz're'el, because still small ⟨time⟩ and I go visit ⟨את⟩ di blood of Yiz're'el on top house of Yehu, and I go make kingdom of house of Yisra'el to cease.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "call"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yiz're'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "small"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "and I go visit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blood of Yiz're'el"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "of Yiz're'el"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "of Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "and I go make to cease"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:29.882046453Z",
+  "model": "glm-5.2"
+}

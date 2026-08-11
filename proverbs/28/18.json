@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Person wey dey walk complete go dey saved, but person wey dey crooked for im ways go fall for one ⟨time⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "person wey dey walk"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "complete"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "go dey saved"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "but person wey dey crooked"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "for im ways"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "for one ⟨time⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:32.950417274Z",
+  "model": "glm-5.2"
+}

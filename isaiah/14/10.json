@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "All of dem go answer and go talk to you: 'You self, you don become weak like us; to us you don become like.'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "go answer"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and go talk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "גם",
+      "gloss": "self"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "you don become weak"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "like us"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "you don become like"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:38.749035460Z",
+  "model": "glm-5.2"
+}

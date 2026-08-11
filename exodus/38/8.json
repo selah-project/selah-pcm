@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And ⟨im⟩ make ⟨את⟩ di basin of bronze, and ⟨את⟩ im stand of bronze, from di mirrors of di women wey dey serve, wey bin serve for di entrance of ⟨di⟩ Tent of Meeting.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨im⟩ make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di basin"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "di basin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "of bronze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "im stand"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "of bronze"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "from di mirrors"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "of di women wey dey serve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "bin serve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "for di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:27.453618906Z",
+  "model": "glm-5.2"
+}

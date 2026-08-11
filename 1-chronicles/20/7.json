@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And e bin taunt ⟨את⟩ Yisra'el, and Yehonatan son of Shimea, broda of Dawid, bin strike am.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "and bin taunt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and bin strike am"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:40.603506778Z",
+  "model": "glm-5.2"
+}

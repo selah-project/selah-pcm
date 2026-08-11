@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And di priest go take di basket from your hand, and e go rest am down before ⟨di⟩ altar of Yahweh your Elohim.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "and go take"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "di basket"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "from your hand"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "and go rest am down"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:29.630718849Z",
+  "model": "glm-5.2"
+}

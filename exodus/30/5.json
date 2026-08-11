@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And you go make ⟨את⟩ di poles wit wood of shittim, and you go cover ⟨את⟩ dem ⟨wit⟩ gold.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poles"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di poles"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "and you go cover"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:30.453179684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And ⟨He⟩ go give ⟨את⟩ Yisra'el up, because of di sins of Yarav'am, wey im sin, and wey im make Yisra'el sin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "because of"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "di sins of"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "im sin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "im make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:28.068081838Z",
+  "model": "glm-5.2"
+}

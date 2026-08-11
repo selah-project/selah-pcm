@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 9:22",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "But from di pikin-dem of Yisra'el Shelomoh no make ⟨dem⟩ slave; because na dem be di men of war, and im servant-dem and im officer-dem and im captain-dem and di commander-dem of im chariot and im horseman-dem.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "and from di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "make"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הם",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "be di men of"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "war"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "and im servant-dem"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "and im officer-dem"
+    },
+    {
+      "surface": "ושלשיו",
+      "gloss": "and im captain-dem"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "and di commander-dem of"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "im chariot"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "and im horseman-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:46.941023519Z",
+  "model": "glm-5.2"
+}

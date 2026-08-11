@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "So Mosheh bin choose men wey get power from all Yisra'el, and e bin put ⟨את⟩ dem as head on top di people — oga for thousand dem, oga for hundred dem, oga for fifty dem, and oga for ten dem.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "bin choose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wey get power"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "bin put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "as head"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "oga for"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "oga for"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "oga for"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fifty dem"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "and oga for"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ten dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:20.740983491Z",
+  "model": "glm-5.2"
+}

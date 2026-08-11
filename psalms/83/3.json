@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Because see, your enemies dem dey make noise, and di people wey hate you dem don lift head.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "your enemies dem"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "dey make noise"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "and di people wey hate you dem"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "don lift"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head",
+      "marks": "head"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.838546178Z",
+  "model": "glm-5.2"
+}

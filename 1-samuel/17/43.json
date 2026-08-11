@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Filistia man bin talk to David, \"Ha, I be dog, sey you dey come to me wit stiks?\" And di Filistia man bin curse ⟨את⟩ David by im gods.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "Ha, I be dog"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "wit stiks"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "and bin curse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "by im gods"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:47.208078613Z",
+  "model": "glm-5.2"
+}

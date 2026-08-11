@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "As dem still dey talk with am, di king im eunuchs bin reach, and dem bin rush make dem bring ⟨את⟩ Haman go di banquet wey Ester bin make.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "still"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "and di eunuchs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "bin reach"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "and bin rush"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "make dem bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "di banquet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "bin make"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:50.843893894Z",
+  "model": "glm-5.2"
+}

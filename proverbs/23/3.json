@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No crave for im sweet things, because ⟨na⟩ deceitful food ⟨e be⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "crave"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "for im sweet things"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "because e"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "deceitful"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:33.945680485Z",
+  "model": "glm-5.2"
+}

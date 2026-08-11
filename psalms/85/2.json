@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "You bin show favor to your land, Yahweh, you turn back di exile of Yaakob.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "you bin show favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "your land",
+      "marks": "your land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "you turn back"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "di exile"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.828312298Z",
+  "model": "glm-5.2"
+}

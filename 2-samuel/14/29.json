@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 14:29",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "So Abshalom bin send go meet Joab, make e go send am go meet di king, but e no gree come meet am. So e still send am second time, but e no gree come.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "so bin send"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "make e send"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gree"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "come"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "meet am"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "so still send"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "second time"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gree"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "come"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:17.238951156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "and di gecko, and di land-crocodile, and di lizard, and di sand-lizard, and di chameleon.",
+  "tokens": [
+    {
+      "surface": "וְהָאֲנָקָה",
+      "gloss": "and di gecko"
+    },
+    {
+      "surface": "וְהַכֹּחַ",
+      "gloss": "and di land-crocodile"
+    },
+    {
+      "surface": "וְהַלְּטָאָה",
+      "gloss": "and di lizard"
+    },
+    {
+      "surface": "וְהַחֹמֶט",
+      "gloss": "and di sand-lizard"
+    },
+    {
+      "surface": "וְהַתִּנְשָׁמֶת",
+      "gloss": "and di chameleon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:04.440559875Z",
+  "model": "glm-5.2"
+}

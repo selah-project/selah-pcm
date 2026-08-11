@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And di gate of di outer courtyard wey im face dey face north — im measure im length and im width.",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "and di gate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "north"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "of di courtyard"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "outer"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "im measure"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "and im width"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:51.413369754Z",
+  "model": "glm-5.2"
+}

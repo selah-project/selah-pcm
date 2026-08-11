@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And e come happen for di road, for di lodging-place, Yahweh meet am and e seek to kill am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e come happen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "for di lodging-place"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "and ⟨e⟩ meet am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "and ⟨e⟩ seek"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "to kill am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:17.014877136Z",
+  "model": "glm-5.2"
+}

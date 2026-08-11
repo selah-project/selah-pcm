@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "So Dawud, im and im men, bin wake up early make dem go for morning, make dem return go land of Pelishtim; and Pelishtim bin go up Yizreʾel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bin wake up early"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "and im men"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "make dem go"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "make dem return"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Pelishtim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "and Pelishtim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreʾel"
+    }
+  ],
+  "timestamp": "2026-08-11T16:06:09.939391786Z",
+  "model": "glm-5.2"
+}

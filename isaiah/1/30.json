@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because una go be like oak tree wey im leaf dey wither, and like garden wey water no dey inside.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Because"
+    },
+    {
+      "surface": "תִֽהְי֔וּ",
+      "gloss": "una go be"
+    },
+    {
+      "surface": "כְאֵלָ֖ה",
+      "gloss": "like oak tree"
+    },
+    {
+      "surface": "נֹבֶ֣לֶת",
+      "gloss": "dey wither"
+    },
+    {
+      "surface": "עָלֶ֑הָ",
+      "gloss": "im leaf"
+    },
+    {
+      "surface": "וּֽכְגַנָּ֔ה",
+      "gloss": "and like garden"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "water"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "לָֽהּ",
+      "gloss": "inside"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:04.438859361Z",
+  "model": "glm-5.2"
+}

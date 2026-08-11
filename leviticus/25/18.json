@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And make una do ⟨את⟩ my statutes, and ⟨את⟩ my judgments make una keep, and make una do ⟨את⟩ dem; and make una siddon on top di land for safety.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "and make una do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my statutes"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my statutes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my judgments"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my judgments"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "make una keep"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and make una do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "and make una siddon"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "for safety"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:05.681981556Z",
+  "model": "glm-5.2"
+}

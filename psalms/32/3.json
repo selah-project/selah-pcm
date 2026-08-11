@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Because wen I hold peace, my bones waste away; through my groaning, all ⟨di⟩ day.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "I hold peace"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "waste away"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my bones"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "through my groaning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.445028159Z",
+  "model": "glm-5.2"
+}

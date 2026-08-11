@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di people believe, and dem hear sey Yahweh don visit ⟨את⟩ di sons of Yisra'el, and sey ⟨im⟩ see ⟨את⟩ dia suffering; and dem bow down and worship.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "and believe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "and dem hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "and sey"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia suffering"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "suffering"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "and dem bow down"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "and worship"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:33.456008015Z",
+  "model": "glm-5.2"
+}

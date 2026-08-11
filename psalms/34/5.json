@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "I find Yahweh, and ⟨im⟩ answer me, and from all my terrors ⟨im⟩ save me.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "I find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "and ⟨im⟩ answer me"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "and from all"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "my terrors"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "⟨im⟩ save me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:38.208193504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Yahweh go do to dem as im bin do to Sichon and to Og, kings of di Emori, and to dia land, wey im destroy ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "and go do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "to Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "and to Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "and to dia land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "im destroy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:37.926767679Z",
+  "model": "glm-5.2"
+}

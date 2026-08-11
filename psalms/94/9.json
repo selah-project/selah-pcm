@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Di Wey plant ear, ⟨im⟩ no go hear? If ⟨na⟩ Di Wey form eye, ⟨im⟩ no go see?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Di Wey plant"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ear"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Di Wey form"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "see"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:06.899149151Z",
+  "model": "glm-5.2"
+}

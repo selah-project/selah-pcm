@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "⟨He⟩ make ⟨im⟩ ways known to Mosheh, ⟨im⟩ exploits to di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "make known"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "⟨im⟩ ways"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "to Mosheh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨im⟩ exploits"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:41.712610793Z",
+  "model": "glm-5.2"
+}

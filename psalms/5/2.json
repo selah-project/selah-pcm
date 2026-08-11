@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "My words, make ⟨you⟩ listen, Yahweh; understand my groaning.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "make ⟨you⟩ listen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "understand"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "my groaning"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:00.383230955Z",
+  "model": "glm-5.2"
+}

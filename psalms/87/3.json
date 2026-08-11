@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 87,
+  "translation": "Glorious tin-dem dey spoken about you, city of Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Glorious tin-dem"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dey spoken"
+    },
+    {
+      "surface": "בך",
+      "gloss": "about you"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:42.036215459Z",
+  "model": "glm-5.2"
+}

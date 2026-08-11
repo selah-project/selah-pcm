@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And Mosheh bin tell di judges of Yisra'el, \"Kill evri man im men, di ones wey join demself to Ba'al Pe'or.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "di judges"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kill"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "im men"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "di ones wey join demself"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "to Ba'al"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'or"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:59.225458439Z",
+  "model": "glm-5.2"
+}

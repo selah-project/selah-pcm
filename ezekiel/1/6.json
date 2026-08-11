@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And four face dem ⟨bin dey⟩ to one, and four wing dem ⟨bin dey⟩ to one of dem.",
+  "tokens": [
+    {
+      "surface": "וְאַרְבָּעָה",
+      "gloss": "and four"
+    },
+    {
+      "surface": "פָנִים",
+      "gloss": "face dem"
+    },
+    {
+      "surface": "לְאֶחָת",
+      "gloss": "to one"
+    },
+    {
+      "surface": "וְאַרְבַּע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "כְּנָפַיִם",
+      "gloss": "wing dem"
+    },
+    {
+      "surface": "לְאַחַת",
+      "gloss": "to one"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:19.192578434Z",
+  "model": "glm-5.2"
+}

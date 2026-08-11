@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And na dis ⟨be⟩ di kohanim and di Levites wey go up wit Zerubbabel, pikin of Shealtiel, and Yeshua: Srayah, Yirmayah, Ezra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "and na dis"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di kohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levites"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "go up"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Shealtiel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "and Yeshua"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Srayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmayah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    }
+  ],
+  "timestamp": "2026-08-11T13:52:23.114802502Z",
+  "model": "glm-5.2"
+}

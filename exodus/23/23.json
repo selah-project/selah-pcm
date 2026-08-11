@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because my messenger go go before you, and go bring you enter among di Emori, and di Chiti, and di Perizzi, and di Kena'ani, di Chivi, and di Yevusi, and I go wipe dem out.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "go go"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "my messenger"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "and go bring you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter among"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "and di Chiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "and di Perizzi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "and di Kena'ani"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "and di Yevusi"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "and I go wipe dem out"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:35.042259157Z",
+  "model": "glm-5.2"
+}

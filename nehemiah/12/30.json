@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and di priests and di Leviyim bin purify demsef, and dem purify ⟨את⟩ di people, and ⟨את⟩ di gates, and ⟨את⟩ di wall.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "and bin purify demsef"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Leviyim"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "and dem purify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di gates"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "di gates"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di wall"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "di wall"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:02.403850061Z",
+  "model": "glm-5.2"
+}

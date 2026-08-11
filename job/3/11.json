@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Why I no die from womb? From belly I come out, and I go expire.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "from womb"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "I die"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "from belly"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "I come out"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "and I expire"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:12.133237126Z",
+  "model": "glm-5.2"
+}

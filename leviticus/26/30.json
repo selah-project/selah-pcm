@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And I go destroy ⟨את⟩ una high places, and I go cut down ⟨את⟩ una sun-pillars, and I go put ⟨את⟩ una dead-bodies on top dead-bodies of una idols; and ⟨my⟩ nefesh go reject ⟨את⟩una.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "and I go destroy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una high places"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "una high places"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una sun-pillars"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "una sun-pillars"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una dead-bodies"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "una dead-bodies"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dead-bodies of"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "una idols"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "and ⟨nefesh⟩ go reject"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nefesh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:53.917375201Z",
+  "model": "glm-5.2"
+}

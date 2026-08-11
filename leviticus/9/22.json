@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Aharon lift up ⟨את⟩ im hand toward di people, and e bless dem, and e come down from making di sin-offering and di burnt-offering and di peace-offerings.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "And lift up"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "and e bless dem"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "and e come down"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "from making"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "di sin-offering"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "and di burnt-offering"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "and di peace-offerings"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:23.353176860Z",
+  "model": "glm-5.2"
+}

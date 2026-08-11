@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Know now sey not one word of Yahweh go fall to ground, di word wey Yahweh don tok upon ⟨di⟩ house of Achav — and Yahweh don do ⟨את⟩ wetin e tok by hand of im servant Eliyahu.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "know"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "now"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to ground"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "don do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin e tok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e tok"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "of im servant"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:47.590913873Z",
+  "model": "glm-5.2"
+}

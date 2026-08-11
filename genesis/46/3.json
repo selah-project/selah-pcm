@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And e talk, \"I be ha'El, Elohim of your papa. No fear to go down Mitsrayim; for ⟨as⟩ ⟨a⟩ great nation I go make you dere.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ha'El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "to go down"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "I go make you"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:50.766007256Z",
+  "model": "glm-5.2"
+}

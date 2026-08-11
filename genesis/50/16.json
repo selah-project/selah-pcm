@@ -1,0 +1,49 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "And dem send order to Yosef sey, Your papa give order before im death sey.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "And dem send order"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "give order"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "im death"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.764754838Z",
+  "model": "claude-opus-4-8"
+}

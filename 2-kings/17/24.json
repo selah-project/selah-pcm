@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di king of Ashur bring people from Bavel, and from Kutah, and from Avva, and from Chamat, and from Sefarvayim; and ⟨e⟩ make dem settle for di cities of Shomron under ⟨di⟩ sons of Yisra'el, and dem possess ⟨את⟩ Shomron and dem come settle for im cities.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and bring"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "from Bavel"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "and from Kutah"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "and from Avva"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "and from Chamat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "and from Sefarvayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and make settle"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "for di cities"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "of Shomron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "and dem possess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and dem come settle"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "for im cities"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:15.398233199Z",
+  "model": "glm-5.2"
+}

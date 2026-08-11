@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And im go make atonement for ⟨את⟩ di most holy sanctuary, and ⟨את⟩ di tent of meeting, and ⟨את⟩ di altar im go make atonement; and upon di priests and upon all di people of di assembly im go make atonement.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "and ⟨im go⟩ make atonement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di most holy sanctuary"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sanctuary"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di most holy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di tent of meeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "di altar"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "im go make atonement"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "of di assembly"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "im go make atonement"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:44.919140685Z",
+  "model": "glm-5.2"
+}

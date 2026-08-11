@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Look unto am, and una face go shine, and una face no go shame.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Look"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unto am"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "and ⟨go⟩ shine"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "and una face"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "⟨go⟩ shame"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:38.208407031Z",
+  "model": "glm-5.2"
+}

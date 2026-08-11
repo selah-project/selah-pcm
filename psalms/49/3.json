@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Both sons of ordinary man and sons of great man, rich man and poor man, together.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ordinary man"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "איש",
+      "gloss": "great man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich man"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and poor man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:10.410172841Z",
+  "model": "glm-5.2"
+}

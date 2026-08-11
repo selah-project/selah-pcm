@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Yahweh sit down on top di flood; and Yahweh sit down as king forever.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "on top di flood"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bin sit down"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and go sit down"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:11.462906142Z",
+  "model": "glm-5.2"
+}

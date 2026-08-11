@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 133,
+  "translation": "Like di dew of Chermon wey dey run down on top di mountains of Tsiyon, because for there Yahweh don command ⟨את⟩ di blessing — life, even till ⟨di⟩ age.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Like ⟨di⟩ dew"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "of Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "wey dey run down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "of Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di blessing"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "di blessing"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "life"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨di⟩ age"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:50.217052570Z",
+  "model": "glm-5.2"
+}

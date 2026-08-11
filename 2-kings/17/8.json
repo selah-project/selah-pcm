@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "and dem bin walk for di statutes of di nation-dem wey Yahweh bin drive out from before di pikin-dem of Yisra'el, and for di statutes of di king-dem of Yisra'el wey dem bin make.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "and dem bin walk"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "for di statutes"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "of di nation-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הורישׁ",
+      "gloss": "Yahweh bin drive out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "and of di king-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem bin make"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:25.830399201Z",
+  "model": "glm-5.2"
+}

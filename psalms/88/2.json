@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim of my deliverance, day I bin cry, for night ⟨na⟩ ⟨before⟩ you.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "my deliverance"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "I bin cry"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨before⟩ you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:43.353191102Z",
+  "model": "glm-5.2"
+}

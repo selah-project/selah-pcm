@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 16:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And you go cook am, and you go chop am for di place wey Yahweh una Elohim go choose; and you go turn for morning, and waka go una tents.",
+  "tokens": [
+    {
+      "surface": "וּבִשַּׁלְתָּ",
+      "gloss": "And you go cook"
+    },
+    {
+      "surface": "וְאָכַלְתָּ",
+      "gloss": "and you go chop"
+    },
+    {
+      "surface": "בַּמָּקוֹם",
+      "gloss": "for di place"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יִבְחַר",
+      "gloss": "go choose"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "am"
+    },
+    {
+      "surface": "וּפָנִיתָ",
+      "gloss": "and you go turn"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וְהָלַכְתָּ",
+      "gloss": "and waka go"
+    },
+    {
+      "surface": "לְאֹהָלֶיךָ",
+      "gloss": "una tents"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:41.558960897Z",
+  "model": "glm-5.2"
+}

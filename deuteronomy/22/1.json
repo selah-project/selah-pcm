@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make you no see ⟨את⟩ di cow of your broda or ⟨את⟩ im sheep wey don wander off, come hide yaself from dem; you must surely return dem to your broda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "make you see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cow"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "of your broda"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im sheep"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "im sheep"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "wey don wander off"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "come hide yaself"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "השב",
+      "gloss": "return"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "you must surely return dem"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "to your broda"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:42.928104749Z",
+  "model": "glm-5.2"
+}

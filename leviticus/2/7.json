@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And if grain offering of deep pan ⟨na⟩ your offering, fine flour wit oil e go dey made.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "grain offering of"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "deep pan"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "your offering"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wit oil"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e go dey made"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:26.598062922Z",
+  "model": "glm-5.2"
+}

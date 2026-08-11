@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "wey dem carry go from Yerushalayim, with di exile wey dem carry go with Yekhonyah, king of Yehudah, wey Nevukhadnetstsar, king of Bavel, carry go.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dem carry go"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "from Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "di exile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "dem carry go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekhonyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "carry go"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:29.182668101Z",
+  "model": "glm-5.2"
+}

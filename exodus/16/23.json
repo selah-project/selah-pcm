@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 16:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And im tell dem say, Na dis one wey Yahweh bin talk: tomorrow na rest, holy sabbath for Yahweh. Wetin ⟨את⟩ una wan bake, bake am; and ⟨את⟩ wetin una wan boil, boil am; and ⟨את⟩ all di leftover, make una keep am for una, to guard until morning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na dis one"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "rest"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbath"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin una wan bake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תאפו",
+      "gloss": "una bake"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bake am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin una wan boil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תבשלו",
+      "gloss": "una boil"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "boil am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di leftover"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "di leftover"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "make una keep"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "to guard"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morning"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:31.402088546Z",
+  "model": "glm-5.2"
+}

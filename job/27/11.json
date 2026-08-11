@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "I go teach ⟨את⟩ una wetin dey for di hand of El, wetin dey wit Shaddai, I no go hide am.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "I go teach"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for di hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "of El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dey wit"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "I go hide am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:43.058377188Z",
+  "model": "glm-5.2"
+}

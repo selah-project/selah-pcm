@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "\"See, fire bin come down from heaven, and e chop ⟨את⟩ di two captain of fifty wey go first and ⟨את⟩ dia fifty. So now, make my life fit be precious for your eyes.\"",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "bin come down"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and e chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two captain of fifty wey go first"
+    },
+    {
+      "surface": "שני",
+      "gloss": "di two"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "captain"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "of fifty"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "wey go first"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia fifty"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "dia fifty"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "make...fit be precious"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eyes"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:28.750203335Z",
+  "model": "glm-5.2"
+}

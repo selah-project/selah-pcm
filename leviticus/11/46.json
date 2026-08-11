@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Dis one na di torah of ⟨di⟩ animal and ⟨di⟩ bird, and of evri living creature wey dey move inside water, and of evri creature wey dey swarm on top di land.",
+  "tokens": [
+    {
+      "surface": "זֹ֣את",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "תּוֹרַ֤ת",
+      "gloss": "torah of"
+    },
+    {
+      "surface": "הַבְּהֵמָה֙",
+      "gloss": "⟨di⟩ animal"
+    },
+    {
+      "surface": "וְהָע֔וֹף",
+      "gloss": "and ⟨di⟩ bird"
+    },
+    {
+      "surface": "וְכֹל֙",
+      "gloss": "and of evri"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "creature"
+    },
+    {
+      "surface": "הַֽחַיָּ֔ה",
+      "gloss": "living"
+    },
+    {
+      "surface": "הָרֹמֶ֖שֶׂת",
+      "gloss": "wey dey move"
+    },
+    {
+      "surface": "בַּמָּ֑יִם",
+      "gloss": "inside water"
+    },
+    {
+      "surface": "וּלְכָל",
+      "gloss": "and of evri"
+    },
+    {
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "creature"
+    },
+    {
+      "surface": "הַשֹּׁרֶ֥צֶת",
+      "gloss": "wey dey swarm"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:10.873862021Z",
+  "model": "glm-5.2"
+}

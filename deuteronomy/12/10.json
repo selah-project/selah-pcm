@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And una go cross ⟨את⟩ di Yarden, and una go live for di land wey Yahweh una Elohim dey make una inherit, and ⟨im⟩ go give una rest from all una enemies wey dey around, and una go live for safety.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "and una go cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "and una go live"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "dey make inherit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "and go give rest"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "wey dey around"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "and una go live"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "for safety"
+    }
+  ],
+  "timestamp": "2026-08-11T10:10:18.997657780Z",
+  "model": "glm-5.2"
+}

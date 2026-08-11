@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Your own ⟨na⟩ day, also your own ⟨na⟩ night; you bin prepare di light-giver and sun.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Your own"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "אף",
+      "gloss": "also"
+    },
+    {
+      "surface": "לך",
+      "gloss": "your own"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "bin prepare"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "di light-giver"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "and sun"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:37.911976036Z",
+  "model": "glm-5.2"
+}

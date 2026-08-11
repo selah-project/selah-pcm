@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "My mouth go tell ⟨about⟩ your righteousness, all day, your salvation; because I no know ⟨di⟩ number of dem.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "My mouth"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "go tell"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "your righteousness"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "your salvation"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "number of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:00.336472222Z",
+  "model": "glm-5.2"
+}

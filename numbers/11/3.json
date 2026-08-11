@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And dem call di name of dat place Tabʿerah, because fire from Yahweh bin burn among dem.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and dem call"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "of di place"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabʿerah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "e bin burn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:31.018996388Z",
+  "model": "glm-5.2"
+}

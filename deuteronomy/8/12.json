@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Make you no chop and full, and build fine houses and stay ⟨inside⟩,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "chop"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "and full"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "and houses"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "fine"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "and stay"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:08.170469482Z",
+  "model": "glm-5.2"
+}

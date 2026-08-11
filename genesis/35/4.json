@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "So dem give to Ya'akov ⟨את⟩ all di strange gods wey dey for dia hand, and ⟨את⟩ di ear-rings wey dey for dia ears; and Ya'akov bury dem under ⟨di⟩ oak wey dey near Shekem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "So dem give"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di strange gods"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gods"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "strange"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "dey for dia hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ear-rings"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "ear-rings"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dey for dia ears"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "and bury"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨di⟩ oak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dey near"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:52.040531080Z",
+  "model": "glm-5.2"
+}

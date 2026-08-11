@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Look! Na for Yahweh una Elohim ⟨belong⟩ di heaven and di heaven of heavens, di earth and evri tin wey dey inside am.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Look!"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Na for Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "and di heaven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of heavens"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evri tin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dey inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:26.702810623Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And e come to pass for di end of forty day, wey Noach open ⟨את⟩ di window of di ark wey e bin make,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And e come to pass"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "for di end"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wey e open"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di window of di ark"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "di window"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "of di ark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bin make"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:22.552383264Z",
+  "model": "glm-5.2"
+}

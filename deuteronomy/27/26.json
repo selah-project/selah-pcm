@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Cursed ⟨be⟩ person wey no go establish ⟨את⟩ di words of dis Torah to do ⟨את⟩ dem, and all di people go talk Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "go establish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di words of dis Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "words"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "of di Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and go talk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:12.564100467Z",
+  "model": "glm-5.2"
+}

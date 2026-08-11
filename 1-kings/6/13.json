@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and I go siddon for inside ⟨di⟩ pikin-dem of Yisra'el, and I no go abandon ⟨את⟩ my people Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "and I go siddon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no go"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:20.416804398Z",
+  "model": "glm-5.2"
+}

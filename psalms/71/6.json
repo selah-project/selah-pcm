@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "On top you I lean from belly, from inside my mama womb, you ⟨be⟩ di one wey bring me out; for you my praise dey always.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "On top you"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "I lean"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "from belly"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my mama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "di one wey bring me out"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "my praise"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "dey always"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:46.314019092Z",
+  "model": "glm-5.2"
+}

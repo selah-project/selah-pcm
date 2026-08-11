@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Then Yehoshua command ⟨את⟩ di officers of di people, sey:",
+  "tokens": [
+    {
+      "surface": "וַיְצַ֣ו",
+      "gloss": "and e command"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֔עַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di officers of di people"
+    },
+    {
+      "surface": "שֹׁטְרֵ֥י",
+      "gloss": "officers"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:09.230395246Z",
+  "model": "glm-5.2"
+}

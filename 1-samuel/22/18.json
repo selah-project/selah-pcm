@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 22:18",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Di king bin tell Doeg, say: You surround and strike di priests. So Doeg di Edomite bin surround, and im sef bin strike di priests, and im kill for dat day eighty-five man, wey dey carry linen ephod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לדויג",
+      "gloss": "to Doeg"
+    },
+    {
+      "surface": "סב",
+      "gloss": "surround"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "bin surround"
+    },
+    {
+      "surface": "דויג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "di Edomite"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im sef"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and kill"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "eighty"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "and five"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wey dey carry"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:32.964828005Z",
+  "model": "glm-5.2"
+}

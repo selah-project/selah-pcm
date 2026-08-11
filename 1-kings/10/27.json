@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And di king bin make ⟨את⟩ di silver for Yerushalayim like stones, and ⟨את⟩ di cedars e give like di sycamore trees wey dey for di lowland, for plenty.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and bin make"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di silver"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "like stones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di cedars"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "di cedars"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "like di sycamore trees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "dey for di lowland"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "for plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:59.534606287Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Lion wey dey roar and bear wey dey rampage — na wicked ruler ⟨be⟩ ⟨am⟩, ruling over poor people.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "Lion"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "dey roar"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "and bear"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "dey rampage"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ruling"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "דל",
+      "gloss": "poor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:18.831086604Z",
+  "model": "glm-5.2"
+}

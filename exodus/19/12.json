@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And you go put boundary for ⟨את⟩ di people round about, say: \"Make una careful for una sef, no go up di mountain or touch im edge; anybody wey touch di mountain go surely die.\"",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "you go put boundary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "make una careful"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una sef"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "no go up"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "or touch"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "im edge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anybody"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wey touch"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "מות",
+      "gloss": "go surely"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:23.215105159Z",
+  "model": "glm-5.2"
+}

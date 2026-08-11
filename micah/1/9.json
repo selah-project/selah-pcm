@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because im wound dey incurable, because e don reach Yehudah, e don touch unto di gate of my pipu, unto Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אֲנוּשָׁה",
+      "gloss": "dey incurable"
+    },
+    {
+      "surface": "מַכּוֹתֶיהָ",
+      "gloss": "im wound"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בָאָה",
+      "gloss": "e don reach"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נָגַע",
+      "gloss": "e don touch"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "di gate"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "of my pipu"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "unto"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ͏ם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:16.211312422Z",
+  "model": "glm-5.2"
+}

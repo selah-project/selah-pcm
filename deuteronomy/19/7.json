@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Because of dis, me I dey command you, sey: three cities you go set apart for yourself.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me I"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dey command you"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "you go set apart"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:53.136098760Z",
+  "model": "glm-5.2"
+}

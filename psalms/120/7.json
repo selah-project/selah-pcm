@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 120,
+  "translation": "I ⟨be⟩ peace; but wen I talk, dem ⟨dey⟩ for war.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "but wen"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for war"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:23.895545709Z",
+  "model": "glm-5.2"
+}

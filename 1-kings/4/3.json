@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Elichoref and Achiyah, di sons of Shisha, ⟨bin be⟩ scribes; Yehoshafat pikin of Achilud, di recorder.",
+  "tokens": [
+    {
+      "surface": "אֱלִיחֹ֧רֶף",
+      "gloss": "Elichoref"
+    },
+    {
+      "surface": "וַאֲחִיָּ֛ה",
+      "gloss": "and Achiyah"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "שִׁישָׁ֖א",
+      "gloss": "Shisha"
+    },
+    {
+      "surface": "סֹפְרִ֑ים",
+      "gloss": "scribes"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֥ט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "אֲחִיל֖וּד",
+      "gloss": "Achilud"
+    },
+    {
+      "surface": "הַמַּזְכִּֽיר",
+      "gloss": "di recorder"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:58.010469990Z",
+  "model": "glm-5.2"
+}

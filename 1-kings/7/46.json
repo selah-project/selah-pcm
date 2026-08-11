@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "For di plain of Yarden di king cast dem for di thick clay ground, between Sukkot and between Tsarethan.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "for di plain of"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "cast dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "for di thick"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ground"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "Tsarethan"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:05.470451919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Then Elohim talk say: \"Make lights appear for di expanse of ⟨di⟩ heaven, to separate between ⟨di⟩ day and between ⟨di⟩ night; and make dem dey for signs and for appointed times and for days and years:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Make ⟨…⟩ appear"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "lights"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "for di expanse"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of ⟨di⟩ heaven"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "to separate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨di⟩ day"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨di⟩ night"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and make dem dey"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "for signs"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "and for appointed times"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "and for days"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "and years"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:36.027806255Z",
+  "model": "glm-5.2"
+}

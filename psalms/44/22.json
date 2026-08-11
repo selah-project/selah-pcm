@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "No go Elohim search dis one deep-well? For ⟨na⟩ im sabi di secret tings of heart.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "search"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ im"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "di secret tings"
+    },
+    {
+      "surface": "לב",
+      "gloss": "of heart"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.825119878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And di masters of Yosef take ⟨את⟩ am, and dem put am go inside di prison yard — di place wey prisoners of di king dey bound; and he dey there for di prison yard.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and di masters take"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "di masters"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "of Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "and dem put am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go inside"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di prison"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yard"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "prisoners"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "dey bound"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and he dey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for di prison"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yard"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:14.393393113Z",
+  "model": "glm-5.2"
+}

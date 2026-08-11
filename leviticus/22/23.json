@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And ox or sheep wey get extra part or wey lack part — as freewill-offering una fit do ⟨am⟩; but for vow e no go dey accepted.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "And ox"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "or sheep"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "wey get extra part"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "or wey lack part"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "freewill-offering"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "una fit do"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am (di ox or sheep)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "but for vow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "e go dey accepted"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:28.176679644Z",
+  "model": "glm-5.2"
+}

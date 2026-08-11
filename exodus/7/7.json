@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Moshe ⟨bin⟩ be son of eighty years, and Aharon ⟨bin⟩ be son of three and eighty years, wen dem dey speak to Paroh.",
+  "tokens": [
+    {
+      "surface": "וּמֹשֶׁה֙",
+      "gloss": "and Moshe"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שְׁמֹנִ֣ים",
+      "gloss": "eighty"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "years"
+    },
+    {
+      "surface": "וְאַֽהֲרֹ֔ן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "three"
+    },
+    {
+      "surface": "וּשְׁמֹנִ֖ים",
+      "gloss": "and eighty"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "years"
+    },
+    {
+      "surface": "בְּדַבְּרָ֖ם",
+      "gloss": "wen dem dey speak"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פַּרְעֹֽה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:59.044101621Z",
+  "model": "glm-5.2"
+}

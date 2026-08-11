@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 76,
+  "translation": "Elohim ⟨bin⟩ dey known for Yehudah; im name ⟨be⟩ great for Yisrael.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dey known"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "for Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:16.740346046Z",
+  "model": "glm-5.2"
+}

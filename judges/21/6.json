@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 21:6",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di pikin-dem of Yisrael feel regret for Binyamin, dia broda, and dem tok sey: ⟨dem⟩ don cut off one tribe from Yisrael today.",
+  "tokens": [
+    {
+      "surface": "וינחמו",
+      "gloss": "and dem feel regret"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dia broda"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem tok"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "⟨dem⟩ don cut off"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "from Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:44.240456973Z",
+  "model": "glm-5.2"
+}

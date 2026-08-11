@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Me self, for una trouble I go laugh; I go mock wen di fear wey una fear come.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "self"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "for una trouble"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "I go laugh"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "I go mock"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "wen im come"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "una fear"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:49.210704648Z",
+  "model": "glm-5.2"
+}

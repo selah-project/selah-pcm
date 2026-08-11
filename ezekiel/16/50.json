@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem come carry high, and dem do abominable thing before My face; so I carry ⟨את⟩ dem comot as I see am.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "and dem come carry high"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abominable thing"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before My face"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "so I carry comot"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:56.159594725Z",
+  "model": "glm-5.2"
+}

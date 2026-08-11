@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And we take, at dat time, ⟨את⟩ di land from di hand of di two kings of di Emori, wey dey across di Yarden, from Nachal Arnon reach Mount Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "and we take"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "at"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "across"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "from Nachal"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Mount"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:46.686230407Z",
+  "model": "glm-5.2"
+}

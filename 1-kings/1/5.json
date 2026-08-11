@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Now Adonijah, pikin of Chaggith, bin dey carry imself up, dey talk say, \"Na me go be king.\" And e bin make for imsef chariot and horsemen, and fifty man wey dey run before am.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Now Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "of Chaggith"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "bin dey carry imself up"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey talk say"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "go be king"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "And e bin make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imsef"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "and horsemen"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "and fifty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "wey dey run"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:54.444085771Z",
+  "model": "glm-5.2"
+}

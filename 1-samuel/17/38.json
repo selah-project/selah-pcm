@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Shaʾul put ⟨את⟩ David inside im own cloths, and ⟨dem⟩ put bronze helmet on top im head, and ⟨dem⟩ put am inside breastplate.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "and put on"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʾul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and put"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "helmet"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronze"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "and put on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "breastplate"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "breastplate"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:54.518094420Z",
+  "model": "glm-5.2"
+}

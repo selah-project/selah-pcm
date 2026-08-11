@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "You dey sit, you dey talk against your brother; against di son of your mama you dey give slander.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "you dey sit"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "against your brother"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "you dey talk"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "against ⟨di⟩ son"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "of your mama"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "you dey give"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "slander"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:49.696048513Z",
+  "model": "glm-5.2"
+}

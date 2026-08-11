@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "Make my tongue stick to my palate, if I no remember you, if I no lift up ⟨את⟩ Yerushalayim on top of my highest joy.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Make ⟨it⟩ stick"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tongue"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "to my palate"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "I remember you"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "I lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "my joy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:20.956030376Z",
+  "model": "glm-5.2"
+}

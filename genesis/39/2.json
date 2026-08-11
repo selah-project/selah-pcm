@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And Yahweh bin dey ⟨את⟩ with Yosef, and ⟨he⟩ bin come ⟨be⟩ a prosperous man, and ⟨he⟩ bin dey for di house of im master, di Egyptian.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And bin dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ with"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "prosperous"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for di house of"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "di Egyptian"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:14.011163897Z",
+  "model": "glm-5.2"
+}

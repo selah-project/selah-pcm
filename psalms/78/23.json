@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨im⟩ command di clouds from above, and ⟨im⟩ open di doors of heaven.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "and ⟨im⟩ command"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "di clouds"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "from above"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "and ⟨im⟩ open di doors"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨open⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:36.714765181Z",
+  "model": "glm-5.2"
+}

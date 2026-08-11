@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 11:23",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di messenger talk to David, 'Di men bin prevail against us, and dem come out to us for di field, and we bin dey on top dem reach di entrance of di gate.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "di messenger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨say⟩"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "bin prevail"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "against us"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and dem come out"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "ונהיה",
+      "gloss": "and we bin"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance of"
+    },
+    {
+      "surface": "השער",
+      "gloss": "di gate"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:23.447806708Z",
+  "model": "glm-5.2"
+}

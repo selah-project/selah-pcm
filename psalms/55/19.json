@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "E don ransom ⟨את⟩ my life for peace, from di one wey near me; for among plenty dem bin dey wit me.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "E don ransom"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "for peace"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "from di one wey near"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "among plenty"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem bin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "dey wit me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:41.074098773Z",
+  "model": "glm-5.2"
+}

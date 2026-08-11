@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And against Aharon, Yahweh bin vex well-well, to destroy am. So I pray also for Aharon for dat time.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "And against Aharon"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "bin vex"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "to destroy am"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "So I pray"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "for"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat time"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:36.558218014Z",
+  "model": "glm-5.2"
+}

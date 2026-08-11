@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And for morning, una go see ⟨את⟩ di glory of Yahweh, as im dey hear ⟨את⟩ una complain-dem against Yahweh; and who we be, sey una dey complain against us?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "and for morning"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "and una go see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di glory of Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "as im dey hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una complain-dem"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "una complain-dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "and who we"
+    },
+    {
+      "surface": "מה",
+      "gloss": "be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "una dey complain"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "against us"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:50.727600273Z",
+  "model": "glm-5.2"
+}

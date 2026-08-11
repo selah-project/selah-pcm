@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "But Yahweh bin dey ⟨be⟩ wit ⟨את⟩ Yosef, and ⟨im⟩ extend chesed to am, and ⟨im⟩ put favor for di eye of di oga of house of di prison.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "extend"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "שר",
+      "gloss": "oga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "di prison"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:38.715785957Z",
+  "model": "glm-5.2"
+}

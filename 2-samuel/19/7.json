@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 19:7",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "to love ⟨את⟩ di ones wey hate you, and to hate ⟨את⟩ di ones wey love you! For you don show today sey you no get ⟨is⟩ regard for princes and for servants. For I know today sey if Avshalom bin dey alive and all of us bin die today, e for dey straight for your eyes!",
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "to love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ones wey hate you"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "di ones wey hate you"
+    },
+    {
+      "surface": "ולשנא",
+      "gloss": "and to hate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ones wey love you"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "di ones wey love you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "you don show"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אין",
+      "gloss": "you no get"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨for you⟩"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "princes"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "and servants"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "if"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bin dey alive"
+    },
+    {
+      "surface": "וכלנו",
+      "gloss": "and all of us"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨then⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "e for"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "dey straight"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eyes"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:13.385906471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di Filistim dem take ⟨את⟩ di ark of Elohim, and dem bring am enter ⟨את⟩ house of Dagon, and dem put am beside Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Filistim dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "and dem bring am"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "enter"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "of Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "and dem put am"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "beside"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "beside"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:10.362127714Z",
+  "model": "glm-5.2"
+}

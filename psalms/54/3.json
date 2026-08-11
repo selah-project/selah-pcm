@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Elohim, by ya name save me, and by ya power ⟨you⟩ judge me.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "by ya name"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "save me"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "and by ya power"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "⟨you⟩ judge me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:32.594439852Z",
+  "model": "glm-5.2"
+}

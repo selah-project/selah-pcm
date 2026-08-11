@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "and ⟨im⟩ give ⟨את⟩ dia land for inheritance, for ⟨im⟩ chesed go dey forever.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "and ⟨im⟩ give"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dia land"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "for inheritance"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨im⟩ chesed go dey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:59.562649027Z",
+  "model": "glm-5.2"
+}

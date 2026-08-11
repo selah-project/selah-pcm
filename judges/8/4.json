@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Gideon come to di Yarden, dey cross over — na im and three hundred men wey ⟨dey⟩ wit ⟨את⟩ am — tired, but still dey pursue.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and im come"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "to di Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dey cross over"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "tired"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "but still dey pursue"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:24.794939349Z",
+  "model": "glm-5.2"
+}

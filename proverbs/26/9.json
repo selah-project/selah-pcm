@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Like sharp thorn wey dey inside hand of drunkard, na so proverb dey inside mouth of fools.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "sharp thorn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand of"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "drunkard"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na so proverb dey"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "inside mouth of"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "fools"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:10.997530271Z",
+  "model": "glm-5.2"
+}

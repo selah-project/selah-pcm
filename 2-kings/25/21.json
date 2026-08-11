@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And king of Babel strike ⟨את⟩ dem, and e kill dem for Riblah, for di land of Hamat; and dem carry Yehudah go, comot for im land.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "and e kill dem"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "for Riblah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "and dem carry go"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "comot for"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:43.324996083Z",
+  "model": "glm-5.2"
+}

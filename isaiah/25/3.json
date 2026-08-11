@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Because of dat, strong people go honor you; city of ruthless nations go fear you.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "dem go honor you"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strong"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "city of"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ruthless"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "dem go fear you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:47.256269167Z",
+  "model": "glm-5.2"
+}

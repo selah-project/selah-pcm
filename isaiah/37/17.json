@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 37:17",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Yahweh, bend ⟨your⟩ ear, and hear; Yahweh, open ⟨your⟩ eye, and see; and hear ⟨את⟩ all di words of Sancherib, wey ⟨he⟩ send to insult ⟨di⟩ living Elohim.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "bend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "your ear"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "open"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "your eye"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di words of Sancherib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "of Sancherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "to insult"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "living"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:43.707841015Z",
+  "model": "glm-5.2"
+}

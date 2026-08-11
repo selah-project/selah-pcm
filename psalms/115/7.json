@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Hand dem get, but dem no dey move; leg dem get, but dem no dey walk; throat no fit make sound.",
+  "tokens": [
+    {
+      "surface": "יְדֵיהֶ֤ם",
+      "gloss": "hand"
+    },
+    {
+      "surface": "וְלֹ֬א",
+      "gloss": "but no"
+    },
+    {
+      "surface": "יְמִישׁ֗וּן",
+      "gloss": "dem dey move"
+    },
+    {
+      "surface": "רַ֭גְלֵיהֶם",
+      "gloss": "leg"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "but no"
+    },
+    {
+      "surface": "יְהַלֵּ֑כוּ",
+      "gloss": "dem dey walk"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יֶ֝הְגּ֗וּ",
+      "gloss": "fit make sound"
+    },
+    {
+      "surface": "בִּגְרוֹנָֽם",
+      "gloss": "for dia throat"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:01.786642703Z",
+  "model": "glm-5.2"
+}

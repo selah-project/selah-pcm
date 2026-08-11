@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Dem answer and dem talk to Nevukhadnetstsar, di king: \"O king, make you live forever!\"",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "dem answer"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "to Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "O king"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "make you live"
+    }
+  ],
+  "timestamp": "2026-08-11T13:40:50.762904658Z",
+  "model": "glm-5.2"
+}

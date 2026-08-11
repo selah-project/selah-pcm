@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Woe to dem wey dey go deep from Yahweh to hide ⟨dia⟩ plan, and ⟨dem⟩ work dey for darkness! And dem dey talk, \"Who dey see us? And who dey know us?\"",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woe"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "to dem wey dey go deep"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "to hide"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "plan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨e⟩ dey"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "⟨dem⟩ work"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem dey talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "dey see us"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "dey know us"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:19.705805531Z",
+  "model": "glm-5.2"
+}

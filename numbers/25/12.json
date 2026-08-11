@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "So, talk am: 'See, I dey give am ⟨את⟩ my covenant of peace.'",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "I dey give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my covenant"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my covenant"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "of peace"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:42.098070657Z",
+  "model": "glm-5.2"
+}

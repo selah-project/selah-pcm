@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "See, I don give am as witness to di nation-dem, as prince and commander to di nation-dem.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "See"
+    },
+    {
+      "surface": "עד",
+      "gloss": "witness"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "to di nation-dem"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "I don give am"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "prince"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "and commander"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "to di nation-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:04.838918405Z",
+  "model": "glm-5.2"
+}

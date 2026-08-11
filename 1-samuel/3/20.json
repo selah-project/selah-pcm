@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And all Yisraël know, from Dan reach Be'er-Sheva, sey dem don establish Shemuël as prophet for Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "and know"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "from Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "dem don establish"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "as prophet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:25.494598461Z",
+  "model": "glm-5.2"
+}

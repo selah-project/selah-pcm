@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Your head on top of you ⟨be⟩ like Karmel, and di lock of your head like purple; di king don tie for tresses.",
+  "tokens": [
+    {
+      "surface": "רֹאשֵׁ֤ךְ",
+      "gloss": "your head"
+    },
+    {
+      "surface": "עָלַ֨יִךְ֙",
+      "gloss": "on top of you"
+    },
+    {
+      "surface": "כַּכַּרְמֶ֔ל",
+      "gloss": "like Karmel"
+    },
+    {
+      "surface": "וְדַלַּ֥ת",
+      "gloss": "and di lock"
+    },
+    {
+      "surface": "רֹאשֵׁ֖ךְ",
+      "gloss": "of your head"
+    },
+    {
+      "surface": "כָּאַרְגָּמָ֑ן",
+      "gloss": "like purple"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אָס֥וּר",
+      "gloss": "don tie"
+    },
+    {
+      "surface": "בָּרְהָטִֽים",
+      "gloss": "for tresses"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:36.177705237Z",
+  "model": "glm-5.2"
+}

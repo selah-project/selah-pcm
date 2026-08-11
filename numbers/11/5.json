@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "We bin dey remember ⟨את⟩ di fish wey we bin dey chop for Mitsrayim notin-notin; ⟨את⟩ di cucumber, and ⟨את⟩ di watermelon, and ⟨את⟩ di leek, and ⟨את⟩ di onion, and ⟨את⟩ di garlic.",
+  "tokens": [
+    {
+      "surface": "זָכַ֨רְנוּ֙",
+      "gloss": "we bin dey remember"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di fish"
+    },
+    {
+      "surface": "הַדָּגָ֔ה",
+      "gloss": "di fish"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נֹאכַ֥ל",
+      "gloss": "we bin dey chop"
+    },
+    {
+      "surface": "בְּמִצְרַ֖יִם",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "חִנָּ֑ם",
+      "gloss": "notin-notin"
+    },
+    {
+      "surface": "אֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "di cucumber"
+    },
+    {
+      "surface": "הַקִּשֻּׁאִ֗ים",
+      "gloss": "di cucumber"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "and ⟨את⟩",
+      "marks": "di watermelon"
+    },
+    {
+      "surface": "הָֽאֲבַטִּחִ֔ים",
+      "gloss": "di watermelon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di leek"
+    },
+    {
+      "surface": "הֶחָצִ֥יר",
+      "gloss": "di leek"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di onion"
+    },
+    {
+      "surface": "הַבְּצָלִ֖ים",
+      "gloss": "di onion"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di garlic"
+    },
+    {
+      "surface": "הַשּׁוּמִֽים",
+      "gloss": "di garlic"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:36.572616167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And e bring ⟨את⟩ di priest dem and ⟨את⟩ di Levite dem, and e gather dem for di east wide-place.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di priest dem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priest dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Levite dem"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levite dem"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "and e gather dem"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "for di wide-place"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "di east"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:58.160217214Z",
+  "model": "glm-5.2"
+}

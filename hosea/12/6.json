@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yahweh, Elohim of host dem — Yahweh, ⟨na⟩ im memorial name.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "di host dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "im memorial"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:14.817912485Z",
+  "model": "glm-5.2"
+}

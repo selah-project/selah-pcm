@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And di eyes of dem wey dey see no go dey stray, and di ears of dem wey dey hear go listen well.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "And no"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "go dey stray"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "di eyes"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "of dem wey dey see"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "and di ears"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "of dem wey dey hear"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "go listen well"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:32.401978561Z",
+  "model": "glm-5.2"
+}

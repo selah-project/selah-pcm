@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Make ⟨dem⟩ do vengeance inside di nation-dem, correction ontop di people-dem wey no get limit.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "make ⟨dem⟩ do"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "vengeance"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "inside di nation-dem"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "correction"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨wey no get⟩ limit"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "di people-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:51.111564706Z",
+  "model": "glm-5.2"
+}

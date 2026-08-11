@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "⟨Im⟩ carry me go back di road of ⟨di⟩ gate of di sanctuary, di outside one wey ⟨dey⟩ face east, and e bin dey lock.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "⟨im⟩ carry me go back"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "di road"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gate"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "of di sanctuary"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "di outside one"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "wey ⟨dey⟩ face"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "east"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "bin dey lock"
+    }
+  ],
+  "timestamp": "2026-08-11T12:19:47.175911703Z",
+  "model": "glm-5.2"
+}

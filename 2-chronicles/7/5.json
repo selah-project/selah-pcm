@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And King Shelomoh bin sacrifice ⟨את⟩ di sacrifice of cow, twenty and two thousand, and sheep, hundred and twenty thousand; and dem dedicate ⟨את⟩ house of Elohim — di king and all di people.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "and bin sacrifice"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sacrifice of cow"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "of cow"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "and two"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "and sheep"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "and dem dedicate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:22.090522601Z",
+  "model": "glm-5.2"
+}

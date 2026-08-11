@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Command ⟨את⟩ di sons of Yisra'el, and tell dem sey, when una dey enter inside di land of Kena'an — dis ⟨na⟩ di land wey go fall to una as inheritance, di land of Kena'an according to im borders:",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dey enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kena'an"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨na⟩ di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "as inheritance"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kena'an"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "according to im borders"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:04.652369919Z",
+  "model": "glm-5.2"
+}

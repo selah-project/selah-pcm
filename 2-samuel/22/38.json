@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 22:38",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "I pursue ⟨את⟩ my enemies, and I destroy dem; and I no turn back till I finish dem.",
+  "tokens": [
+    {
+      "surface": "אֶרְדְּפָ֥ה",
+      "gloss": "I pursue"
+    },
+    {
+      "surface": "אֹיְבַ֖י",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "וָאַשְׁמִידֵ֑ם",
+      "gloss": "and I destroy dem"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אָשׁ֖וּב",
+      "gloss": "I turn back"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "till"
+    },
+    {
+      "surface": "כַּלּוֹתָֽם",
+      "gloss": "I finish dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:35.411229498Z",
+  "model": "glm-5.2"
+}

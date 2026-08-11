@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And all Israel go hear, and dem go fear, and dem no go add do like dis evil thing among una.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "go hear"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "and dem go fear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "dem go add"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "do"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "like dis thing"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "among una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:32.736439280Z",
+  "model": "glm-5.2"
+}

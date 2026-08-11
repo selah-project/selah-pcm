@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "For di fifth year wey Rehav'am bin dey king, Shishaq wey be king of Mitsrayim come up against Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "for ⟨e happen⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "di fifth"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wey ⟨be⟩ king"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "come up"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Shishaq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:37:26.623490802Z",
+  "model": "glm-5.2"
+}

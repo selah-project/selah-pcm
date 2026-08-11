@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Do with your servant according to your chesed, and your statutes, teach me.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Do"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "according to your chesed"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "and your statutes"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "teach me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:25.337012552Z",
+  "model": "glm-5.2"
+}

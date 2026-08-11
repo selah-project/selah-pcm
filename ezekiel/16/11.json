@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And I bin dress you up wit fine fine tin, and I bin put bracelet dem for your hand dem, and chain for your neck.",
+  "tokens": [
+    {
+      "surface": "וָאֶעְדֵּךְ",
+      "gloss": "and I bin dress you up"
+    },
+    {
+      "surface": "עֶדִי",
+      "gloss": "fine fine tin"
+    },
+    {
+      "surface": "וָאֶתְּנָה",
+      "gloss": "and I bin put"
+    },
+    {
+      "surface": "צְמִידִים",
+      "gloss": "bracelet dem"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יָדַיִךְ",
+      "gloss": "your hand dem"
+    },
+    {
+      "surface": "וְרָבִיד",
+      "gloss": "and chain"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "for"
+    },
+    {
+      "surface": "גְּרוֹנֵךְ",
+      "gloss": "your neck"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:28.094421535Z",
+  "model": "glm-5.2"
+}

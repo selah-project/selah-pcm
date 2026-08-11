@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And four big-big animal dem comot from di sea, dis one different from dis one.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "animal"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "big-big"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "dem comot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "different"
+    },
+    {
+      "surface": "דא",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "דא",
+      "gloss": "dis one"
+    }
+  ],
+  "timestamp": "2026-08-11T13:43:39.112469070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "Our life don escape like bird from trap of fowler dem; di trap don break and we don escape!",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Our life"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "like bird"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "don escape"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "from trap"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "of fowler dem"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "di trap"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "don break"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "and we"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "don escape"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:36.109770380Z",
+  "model": "glm-5.2"
+}

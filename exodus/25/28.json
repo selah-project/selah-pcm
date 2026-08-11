@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go make ⟨את⟩ di pole dem from wood of acacia, and you go cover ⟨את⟩ dem with gold, and dem go carry with dem ⟨את⟩ di table.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pole dem"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di pole dem"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "and you go cover"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "with gold"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "and dem go carry"
+    },
+    {
+      "surface": "בם",
+      "gloss": "with dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:19.442909679Z",
+  "model": "glm-5.2"
+}

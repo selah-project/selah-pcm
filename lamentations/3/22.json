@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨Na⟩ chesed of Yahweh wey we neva finish, because im rachamim neva run dry.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "we finish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "run dry"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "im rachamim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:26.504545660Z",
+  "model": "glm-5.2"
+}

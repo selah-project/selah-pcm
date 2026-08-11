@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "Light don shine for darkness for di upright — gracious, and full of compassion, and righteous.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "don shine"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Light"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "for di upright"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "gracious"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "and full of compassion"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "and righteous"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.905094123Z",
+  "model": "glm-5.2"
+}

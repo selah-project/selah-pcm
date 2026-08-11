@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Hold me up according to your word, and make I live; and no make dem shame me from my hope.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "hold me up"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "according to your word"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "and make I live"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "make dem shame me"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "from my hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:00.659838373Z",
+  "model": "glm-5.2"
+}

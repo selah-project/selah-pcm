@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Through me princes dey rule, and nobles — all judges of justice, ⟨dat be⟩ ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "through me"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "princes"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "dey rule"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "and nobles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "judges of"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:31.410437599Z",
+  "model": "glm-5.2"
+}

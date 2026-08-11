@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Truly, na lie from di hill, di crowd of mountain; truly, for Yahweh our Elohim, na ⟨im be⟩ di saving-power of Israel.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "na lie"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "from di hill"
+    },
+    {
+      "surface": "המון",
+      "gloss": "di crowd"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "of mountain"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "saving-power"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:13.634524570Z",
+  "model": "glm-5.2"
+}

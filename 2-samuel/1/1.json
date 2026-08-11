@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "E bin happen after di death of Sha'ul, and Dawid bin return from ⟨di⟩ striking of ⟨את⟩ Amalek, and Dawid bin siddon for Tziklag two days.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bin happen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di death"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "and Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bin return"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "from striking"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin siddon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "for Tziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:18.744925515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 67,
+  "translation": "Make nation dem praise you, Elohim; make all di nation dem praise you.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "make dem praise you"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nation dem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "make dem praise you"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nation dem"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:07.172113059Z",
+  "model": "glm-5.2"
+}

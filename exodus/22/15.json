@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And if one man entice ⟨את⟩ one virgin wey dem never betroth, and e lie down with am, e go surely pay im bride-price; she go be wife to am.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "entice"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "⟨את⟩",
+      "marks": "one virgin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "betroth"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "and lie down"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "with am"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "bride-price"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "e go surely pay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as wife"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:57.270878124Z",
+  "model": "glm-5.2"
+}

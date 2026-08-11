@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And make una write dem for di doorpost of your house and for your gate.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "And make una write"
+    },
+    {
+      "surface": "על",
+      "gloss": "dem for"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "di doorpost"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "of your house"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "and for your gate"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:15.876403284Z",
+  "model": "glm-5.2"
+}

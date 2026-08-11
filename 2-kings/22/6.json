@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "to di craftsmen, and to di builders, and to di repairers of wall, and to buy wood and stones of quarry, to strengthen ⟨את⟩ di house.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "to di craftsmen"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "and to di builders"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "and to di repairers of wall"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "and to buy"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "wood"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "and stones"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "of quarry"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "to strengthen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:30.066275669Z",
+  "model": "glm-5.2"
+}

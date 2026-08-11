@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "But if you refrain to vow, no sin go dey for inside you.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "But if"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "you refrain"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "to vow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for inside you"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:17.234011584Z",
+  "model": "glm-5.2"
+}

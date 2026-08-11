@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e lay ⟨את⟩ im dead body for im grave; and dem mourn for am, ⟨dem dey talk⟩ 'Haba! My brother!'",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "and e lay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im dead body"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "im dead body"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "for im grave"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "and dem mourn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my brother"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:38.000525293Z",
+  "model": "glm-5.2"
+}

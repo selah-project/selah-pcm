@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "You go prepare di road for yourself, and you go divide into three ⟨את⟩ di boundary of your land wey Yahweh ⟨im⟩ Elohim dey make you inherit, so dat any killer fit run go there.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "you go prepare"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "and you go divide into three"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di boundary"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "boundary"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "of your land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "dey make you inherit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨im⟩ Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "to run go"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "killer"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:28.742798468Z",
+  "model": "glm-5.2"
+}

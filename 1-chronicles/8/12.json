@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And sons of Elpa'al ⟨be⟩ Ever and Mish'am and Shamed; na ⟨im⟩ build ⟨את⟩ Ono and ⟨את⟩ Lod and ⟨im⟩ daughter-towns.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and sons of"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpa'al"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "and Mish'am"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "and Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "and ⟨im⟩ daughter-towns"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:27.145500550Z",
+  "model": "glm-5.2"
+}

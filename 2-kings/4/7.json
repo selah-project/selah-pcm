@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Then she come and tell di man of Elohim; and im talk, say, 'Go, sell ⟨את⟩ di oil, and pay ⟨את⟩ your debt-dem, and you and your pikin-dem go live wit wetin remain.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "then she come"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to di man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "say go"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di oil"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "di oil"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "and pay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your debt-dem"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "your debt-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and you"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "your pikin-dem"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "go live"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "wit wetin remain"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:34.755246009Z",
+  "model": "glm-5.2"
+}

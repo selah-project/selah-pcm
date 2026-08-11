@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And all di people rise up as one man, ⟨to⟩ say: 'No man among us go go to im tent, and no man go turn back to im house.'",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and e rise up"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "as one man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to say"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "we go go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "to im tent"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "we go turn back"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to im house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:34:23.904209372Z",
+  "model": "glm-5.2"
+}

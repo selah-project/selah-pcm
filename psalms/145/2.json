@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Every day I go bless You, and I go praise Your name forever and ever.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Every"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "I go bless You"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "and I go praise"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Your name"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and ever"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:49.582016240Z",
+  "model": "glm-5.2"
+}

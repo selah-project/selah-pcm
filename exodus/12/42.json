@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Night of watchings e ⟨be⟩ to Yahweh, to bring dem out from land of Mitsrayim; e ⟨be⟩ dis same night to Yahweh, watchings to all pikin-dem of Yisrael, to dia generation-dem.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "night"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "of watchings"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "to bring dem out"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "di night"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "watchings"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "to dia generation-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:11.050337051Z",
+  "model": "glm-5.2"
+}

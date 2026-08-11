@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Put una mind on top ⟨את⟩ im ramparts, pass through ⟨את⟩ im palaces, so dat una go fit tell am to ⟨di⟩ generation wey dey behind.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "put"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "una mind"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "on top im ramparts"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "pass through"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "im palaces"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "una go fit tell am"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wey dey behind"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:19.807817827Z",
+  "model": "glm-5.2"
+}

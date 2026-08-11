@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And una go call ⟨את⟩ me, and una go go, and una go pray to me, and I go hear una.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "And una go call"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "and una go go"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "and una go pray"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "and I go hear"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T11:51:19.101163278Z",
+  "model": "glm-5.2"
+}

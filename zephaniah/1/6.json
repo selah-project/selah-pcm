@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨את⟩ dem wey dey turn back from behind Yahweh, and wey no seek ⟨את⟩ Yahweh, and no inquire for am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem wey dey turn back"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "dem wey dey turn back"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "from behind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "inquire for am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:39.359075424Z",
+  "model": "glm-5.2"
+}

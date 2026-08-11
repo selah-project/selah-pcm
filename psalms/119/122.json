@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Stand surety for your servant for good; make ⟨say⟩ no let ⟨the⟩ arrogant oppress me.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Stand surety"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "for your servant"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "for good"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ⟨say⟩ no"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "let ⟨them⟩ oppress me"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "⟨the⟩ arrogant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:25.336710390Z",
+  "model": "glm-5.2"
+}

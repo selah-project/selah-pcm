@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "From ⟨את⟩ you my praise dey come, inside big gathering; my vows I go pay, for front of those wey dey fear am.",
+  "tokens": [
+    {
+      "surface": "מֵ֥אִתְּךָ֗",
+      "gloss": "From ⟨את⟩ you",
+      "marks": "you"
+    },
+    {
+      "surface": "תְֽהִלָּ֫תִ֥י",
+      "gloss": "my praise"
+    },
+    {
+      "surface": "בְּקָהָ֥ל",
+      "gloss": "inside gathering"
+    },
+    {
+      "surface": "רָ֑ב",
+      "gloss": "big"
+    },
+    {
+      "surface": "נְדָרַ֥י",
+      "gloss": "my vows"
+    },
+    {
+      "surface": "אֲ֝שַׁלֵּ֗ם",
+      "gloss": "I go pay"
+    },
+    {
+      "surface": "נֶ֣גֶד",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "those wey dey fear am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:57.705495650Z",
+  "model": "glm-5.2"
+}

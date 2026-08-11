@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Wetin di wicked dey fear, na ⟨im⟩ go come meet am, but di desire of di righteous dem, ⟨e⟩ go grant am.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "wetin dey fear"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na ⟨im⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "go come meet am"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "but di desire"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "righteous dem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "go grant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:37.728046067Z",
+  "model": "glm-5.2"
+}

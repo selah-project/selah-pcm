@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because from top of rocks I go see am, and from hilltops I go look am well; look, ⟨na⟩ people wey go dey live by demself, and among di nations dem no go count am.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מֵרֹ֤אשׁ",
+      "gloss": "from top"
+    },
+    {
+      "surface": "צֻרִים֙",
+      "gloss": "of rocks"
+    },
+    {
+      "surface": "אֶרְאֶ֔נּוּ",
+      "gloss": "I go see am"
+    },
+    {
+      "surface": "וּמִגְּבָע֖וֹת",
+      "gloss": "and from hilltops"
+    },
+    {
+      "surface": "אֲשׁוּרֶ֑נּוּ",
+      "gloss": "I go look am well"
+    },
+    {
+      "surface": "הֶן",
+      "gloss": "look"
+    },
+    {
+      "surface": "עָם֙",
+      "gloss": "people"
+    },
+    {
+      "surface": "לְבָדָ֣ד",
+      "gloss": "by demself"
+    },
+    {
+      "surface": "יִשְׁכֹּ֔ן",
+      "gloss": "go dey live"
+    },
+    {
+      "surface": "וּבַגּוֹיִ֖ם",
+      "gloss": "and among di nations"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִתְחַשָּֽׁב",
+      "gloss": "go count am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:56.601337517Z",
+  "model": "glm-5.2"
+}

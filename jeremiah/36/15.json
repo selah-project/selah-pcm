@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And dem talk to am sey: Siddon now, and read am for our ear. So Baruk read am for dia ear.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "שב",
+      "gloss": "siddon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "and read"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "for our ear"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "so read"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "for dia ear"
+    }
+  ],
+  "timestamp": "2026-08-11T11:54:53.910346254Z",
+  "model": "glm-5.2"
+}

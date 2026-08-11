@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Because of dat we no go fear even if earth ⟨dey⟩ change, and even if mountains dey slip inside di heart of sea-dem.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "we go fear"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "if ⟨e⟩ change"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "and if ⟨e⟩ slip"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountain-dem"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "inside di heart of"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sea-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:35.621038707Z",
+  "model": "glm-5.2"
+}

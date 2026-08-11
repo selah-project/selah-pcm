@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And e go enter, and e tell ⟨im⟩ master, sey, \"Na so and so di girl wey come from land of Yisrael talk.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e go enter"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "to ⟨im⟩ master"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "na so"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "and so"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "talk"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "di girl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:49.522303550Z",
+  "model": "glm-5.2"
+}

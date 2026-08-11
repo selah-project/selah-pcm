@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 113,
+  "translation": "to make dem sit wit nobles, wit di nobles of im people.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "to make dem sit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "nobles"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "nobles of"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:16.060884530Z",
+  "model": "glm-5.2"
+}

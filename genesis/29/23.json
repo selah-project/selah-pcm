@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And evening come, ⟨he⟩ bin take ⟨את⟩ Leah im daughter, and bin bring ⟨את⟩ her to am, and ⟨he⟩ go meet her.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "And come"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leah im daughter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "im daughter"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and bin bring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "her"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "her"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:21.091409774Z",
+  "model": "glm-5.2"
+}

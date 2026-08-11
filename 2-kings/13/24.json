@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Chazaʾel, king of Aram, die; and Ben-Hadad im son come king under am.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "And die"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaʾel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and come king"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:12.445092289Z",
+  "model": "glm-5.2"
+}

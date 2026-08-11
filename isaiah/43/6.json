@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "I go talk to north, say make you give, and to south, make you no hold back; bring my sons from far, and my daughters from end of ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "אֹמַר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "לַצָּפוֹן",
+      "gloss": "to north"
+    },
+    {
+      "surface": "תֵּנִי",
+      "gloss": "make you give"
+    },
+    {
+      "surface": "וּלְתֵימָן",
+      "gloss": "and to south"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "make no"
+    },
+    {
+      "surface": "תִּכְלָאִי",
+      "gloss": "you hold back"
+    },
+    {
+      "surface": "הָבִיאִי",
+      "gloss": "bring"
+    },
+    {
+      "surface": "בָנַי",
+      "gloss": "my sons"
+    },
+    {
+      "surface": "מֵרָחוֹק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "וּבְנוֹתַי",
+      "gloss": "and my daughters"
+    },
+    {
+      "surface": "מִקְצֵה",
+      "gloss": "from end"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "of earth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:14.789107531Z",
+  "model": "glm-5.2"
+}

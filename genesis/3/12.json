@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di man talk sey, \"Di woman wey you give to stay wit me, na she give me from di tree, and ah chop.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "you give"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "to stay wit me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na she"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "and ah chop"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:05.770807454Z",
+  "model": "glm-5.2"
+}

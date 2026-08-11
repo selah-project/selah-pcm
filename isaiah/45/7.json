@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "⟨Di one wey dey⟩ form light, and create darkness, ⟨di one wey dey⟩ make peace, and create evil — na me ⟨be⟩ Yahweh, ⟨di one wey dey⟩ do all dis things.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "⟨di one wey dey⟩ form"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "and create"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "darkness"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨di one wey dey⟩ make"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "and create"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨di one wey dey⟩ do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis things"
+    }
+  ],
+  "timestamp": "2026-08-11T11:34:06.877428041Z",
+  "model": "glm-5.2"
+}

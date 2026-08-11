@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Blessing dey on top una from Yahweh, wey make ⟨di⟩ heaven and ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Blessing dey on top"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey make"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "and earth"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:23.852361393Z",
+  "model": "glm-5.2"
+}

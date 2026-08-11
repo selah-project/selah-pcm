@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Make una strengthen weak hand dem, and knee dem wey dey stumble, make una hold dem strong.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "make una strengthen"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hand dem"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "weak"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "and knee dem"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "wey dey stumble"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "make una hold strong"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:52.422367273Z",
+  "model": "glm-5.2"
+}

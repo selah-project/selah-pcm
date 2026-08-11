@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Only — make una fear ⟨את⟩ Yahweh, and make una serve ⟨את⟩ am in truth wit all una heart; because make una see ⟨את⟩ wetin im don do great wit una.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "make una fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "and make una serve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in truth"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "una heart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "make una see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "im don do great"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "wit una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:10.893698919Z",
+  "model": "glm-5.2"
+}

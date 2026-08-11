@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and Shaharayim born ⟨children⟩ for di land of Moav, afta ⟨im⟩ don send ⟨את⟩ dem wey be ⟨את⟩ Chushim and ⟨את⟩ Baara, im wives.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "and Shaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "⟨im⟩ don send"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "im wives"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:37.510335227Z",
+  "model": "glm-5.2"
+}

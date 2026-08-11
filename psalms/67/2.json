@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 67,
+  "translation": "Elohim, make you show us favor and bless us, make your face shine ⟨את⟩ us. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "make you show us favor"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "and bless us"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "make ⟨im⟩ shine"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "your face"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "us"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:07.171825967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Command ⟨את⟩ di sons of Israel, make dem send out from di camp evri person wey get leprosy, and evri person wey dey flow discharge, and evri person wey dey unclean for ⟨the⟩ dead body.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "make dem send out"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "person wey get leprosy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "זב",
+      "gloss": "person wey dey flow discharge"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "person wey dey unclean"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "for dead body"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:21.568565433Z",
+  "model": "glm-5.2"
+}

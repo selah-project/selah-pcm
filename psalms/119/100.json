@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "From elders I understand pass dem, because your precepts I don keep.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "From elders"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "I understand pass dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "your precepts"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "I don keep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:29.769754557Z",
+  "model": "glm-5.2"
+}

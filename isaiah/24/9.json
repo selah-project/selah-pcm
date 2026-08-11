@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wit song, dem no go drink wine; strong drink go bitter for dem wey dey drink am.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "wit song"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dem go drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "go bitter"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "strong drink"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "for dem wey dey drink am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:35.555675454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make Yahweh answer you for di day of trouble, make di name of Elohim of Ya'akov lift you high.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "make ⟨im⟩ answer you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "of trouble"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "make ⟨im⟩ lift you high"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:33.557321168Z",
+  "model": "glm-5.2"
+}

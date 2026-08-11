@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Make una stop, and know sey na Me be Elohim; I go dey exalted among di nations, I go dey exalted for di earth.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Make una stop"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "and know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "be Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "I go dey exalted"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "I go dey exalted"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:23.878398823Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "E bin send ⟨את⟩ Elyakim wey dey on top ⟨di⟩ house, and ⟨את⟩ Shevna di scribe, and ⟨את⟩ di elders of di priests, dem wey cover demsef wit sackcloths, to Yeshayahu ben Amots di prophet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e bin send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "di scribe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di elders"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "elders"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "of di priests"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "dem wey cover demsef"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "wit sackcloths"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di prophet"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:15.839810359Z",
+  "model": "glm-5.2"
+}

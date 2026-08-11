@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨את⟩ di people, command dem sey: 'Una dey pass inside di border of una brothers, di sons of Esav, wey dey stay for Seir; and dem go fear una; so make una guard ⟨yourselves⟩ well-well.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "צו",
+      "gloss": "command"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Una"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dey pass"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "inside di border"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "of una brothers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "for Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "and dem go fear"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "make una guard"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:59.843806995Z",
+  "model": "glm-5.2"
+}

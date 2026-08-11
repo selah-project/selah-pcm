@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Make ⟨di⟩ khasid-dem dey jump for joy inside glory, make dem dey sing loud on top ⟨dia⟩ bed-dem.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "make ⟨dem⟩ dey jump for joy"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "khasid-dem"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "inside glory"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "make dem dey sing loud"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "⟨dia⟩ bed-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:51.111163421Z",
+  "model": "glm-5.2"
+}

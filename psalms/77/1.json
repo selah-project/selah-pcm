@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "To di chief musician, upon Yedutun, to Asaf — one mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di chief musician"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "to Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:45.040190278Z",
+  "model": "glm-5.2"
+}

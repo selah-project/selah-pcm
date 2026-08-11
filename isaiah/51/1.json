@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Hearken to me, una wey dey pursue righteousness, una wey dey seek Yahweh: look unto di rock wey dem bin hew una from, and unto di hole of di pit wey dem bin dig una from.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hearken"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "una wey dey pursue"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "una wey dey seek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "look"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "צור",
+      "gloss": "di rock"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "wey dem bin hew una from"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and unto"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "di hole"
+    },
+    {
+      "surface": "בור",
+      "gloss": "of di pit"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "wey dem bin dig una from"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:52.586179134Z",
+  "model": "glm-5.2"
+}

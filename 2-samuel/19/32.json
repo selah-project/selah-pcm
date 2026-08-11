@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Barzillai di Giladi come down from Rogelim, and e cross ⟨את⟩ di king ⟨את⟩ Jordan, to send am ⟨את⟩ for Jordan.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "and Barzillai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "di Giladi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "come down"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "from Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and e cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "to send am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "for Jordan"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "for Jordan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:36.309756233Z",
+  "model": "glm-5.2"
+}

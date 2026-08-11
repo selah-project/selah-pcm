@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And Ya'akov call ⟨את⟩ di name of di place wey Elohim bin speak ⟨את⟩ ⟨im⟩ for there, Bet־El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and call"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "of di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨im⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "־El"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:31.891437224Z",
+  "model": "glm-5.2"
+}

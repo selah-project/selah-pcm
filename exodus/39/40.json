@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 39:40",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "⟨את⟩ di curtains of di courtyard, ⟨את⟩ im pillars, and ⟨את⟩ im bases, and ⟨את⟩ di screen for di gate of di courtyard, ⟨את⟩ im cords, and im pegs, and ⟨את⟩ all di utensils of di service of di tabernacle, for di tent of meeting",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di curtains of di courtyard"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "di curtains"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "of di courtyard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im pillars"
+    },
+    {
+      "surface": "עמדיה",
+      "gloss": "im pillars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im bases"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "im bases"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di screen"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "di screen"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "for di gate"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "of di courtyard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cords"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "im cords"
+    },
+    {
+      "surface": "ויתדתיה",
+      "gloss": "and im pegs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di utensils"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "di utensils"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "of di service"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of di tabernacle"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "for di tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:50.644783236Z",
+  "model": "glm-5.2"
+}

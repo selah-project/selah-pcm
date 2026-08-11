@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Yahweh see sey Leah bin dey hated, and ⟨im⟩ open ⟨את⟩ im womb; but Rachel, ⟨she⟩ barren.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "bin dey hated"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im womb"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "im womb"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "but Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "barren"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:06.284043447Z",
+  "model": "glm-5.2"
+}

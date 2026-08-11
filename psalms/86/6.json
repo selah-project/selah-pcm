@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Yahweh, make you bend ear hear my prayer, and make you pay attention to di voice of my pleadings.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "make you bend ear hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "and make you pay attention"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "to di voice"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "of my pleadings"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:48.768189335Z",
+  "model": "glm-5.2"
+}

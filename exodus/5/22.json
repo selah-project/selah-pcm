@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Moshe go back to Yahweh, and ⟨im⟩ talk, \"Adonai, why you do bad to dis people? Why you send me?\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and go back"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "you do bad"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to ⟨di⟩ people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis ⟨thing⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "you send me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:36.209965871Z",
+  "model": "glm-5.2"
+}

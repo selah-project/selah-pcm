@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Because ⟨na⟩ my rebellion, I sabi am, and my sin dey always for my front.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my rebellion"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "and my sin"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "for my front"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:40.258895529Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So dem bin carry ⟨את⟩ Jonah and throw am inside di sea, and di sea bin stop from im raging.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "so dem bin carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "and throw am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "and bin stop"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "from im raging"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:22.381295316Z",
+  "model": "glm-5.2"
+}

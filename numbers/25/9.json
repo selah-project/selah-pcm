@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And di people wey die for di plague bin be twenty-four thousand.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "and ⟨dem bin be⟩"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "di people wey die"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "for di plague"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "four"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:42.097451053Z",
+  "model": "glm-5.2"
+}

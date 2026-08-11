@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "E dey hide for secret place, like lion for im lair, e dey hide make e go grab di poor man, e dey grab di poor man, as e dey drag am enter im net.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "e dey hide"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "for secret place"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "for im lair"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "e dey hide"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "make e go grab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "di poor man"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "e dey grab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "di poor man"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "as e dey drag am"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "enter im net"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:39.631013635Z",
+  "model": "glm-5.2"
+}

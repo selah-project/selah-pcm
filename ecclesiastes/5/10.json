@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Wen good tins plenty, people wey dey chop am go plenty; and wetin advantage be for im owner, except sey na only im eye dey see am?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "wen ... plenty"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "good tins"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "go plenty"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "people wey dey chop am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "advantage"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "be for im owner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "except"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "only ... see"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:29.346669028Z",
+  "model": "glm-5.2"
+}

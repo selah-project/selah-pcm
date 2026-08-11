@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Whoever dey hold back im rod hate im son, but whoever love am dey search am out well well for discipline.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "dey hold back"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "im rod"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hate"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "and whoever love am"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "dey search out"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "discipline"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:57.159536616Z",
+  "model": "glm-5.2"
+}

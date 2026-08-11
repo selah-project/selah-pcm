@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Elohim, ⟨You⟩ dey fearsome from ⟨Your⟩ holy places! El of Yisra'el — na im dey give strength and might to ⟨di⟩ people. Blessed be Elohim!",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "dey fearsome"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "from Your holy places"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "and might"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to di people"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "be Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:36.406572054Z",
+  "model": "glm-5.2"
+}

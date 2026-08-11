@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And I go put My dwelling-place for inside una, and My life-force no go reject ⟨את⟩ una.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "My dwelling-place"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "for inside una"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no go"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "reject"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "My life-force"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:37.815116649Z",
+  "model": "glm-5.2"
+}

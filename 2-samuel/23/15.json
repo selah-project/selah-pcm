@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Dawud bin long, and e talk sey, Who go give me water from well of Bet-Lechem wey dey for di gate?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "and bin long"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "go give me drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "from well"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "dey for di gate"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:40.669326727Z",
+  "model": "glm-5.2"
+}

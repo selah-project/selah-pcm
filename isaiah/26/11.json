@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Yahweh, your hand don high, dem no go see; dem go see, and dem go shame — di jealousy for ⟨di⟩ people, even fire wey be your enemies go chop dem.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רָ֥מָה",
+      "gloss": "don high"
+    },
+    {
+      "surface": "יָדְךָ֖",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יֶחֱזָי֑וּן",
+      "gloss": "dem go see"
+    },
+    {
+      "surface": "יֶחֱז֤וּ",
+      "gloss": "dem go see"
+    },
+    {
+      "surface": "וְיֵבֹ֨שׁוּ֙",
+      "gloss": "and dem go shame"
+    },
+    {
+      "surface": "קִנְאַת",
+      "gloss": "di jealousy for"
+    },
+    {
+      "surface": "עָ֔ם",
+      "gloss": "⟨di⟩ people"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "even"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "fire"
+    },
+    {
+      "surface": "צָרֶ֥יךָ",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "תֹאכְלֵֽם",
+      "gloss": "go chop dem"
+    }
+  ],
+  "timestamp": "2026-08-11T16:16:26.809815806Z",
+  "model": "glm-5.2"
+}

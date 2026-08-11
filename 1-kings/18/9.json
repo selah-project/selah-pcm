@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And ⟨im⟩ talk sey, which sin I bin commit, sey you dey hand ⟨את⟩ your servant inside hand Aḥ'av, to kill me?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "which"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "I bin commit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your servant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥ'av"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "to kill me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:52.192942117Z",
+  "model": "glm-5.2"
+}

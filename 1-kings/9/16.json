@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Paroh, king of Mitsrayim, bin go up and e capture ⟨את⟩ Gezer and e burn am wit fire; and ⟨את⟩ di Kena'ani wey dey live for di city e kill; and e give am as dowry to im daughter, wey be Shelomah wife.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and e capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "and e burn am"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Kena'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "di Kena'ani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wey dey live"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "e kill"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "and e give am"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "as dowry"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "to im daughter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "of Shelomah"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:09.803372486Z",
+  "model": "glm-5.2"
+}

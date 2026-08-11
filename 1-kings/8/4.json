@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and dem bin carry up ⟨את⟩ di box of Yahweh, and ⟨את⟩ di tent of meeting, and ⟨את⟩ all di sacred instrument-dem wey dey inside di tent — na di priest-dem and di Leviyim bin carry dem up.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲל֞וּ",
+      "gloss": "and bin carry up"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di box of Yahweh"
+    },
+    {
+      "surface": "אֲר֤וֹן",
+      "gloss": "di box"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di tent of meeting"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "di tent"
+    },
+    {
+      "surface": "מוֹעֵ֔ד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di sacred instrument-dem"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "di instrument-dem"
+    },
+    {
+      "surface": "הַקֹּ֖דֶשׁ",
+      "gloss": "di sacred"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בָּאֹ֑הֶל",
+      "gloss": "dey inside di tent"
+    },
+    {
+      "surface": "וַיַּעֲל֣וּ",
+      "gloss": "bin carry up"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "הַכֹּהֲנִ֖ים",
+      "gloss": "di priest-dem"
+    },
+    {
+      "surface": "וְהַלְוִיִּֽם",
+      "gloss": "and di Leviyim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:50.467029744Z",
+  "model": "glm-5.2"
+}

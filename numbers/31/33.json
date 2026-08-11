@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "and cow, seventy-two thousand.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "and cow"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "and seventy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:04.760218967Z",
+  "model": "glm-5.2"
+}

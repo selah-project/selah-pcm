@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "'Apart from wetin I fit see, you teach me; if I do wicked tin, I no go do am again.'",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "wetin I fit see"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "teach me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wicked tin"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "I do"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "do am again"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:23.666453426Z",
+  "model": "glm-5.2"
+}

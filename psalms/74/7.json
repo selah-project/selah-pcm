@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Dem send fire inside ⟨your⟩ sanctuary; to ⟨di⟩ ground dem profane ⟨di⟩ dwelling place of your Name.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "dem send"
+    },
+    {
+      "surface": "באש",
+      "gloss": "fire inside"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "your sanctuary"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "to ground"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "dem profane"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "dwelling place"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "of your Name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:10.200005344Z",
+  "model": "glm-5.2"
+}

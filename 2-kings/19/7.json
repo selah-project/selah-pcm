@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Here I dey, I go put ⟨be⟩ spirit inside am, and e go hear one report, and e go return to im own land; and I go make am fall by sword for im own land.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨be⟩ spirit"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "and e go hear"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "one report"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and e go return"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "to im own land"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "and I go make am fall"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by sword"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "for im own land"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:39.934831510Z",
+  "model": "glm-5.2"
+}

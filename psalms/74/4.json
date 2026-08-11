@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Your enemies dem roar for inside your meeting place; dem set up dia signs ⟨as⟩ signs.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "roar"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "your enemies dem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "your meeting place"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dem set up"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "dia signs"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "signs"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:31.842210084Z",
+  "model": "glm-5.2"
+}

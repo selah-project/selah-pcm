@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "I bin keep quiet, I no open my mouth; because na You do am.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "I bin keep quiet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "I open"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "do am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:16.199843511Z",
+  "model": "glm-5.2"
+}

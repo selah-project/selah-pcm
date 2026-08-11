@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Wit wisdom ⟨dem⟩ dey build house, and wit understanding e go stand strong.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "wit wisdom"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "dem dey build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "and wit understanding"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "e go stand strong"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:53.612213085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And im bin bring near ⟨את⟩ di family of Yehudah, and im bin catch ⟨את⟩ di family of di Zarchi; and im bin bring near ⟨את⟩ di family of di Zarchi to di men, and Zavdi bin dey caught.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "and im bin bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di family"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and im bin catch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di family"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family of"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "di Zarchi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "and im bin bring near"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di family"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "family of"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "di Zarchi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "to di men"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and bin dey caught"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:50.968200540Z",
+  "model": "glm-5.2"
+}

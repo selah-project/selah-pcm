@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "For di light ⟨the⟩ murderer dey rise; ⟨he⟩ dey kill di poor and di needy, and for night ⟨he⟩ ⟨be⟩ like thief.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "For di light"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "dey rise"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "murderer"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "dey kill"
+    },
+    {
+      "surface": "עני",
+      "gloss": "di poor"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and di needy"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "and for night"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "like thief"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:47.397944069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "For di day wey una go sacrifice am, dem go chop am, and di next day; and wetin remain reach di third day, for fire dem go burn am.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "of una sacrifice"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dem go chop am"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "and di next day"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "and wetin remain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "di third"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for fire"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dem go burn am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:00.669713147Z",
+  "model": "glm-5.2"
+}

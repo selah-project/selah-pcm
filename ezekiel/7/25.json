@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Terror dey come, and dem go find peace, but notin go dey.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "terror"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "and dem go find"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "but notin go dey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:46:37.696481194Z",
+  "model": "glm-5.2"
+}

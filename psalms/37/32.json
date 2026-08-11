@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Di wicked dey watch di righteous, and dey find way to kill am.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "dey watch"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "di wicked"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "and dey find way"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "to kill am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:53.466504057Z",
+  "model": "glm-5.2"
+}

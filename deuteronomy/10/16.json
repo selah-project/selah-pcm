@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Una go circumcise ⟨את⟩ di foreskin of una heart, and una neck una no go hard am again.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Una go circumcise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di foreskin of una heart"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "di foreskin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "of una heart"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "and una neck"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "go hard"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:26.703197719Z",
+  "model": "glm-5.2"
+}

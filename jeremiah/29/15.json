@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Because una talk sey, 'Yahweh don raise up prophets for us for Bavel,'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "una talk"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "don raise up"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prophets"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "for Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:51:58.025401814Z",
+  "model": "glm-5.2"
+}

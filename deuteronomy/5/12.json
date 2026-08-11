@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Keep ⟨את⟩ di day of Shabbat, to make am holy, as Yahweh una Elohim bin command you.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di day of Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "of Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "to make am holy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "bin command you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:34.433190786Z",
+  "model": "glm-5.2"
+}

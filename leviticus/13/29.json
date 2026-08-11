@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And if ⟨a⟩ man or woman get ⟨a⟩ plague for im ⟨body⟩, for di head or for di beard,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "And if ⟨a⟩ man"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "get"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plague"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "for di head"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "for di beard"
+    }
+  ],
+  "timestamp": "2026-08-11T09:41:11.060119786Z",
+  "model": "glm-5.2"
+}

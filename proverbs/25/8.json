@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "No go out to quarrel quick-quick, make you no know wetin you go do for im end, when your neighbor dey put ⟨את⟩ you to shame.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "go out"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "to quarrel"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "quick-quick"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "for im end"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "when … dey put to shame"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "your neighbor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:15.140393738Z",
+  "model": "glm-5.2"
+}

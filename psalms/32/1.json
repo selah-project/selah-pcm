@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "For David, ⟨na⟩ instructive poem. How happy ⟨be⟩ di one wey dem lift ⟨im⟩ rebellion, ⟨di one wey⟩ dem cover ⟨im⟩ sin!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "For David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "instructive poem"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "how happy"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "wey dem lift"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rebellion"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "wey dem cover"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:01.444637665Z",
+  "model": "glm-5.2"
+}

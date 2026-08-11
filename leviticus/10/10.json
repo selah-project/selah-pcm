@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And make una separate between di holy ⟨thing⟩ and between di common ⟨thing⟩, and between di unclean ⟨thing⟩ and between di clean ⟨thing⟩.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "and make una separate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di holy"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "החל",
+      "gloss": "di common"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "di unclean"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "di clean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:53.279519730Z",
+  "model": "glm-5.2"
+}

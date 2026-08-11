@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 130,
+  "translation": "Song of di go-ups. From deep-deep place I bin call you, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "song"
+    },
+    {
+      "surface": "הַֽמַּעֲל֑וֹת",
+      "gloss": "of di go-ups"
+    },
+    {
+      "surface": "מִמַּעֲמַקִּ֖ים",
+      "gloss": "from deep-deep place"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "I bin call you"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:58.183318541Z",
+  "model": "glm-5.2"
+}

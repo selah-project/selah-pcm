@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "You no go do dat one to Yahweh your Elohim; because evri abomination wey Yahweh hate, na im dem do to dia elohim — because even ⟨את⟩ dia sons and ⟨את⟩ dia daughters, dem dey burn for fire for dia elohim.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַעֲשֶׂ֣ה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "כֵ֔ן",
+      "gloss": "dat one"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "כִּי֩",
+      "gloss": "because"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "תּוֹעֲבַ֨ת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שָׂנֵ֗א",
+      "gloss": "e hate"
+    },
+    {
+      "surface": "עָשׂוּ֙",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "לֵאלֹ֣הֵיהֶ֔ם",
+      "gloss": "to dia elohim"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "גַ֤ם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia sons"
+    },
+    {
+      "surface": "בְּנֵיהֶם֙",
+      "gloss": "dia sons"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia daughters"
+    },
+    {
+      "surface": "בְּנֹ֣תֵיהֶ֔ם",
+      "gloss": "dia daughters"
+    },
+    {
+      "surface": "יִשְׂרְפ֥וּ",
+      "gloss": "dem dey burn"
+    },
+    {
+      "surface": "בָאֵ֖שׁ",
+      "gloss": "for fire"
+    },
+    {
+      "surface": "לֵֽאלֹהֵיהֶֽם",
+      "gloss": "for dia elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:10:06.421023599Z",
+  "model": "glm-5.2"
+}

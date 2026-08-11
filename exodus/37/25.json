@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And im bin make ⟨את⟩ di altar of incense, from wood of acacia — one cubit ⟨na⟩ im length, and one cubit ⟨na⟩ im width, square, and two cubits ⟨na⟩ im height; from am im horns bin come out.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and im bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di altar of incense"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "of incense"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "one cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "square"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "and two cubits"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin come out"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "im horns"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:00.496432612Z",
+  "model": "glm-5.2"
+}

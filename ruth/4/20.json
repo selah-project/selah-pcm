@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Amminadav bin born ⟨את⟩ Nachshon, and Nachshon bin born ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "and Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "and Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:29:39.030167799Z",
+  "model": "glm-5.2"
+}

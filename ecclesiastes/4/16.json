@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "No end ⟨dey⟩ for all di pipo, for all of dem wey bin dey before dem. Even di ones wey come after no go glad for am. Because dis too na vanity and chasing wind.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "end"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "before dem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "di ones wey come after"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "go glad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "and chasing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:26.720499856Z",
+  "model": "glm-5.2"
+}

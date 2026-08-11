@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 6:5",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Turn ya eye komot from my front, because dem don make me fear, ya hair ⟨be⟩ like flock of goat wey dey stream down from Gilʽad.",
+  "tokens": [
+    {
+      "surface": "הָסֵּבִי",
+      "gloss": "Turn"
+    },
+    {
+      "surface": "עֵינַיִךְ",
+      "gloss": "ya eye"
+    },
+    {
+      "surface": "מִנֶּגְדִּי",
+      "gloss": "komot from my front"
+    },
+    {
+      "surface": "שֶׁהֵם",
+      "gloss": "because dem"
+    },
+    {
+      "surface": "הִרְהִיבֻנִי",
+      "gloss": "don make me fear"
+    },
+    {
+      "surface": "שַׂעְרֵךְ",
+      "gloss": "ya hair"
+    },
+    {
+      "surface": "כְּעֵדֶר",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "הָעִזִּים",
+      "gloss": "of goat"
+    },
+    {
+      "surface": "שֶׁגָּלְשׁוּ",
+      "gloss": "wey dey stream down"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הַגִּלְעָד",
+      "gloss": "Gilʽad"
+    }
+  ],
+  "timestamp": "2026-08-11T15:00:45.168262541Z",
+  "model": "glm-5.2"
+}

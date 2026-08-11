@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "And wine wey dey make mortal man heart glad, to make face shine from oil, and bread wey dey support mortal man heart.",
+  "tokens": [
+    {
+      "surface": "וְיַ֤יִן",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "יְשַׂמַּ֬ח",
+      "gloss": "wey dey make glad"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "אֱנ֗וֹשׁ",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "לְהַצְהִ֣יל",
+      "gloss": "to make shine"
+    },
+    {
+      "surface": "פָּנִ֣ים",
+      "gloss": "face"
+    },
+    {
+      "surface": "מִשָּׁ֑מֶן",
+      "gloss": "from oil"
+    },
+    {
+      "surface": "וְ֝לֶ֗חֶם",
+      "gloss": "and bread"
+    },
+    {
+      "surface": "לְֽבַב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "אֱנ֥וֹשׁ",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "יִסְעָֽד",
+      "gloss": "wey dey support"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:13.801254925Z",
+  "model": "glm-5.2"
+}

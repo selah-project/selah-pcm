@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Only, daughter of Paroh climb up from city of Dawid go im house wey ⟨dem⟩ build for am; den ⟨e⟩ build ⟨את⟩ HaMillo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "climb up"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "from city of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "im house"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "⟨e⟩ build"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaMillo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "HaMillo"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:46.941326121Z",
+  "model": "glm-5.2"
+}

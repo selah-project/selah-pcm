@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And ⟨di⟩ Yarden dey form ⟨את⟩ im border for di east side. Dis one na di inheritance of di sons of Binyamin, around im borders, for dia families.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "and ⟨di⟩ Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "dey form"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "im border"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "for di side"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "of east"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "na di inheritance"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "of Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "around im borders"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "for dia families"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:49.100254534Z",
+  "model": "glm-5.2"
+}

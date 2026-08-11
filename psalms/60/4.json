@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "You bin make ⟨the⟩ earth shake, You bin tear am open — heal ⟨im⟩ breaks, because e dey totter!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "You bin make shake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "You bin tear open"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "heal"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "im breaks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "e dey totter"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:17.672272823Z",
+  "model": "glm-5.2"
+}

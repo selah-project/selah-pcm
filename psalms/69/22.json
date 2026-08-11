@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "And dem put poison-plant for my food, and for my thirst, dem make me drink vinegar.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "for my food"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "poison-plant"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "and for my thirst"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "dem make me drink"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinegar"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.500363543Z",
+  "model": "glm-5.2"
+}

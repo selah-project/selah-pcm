@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "You dey near, Yahweh; and all your commandments ⟨be⟩ truth.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "you dey near"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "your commandments"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:45.702901503Z",
+  "model": "glm-5.2"
+}

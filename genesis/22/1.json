@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And e come to pass after dis tings, Elohim bin test ⟨את⟩ Avraham, and e talk to am, 'Avraham,' and e talk, 'Here I dey.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "after"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dis tings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "bin test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:55.296285190Z",
+  "model": "glm-5.2"
+}

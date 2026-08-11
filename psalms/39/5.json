@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Make me know, Yahweh, ⟨my⟩ end, and ⟨di⟩ measure of ⟨my⟩ days, wetin e ⟨be⟩; ⟨make⟩ I know how short-lived I ⟨be⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Make me know"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "⟨my⟩ end"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "and ⟨di⟩ measure of"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨my⟩ days"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e ⟨be⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "⟨make⟩ I know"
+    },
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "short-lived"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:52.817839769Z",
+  "model": "glm-5.2"
+}

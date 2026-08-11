@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And im heart bin lift up for di ways of Yahweh, and again ⟨e⟩ comot ⟨את⟩ di high places and ⟨את⟩ di Asherim from Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "And bin lift up"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "for di ways"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "and again"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "⟨e⟩ comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di high places"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "di high places"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "di Asherim"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "from Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:11.848109522Z",
+  "model": "glm-5.2"
+}

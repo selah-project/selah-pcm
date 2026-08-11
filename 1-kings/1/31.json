@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Bath-Sheva bow ⟨im⟩ face ⟨down⟩ to ground, and prostrate to di king, and im talk sey, make my lord di king David live forever.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "bow"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "face"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "to ground"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "and prostrate"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "make ⟨im⟩ live"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my lord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:33.144628541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "My heart dey bubble ⟨with⟩ good word; I dey talk my work-dem to di king; my tongue ⟨be⟩ pen of scribe wey sabi book well-well.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "dey bubble"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "my work-dem"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tongue"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pen"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "of scribe"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "wey sabi book well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:01.892034581Z",
+  "model": "glm-5.2"
+}

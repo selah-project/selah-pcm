@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Then Yahweh talk to ha-satan, say: \"See, e dey your hand; only ⟨את⟩ im life, make you preserve.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Then talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "See"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im life"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "make you preserve"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:43.095729534Z",
+  "model": "glm-5.2"
+}

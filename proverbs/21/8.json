@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Crooked way of man and stranger, but di pure, straight ⟨be⟩ im work.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "crooked"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "way"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "and stranger"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "but di pure"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "straight"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "im work"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:39.713237800Z",
+  "model": "glm-5.2"
+}

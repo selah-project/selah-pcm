@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Nevukhadnetstsar, king of Bavel, bin come against di city, and im servant dem bin dey besiege am.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "and im servant dem"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "bin dey besiege"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:56.467128922Z",
+  "model": "glm-5.2"
+}

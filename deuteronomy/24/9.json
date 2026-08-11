@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Make una remember wetin Yahweh, una Elohim, do ⟨את⟩ Miriam, for di road, wen una bin dey komot from Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "make una remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miriam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "to Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "wen una bin dey komot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:02.279220092Z",
+  "model": "glm-5.2"
+}

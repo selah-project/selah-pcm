@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And di pikin-dem of Yisra'el bin come make dem buy ⟨food⟩ for inside di pipo-dem wey bin dey come, sake of sey di famine bin dey for di land of Kena'an.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem bin come"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "make dem buy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "di pipo-dem wey bin dey come"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "di famine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:26.483228969Z",
+  "model": "glm-5.2"
+}

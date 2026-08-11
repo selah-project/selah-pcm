@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 9:18",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "See, I dey make rain fall about dis time tomorrow — hail wey ⟨be⟩ very heavy, wetin neva happen like am for Mitsrayim, from di day dem found am until now.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "see"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "I dey make rain fall"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "about dis time"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hail"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "happen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "like am"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "למן",
+      "gloss": "from"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הוסדה",
+      "gloss": "dem found am"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "until"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:03.035020042Z",
+  "model": "glm-5.2"
+}

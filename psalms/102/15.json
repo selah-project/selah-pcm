@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Because your servants don love ⟨את⟩ her stones, and ⟨את⟩ her dust dem dey favor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "dem don love"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her stones"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "her stones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "her dust"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "her dust"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "dem dey favor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:29.258611315Z",
+  "model": "glm-5.2"
+}

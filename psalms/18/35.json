@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "⟨Im⟩ dey train my hands for battle, and ⟨im⟩ bend down ⟨את⟩ ⟨di⟩ bow of bronze ⟨with⟩ my arms.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "⟨Im⟩ dey train"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hands"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for battle"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "and ⟨im⟩ bend down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bow of bronze"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bow"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "of bronze"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "my arms"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:04.777483864Z",
+  "model": "glm-5.2"
+}

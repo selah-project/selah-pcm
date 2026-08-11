@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Ehud bin reach im left hand, and bin take ⟨את⟩ di sword from on top im right thigh, and bin plunge am inside im belle.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and bin reach"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im left hand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "im left"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sword"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "di sword"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "thigh"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "im right"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "and bin plunge am"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "inside im belle"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:34.835045609Z",
+  "model": "glm-5.2"
+}

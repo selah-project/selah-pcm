@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Hungry and even thirsty, dia life-force inside dem ⟨dey⟩ faint.",
+  "tokens": [
+    {
+      "surface": "רְעֵבִ֥ים",
+      "gloss": "Hungry"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "צְמֵאִ֑ים",
+      "gloss": "thirsty"
+    },
+    {
+      "surface": "נַ֝פְשָׁ֗ם",
+      "gloss": "dia life-force"
+    },
+    {
+      "surface": "בָּהֶ֥ם",
+      "gloss": "inside dem"
+    },
+    {
+      "surface": "תִּתְעַטָּֽף",
+      "gloss": "⟨dey⟩ faint"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:19.747143697Z",
+  "model": "glm-5.2"
+}

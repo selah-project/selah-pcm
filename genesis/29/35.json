@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And she conceive again and born ⟨a⟩ son, and she talk, dis time I go praise ⟨את⟩ Yahweh; because of dat she call im name Yehudah, and she stop from born.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "and she conceive"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "dis time"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "I go praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "she call"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "and she stop"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "from born"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:11.783456832Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and one basket of unleavened bread, fine-flour cakes wey dem mix with oil, and unleavened wafers wey dem anoint with oil, plus dia grain offering and dia drink offerings.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "and basket"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "of unleavened bread"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine-flour"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "cakes"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "wey dem mix"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "with oil"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "and wafers"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "of unleavened"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "wey dem anoint"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "with oil"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "plus dia grain offering"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "and dia drink offerings"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:12.950116038Z",
+  "model": "glm-5.2"
+}

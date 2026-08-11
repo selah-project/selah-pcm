@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨e⟩ talk, 'Put your hand back inside your chest'; and im put im hand back inside im chest, and im bring am out from inside im chest, and look — e don come back like im flesh.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֗אמֶר",
+      "gloss": "and ⟨e⟩ talk"
+    },
+    {
+      "surface": "הָשֵׁ֤ב",
+      "gloss": "put back"
+    },
+    {
+      "surface": "יָֽדְךָ֙",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חֵיקֶ֔ךָ",
+      "gloss": "your chest"
+    },
+    {
+      "surface": "וַיָּ֥שֶׁב",
+      "gloss": "and im put back"
+    },
+    {
+      "surface": "יָד֖וֹ",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חֵיק֑וֹ",
+      "gloss": "im chest"
+    },
+    {
+      "surface": "וַיּֽוֹצִאָהּ֙",
+      "gloss": "and im bring am out"
+    },
+    {
+      "surface": "מֵֽחֵיק֔וֹ",
+      "gloss": "from inside im chest"
+    },
+    {
+      "surface": "וְהִנֵּ֥ה",
+      "gloss": "and look"
+    },
+    {
+      "surface": "שָׁ֖בָה",
+      "gloss": "e don come back"
+    },
+    {
+      "surface": "כִּבְשָׂרֽוֹ",
+      "gloss": "like im flesh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:14.707800413Z",
+  "model": "glm-5.2"
+}

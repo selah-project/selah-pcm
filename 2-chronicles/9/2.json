@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Shelomoh tell am ⟨את⟩ all her words, and notin bin hide from Shelomoh wey im no tell am.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "And ⟨he⟩ tell"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all her words"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "her words"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and notin"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "bin hide"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "notin"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "from Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨he⟩ no"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:24.285050178Z",
+  "model": "glm-5.2"
+}

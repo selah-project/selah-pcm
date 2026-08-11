@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if e no redeem ⟨את⟩ di farm, or if e don sell ⟨את⟩ di farm to anoda man, e no go ever redeem again.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִגְאַל",
+      "gloss": "e redeem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di farm"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "di farm"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "or if"
+    },
+    {
+      "surface": "מָכַר",
+      "gloss": "e don sell"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di farm"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "di farm"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "to man"
+    },
+    {
+      "surface": "אַחֵר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יִגָּאֵל",
+      "gloss": "e go redeem"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "ever again"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:18.258270973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "For as rain and snow dey fall from heaven, and no dey go back dia, except e quench ⟨את⟩ di earth thirst and make am born and make am sprout, and give seed to di sower and bread to di eater:",
+  "tokens": [
+    {
+      "surface": "כִּ֡י",
+      "gloss": "for"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "יֵרֵד֩",
+      "gloss": "dey fall"
+    },
+    {
+      "surface": "הַגֶּ֨שֶׁם",
+      "gloss": "rain"
+    },
+    {
+      "surface": "וְהַשֶּׁ֜לֶג",
+      "gloss": "and snow"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הַשָּׁמַ֗יִם",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "וְשָׁ֨מָּה֙",
+      "gloss": "and go dia"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "יָשׁ֔וּב",
+      "gloss": "dey go back"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "except"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "הִרְוָ֣ה",
+      "gloss": "e quench thirst"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "וְהוֹלִידָ֖הּ",
+      "gloss": "and make am born"
+    },
+    {
+      "surface": "וְהִצְמִיחָ֑הּ",
+      "gloss": "and make am sprout"
+    },
+    {
+      "surface": "וְנָ֤תַן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "זֶ֨רַע֙",
+      "gloss": "seed"
+    },
+    {
+      "surface": "לַזֹּרֵ֔עַ",
+      "gloss": "to di sower"
+    },
+    {
+      "surface": "וְלֶ֖חֶם",
+      "gloss": "and bread"
+    },
+    {
+      "surface": "לָאֹכֵֽל",
+      "gloss": "to di eater"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:13.475137534Z",
+  "model": "glm-5.2"
+}

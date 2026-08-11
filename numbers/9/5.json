@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And dem bin do ⟨את⟩ di Pesach for di first ⟨month⟩, for di fourteenth day of di month, between di evenings, for Sinai wilderness — according to evriting wey Yahweh bin command ⟨את⟩ Moshe, so di pikin-dem of Yisrael do.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem bin do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "di Pesach"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "for di first"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "for di four-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-teenth"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "di evenings"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to evriting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:14.244344250Z",
+  "model": "glm-5.2"
+}

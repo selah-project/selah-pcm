@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Bread una no bin chop, wine and strong drink una no bin drink, so dat una go know sey na me Yahweh, ⟨na⟩ ⟨una⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "una bin chop"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "and strong drink"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "una bin drink"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "una go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:32.828466234Z",
+  "model": "glm-5.2"
+}

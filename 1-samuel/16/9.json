@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "So Yishai make Shammah pass by, and ⟨he⟩ talk say, even for dis one Yahweh never choose.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "make pass by"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shammah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "for dis one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "choose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:36.652492548Z",
+  "model": "glm-5.2"
+}

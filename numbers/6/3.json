@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "from wine and from strong drink ⟨im⟩ go separate imself; vinegar of wine and vinegar of strong drink ⟨im⟩ no go drink; and any soakings of grapes ⟨im⟩ no go drink; and grapes wey fresh and wey dry ⟨im⟩ no go chop.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "from wine"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "and from strong drink"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "go separate imself"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinegar"
+    },
+    {
+      "surface": "יין",
+      "gloss": "of wine"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "and vinegar"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "of strong drink"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "go drink"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and any"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "soakings"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "of grapes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "go drink"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "and grapes"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "wey fresh"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "and wey dry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:53.397114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "but from di fruit of di tree wey dey inside di garden, Elohim bin talk sey, 'Make una no chop from am and make una no touch am, so dat una no go die.'\"",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "but from di fruit"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "of di tree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dey inside"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "di garden"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "make una chop"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "make una touch"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "una no go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:20.913176091Z",
+  "model": "glm-5.2"
+}

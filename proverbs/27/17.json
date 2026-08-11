@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Ayon dey sharpen ayon, ⟨na⟩ so one man dey sharpen ⟨di⟩ face of im padi.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ayon"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "ayon"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "dey sharpen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "⟨na⟩ so one man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "dey sharpen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨di⟩ face of"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im padi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:35.736189774Z",
+  "model": "glm-5.2"
+}

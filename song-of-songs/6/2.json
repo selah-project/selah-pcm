@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "My lover don go down to im garden, to di spice-beds, to dey pasture for di gardens, and to dey pluck lilies.",
+  "tokens": [
+    {
+      "surface": "דּוֹדִי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "יָרַד",
+      "gloss": "don go down"
+    },
+    {
+      "surface": "לְגַנּוֹ",
+      "gloss": "to im garden"
+    },
+    {
+      "surface": "לַעֲרוּגוֹת",
+      "gloss": "to di beds"
+    },
+    {
+      "surface": "הַבֹּשֶׂם",
+      "gloss": "of spice"
+    },
+    {
+      "surface": "לִרְעוֹת",
+      "gloss": "to dey pasture"
+    },
+    {
+      "surface": "בַּגַּנִּים",
+      "gloss": "for di gardens"
+    },
+    {
+      "surface": "וְלִלְקֹט",
+      "gloss": "and to dey pluck"
+    },
+    {
+      "surface": "שׁוֹשַׁנִּים",
+      "gloss": "lilies"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:28.782232163Z",
+  "model": "glm-5.2"
+}

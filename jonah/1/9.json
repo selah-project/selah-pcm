@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And im bin tell dem, \"Hebrew I ⟨be⟩, and ⟨את⟩ Yahweh, Elohim of heaven, I dey fear — di One wey bin make ⟨את⟩ di sea and ⟨את⟩ di dry land.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin tell"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrew"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di One wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di dry land"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "di dry land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:12.663829992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "My righteousness dey near, my salvation don go out, and my arm go judge peoples; islands go wait for me, and to my arm dem go put hope.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dey near"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "my righteousness"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "don go out"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "my salvation"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "and my arm"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peoples"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "go judge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "איים",
+      "gloss": "islands"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "go wait"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "my arm"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "dem go put hope"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:05.109666939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 22:41",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And my enemies, you bin give me ⟨את⟩ dia back; dose wey hate me, and I go wipe dem out.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "and my enemies"
+    },
+    {
+      "surface": "תתה",
+      "gloss": "you bin give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me",
+      "marks": "dia back"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "back"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "dose wey hate me"
+    },
+    {
+      "surface": "ואצמיתם",
+      "gloss": "and I go wipe dem out"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:34.585724163Z",
+  "model": "glm-5.2"
+}

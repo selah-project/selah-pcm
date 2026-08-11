@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And Mosheh bin look ⟨את⟩ all di work, and laik dat, dem do ⟨את⟩ ⟨am⟩ — as Yahweh bin command, so dem do am; and Mosheh bin bless ⟨את⟩ ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֨רְא",
+      "gloss": "bin look"
+    },
+    {
+      "surface": "מֹשֶׁ֜ה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "all di work"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הַמְּלָאכָ֗ה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "וְהִנֵּה֙",
+      "gloss": "and laik dat"
+    },
+    {
+      "surface": "עָשׂ֣וּ",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "אֹתָ֔הּ",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עָשׂ֑וּ",
+      "gloss": "dem do am"
+    },
+    {
+      "surface": "וַיְבָ֥רֶךְ",
+      "gloss": "and bin bless"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩ ⟨dem⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:16.178243854Z",
+  "model": "glm-5.2"
+}

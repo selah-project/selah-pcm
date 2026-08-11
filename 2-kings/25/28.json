@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And e speak ⟨את⟩ am good words, and e put ⟨את⟩ im throne above di throne of di king-dem wey dey ⟨את⟩ am for Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and e speak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "good words"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im throne"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "im throne"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "above"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "di throne of"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "di king-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "dey ⟨את⟩ am"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "for Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:33.301991997Z",
+  "model": "glm-5.2"
+}

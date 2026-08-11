@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 141,
+  "translation": "Make righteous person strike me wit kindness, and make am correct me; na im be like oil for ⟨di⟩ head — my head no go reject am, because my prayer still dey against dia wicked doings.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "make am strike me"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous person"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "wit kindness"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "and make am correct me"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "יני",
+      "gloss": "make am reject"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my head"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "and my prayer"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "against dia wicked doings"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:16.471213801Z",
+  "model": "glm-5.2"
+}

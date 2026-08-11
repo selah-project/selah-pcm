@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 6:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di Levites comot down ⟨את⟩ ark of Yahweh, and ⟨את⟩ di box wey ⟨את⟩ ⟨dey⟩ with am, wey inside am ⟨bin dey⟩ gold tings, and dem put am on top di big stone; and di men of Bet-Shemesh carry up burnt offerings and sacrifice sacrifices dat day to Yahweh.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levites"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "comot down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark of Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di box"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "di box"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨dey⟩ with am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tings"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "וישמו",
+      "gloss": "and dem put"
+    },
+    {
+      "surface": "אל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "di stone"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "big"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "and di men of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "carry up"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "burnt offerings"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "and sacrifice"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sacrifices"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:33.031893850Z",
+  "model": "glm-5.2"
+}

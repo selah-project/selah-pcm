@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "But as for me, my feet bin almost turn comot, my steps bin almost pour finish.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֗י",
+      "gloss": "But as for me"
+    },
+    {
+      "surface": "כִּ֭מְעַט",
+      "gloss": "almost"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "turn comot"
+    },
+    {
+      "surface": "רַגְלָ֑י",
+      "gloss": "my feet"
+    },
+    {
+      "surface": "כְּ֝אַ֗יִן",
+      "gloss": "as nothing"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "pour finish"
+    },
+    {
+      "surface": "אֲשֻׁרָֽי",
+      "gloss": "my steps"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:42.643654095Z",
+  "model": "glm-5.2"
+}

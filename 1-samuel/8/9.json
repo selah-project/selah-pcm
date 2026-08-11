@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And now, hear dia voice; but make you solemnly warn dem, and tell dem di custom of di king wey go reign over dem.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "dia voice"
+    },
+    {
+      "surface": "אך",
+      "gloss": "but"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨make⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "make you solemnly warn"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "di custom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "go reign"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:39.124667028Z",
+  "model": "glm-5.2"
+}

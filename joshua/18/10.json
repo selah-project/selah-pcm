@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yehoshua bin cast lot for dem for Shiloh, before Yahweh; and for there Yehoshua divide ⟨את⟩ di land to di children of Yisra'el, according to dia divisions.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "bin cast"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "for Shiloh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "and divide"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "according to dia divisions"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:00.196230421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So you remember ⟨את⟩ di bad way of your youth, wen you press your breast for Egypt, sake of di breast of your youth.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "so you remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bad way"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "bad way"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "of your youth"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "wen you press"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "for Egypt"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "your breast"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di breast"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "of your youth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:44.818764538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 38:12",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "For your days, you ever command morning? You make dawn know im place?",
+  "tokens": [
+    {
+      "surface": "הְֽ֭מִיָּמֶיךָ",
+      "gloss": "for your days"
+    },
+    {
+      "surface": "צִוִּ֣יתָ",
+      "gloss": "you ever command"
+    },
+    {
+      "surface": "בֹּ֑קֶר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "י֓דַעְתָּֽה",
+      "gloss": "you make know"
+    },
+    {
+      "surface": "שַׁ֫חַר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "מְקֹמֽוֹ",
+      "gloss": "im place"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:47.493193248Z",
+  "model": "glm-5.2"
+}

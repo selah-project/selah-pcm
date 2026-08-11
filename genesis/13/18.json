@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So Avram move im tent, come, and siddon for ⟨di⟩ oaks of Mamre, wey dey for Chevron, and e bin build altar there for Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "so ⟨e⟩ move im tent"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "come"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and siddon"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "for ⟨di⟩ oaks of"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey for"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and ⟨e⟩ bin build"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:20.803086210Z",
+  "model": "glm-5.2"
+}

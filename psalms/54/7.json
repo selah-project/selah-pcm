@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Make e return evil to my enemies; for ⟨inside⟩ your truth make you destroy dem.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Make e return"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "to my enemies"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "for inside your truth"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "make you destroy dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:38.669864885Z",
+  "model": "glm-5.2"
+}

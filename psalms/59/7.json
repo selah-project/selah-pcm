@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Dem dey return for evening, dem dey howl like dog, and dem dey go round about di city.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "dem dey return"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "for evening"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "dem dey howl"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "like dog"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "and dem dey go round about"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "di city"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:47.752027651Z",
+  "model": "glm-5.2"
+}

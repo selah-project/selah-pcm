@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And all di oga-dem of Shekem gather, and all ⟨di⟩ house of Millo, and dem waka go, and dem make ⟨את⟩ Avimelekh king, near di big tree of di pillar wey dey for Shekem.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "and dem gather"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "oga-dem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem waka go"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "and dem make king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "near"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "big tree"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "for Shekem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:29:37.174991533Z",
+  "model": "glm-5.2"
+}

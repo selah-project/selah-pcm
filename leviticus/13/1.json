@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Yahweh bin talk to Mosheh and to Aharon, sey make dem talk,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey make dem talk"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:45.097895866Z",
+  "model": "glm-5.2"
+}

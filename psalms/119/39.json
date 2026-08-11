@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make pass away my shame wey I bin fear, because your judgment dem ⟨be⟩ good.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "make pass away"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "my shame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "I bin fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "your judgment dem"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:42.063633147Z",
+  "model": "glm-5.2"
+}

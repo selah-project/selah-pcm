@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 19:32",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Therefore like dis Yahweh talk concerning di king of Ashur: ⟨im⟩ no go enter inside dis city, and no go shoot arrow dere, and no go come meet am wit shield, and no go pour siege ramp against am.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "therefore"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "go shoot"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יקדמנה",
+      "gloss": "go come meet am"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "wit shield"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "go pour"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "siege ramp"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:00.060211771Z",
+  "model": "glm-5.2"
+}

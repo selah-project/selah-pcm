@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Make una no eat any abominable thing.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abominable thing"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:14.013416174Z",
+  "model": "glm-5.2"
+}

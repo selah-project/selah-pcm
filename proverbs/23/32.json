@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Im end go bite like snake, and like viper ⟨e go⟩ sting.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "im end"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "like snake"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "go bite"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "and like viper"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "sting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:14.323262222Z",
+  "model": "glm-5.2"
+}

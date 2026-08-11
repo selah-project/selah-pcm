@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "According to chesed of you, make you keep me alive, and I go keep ⟨di⟩ testimony of ⟨di⟩ mouth of you.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "according to chesed of you"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "make you keep me alive"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "and I go keep"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testimony"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "of mouth of you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:56.540280073Z",
+  "model": "glm-5.2"
+}

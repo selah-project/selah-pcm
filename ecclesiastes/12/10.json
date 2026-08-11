@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Qohelet seek make e find word wey sweet; and wetin dem write na straight — word of truth.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "e seek"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "make e find"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "word"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wey sweet"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "and wetin dem write"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "straight"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "word"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "of truth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:13.110434592Z",
+  "model": "glm-5.2"
+}

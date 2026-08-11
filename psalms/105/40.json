@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Dem ask, and ⟨im⟩ bring kwail, and wit bread of heaven ⟨im⟩ satisfy dem well-well.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Dem ask"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨im⟩ bring"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "kwail"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "and wit bread"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "of heaven"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "⟨im⟩ satisfy dem well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:33.107492124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Take from ⟨את⟩ dem, make dem dey do ⟨את⟩ di work of di Tents of Meeting, and you go give dem to di Levites, each man according to im work.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Take"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ from dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and make dem dey"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "to do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tents"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Meeting"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "and you go give"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "to di Levites"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levites"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "according to"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "im work"
+    }
+  ],
+  "timestamp": "2026-08-11T09:49:40.824444713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "You don put me for pit wey dey down-low, for darkness, for depths.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "you don put me"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "for pit"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "wey dey down-low"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "for darkness"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "for depths"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:27.524037976Z",
+  "model": "glm-5.2"
+}

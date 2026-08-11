@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Una ⟨be⟩ pikin-dem wey belong to Yahweh, una Elohim; make una no cut una bodi, and make una no put bald ⟨spot⟩ between una eye-dem for dead bodi.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "make una cut bodi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "make una put"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "bald"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "una eye-dem"
+    },
+    {
+      "surface": "למת",
+      "gloss": "for dead bodi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:14.012880537Z",
+  "model": "glm-5.2"
+}

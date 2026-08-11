@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Elohim my, for You I bin put my trust — make I no shame, make my enemies no rejoice on top me.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim my"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for You"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "I bin put my trust"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "I shame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "dem go rejoice"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "לי",
+      "gloss": "on top me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:43.523191918Z",
+  "model": "glm-5.2"
+}

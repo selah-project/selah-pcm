@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Because if man find ⟨את⟩ im enemy, and e let am go for good road, make Yahweh repay you wit good for di sake of today, wey you do for me.\"",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "because if"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "find"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im enemy"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "im enemy"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "and let am go"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for road"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "and Yahweh"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "repay you"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wit good"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "you do"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:31.774471998Z",
+  "model": "glm-5.2"
+}

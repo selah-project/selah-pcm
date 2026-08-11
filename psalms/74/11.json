@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Why you dey draw back your hand, even your right hand? From inside your chest, finish ⟨am⟩!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "you dey draw back"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "even your right hand"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "your chest"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:22.315546567Z",
+  "model": "glm-5.2"
+}

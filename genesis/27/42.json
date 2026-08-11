@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And dem tell Rivka ⟨את⟩ di words of Esav im first-born pikin, and she send go call Yaakov im last-born pikin, and she tell am say, Look, Esav your brother dey console imself about you, to kill you.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di words"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "of Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "di first-born"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "and she send"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "go call"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "di last-born"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she tell am"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "say"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "dey console imself"
+    },
+    {
+      "surface": "לך",
+      "gloss": "about you"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "to kill you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:04.305768707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di sun go turn to darkness, and di moon to blood, before di great and terrible day of Yahweh ⟨dey⟩ come.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "go turn"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "to darkness"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "and di moon"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "to blood"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "come"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "di great"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "and di terrible"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:17.637580538Z",
+  "model": "glm-5.2"
+}

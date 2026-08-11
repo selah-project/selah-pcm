@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And una see dia detestable tin dem and ⟨את⟩ dia log-idol dem — wood and stone, silver and gold, wey dey wit dem.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "and una see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia detestable tin dem"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "dia detestable tin dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia log-idol dem"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "dia log-idol dem"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wood"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "and stone"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "dey wit dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:16.299257878Z",
+  "model": "glm-5.2"
+}

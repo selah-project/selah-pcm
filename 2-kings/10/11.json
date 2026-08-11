@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yehu strike ⟨את⟩ all di ones wey remain to house of Achav for Yizreel, and all im great men, and im close friends, and im priests, until ⟨e⟩ no leave survivor for am.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di ones wey remain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "di ones wey remain"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to house"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "for Yizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "im great men"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "and im close friends"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "and im priests"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "leave"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "survivor"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:47.591085758Z",
+  "model": "glm-5.2"
+}

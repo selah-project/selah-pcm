@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨he⟩ bin judge ⟨את⟩ Yisra'el twenty and three year, and ⟨he⟩ bin die, and dem bin bury ⟨am⟩ for Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "bin judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "bin die"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dem bin bury"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "for Shamir"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:48.217203486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go put di turban on top im head, and you go put ⟨את⟩ di holy crown on top di turban.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "di turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di holy crown"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "di crown"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "di turban"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:52.720981904Z",
+  "model": "glm-5.2"
+}

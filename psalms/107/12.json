@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "So im humble dia heart with hard work; dem stumble, and no helper dey.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "So im humble"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "with hard work"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "dem stumble"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper dey"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:08.674401428Z",
+  "model": "glm-5.2"
+}

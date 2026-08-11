@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "But dem no hear, and dem no bend ⟨את⟩ dia ear; and dem make ⟨את⟩ dia neck stiff, so dat dem no go hear at all, and dem no go take correction at all.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "but dem no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem no"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia ear"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "dia ear"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "and dem make stiff"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia neck"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "dia neck"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "so dat dem no"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "and so dat dem no"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "take"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "correction"
+    }
+  ],
+  "timestamp": "2026-08-11T11:47:10.379543894Z",
+  "model": "glm-5.2"
+}

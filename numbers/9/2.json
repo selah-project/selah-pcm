@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Make pikin-dem of Yisra'el do ⟨את⟩ di Pesach for im appointed time.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "make … do"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "di Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "for im appointed time"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:25.809828666Z",
+  "model": "glm-5.2"
+}

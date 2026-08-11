@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Love ⟨את⟩ Yahweh, all una im kedoshim! ⟨Na⟩ ⟨im⟩ wey dey faithful Yahweh dey guard; and e dey pay back full-full di pesin wey dey do pride.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "im kedoshim"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wey dey faithful"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "dey guard"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "and e dey pay back"
+    },
+    {
+      "surface": "על",
+      "gloss": "full-full"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "complete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "di pesin wey dey do"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pride"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:02.378770354Z",
+  "model": "glm-5.2"
+}

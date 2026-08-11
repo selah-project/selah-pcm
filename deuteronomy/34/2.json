@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And ⟨את⟩ all Naphtali, and ⟨את⟩ di land of Ephrayim and Menasheh, and ⟨את⟩ all di land of Yehudah, reach di last sea.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all Naphtali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "land of Ephrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Ephrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "and Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di land of Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "di last"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:32.302480651Z",
+  "model": "glm-5.2"
+}

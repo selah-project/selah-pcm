@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And give charge to ⟨את⟩ Yehoshua, and strengthen am and make am strong, because na im go cross go front of dis people, and na im go make ⟨את⟩ dem inherit ⟨את⟩ di land wey you go see.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "and give charge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "and strengthen am"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "and make am strong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "go cross"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "go front of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and na im"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "go make dem inherit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "you go see"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:04.871744559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Sing new song to Yahweh, im praise from di end of di earth! Una wey dey go down to di sea and everytin wey dey inside, islands and di people wey dey live for dia!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "im praise"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "from di end"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "una wey dey go down"
+    },
+    {
+      "surface": "הים",
+      "gloss": "to di sea"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "and everytin wey dey inside"
+    },
+    {
+      "surface": "איים",
+      "gloss": "islands"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "and di people wey dey live for dia"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:42.476272493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "For those days, and for dat time — oracle of Yahweh — di sons of Yisrael go come, dem and di sons of Yehudah together; dey go and dey cry, dem go dey go, and ⟨את⟩ Yahweh dia Elohim dem go seek.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "for those days"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "those"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "and for dat time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "go come"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "and dey cry"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dem go dey go"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yahweh dia Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "dem go seek"
+    }
+  ],
+  "timestamp": "2026-08-11T12:00:52.949814542Z",
+  "model": "glm-5.2"
+}

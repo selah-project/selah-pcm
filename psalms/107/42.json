@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Di upright go see, and dem go glad; and all wickedness go shut im mouth.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "go see"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "di upright"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "and dem go glad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "go shut"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:51.197468811Z",
+  "model": "glm-5.2"
+}

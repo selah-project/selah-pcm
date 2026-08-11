@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And e give dia crop to caterpillar, and dia hard work to locust.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּ֣ן",
+      "gloss": "and e give"
+    },
+    {
+      "surface": "לֶחָסִ֣יל",
+      "gloss": "to caterpillar"
+    },
+    {
+      "surface": "יְבוּלָ֑ם",
+      "gloss": "dia crop"
+    },
+    {
+      "surface": "וִֽ֝יגִיעָ֗ם",
+      "gloss": "and dia hard work"
+    },
+    {
+      "surface": "לָאַרְבֶּֽה",
+      "gloss": "to locust"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.200655928Z",
+  "model": "glm-5.2"
+}

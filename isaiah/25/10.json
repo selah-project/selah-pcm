@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Because hand of Yahweh go rest on top dis mountain, and Moab go dey trampled down under am, as dem dey trample straw for inside water of dunghill.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "go rest"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "on top mountain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "and go dey trampled"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "as dem dey trample"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "straw"
+    },
+    {
+      "surface": "במי",
+      "gloss": "for inside water"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "of dunghill"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:27.266737930Z",
+  "model": "glm-5.2"
+}

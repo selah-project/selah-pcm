@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Anybody wey strike ⟨a⟩ life — by mouth of witnesses dem go murder ⟨את⟩ di murderer; but one witness no go answer against ⟨a⟩ life make ⟨e⟩ die.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Anybody"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "wey strike"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨a⟩ life"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by mouth of"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "witnesses"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "dem go murder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di murderer"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "di murderer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "but witness"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "answer"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "against ⟨a⟩ life"
+    },
+    {
+      "surface": "למות",
+      "gloss": "make ⟨e⟩ die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:28.555835612Z",
+  "model": "glm-5.2"
+}

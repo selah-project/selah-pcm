@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And even evri man wey ⟨dey⟩ chop and drink, and ⟨dey⟩ see good for all im hard work — ⟨na⟩ gift of Elohim ⟨e be⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "wey chop"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "and drink"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "im hard work"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e be"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:43.164142044Z",
+  "model": "glm-5.2"
+}

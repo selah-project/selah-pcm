@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di magicians do so wit dia secret arts to bring out ⟨את⟩ di lice, but dem no fit; and ⟨lice⟩ come ⟨to be⟩ on man and on beast.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "di magicians"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "wit dia secret arts"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "to bring out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lice"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "di lice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dem fit"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and ⟨lice⟩ come ⟨to be⟩"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "lice"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "on man"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "and on beast"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:23.307396770Z",
+  "model": "glm-5.2"
+}

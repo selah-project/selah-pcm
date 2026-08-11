@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di man bin call names to all di livestock and to di bird of di heaven and to all di animal of di field; but for Adam ⟨e⟩ no find helper wey dey face am.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "And bin call"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "names"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di livestock"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "and to bird"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of di heaven"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "חית",
+      "gloss": "animal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "but for Adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "find"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wey dey face am"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:24.726505616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Dawid bin do as Elohim bin command am; and dem strike ⟨את⟩ di camp of di Pelishtites, from Giv'on even reach Gezerah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and bin do"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bin command am"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di camp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of di Pelishtites"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "from Giv'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "even reach"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezerah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:33.089346321Z",
+  "model": "glm-5.2"
+}

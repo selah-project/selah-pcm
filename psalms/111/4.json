@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 111,
+  "translation": "Memorial ⟨e⟩ make for ⟨im⟩ wonderful works; Yahweh ⟨be⟩ gracious and compassionate.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Memorial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨e⟩ make"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "for ⟨im⟩ wonderful works"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "gracious"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "and compassionate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.503009820Z",
+  "model": "glm-5.2"
+}

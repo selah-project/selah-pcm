@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e talk: 'Which way we go go up?' And e talk sey: 'Na di way of di wilderness of Edom.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אי",
+      "gloss": "which"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di way"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "we go go up"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di way"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "of di wilderness"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "of Edom"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:41.532088803Z",
+  "model": "glm-5.2"
+}

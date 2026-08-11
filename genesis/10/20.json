@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Dis one na di sons of Ham, according to dia families, according to dia tongues, for dia lands, among dia nations.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis one"
+    },
+    {
+      "surface": "בני",
+      "gloss": "na di sons"
+    },
+    {
+      "surface": "חם",
+      "gloss": "of Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "according to dia families"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "according to dia tongues"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "for dia lands"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "among dia nations"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:28.649291703Z",
+  "model": "glm-5.2"
+}

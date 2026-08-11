@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "For dat time — na oracle of Yahweh — I go be Elohim to all di families of Yisrael, and dem go be ⟨my⟩ people.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "for dat time"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "I go be"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "families"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:52:55.716157327Z",
+  "model": "glm-5.2"
+}

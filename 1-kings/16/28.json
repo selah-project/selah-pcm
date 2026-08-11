@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Omri sleep wit im papa dem, and dem bury am for Shomron, and Ach'av im son become king under am.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and sleep"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa dem"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and become king"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ach'av"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:50.178956318Z",
+  "model": "glm-5.2"
+}

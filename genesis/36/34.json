@@ -1,0 +1,41 @@
+{
+  "tier": "hand",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And Yovav die, and Husham from di land of di Temani rule for im place.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "And e die"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and e rule"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im place"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Husham"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "of di Temani"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.763519243Z",
+  "model": "claude-opus-4-8"
+}

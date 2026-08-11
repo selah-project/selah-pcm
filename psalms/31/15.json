@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "But me, I put my trust for you, Yahweh; I talk sey, 'You ⟨be⟩ my Elohim.'",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֤י",
+      "gloss": "but me"
+    },
+    {
+      "surface": "עָלֶ֣יךָ",
+      "gloss": "for you"
+    },
+    {
+      "surface": "בָטַ֣חְתִּי",
+      "gloss": "I put my trust"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָ֝מַ֗רְתִּי",
+      "gloss": "I talk"
+    },
+    {
+      "surface": "אֱלֹהַ֥י",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "you ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:10.545496755Z",
+  "model": "glm-5.2"
+}

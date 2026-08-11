@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Because I ⟨be⟩ poor and needy, and my heart dey wounded inside me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "and my heart"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "dey wounded"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inside me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:18.493025029Z",
+  "model": "glm-5.2"
+}

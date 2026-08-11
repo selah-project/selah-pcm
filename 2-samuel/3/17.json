@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di word wey Abner bin get wit di elders of Yisrael, sey: \"Both yesterday and di day before, una bin dey find ⟨את⟩ Davidi make e be king over una.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "di word of"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin get"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "di elders of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "yesterday"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "di day before"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "una bin"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "dey find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "make e be king"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:02.510802312Z",
+  "model": "glm-5.2"
+}

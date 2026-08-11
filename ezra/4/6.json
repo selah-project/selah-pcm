@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And for di kingdom of Achashverosh, for di beginning of im kingdom, dem write accusation against di people wey dey live for Yehudah and Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "and for di kingdom"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "for di beginning"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "of im kingdom"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "dem write"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "accusation"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey live"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:59.766061163Z",
+  "model": "glm-5.2"
+}

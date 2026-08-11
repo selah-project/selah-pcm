@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "For your name dem dey rejoice all day, and for your righteousness dem go dey lift up.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "for your name"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "dem dey rejoice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "and for your righteousness"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "dem go dey lift up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:08.664218140Z",
+  "model": "glm-5.2"
+}

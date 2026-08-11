@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Dia poison ⟨na⟩ like di poison of snake, like deaf adder wey dey shut im ear,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "poison"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "like"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "poison"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "snake"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "adder"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "deaf"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "wey dey shut"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "im ear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:42.129485265Z",
+  "model": "glm-5.2"
+}

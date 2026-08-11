@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 1:7",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Una dey bring near on top my altar food wey don defile, and una talk, 'With wetin we defile you?' — for as una dey talk sey, 'Di table of Yahweh, e don become sometin wey dem dey disesteem.'",
+  "tokens": [
+    {
+      "surface": "מגישים",
+      "gloss": "una dey bring near"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "my altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "food"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "wey don defile"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "and una talk"
+    },
+    {
+      "surface": "במה",
+      "gloss": "with wetin"
+    },
+    {
+      "surface": "גאלנוך",
+      "gloss": "we defile you"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "for as una dey talk"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "e don become sometin wey dem dey disesteem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-08-11T12:36:45.612193753Z",
+  "model": "glm-5.2"
+}

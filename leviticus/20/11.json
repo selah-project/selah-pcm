@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And any man wey go lie down with ⟨את⟩ wife of im papa — ⟨na⟩ nakedness of im papa e don uncover — na death dem go use kill both of dem; dia blood dey on top dem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "and any man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wife of im papa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of im papa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakedness"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of im papa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "e don uncover"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dem go kill"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "both of dem"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "dia blood"
+    },
+    {
+      "surface": "בם",
+      "gloss": "on top dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:54.547466145Z",
+  "model": "glm-5.2"
+}

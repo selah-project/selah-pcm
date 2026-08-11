@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Southward ⟨na⟩ for Efrayim, and northward for Menasheh, and di sea bin ⟨be⟩ im border; and for Asher dem go meet from north, and for Yissaskar from east.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "southward"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "for Efrayim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "and northward"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "for Menasheh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin ⟨be⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "im border"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "and for Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "dem go meet"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "from north"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "and for Yissaskar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "from east"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:39.068658286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And Yaakov bless ⟨את⟩ Paroh, and e komot from before Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "and bless"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and komot"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:53.450011999Z",
+  "model": "glm-5.2"
+}

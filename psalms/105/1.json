@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Make una give tank to Yahweh, make una call ⟨na⟩ for im name; make una make am know among di pipo, wetin im don do.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "make una give tank"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "make una call"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "for im name"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "make una make ⟨am⟩ know"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "among di pipo"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "wetin im don do"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:23.802995467Z",
+  "model": "glm-5.2"
+}

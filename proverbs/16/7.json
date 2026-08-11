@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "When Yahweh dey pleased wit di ways of a man, even im enemies, ⟨im⟩ go make dem ⟨be⟩ at peace wit ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "when pleased"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ways of"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "go make peace"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:11:03.238216394Z",
+  "model": "glm-5.2"
+}

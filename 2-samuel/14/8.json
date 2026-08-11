@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di king talk to di woman, \"Go to your house, and ⟨na⟩ me go give order concerning you.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "go"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "to your house"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and me"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "go give order"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "concerning you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:41.369666101Z",
+  "model": "glm-5.2"
+}

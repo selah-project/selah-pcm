@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 15:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And wine for di drink offering, one fourth of di hin, you go prepare upon di burnt offering or for di sacrifice, for di one ram-lamb.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "for di drink offering"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "one fourth"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "of di hin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go prepare"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "for di sacrifice"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "for di ram-lamb"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    }
+  ],
+  "timestamp": "2026-08-11T14:26:08.993615683Z",
+  "model": "glm-5.2"
+}

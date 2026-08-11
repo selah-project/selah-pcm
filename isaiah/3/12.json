@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨As for⟩ my people — small-small children ⟨be⟩ dia oppressors, and women dey rule over am. My people — dem wey dey bless you dey lead you astray, and dem don swallow di road of your paths.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "dia oppressors"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "small-small children"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "and women"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "dey rule"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "dem wey dey bless you"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "dey lead astray"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "and di road"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "of your paths"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "dem don swallow"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:29.374048203Z",
+  "model": "glm-5.2"
+}

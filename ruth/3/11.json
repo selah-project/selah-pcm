@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And now, my daughter, no fear. Wetin you go talk, I go do am for you, because all di gate of my people sabi sey you ⟨be⟩ woman of valor.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "my daughter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "you go talk"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gate"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "woman of"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valor"
+    },
+    {
+      "surface": "את",
+      "gloss": "you",
+      "marks": "you (addressed)"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:01.413670087Z",
+  "model": "glm-5.2"
+}

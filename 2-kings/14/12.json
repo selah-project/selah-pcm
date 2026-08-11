@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yehudah bin fall before Yisra'el, and evri man run go im tent.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "and bin fall"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and run go"
+    },
+    {
+      "surface": "איש",
+      "gloss": "evri man"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "im tent"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:10.908586898Z",
+  "model": "glm-5.2"
+}

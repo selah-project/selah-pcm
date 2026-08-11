@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Make una sing play for Yahweh, unu wey be im kedoshim, and make una give thanks to di remembrance of im kodesh.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "make una sing play"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "unu wey be im kedoshim"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "and make una give thanks"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "to di remembrance"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "of im kodesh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:01.874211332Z",
+  "model": "glm-5.2"
+}

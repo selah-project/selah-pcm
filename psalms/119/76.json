@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Make Your chesed come, abeg, to comfort me, as You talk to Your servant.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Make"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Your chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "to comfort me"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "as You talk"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "to Your servant"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:47.472314757Z",
+  "model": "glm-5.2"
+}

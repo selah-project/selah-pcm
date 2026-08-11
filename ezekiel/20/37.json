@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And I go make ⟨את⟩ una pass under di rod, and I go bring ⟨את⟩ una enter di bond of di covenant.",
+  "tokens": [
+    {
+      "surface": "וְהַעֲבַרְתִּי",
+      "gloss": "and I go make pass"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הַשָּׁבֶט",
+      "gloss": "di rod"
+    },
+    {
+      "surface": "וְהֵבֵאתִי",
+      "gloss": "and I go bring"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בְּמָסֹרֶת",
+      "gloss": "enter di bond"
+    },
+    {
+      "surface": "הַבְּרִית",
+      "gloss": "of di covenant"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:19.589615625Z",
+  "model": "glm-5.2"
+}

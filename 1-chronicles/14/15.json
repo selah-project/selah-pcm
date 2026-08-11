@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e go be, wen you hear ⟨את⟩ di sound of marching for di top of di baka trees, den you go go out for battle; because Elohim don go out before you, to strike ⟨את⟩ di camp of di Pelishtites.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "wen you hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sound"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "of marching"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "for di top of"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "di baka trees"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "you go go out"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "for battle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "don go out"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "to strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di camp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of di Pelishtites"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:33.089202569Z",
+  "model": "glm-5.2"
+}

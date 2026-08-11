@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "⟨Di⟩ enemy don finish; desolations ⟨dem⟩ don last forever; and cities, you bin tear up. ⟨Dem⟩ memory don perish — na so.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "⟨di⟩ enemy"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "desolations"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "and cities"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "you bin tear up"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "⟨dem⟩ memory"
+    },
+    {
+      "surface": "המה",
+      "gloss": "na so"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:52.371797452Z",
+  "model": "glm-5.2"
+}

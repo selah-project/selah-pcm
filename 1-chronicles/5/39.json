@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "and Shallum born ⟨את⟩ Chilqijah, and Chilqijah born ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "and Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilqijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilqijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "and Chilqijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:54.043514256Z",
+  "model": "glm-5.2"
+}

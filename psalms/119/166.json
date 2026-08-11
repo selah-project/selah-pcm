@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin dey wait for ⟨את⟩ your salvation, O Yahweh, and your commandments I don do.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "I bin dey wait"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "for your salvation"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "and your commandments"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I don do"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.825984883Z",
+  "model": "glm-5.2"
+}

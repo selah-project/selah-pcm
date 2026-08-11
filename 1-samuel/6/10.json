@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Di men do so, and dem take two cows wey dey give milk, tie dem to di cart, and ⟨את⟩ dia young ones dem lock inside house.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂ֤וּ",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "הָאֲנָשִׁים֙",
+      "gloss": "di men"
+    },
+    {
+      "surface": "כֵּ֔ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "וַיִּקְח֗וּ",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "שְׁתֵּ֤י",
+      "gloss": "two"
+    },
+    {
+      "surface": "פָרוֹת֙",
+      "gloss": "cows"
+    },
+    {
+      "surface": "עָל֔וֹת",
+      "gloss": "wey dey give milk"
+    },
+    {
+      "surface": "וַיַּאַסְר֖וּם",
+      "gloss": "dem tie dem"
+    },
+    {
+      "surface": "בָּעֲגָלָ֑ה",
+      "gloss": "to di cart"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia young ones"
+    },
+    {
+      "surface": "בְּנֵיהֶ֖ם",
+      "gloss": "dia young ones"
+    },
+    {
+      "surface": "כָּל֥וּ",
+      "gloss": "dem lock"
+    },
+    {
+      "surface": "בַבָּֽיִת",
+      "gloss": "inside house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:25.698797494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and dem go lock ⟨di⟩ two doors for di street; for di time wey di sound of di grinding dey low, and ⟨person⟩ go wake up for di sound of di bird, and all di daughters of song go bow down.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "and dem go lock"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "two doors"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "for di street"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "for di time wey"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di sound of"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "di grinding"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "and go wake up"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "for di sound of"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "and go bow down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "di daughters of"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "song"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:14.571638739Z",
+  "model": "glm-5.2"
+}

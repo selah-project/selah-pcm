@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 80,
+  "translation": "You feed dem wit bread of tears, and you give dem ⟨to⟩ drink wit tears ⟨for⟩ di third time.",
+  "tokens": [
+    {
+      "surface": "הֶ֭אֱכַלְתָּם",
+      "gloss": "you feed dem"
+    },
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "wit bread"
+    },
+    {
+      "surface": "דִּמְעָ֑ה",
+      "gloss": "of tears"
+    },
+    {
+      "surface": "וַ֝תַּשְׁקֵ֗מוֹ",
+      "gloss": "and you give dem drink"
+    },
+    {
+      "surface": "בִּדְמָע֥וֹת",
+      "gloss": "wit tears"
+    },
+    {
+      "surface": "שָׁלִֽישׁ",
+      "gloss": "third time"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:06.811822455Z",
+  "model": "glm-5.2"
+}

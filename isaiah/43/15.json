@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "I ⟨na⟩ Yahweh, una Holy One, Creator of Yisrael, una King.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "I"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קְדֽוֹשְׁכֶם",
+      "gloss": "una Holy One"
+    },
+    {
+      "surface": "בּוֹרֵא",
+      "gloss": "Creator"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "מַלְכְּכֶם",
+      "gloss": "una King"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:03.856712499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di people answer and talk sey, far be am from us make we forsake ⟨את⟩ Yahweh, to serve oda elohim.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "and di people answer"
+    },
+    {
+      "surface": "העם",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk sey"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "far be am"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "make we"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "forsake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "to serve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:29.491433924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim of hosts, who ⟨be⟩ like you? Strong Yah! And your faithfulness ⟨dey⟩ round about you.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹ֘הֵ֤י",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "צְבָא֗וֹת",
+      "gloss": "hosts"
+    },
+    {
+      "surface": "מִֽי",
+      "gloss": "who"
+    },
+    {
+      "surface": "כָֽמ֖וֹךָ",
+      "gloss": "like you"
+    },
+    {
+      "surface": "חֲסִ֥ין",
+      "gloss": "Strong"
+    },
+    {
+      "surface": "יָ֑הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "וֶ֝אֱמֽוּנָתְךָ֗",
+      "gloss": "and your faithfulness"
+    },
+    {
+      "surface": "סְבִיבוֹתֶֽיךָ",
+      "gloss": "round about you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:33.004301481Z",
+  "model": "glm-5.2"
+}

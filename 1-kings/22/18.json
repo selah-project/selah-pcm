@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And di king of Yisra'el talk to Yehoshafat, Ah no tell you sey, im no dey prophesy good about me, but bad?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "abi no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ah tell"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "you"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "im dey prophesy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "about me"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "only"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:49.722533270Z",
+  "model": "glm-5.2"
+}

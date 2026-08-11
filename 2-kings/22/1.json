@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Eight year old ⟨na⟩ Yoshiyahu wen ⟨im⟩ begin king, and thirty and one year ⟨im⟩ king for Yerushalayim. Di name of im mama ⟨na⟩ Yedidah, daughter of Adayah, from Botzkat.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eight"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "wen begin king"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "and one"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and di name"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "of im mama"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "Yedidah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "of Adayah"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "from Botzkat"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:20.472482646Z",
+  "model": "glm-5.2"
+}

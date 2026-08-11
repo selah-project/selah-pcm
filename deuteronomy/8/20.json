@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Like di nation-dem wey Yahweh dey destroy from your presence, so una go perish; sake of say una no go hear ⟨di⟩ voice of Yahweh your Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "like di nation-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "dey destroy"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "from your presence"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "una go perish"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "una go hear"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "di voice of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:40.609931948Z",
+  "model": "glm-5.2"
+}

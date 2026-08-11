@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And if ⟨na⟩ grain offering on top di griddle ⟨na⟩ your offering, fine flour wey dem mix wit oil, unleavened bread e go be.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "grain offering"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "di griddle"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "your offering"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "mix"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wit oil"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "unleavened bread"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e go be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:26.597649532Z",
+  "model": "glm-5.2"
+}

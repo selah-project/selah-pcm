@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Person no see ⟨את⟩ im brother, and nobody rise from under imself three days; but for all di children of Yisra'el, light dey for where dem dey stay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "see"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Person"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im brother"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "rise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "person"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "from under imself"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "but for all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "אור",
+      "gloss": "light"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "for where dem dey stay"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:44.326555183Z",
+  "model": "glm-5.2"
+}

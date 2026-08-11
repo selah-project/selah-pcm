@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "On top you dem don throw me from womb; from belly of my mama, na you ⟨be⟩ my El.",
+  "tokens": [
+    {
+      "surface": "עָ֭לֶיךָ",
+      "gloss": "On top you"
+    },
+    {
+      "surface": "הָשְׁלַ֣כְתִּי",
+      "gloss": "dem don throw me"
+    },
+    {
+      "surface": "מֵרָ֑חֶם",
+      "gloss": "from womb"
+    },
+    {
+      "surface": "מִבֶּ֥טֶן",
+      "gloss": "from belly"
+    },
+    {
+      "surface": "אִ֝מִּ֗י",
+      "gloss": "of my mama"
+    },
+    {
+      "surface": "אֵ֣לִי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "na you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:50.693690382Z",
+  "model": "glm-5.2"
+}

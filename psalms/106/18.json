@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Fire bin blaze inside dia congregation, flame bin catch di wicked dem.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "and bin blaze"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "inside dia congregation"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "flame"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "bin catch"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "di wicked dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:12.265221999Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Lift up, una gates, una heads, and lift up, una everlasting doors, and make ⟨di⟩ King of glory come in!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lift up"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gates"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "una heads"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "and lift up"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "doors"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and make ⟨di⟩ ... come in"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "of glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:10.437265359Z",
+  "model": "glm-5.2"
+}

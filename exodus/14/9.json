@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di Mitsrayim bin pursue after dem, and dem bin catch up wit dem as dem dey camp by di sea — all di horse, chariot of Paroh, and im horsemen, and im army — for Pi-HaChiroth, for front of Baal-Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "and dem bin pursue"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "after dem"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "and dem bin catch up"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (di ones wey dey camp)"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "wey dey camp"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "horse"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "and im horsemen"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "and im army"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi-"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "HaChiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:26.555513622Z",
+  "model": "glm-5.2"
+}

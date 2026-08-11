@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Becos of dat, from im face I dey tremble; I dey reason am, and I dey fear am.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "becos of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "from im face"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "I dey tremble"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "I dey reason am"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "and I dey fear"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:18.874383861Z",
+  "model": "glm-5.2"
+}

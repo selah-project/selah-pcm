@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "A thousand for one tribe, a thousand for one tribe — for all di tribe-dem of Yisra'el una go send to war.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "A thousand"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "for one tribe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a thousand"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "for one tribe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "tribe-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "una go send"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "to war"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:23.291601906Z",
+  "model": "glm-5.2"
+}

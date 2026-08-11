@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨dem⟩ make di matter known to Mordekai, and im tell Ester di queen, and Ester tell di king for Mordekai im name.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "And ⟨dem⟩ make known"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "to Mordekai"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "di queen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di name of"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:26.226463932Z",
+  "model": "glm-5.2"
+}

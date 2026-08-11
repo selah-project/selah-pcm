@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Filistia man talk sey, 'I don pour shame on ⟨את⟩ di battle-array of Yisrael dis day; give me one man, make we fight together.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "don pour shame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di battle-array"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "battle-array"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "make we fight"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:03.079682239Z",
+  "model": "glm-5.2"
+}

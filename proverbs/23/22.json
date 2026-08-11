@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Hear your papa, dis one wey born you, and no despise your mama when she don dey old.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "wey born you"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "despise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "she don dey old"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "your mama"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:16.153369337Z",
+  "model": "glm-5.2"
+}

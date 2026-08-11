@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Truly, for shadow man dey walk; truly, for vapor dem dey make noise; ⟨he⟩ dey heap up, and ⟨he⟩ no know who go gather ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Truly"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "for shadow"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "man dey walk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "truly"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "for vapor"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "dem dey make noise"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "⟨he⟩ dey heap up"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨he⟩ no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "go gather ⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:52.818314076Z",
+  "model": "glm-5.2"
+}

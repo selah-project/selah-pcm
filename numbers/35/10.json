@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Speak unto di pikin-dem of Yisra'el, and tell dem sey: as una dey cross over ⟨את⟩ ha-Yarden, go land of Kena'an:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dey cross over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ha-Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "go land of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:05.722882804Z",
+  "model": "glm-5.2"
+}

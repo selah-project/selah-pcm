@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And He too ⟨be⟩ wise, and ⟨He⟩ go bring evil, and ⟨את⟩ im words ⟨He⟩ no go turn back; and ⟨He⟩ go stand up against di house of evildoers, and against di help of workers of iniquity.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "And too"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "He"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and go bring"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im words"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "im words"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "and go stand up"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "of evildoers"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "di help"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "of workers"
+    },
+    {
+      "surface": "און",
+      "gloss": "of iniquity"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:40.962950101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And Yisra'el bin talk to Yosef, ⟨make⟩ I die dis time, after I don see ⟨את⟩ your face, sey you still dey alive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "⟨make⟩ I die"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "dis time"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "I don see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "you still"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey alive"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:59.576470929Z",
+  "model": "glm-5.2"
+}

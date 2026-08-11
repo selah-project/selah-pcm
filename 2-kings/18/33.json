@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Abi na Elohim of di nations don ever rescue, each one ⟨את⟩ im land, from hand of king of Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "abi na don ever rescue"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "rescue"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:12.743574881Z",
+  "model": "glm-5.2"
+}

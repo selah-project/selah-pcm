@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Because Yahweh dey hear di needy dem, and ⟨את⟩ im captives im no despise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dey hear"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "di needy dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "im captives"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "im captives"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "despise"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:41.714720787Z",
+  "model": "glm-5.2"
+}

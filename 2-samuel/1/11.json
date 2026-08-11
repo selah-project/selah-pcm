@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Den David hold im clothe and tear dem; and all di men wey dey ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "den e hold"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "im clothe"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "and tear dem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dey with am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:03.383613104Z",
+  "model": "glm-5.2"
+}

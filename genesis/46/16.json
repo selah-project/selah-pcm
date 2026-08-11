@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "And di sons of Gad: Tzifyon, and Chaggi, Shuni, and Etsbon, Eri, and Arodi, and Are'eli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And di sons of"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Tzifyon"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "and Chaggi"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Shuni"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "and Etsbon"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "and Arodi"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "and Are'eli"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:34.322452560Z",
+  "model": "glm-5.2"
+}

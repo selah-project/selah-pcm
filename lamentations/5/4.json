@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Our water we drink am with silver; our wood dey come with price.",
+  "tokens": [
+    {
+      "surface": "מֵימֵ֨ינוּ",
+      "gloss": "Our water"
+    },
+    {
+      "surface": "בְּכֶ֣סֶף",
+      "gloss": "with silver"
+    },
+    {
+      "surface": "שָׁתִ֔ינוּ",
+      "gloss": "we drink am"
+    },
+    {
+      "surface": "עֵצֵ֖ינוּ",
+      "gloss": "our wood"
+    },
+    {
+      "surface": "בִּמְחִ֥יר",
+      "gloss": "with price"
+    },
+    {
+      "surface": "יָבֹֽאוּ",
+      "gloss": "dey come"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:56.170907786Z",
+  "model": "glm-5.2"
+}

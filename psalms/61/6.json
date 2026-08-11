@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "Because you, Elohim, don hear my vows; you don give di inheritance of dem wey fear your name.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שָׁמַ֣עְתָּ",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "לִנְדָרָ֑י",
+      "gloss": "my vows"
+    },
+    {
+      "surface": "נָתַ֥תָּ",
+      "gloss": "you don give"
+    },
+    {
+      "surface": "יְרֻשַּׁ֗ת",
+      "gloss": "di inheritance"
+    },
+    {
+      "surface": "יִרְאֵ֥י",
+      "gloss": "of dem wey fear"
+    },
+    {
+      "surface": "שְׁמֶֽךָ",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:03.768193425Z",
+  "model": "glm-5.2"
+}

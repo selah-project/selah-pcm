@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And e bin touch am on top my mouth, and e talk, see, dis one don touch your lips, and your iniquity don comot, and your sin don get atonement.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "and e bin touch"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mouth"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "don touch"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "על",
+      "gloss": "your"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lips"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "don comot"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "your iniquity"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "and your sin"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "don get atonement"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:49.036043783Z",
+  "model": "glm-5.2"
+}

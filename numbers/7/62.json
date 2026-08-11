@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "one gold dish of ten shekel, full of incense.",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "dish"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "one"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "ten ⟨shekel⟩"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:17.588644085Z",
+  "model": "glm-5.2"
+}

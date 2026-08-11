@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "⟨Dem⟩ dey come for fight ⟨את⟩ di Kasdim, and for fill dem wit ⟨את⟩ dead-body of man wey I strike for My anger and for My fury, and wey I hide My face from dis city, upon all dia wickedness.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "⟨Dem⟩ dey come"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for fight"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Kasdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "and for fill dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dead-body of man"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dead-body"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "I strike"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "for My anger"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "and for My fury"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "I hide"
+    },
+    {
+      "surface": "פני",
+      "gloss": "My face"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "from di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "dia wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:53:20.966973003Z",
+  "model": "glm-5.2"
+}

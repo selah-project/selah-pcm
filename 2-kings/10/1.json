@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 10:1",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Now Ahab get seventy sons for Shomron. So Yehu write letter dem, and send go Shomron to di chief dem of Yizre'el, to di elder dem, and to di guardian dem of Ahab, sey:",
+  "tokens": [
+    {
+      "surface": "ולאחאב",
+      "gloss": "Now Ahab get"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "for Shomron"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "so write"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letter dem"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "go Shomron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di chief dem of"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "di elder dem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "di guardian dem of"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:19.352566465Z",
+  "model": "glm-5.2"
+}

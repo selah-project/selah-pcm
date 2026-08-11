@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Yosef bin remember ⟨את⟩ di dreams wey e bin dream for dem, and e tell dem sey, \"Una be spy dem, to come see ⟨את⟩ di nakedness of di land una don come.\"",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "and bin remember"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dreams"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "di dreams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "bin dream"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spy dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to come see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nakedness"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakedness"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "una don come"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:55.595874894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "So Yaakob bin komot from Be'er-Sheva, and e bin go toward Haran.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "bin komot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "from"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Be'er-Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "toward Haran"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:42.278879275Z",
+  "model": "glm-5.2"
+}

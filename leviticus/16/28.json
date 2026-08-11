@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di man wey burn ⟨את⟩ dem go wash im clothes, and im go wash ⟨את⟩ im flesh for water, and after dat im go come enter di camp.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "And di man wey burn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "go wash"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im clothes"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "and im go wash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im flesh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "and after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "im go come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:06.441723417Z",
+  "model": "glm-5.2"
+}

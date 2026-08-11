@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And dem go come there, and dem go comot ⟨את⟩ all im disgusting tin-dem and ⟨את⟩ all im abomination-dem from am.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "and dem go come"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "and dem go comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im disgusting tin-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "im disgusting tin-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im abomination-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "im abomination-dem"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:10.351521937Z",
+  "model": "glm-5.2"
+}

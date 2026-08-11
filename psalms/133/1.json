@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 133,
+  "translation": "Song of di go-ups, for David. Look! how e good and how e sweet, as brodas dey siddon, even together.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "of di go-ups"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Look!"
+    },
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and how"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "siddon"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brodas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:50.216585796Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Dis six tin — Yahweh hate; and seven — dem ⟨be⟩ abomination to im soul.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "Yahweh hate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "to im soul"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:15.834539282Z",
+  "model": "glm-5.2"
+}

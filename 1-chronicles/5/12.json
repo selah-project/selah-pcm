@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Yowel ⟨be⟩ di head, and Shafam ⟨be⟩ di second, and Yaanai and Shafat for Bashan.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Yowel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "and Shafam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "di second"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "and Yaanai"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "and Shafat"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "for Bashan"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:32.890987109Z",
+  "model": "glm-5.2"
+}

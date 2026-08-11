@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Dawud go up from dere, and e siddon for di strongholds of En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "and ⟨e⟩ go up"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and ⟨e⟩ siddon"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "for di strongholds"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:44.901810312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Cursed ⟨be⟩ di man wey bring news to ⟨את⟩ my papa, sey, Dem born ⟨for⟩ you son—male, ⟨wey⟩ make am glad well-well!",
+  "tokens": [
+    {
+      "surface": "אָר֣וּר",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "הָאִ֗ישׁ",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בִּשַּׂ֤ר",
+      "gloss": "bring news"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "my papa"
+    },
+    {
+      "surface": "אָבִי֙",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יֻֽלַּד",
+      "gloss": "Dem born"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "⟨for⟩ you"
+    },
+    {
+      "surface": "בֵּ֣ן",
+      "gloss": "son"
+    },
+    {
+      "surface": "זָכָ֑ר",
+      "gloss": "male"
+    },
+    {
+      "surface": "שַׂמֵּ֖חַ",
+      "gloss": "⟨wey⟩ make glad"
+    },
+    {
+      "surface": "שִׂמֳּחָֽהוּ",
+      "gloss": "am glad well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T16:21:20.603864557Z",
+  "model": "glm-5.2"
+}

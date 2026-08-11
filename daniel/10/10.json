@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨behold⟩ one hand touch me, and e shake me on my knees and ⟨on⟩ di palms of my hand.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "יד",
+      "gloss": "one hand"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "touch"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "and e shake me"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "my knees"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "and di palms"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "of my hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:43:12.414627263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "So Yahweh save Yisra'el ⟨את⟩ for dat day, and di battle pass ⟨את⟩ beyond Bet־Awon.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "So ⟨im⟩ save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "and di battle"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "pass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet־Awon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:40:02.309820370Z",
+  "model": "glm-5.2"
+}

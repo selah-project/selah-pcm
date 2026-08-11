@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Eleven days ⟨journey⟩ from Chorev, di road of mount Se'ir, reach Kadesh־Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "⟨one⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "days"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "from Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mount"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:20.198956323Z",
+  "model": "glm-5.2"
+}

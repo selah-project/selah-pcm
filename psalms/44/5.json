@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Na You ⟨be⟩ my king, Elohim; command deliverances for Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Na You"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "my king"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "command"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "deliverances"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:50.181820925Z",
+  "model": "glm-5.2"
+}

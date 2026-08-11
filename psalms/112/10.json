@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 112,
+  "translation": "Di wicked-man go see ⟨am⟩ and vex; im teeth ⟨e⟩ go grind and melt ⟨away⟩; di desire of wicked-people go perish.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "Di wicked-man"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "go see"
+    },
+    {
+      "surface": "וְכָעֵס",
+      "gloss": "and vex"
+    },
+    {
+      "surface": "שִׁנָּיו",
+      "gloss": "im teeth"
+    },
+    {
+      "surface": "יַחֲרֹק",
+      "gloss": "⟨e⟩ go grind"
+    },
+    {
+      "surface": "וְנָמֵס",
+      "gloss": "and melt"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "di desire"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "of wicked-people"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "go perish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:04.351052175Z",
+  "model": "glm-5.2"
+}

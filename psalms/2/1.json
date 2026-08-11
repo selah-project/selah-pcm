@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Why ⟨come⟩ di nations dey rage, and di peoples dey imagine empty thing?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Why"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "dey rage"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "and ⟨di⟩ peoples"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "dey imagine"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "empty thing"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:58.520141904Z",
+  "model": "glm-5.2"
+}

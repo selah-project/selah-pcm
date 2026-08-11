@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Show me favor, Yahweh, because distress dey hold me, my eye dey fail wit vexation, ⟨na⟩ my life-force and my belly.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "show me favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "צר",
+      "gloss": "distress"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hold me"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "dey fail"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "wit vexation"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-force"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "and my belly"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:00.493024301Z",
+  "model": "glm-5.2"
+}

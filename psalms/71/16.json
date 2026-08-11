@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "I go come inside di mighty works of Adonai Yahweh; I go remember your righteousness — your own alone.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "I go come"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "inside di mighty works"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "I go remember"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "your righteousness"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "your own alone"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:00.336575013Z",
+  "model": "glm-5.2"
+}

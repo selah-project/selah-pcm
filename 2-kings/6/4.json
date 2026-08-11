@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So ⟨he⟩ go ⟨את⟩ wit dem, and dem come to Yarden, and dem cut down ⟨di⟩ trees.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "So ⟨he⟩ go"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wit dem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "to Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "and dem cut down"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨di⟩ trees"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:34.433069363Z",
+  "model": "glm-5.2"
+}

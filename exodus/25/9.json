@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "According to all wey I dey show ⟨את⟩ you — ⟨את⟩ di pattern of di Mishkan and ⟨את⟩ di pattern of all im tools — na so una go do am.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dey show"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pattern of di Mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pattern"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "of di Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pattern of all im tools"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pattern"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "una go do"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:04.434902696Z",
+  "model": "glm-5.2"
+}

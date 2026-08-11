@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 79,
+  "translation": "Make di groaning of ⟨the⟩ prisoner come before you; as di greatness of your arm ⟨be⟩, spare ⟨di⟩ children of death.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "make e come"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "di groaning of"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "prisoner"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "as di greatness of"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "your arm"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "spare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children of"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "death"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:01.650461960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And Yisra'el love ⟨את⟩ Yosef pass all im son, because na im be son of old age for am; and e make for am robe of many colors.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "And Yisra'el"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pass all"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "old age"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "robe"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "many colors"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:06.027058336Z",
+  "model": "glm-5.2"
+}

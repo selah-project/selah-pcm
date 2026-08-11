@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di king talk sey, Who dey for di court? And Haman bin come enter di outer court of di king im house, to tell di king sey make dem hang ⟨את⟩ Mordecai on di tree wey e prepare for am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and di king talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "dey for di court"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "and Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin come enter"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "di court"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "di outer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to tell"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "sey make dem hang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "e prepare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:25.886565993Z",
+  "model": "glm-5.2"
+}

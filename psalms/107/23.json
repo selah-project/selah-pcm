@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Di one-dem wey dey go down to di sea for ship-dem, wey dey do work for plenti water-dem,",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "di one-dem wey dey go down"
+    },
+    {
+      "surface": "הים",
+      "gloss": "to di sea"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "for ship-dem"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water-dem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenti"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:21.223318510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Shelomah bin go afta Ashtoret, elohim of di Tsidonians, and afta Milkom, di filthy-thing of di Ammonites.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨bin go⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afta"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim of"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "di Tsidonians"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "and afta"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "di filthy-thing"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "of di Ammonites"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:40.391907799Z",
+  "model": "glm-5.2"
+}

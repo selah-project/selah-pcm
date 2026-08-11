@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨One⟩ carriage, King Shelomoh make for imsef, from di tree-dem of Levanon.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "carriage"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imsef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "from di tree-dem"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:02.613701305Z",
+  "model": "glm-5.2"
+}

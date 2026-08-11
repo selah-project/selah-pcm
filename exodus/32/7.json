@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Yahweh speak to Mosheh, go down, because ya people wey you bring up from land of Mitsrayim don spoil.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "רד",
+      "gloss": "down"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "you bring up"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:21.522062203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "You no go chop am; for di ground you go pour am like water.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "you go chop am"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di ground"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "you go pour am"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "like water"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:03.892297354Z",
+  "model": "glm-5.2"
+}

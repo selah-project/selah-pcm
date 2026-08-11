@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Because Yahweh don build Tsiyon, ⟨e⟩ don show face for ⟨im⟩ glory.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "don build"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨e⟩ don show face"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "for ⟨im⟩ glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:47.187866796Z",
+  "model": "glm-5.2"
+}

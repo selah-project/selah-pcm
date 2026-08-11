@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "After dat one, she born one daughter, and she call ⟨את⟩ im name Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "after dat one"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "she born"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "and she call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "im name"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:26.616352539Z",
+  "model": "glm-5.2"
+}

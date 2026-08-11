@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yahweh make strong ⟨את⟩ di heart of Paroh, and ⟨he⟩ no gree make dem go.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "and make strong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gree"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "make dem go"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:25.232578545Z",
+  "model": "glm-5.2"
+}

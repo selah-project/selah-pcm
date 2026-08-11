@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "With cypress from Senir dem bin build for you ⟨את⟩ all your planks; cedar from Levanon dem take make mast on top you.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "cypress"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "from Senir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dem bin build"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all your planks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "your planks"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "from Levanon"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "make"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "mast"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "on top you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:12:13.052473721Z",
+  "model": "glm-5.2"
+}

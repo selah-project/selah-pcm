@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨את⟩ di remainder of di people wey bin remain for di city, and ⟨את⟩ dose wey bin fall, wey bin fall to di king of Bavel, and ⟨את⟩ di remainder of di multitude — Nevuzaradan, chief of di executioners, bin carry go exile.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di remainder of di people"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "remainder"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "wey bin remain"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dose wey bin fall"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "dose wey bin fall"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bin fall"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "of Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di remainder of di multitude"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "remainder"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "of di multitude"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "bin carry go exile"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "of di executioners"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:45.750666001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Dem don talk words, ⟨dem swear⟩ false oath, dem cut covenant; and judgment don sprout like poison-weed on top di furrow of di field.",
+  "tokens": [
+    {
+      "surface": "דִּבְּר֣וּ",
+      "gloss": "Dem don talk"
+    },
+    {
+      "surface": "דְבָרִ֔ים",
+      "gloss": "words"
+    },
+    {
+      "surface": "אָל֥וֹת",
+      "gloss": "⟨dem swear⟩ false oath"
+    },
+    {
+      "surface": "שָׁ֖וְא",
+      "gloss": "empty\/false"
+    },
+    {
+      "surface": "כָּרֹ֣ת",
+      "gloss": "dem cut"
+    },
+    {
+      "surface": "בְּרִ֑ית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "וּפָרַ֤ח",
+      "gloss": "and don sprout"
+    },
+    {
+      "surface": "כָּרֹאשׁ֙",
+      "gloss": "like poison-weed"
+    },
+    {
+      "surface": "מִשְׁפָּ֔ט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "תַּלְמֵ֥י",
+      "gloss": "furrow of"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "di field"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:26.920774994Z",
+  "model": "glm-5.2"
+}

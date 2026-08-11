@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Cursing, and lying, and killing, and stealing, and adultery — dem don break out, and blood-dem dey touch blood-dem.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Cursing"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "and lying"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "and killing"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "and stealing"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "and adultery"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "dem don break out"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "and blood-dem"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "blood-dem"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "dey touch"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:39.163106660Z",
+  "model": "glm-5.2"
+}

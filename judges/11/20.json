@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "But Sichon no trust Yisra'el ⟨את⟩ make dem pass through im border, so Sichon gather all im people ⟨את⟩, and dem camp for Yahzah, and im fight with Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "But no"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "trust"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "make dem pass"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "through im border"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "so gather"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "for Yahzah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and im fight"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:32:14.395324548Z",
+  "model": "glm-5.2"
+}

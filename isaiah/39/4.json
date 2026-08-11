@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And ⟨im⟩ talk, 'Wetin dem see for your house?' And Chizkiyahu talk, '⟨את⟩ All wetin dey for my house dem see; no tin wey dey wey I no show dem for my treasure house dem.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dem see"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "for your house"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "All wetin dey for my house"
+    },
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "dey for my house"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "dem see"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "I show dem"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "for my treasure house dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:14.841210036Z",
+  "model": "glm-5.2"
+}

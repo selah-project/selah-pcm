@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Sackcloth, I sew on top my skin, and I roll my horn for di dust.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "sackcloth"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "I sew"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "my skin"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "and I roll"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "for di dust"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "my horn"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:20.602918999Z",
+  "model": "glm-5.2"
+}

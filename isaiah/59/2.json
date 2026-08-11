@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "But na una iniquity dem separate between una and una Elohim, and una sin dem don hide ⟨im⟩ face from una, ⟨so sey e no go hear⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "But"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "una iniquity dem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨bin⟩"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "separate"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "between una"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "and"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "and una sin dem"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "don hide"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨im⟩ face"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "from una"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "⟨sey e no go hear⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:14.372417665Z",
+  "model": "glm-5.2"
+}

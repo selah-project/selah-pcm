@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Against who una dey make sport? Against who una dey widen mouth, una dey lengthen tongue? Una no be children of rebellion, seed of lie?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "una dey make sport"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "una dey widen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "una dey lengthen"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tongue"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "children of"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rebellion"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed of"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lie"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:50.523234941Z",
+  "model": "glm-5.2"
+}

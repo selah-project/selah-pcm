@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Koresh, king of Paras, bring dem out by hand of Mitredat di treasurer, and ⟨he⟩ count dem give Sheshbattsar, di prince, for Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "and he bring dem out"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand of"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "Mitredat"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "di treasurer"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "and he count dem"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "give Sheshbattsar"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "di prince"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "for Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:14.458106520Z",
+  "model": "glm-5.2"
+}

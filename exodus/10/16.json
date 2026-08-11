@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Paroh quick make ⟨e⟩ call Mosheh and Aharon, and ⟨e⟩ talk sey, I don sin against Yahweh, una Elohim, and against una.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "and quick make"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "call"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "I don sin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "and against una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:00.424280651Z",
+  "model": "glm-5.2"
+}

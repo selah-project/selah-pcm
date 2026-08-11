@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And you go write dem on top di doorpost of your house and on top your gate dem.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "and you go write dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "di doorpost"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "of your house"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "and on top your gate dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:30.003585969Z",
+  "model": "glm-5.2"
+}

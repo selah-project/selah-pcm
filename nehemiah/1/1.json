@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di word dem of Nechemjah, pikin of Chakaljah. E come pass for di month of Kislev, for di twentieth year, and I bin dey for Shushan di palace.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "di word dem"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakaljah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e come pass"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "of Kislev"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twentieth"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I bin dey"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "for Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "di palace"
+    }
+  ],
+  "timestamp": "2026-08-11T13:48:42.137764282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Avshai, son of Tzeruyah, strike down ⟨את⟩ Edom for di Valley of Salt — eighteen thousand.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "And Avshai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tzeruyah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "strike down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "for di Valley of"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Salt"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "eighteen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:15.605021241Z",
+  "model": "glm-5.2"
+}

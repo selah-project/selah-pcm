@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And e bin form ⟨את⟩ two pillars of copper; eighteen cubit ⟨be⟩ di height of one pillar, and cord of twelve cubit go go round ⟨את⟩ di second pillar.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "and bin form"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "two pillars"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pillars"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "copper"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eighteen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "height"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "and cord"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "go go round"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di second pillar"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:14.744296135Z",
+  "model": "glm-5.2"
+}

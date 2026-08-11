@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Dawid take ⟨את⟩ di head of Pelishti and bring am Yerushalayim; and ⟨את⟩ im tools im bin put for im tent.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "of Pelishti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "and bring am"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im tools"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "שם",
+      "gloss": "im bin put"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "for im tent"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:42.356435056Z",
+  "model": "glm-5.2"
+}

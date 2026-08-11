@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "When you vow vow to Elohim, make you no delay to pay am; because no pleasure dey for fools; ⟨את⟩ wetin you vow, pay am.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "when"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "you vow"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vow"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make ... no"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "delay"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "to pay am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pleasure"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "for fools"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin you vow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "you vow"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pay am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:08.415040973Z",
+  "model": "glm-5.2"
+}

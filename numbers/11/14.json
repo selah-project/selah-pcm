@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "I no fit, na only me, to carry ⟨את⟩ all dis people, because e heavy pass me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "only me"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pass me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:53:31.740516917Z",
+  "model": "glm-5.2"
+}

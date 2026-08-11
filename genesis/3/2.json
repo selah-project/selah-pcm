@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di woman come talk to di serpent, \"From di fruit of di tree of di garden we dey chop;",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "and come talk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "di serpent"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "from di fruit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tree"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "of di garden"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "we dey chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:20.913040114Z",
+  "model": "glm-5.2"
+}

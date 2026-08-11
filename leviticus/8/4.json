@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Mosheh do as Yahweh bin command ⟨את⟩ am, and di congregation bin gather togeda to di entrance of ⟨di⟩ tent of meeting.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "And do"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (Mosheh)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "and bin gather togeda"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di congregation"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:11.746196322Z",
+  "model": "glm-5.2"
+}

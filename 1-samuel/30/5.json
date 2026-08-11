@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And ⟨di⟩ two wives of David, dem carry ⟨dem⟩ go — Achinoam di Yizreelitess, and Avigayil, wife of Nabal di Karmelite.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "and two"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "wives of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "dem carry go"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "di Yizreelitess"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "and Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife of"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "di Karmelite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:42.469292474Z",
+  "model": "glm-5.2"
+}

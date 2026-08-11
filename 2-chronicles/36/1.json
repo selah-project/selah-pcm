@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Di people of di land bin take ⟨את⟩ Yehoachaz, pikin of Yoshiyahu, and dem make am king for im papa place for Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dem bin take"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "of Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "dem make am king"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for im papa place"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of im papa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:16:49.882563505Z",
+  "model": "glm-5.2"
+}

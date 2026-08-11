@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "wen di sun go down and e don purify, after dat e go chop from di holy tings, because na im food.",
+  "tokens": [
+    {
+      "surface": "וּבָא",
+      "gloss": "wen ⟨e⟩ go down"
+    },
+    {
+      "surface": "הַשֶּׁמֶשׁ",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "וְטָהֵר",
+      "gloss": "and don purify"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "after dat"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "di holy tings"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לַחְמוֹ",
+      "gloss": "im food"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:54.586622250Z",
+  "model": "glm-5.2"
+}

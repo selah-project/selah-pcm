@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And I go give small boys to be dia leaders, and babies go rule over dem.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּי",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "נְעָרִים",
+      "gloss": "small boys"
+    },
+    {
+      "surface": "שָׂרֵיהֶם",
+      "gloss": "to be dia leaders"
+    },
+    {
+      "surface": "וְתַעֲלוּלִים",
+      "gloss": "and babies"
+    },
+    {
+      "surface": "יִמְשְׁלוּ",
+      "gloss": "go rule"
+    },
+    {
+      "surface": "בָֽם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:32.511095287Z",
+  "model": "glm-5.2"
+}

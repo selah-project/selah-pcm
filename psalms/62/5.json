@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Only, to push am down from im high position, dem plan; lies dem dey find sweet; wit dia mouth dem dey bless, and for inside dia ⟨heart⟩ dem dey curse. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "from im high position"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "dem plan"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "to push down"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "dem dey find sweet"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lies"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "wit dia mouth"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "dem dey bless"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "and for inside dia"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "dem dey curse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:21.822457584Z",
+  "model": "glm-5.2"
+}

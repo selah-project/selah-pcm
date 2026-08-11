@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di king wey dey for Yisrael bin go, and di king wey dey for Yehudah, and di king wey dey for Edom, and dem bin waka round seven days journey, and no water bin dey for di camp and for di animal wey dey for dia feet.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "and king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "and king"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "and dem bin waka round"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "journey"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "for di camp"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "and for di animal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "dey for dia feet"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:13.240640078Z",
+  "model": "glm-5.2"
+}

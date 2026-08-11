@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And she call di boy Ay-Kavod, to sey, \"Glory don comot from Yisrael\" — ⟨say⟩ dem carry ⟨את⟩ ark of Elohim, and ⟨say⟩ her father-in-law and her husband ⟨don die⟩.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "and she call"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ay-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to sey"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "don comot"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "from Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨say⟩"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "dem carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark of Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and ⟨say⟩"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "her father-in-law"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "and her husband"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:13.112164229Z",
+  "model": "glm-5.2"
+}

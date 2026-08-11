@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Dawid bin take ⟨את⟩ di gold shild-dem wey bin dey on top di servant-dem of Hadadezer, and im bring dem Jerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gold shild-dem"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "shild-dem"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "di servant-dem of"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "and im bring dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:30.226363541Z",
+  "model": "glm-5.2"
+}

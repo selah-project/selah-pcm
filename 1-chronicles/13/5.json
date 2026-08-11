@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So Dawid bin gather ⟨את⟩ all Yisrael, from Shichor wey dey for Mitsrayim go di entrance of Chamat, make dem go carry ⟨את⟩ di ark of Elohim from Qiryat-Ye'arim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "bin gather"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "di entrance"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "make dem go carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "from"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Qiryat-Ye'arim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:23.039191015Z",
+  "model": "glm-5.2"
+}

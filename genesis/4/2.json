@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And she add to born ⟨את⟩ im brother ⟨את⟩ Hevel. And Hevel bin dey shepherd sheep, and Kayin bin dey work di ground.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "and she add"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "to born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im brother"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shepherd"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "and Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "work"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:11.800426303Z",
+  "model": "glm-5.2"
+}

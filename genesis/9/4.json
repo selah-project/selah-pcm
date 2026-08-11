@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Only flesh — inside im nefesh, im blood — una no go chop.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "inside im nefesh"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "make una chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:28.839335619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 17:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And for dat day, di glory of Ya'akov go waste away, and di fat of im body go dry thin.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "for day"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יִדַּ֖ל",
+      "gloss": "go waste away"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "וּמִשְׁמַ֥ן",
+      "gloss": "and fat"
+    },
+    {
+      "surface": "בְּשָׂר֖וֹ",
+      "gloss": "of im body"
+    },
+    {
+      "surface": "יֵרָזֶֽה",
+      "gloss": "go dry thin"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:12.499656223Z",
+  "model": "glm-5.2"
+}

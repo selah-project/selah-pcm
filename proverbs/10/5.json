@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Persona wey dey gather for summer, ⟨na⟩ wise pikin; but persona wey dey sleep for harvest, ⟨na⟩ pikin wey dey bring shame.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "persona wey dey gather"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "for summer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wise"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "persona wey dey sleep"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "for harvest"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "wey dey bring shame"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:30.308427193Z",
+  "model": "glm-5.2"
+}

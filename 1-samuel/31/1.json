@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Now Pelishtim bin dey fight against Yisrael, and di men of Yisrael run from di face of Pelishtim, and wounded ones fall for Mount ha-Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Now Pelishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "bin dey fight"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "against Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "and dem run"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "and dem fall"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "wounded ones"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for Mount"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ha-Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:07.943405704Z",
+  "model": "glm-5.2"
+}

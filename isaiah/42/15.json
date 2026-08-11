@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "I go make waste mountains and hills, and all dia grass I go dry up; and I go turn rivers ⟨to⟩ islands, and pools I go dry up.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "I go make waste"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountains"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "and hills"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "dia grass"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "I go dry up"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "and I go turn"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivers"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "⟨to⟩ islands"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "and pools"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "I go dry up"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:47.447267770Z",
+  "model": "glm-5.2"
+}

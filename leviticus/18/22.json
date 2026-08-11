@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And ⟨את⟩ male, no make you lie down lie-downs of woman; abomination ⟨na⟩ e.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "male"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "make you lie down"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "lie-downs of"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ e"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:05.588699619Z",
+  "model": "glm-5.2"
+}

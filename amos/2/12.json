@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "But una bin make ⟨את⟩ di nazir dem drink wine, and una command di prophet dem, sey, make una no prophesy.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "and una make drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nazir dem"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "di nazir dem"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di prophet dem"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "una command"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "make una prophesy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:19.034452167Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di anger of Yahweh bin add to burn against Israel, and ⟨he⟩ stir ⟨את⟩ David against dem, sey: Go, count ⟨את⟩ Israel and ⟨את⟩ Judah.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֨סֶף֙",
+      "gloss": "and bin add"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "anger"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לַחֲר֖וֹת",
+      "gloss": "to burn"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "against Israel"
+    },
+    {
+      "surface": "וַיָּ֨סֶת",
+      "gloss": "and stir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דָּוִ֤ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בָּהֶם֙",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לֵ֛ךְ",
+      "gloss": "go"
+    },
+    {
+      "surface": "מְנֵ֥ה",
+      "gloss": "count"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Judah"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Judah"
+    }
+  ],
+  "timestamp": "2026-08-11T16:08:42.877247837Z",
+  "model": "glm-5.2"
+}

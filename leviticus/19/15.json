@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Make you no do wickedness for judgement; make you no lift ⟨di⟩ face of poor person, and make you no honour ⟨di⟩ face of great person; for righteousness make you judge your fellow.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "for judgement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "lift"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "דל",
+      "gloss": "poor person"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "honour"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great person"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "for righteousness"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "make you judge"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "your fellow"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:26.806071177Z",
+  "model": "glm-5.2"
+}

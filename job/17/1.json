@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "My spirit ⟨don⟩ break, my days ⟨don⟩ quench, graves ⟨be⟩ for me.",
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "⟨don⟩ break"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my days"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "⟨don⟩ quench"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "graves"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:46.119468656Z",
+  "model": "glm-5.2"
+}

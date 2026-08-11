@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Yahweh, I love di place wey ⟨your⟩ house dey stay, and di place wey di dwelling of your glory dey.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָ֭הַבְתִּי",
+      "gloss": "I love"
+    },
+    {
+      "surface": "מְע֣וֹן",
+      "gloss": "di place wey ... dey stay"
+    },
+    {
+      "surface": "בֵּ֣יתֶךָ",
+      "gloss": "⟨your⟩ house"
+    },
+    {
+      "surface": "וּֽמְק֗וֹם",
+      "gloss": "and di place"
+    },
+    {
+      "surface": "מִשְׁכַּ֥ן",
+      "gloss": "di dwelling"
+    },
+    {
+      "surface": "כְּבֽוֹדֶךָ",
+      "gloss": "of your glory"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:34.466209145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Lift ⟨את⟩ di head of all di assembly of di sons of Yisra'el by dia families, by di house of dia fadas, for number of names — every male, by dia skulls.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "of di assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "by dia families"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "by di house"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "of dia fadas"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "for number"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "of names"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "by dia skulls"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:55.105404402Z",
+  "model": "glm-5.2"
+}

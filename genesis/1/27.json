@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So Elohim bin create ⟨את⟩ ⟨di⟩ man inside im image; inside di image of Elohim ⟨He⟩ create am; male and female ⟨He⟩ create dem.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "So bin create"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "inside im image"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "inside di image"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "create"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "male"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "and female"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "create"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:48.367559891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And even dis one na sick bad tin: for evri junction wey ⟨e⟩ come, so ⟨e⟩ go go; and wetin gain go remain for am, wey ⟨e⟩ dey work for wind?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sick"
+    },
+    {
+      "surface": "כל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "junction"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "wey ⟨e⟩ come"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "⟨e⟩ go go"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "gain"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go remain for am"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "wey ⟨e⟩ dey work"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "for wind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:32.315215368Z",
+  "model": "glm-5.2"
+}

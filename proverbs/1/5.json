@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Make ⟨a⟩ wise man hear, and make ⟨him⟩ add instruction, and ⟨a⟩ man of understanding go acquire guidance.",
+  "tokens": [
+    {
+      "surface": "יִשְׁמַ֣ע",
+      "gloss": "make hear"
+    },
+    {
+      "surface": "חָ֭כָם",
+      "gloss": "wise man"
+    },
+    {
+      "surface": "וְי֣וֹסֶף",
+      "gloss": "and make add"
+    },
+    {
+      "surface": "לֶ֑קַח",
+      "gloss": "instruction"
+    },
+    {
+      "surface": "וְ֝נָב֗וֹן",
+      "gloss": "and man of understanding"
+    },
+    {
+      "surface": "תַּחְבֻּל֥וֹת",
+      "gloss": "guidance"
+    },
+    {
+      "surface": "יִקְנֶֽה",
+      "gloss": "go acquire"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:38.016321594Z",
+  "model": "glm-5.2"
+}

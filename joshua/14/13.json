@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "So Yahoshua bin bless am, and e bin give ⟨את⟩ Chevron to Kalev, son of Yefunneh, for inheritance.",
+  "tokens": [
+    {
+      "surface": "וַֽיְבָרְכֵ֖הוּ",
+      "gloss": "so bin bless am"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֑עַ",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "וַיִּתֵּ֧ן",
+      "gloss": "and bin give"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חֶבְר֛וֹן",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לְכָלֵ֥ב",
+      "gloss": "to Kalev"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יְפֻנֶּ֖ה",
+      "gloss": "of Yefunneh"
+    },
+    {
+      "surface": "לְנַחֲלָֽה",
+      "gloss": "for inheritance"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:35.400884364Z",
+  "model": "glm-5.2"
+}

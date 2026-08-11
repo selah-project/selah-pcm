@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Why Yahweh, you dey stand far away, you dey hide for time of trouble?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "you dey stand"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "far away"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "you dey hide"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "for time"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "of trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:08.500780187Z",
+  "model": "glm-5.2"
+}

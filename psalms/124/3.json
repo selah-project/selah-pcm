@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 124,
+  "translation": "den for don swallow us alive, for di time wey dia anger burn against us,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "den"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "alive"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "for don swallow us"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "for di time wey ⟨...⟩ burn"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "dia anger"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "against us"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:38.529944912Z",
+  "model": "glm-5.2"
+}

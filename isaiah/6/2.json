@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Seraphim dem dey stand above am; six wings, six wings for each one: wit two e dey cover im face, and wit two e dey cover im feet, and wit two e dey fly.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Seraphim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dem dey stand"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "above"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "wings"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "wings"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "for each one"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "wit two"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "e dey cover"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "and wit two"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "e dey cover"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im feet"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "and wit two"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "e dey fly"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:08.501094063Z",
+  "model": "glm-5.2"
+}

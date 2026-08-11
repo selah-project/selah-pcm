@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and all di old men of Yisra'el bin come, and di priest-dem bin carry ⟨את⟩ di box.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֹ֕אוּ",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זִקְנֵ֣י",
+      "gloss": "di old men of"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וַיִּשְׂא֥וּ",
+      "gloss": "and bin carry"
+    },
+    {
+      "surface": "הַכֹּהֲנִ֖ים",
+      "gloss": "di priest-dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di box"
+    },
+    {
+      "surface": "הָאָרֽוֹן",
+      "gloss": "di box"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:50.466876865Z",
+  "model": "glm-5.2"
+}

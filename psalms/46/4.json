@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "Im water-dem go roar, go boil up; mountain-dem go shake inside im pride. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "go roar"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "go boil up"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "im water-dem"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "go shake"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountain-dem"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "inside im pride"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:35.621159544Z",
+  "model": "glm-5.2"
+}

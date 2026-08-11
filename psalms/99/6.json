@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 99,
+  "translation": "Moshe and Aharon ⟨dey⟩ among im priests, and Shemu'el among dem wey ⟨de⟩ call im name — dem ⟨bin⟩ dey call to Yahweh, and im ⟨bin⟩ answer dem.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "among im priests"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "and Shemu'el"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "among dem wey call"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "dem dey call"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and im"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "answer dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:39.006100129Z",
+  "model": "glm-5.2"
+}

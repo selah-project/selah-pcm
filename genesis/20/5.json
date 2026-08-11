@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 20:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "No be sey ⟨im⟩ bin tell me sey, '⟨Im be⟩ my sister,' and even she herself bin talk sey, '⟨im be⟩ my brother'? For di innocence of my heart and di cleanness of my hands I do dis tin.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no be sey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my sister"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im be"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "and she"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "herself"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my brother"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im be"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "for di innocence"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "of my heart"
+    },
+    {
+      "surface": "ובנקין",
+      "gloss": "and for di cleanness"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "of my hands"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I do"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis tin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:40.845469480Z",
+  "model": "glm-5.2"
+}

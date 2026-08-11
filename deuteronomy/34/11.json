@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "For all di sign-dem and di wonder-dem wey Yahweh send am to do for land of Mitsrayim, to Pharaoh and to all im servant-dem and to all im land —",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "For all"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "di sign-dem"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "and di wonder-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "am to do"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "to Pharaoh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:03.758614486Z",
+  "model": "glm-5.2"
+}

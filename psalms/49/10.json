@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "say ⟨he⟩ suppose still live forever, ⟨say⟩ ⟨he⟩ no go see ⟨di⟩ pit.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "say ⟨he⟩ suppose still live"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "forever"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go see"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨di⟩ pit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:07.061805387Z",
+  "model": "glm-5.2"
+}

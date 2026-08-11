@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And by your sword you go live, and ⟨את⟩ your broda you go serve; and e go happen, wen you break loose, you go tear im yoke from your neck.\"",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "and by"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "your sword"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "you go live"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "your broda"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your broda"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "you go serve"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go happen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "you break loose"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "you go tear"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "im yoke"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "your neck"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:56.078398139Z",
+  "model": "glm-5.2"
+}

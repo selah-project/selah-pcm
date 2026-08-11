@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 32:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Mosheh bin go back to Yahweh, and e bin talk, \"Ah, now, dis people don sin great sin, and dem make gods of gold for dem sef.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and bin go back"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ah now"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "don sin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sin"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "great"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem make"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem sef"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gods"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:08.692141553Z",
+  "model": "glm-5.2"
+}

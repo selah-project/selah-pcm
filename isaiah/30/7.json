@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Mitsrayim — vanity and emptiness; ⟨dem⟩ go help in vain; so I call to dis ⟨one⟩: Rahab — ⟨dem be⟩ di ones wey just dey siddon.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "and Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanity"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "and emptiness"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "go help"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I call"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to dis"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "to just dey siddon"
+    }
+  ],
+  "timestamp": "2026-08-11T11:29:07.971447073Z",
+  "model": "glm-5.2"
+}

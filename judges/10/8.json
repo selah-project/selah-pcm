@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 10:8",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem crush and dem oppress ⟨את⟩ di pikin dem of Yisra'el for dat year — eighteen year; ⟨dem oppress⟩ ⟨את⟩ all di pikin dem of Yisra'el wey dey across di Yarden, for di land of di Emori, wey dey for Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וירעצו",
+      "gloss": "and dem crush"
+    },
+    {
+      "surface": "וירצצו",
+      "gloss": "and dem oppress"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin dem of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for year"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eighteen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨teen⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di pikin dem of Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "across"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey for"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:55.846517146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Now Elihu bin dey wait for Iyov ⟨to finish⟩ ⟨with⟩ word dem, because dem dey older pass am for day dem.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "now Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "bin dey wait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ for",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "with word dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "dem dey older"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pass am"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "for day dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:52.857775648Z",
+  "model": "glm-5.2"
+}

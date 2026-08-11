@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Elohim of Yisrael talk — Rock of Yisrael speak to me, ⟨sey⟩ di one wey dey rule among men, ⟨na⟩ righteous person, e dey rule for di fear of Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Rock of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "di one wey dey rule"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "among men"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous person"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "e dey rule"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "for di fear of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:01.402327408Z",
+  "model": "glm-5.2"
+}

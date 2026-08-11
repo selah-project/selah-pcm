@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "but to Kayin and to im offering ⟨im⟩ no look; and e bin hot for Kayin well-well, and ⟨im⟩ face fall.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "but to"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "im offering"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "⟨im⟩ look"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "and e bin hot"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "for Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨im⟩ face"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:20.737230436Z",
+  "model": "glm-5.2"
+}

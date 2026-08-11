@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 9:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And also servant dem of Chiram and servant dem of Shelomo, wey bin carry gold come from Ofir, carry ⟨את⟩ tree dem of algum wood come, and precious stone.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servant dem of"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "and servant dem of"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bin carry come"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "from Ofir"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "carry come"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tree dem of algum wood"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "tree dem of"
+    },
+    {
+      "surface": "אלגומים",
+      "gloss": "algum"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "and stone"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "precious"
+    }
+  ],
+  "timestamp": "2026-08-11T14:07:43.277738372Z",
+  "model": "glm-5.2"
+}

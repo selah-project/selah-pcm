@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "No be for us, Yahweh, no be for us, but for yua name make yu give glory, ⟨na⟩ because of yua chesed, ⟨na⟩ because of yua emet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "for yua name"
+    },
+    {
+      "surface": "תן",
+      "gloss": "make yu give"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "yua chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "yua emet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:58.958767140Z",
+  "model": "glm-5.2"
+}

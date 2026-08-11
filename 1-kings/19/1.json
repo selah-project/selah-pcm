@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Ahab bin tell Izebel ⟨את⟩ all wetin Eliyahu bin do, and ⟨את⟩ all wetin im kill — ⟨את⟩ all di prophets, wit sword.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "to Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bin do"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di prophets"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di prophets"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:27.477178403Z",
+  "model": "glm-5.2"
+}

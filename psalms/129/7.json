@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 129,
+  "translation": "wey neva fill di hand of harvester, and im lap of di person wey dey bind sheaf.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "wey neva"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fill"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "di hand of"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "harvester"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "and im lap of"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "di person wey dey bind sheaf"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:15.402552614Z",
+  "model": "glm-5.2"
+}

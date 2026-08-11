@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Avraham bin take ⟨את⟩ di wood of di burnt offering, and bin put am on Yitschak im son, and bin take for im hand ⟨את⟩ di fire and ⟨את⟩ di knife; and di two of dem bin waka together.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wood of di burnt offering"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of di burnt offering"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and bin put"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di fire"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di knife"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "di knife"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and bin waka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:32.083429594Z",
+  "model": "glm-5.2"
+}

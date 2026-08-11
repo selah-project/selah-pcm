@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "I bin ⟨become⟩ laughingstock to all my people, dia song all di day.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "I bin ⟨become⟩"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "laughingstock"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "dia song"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:07.885479536Z",
+  "model": "glm-5.2"
+}

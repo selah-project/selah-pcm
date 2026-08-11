@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And im bin strike all firstborn for Mitsrayim, first of dia strength for di tents of Cham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "And im bin strike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "first"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "of dia strength"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "for di tents"
+    },
+    {
+      "surface": "חם",
+      "gloss": "of Cham"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:21.678210591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨את⟩ dis twelve stone dem wey dem take from di Yarden, Yehoshua set am up for Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dis twelve stone dem"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "di stone dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "e set up"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "for Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:02.369485625Z",
+  "model": "glm-5.2"
+}

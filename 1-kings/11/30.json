@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Achiya bin grab ⟨את⟩ di new garment wey dey on top am, and e tear am to twelve pieces.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "and bin grab"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "di garment"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "di new"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dey on top am"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "and e tear am"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "pieces"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.893204171Z",
+  "model": "glm-5.2"
+}

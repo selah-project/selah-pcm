@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And e come to pass after dis tin dem wey dem talk, say one vineyard bin dey for Navot, di Yizreʿeli, wey dey for Yizreʿel, beside di pala s of Ahab, wey be king of Shomron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "after"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di tin dem wey dem talk"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "for Navot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "di Yizreʿeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "dey for Yizreʿel"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "beside"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "di palace"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "of Shomron"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:23.010357423Z",
+  "model": "glm-5.2"
+}

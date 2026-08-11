@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Dem don pass di hair-dem of my head for number, does wey hate me witout reason; dem don strong, does wey wan destroy me — my enemy-dem wey dey lie. Wetin I no steal, na im I go return.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "dem don pass"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "di hair-dem"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "of my head"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "does wey hate me"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "witout reason"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "dem don strong"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "does wey wan destroy me"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemy-dem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wey dey lie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "I steal"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na im"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "I go return"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:45.461874926Z",
+  "model": "glm-5.2"
+}

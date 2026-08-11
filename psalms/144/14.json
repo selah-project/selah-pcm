@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "Our cattle dey carry load well-well; no breaking-in ⟨dey⟩, and no going-out ⟨dey⟩, and no cry of distress ⟨dey⟩ for our open places.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "our cattle"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "dey carry load"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "breaking-in"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "going-out"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "cry of distress"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "for our open places"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:42.352674719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "My eye dem dey fail for your word, dey talk say, when you go comfort me?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "dey fail"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye dem"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "for your word"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dey talk say"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "when"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "you go comfort me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.033659445Z",
+  "model": "glm-5.2"
+}

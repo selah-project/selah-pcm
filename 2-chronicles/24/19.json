@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 24:19",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And ⟨Elohim⟩ send prophets among dem, to bring dem back to Yahweh, and dem testify against dem, but dem no gree listen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "And ⟨Elohim⟩ send"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prophets"
+    },
+    {
+      "surface": "להשיבם",
+      "gloss": "to bring dem back"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעידו",
+      "gloss": "and dem testify against dem"
+    },
+    {
+      "surface": "בם",
+      "gloss": "against dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but dem no"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "gree listen"
+    }
+  ],
+  "timestamp": "2026-08-11T14:12:32.814447772Z",
+  "model": "glm-5.2"
+}

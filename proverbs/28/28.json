@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 28:28",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "When wicked people rise, man go hide; but when dem perish, righteous people go plenty.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "when ... rise"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "go hide"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובאבדם",
+      "gloss": "but when dem perish"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "go plenty"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "righteous people"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:23.041123461Z",
+  "model": "glm-5.2"
+}

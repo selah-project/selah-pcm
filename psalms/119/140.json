@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Your word dey refined very-much, and your servant love am.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "dey refined"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "your word"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very-much"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "and your servant"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "love am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:03.555024834Z",
+  "model": "glm-5.2"
+}

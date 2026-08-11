@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Jobab bin die, and Husham from di land of di Temanite bin reign for im ⟨place⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "and bin die"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobab"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and bin reign"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im ⟨place⟩"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Husham"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "of di Temanite"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:24.758490769Z",
+  "model": "glm-5.2"
+}

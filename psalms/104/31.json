@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Make di glory of Yahweh ⟨dey⟩ forever; make Yahweh ⟨dey⟩ glad for im works.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "make ⟨e⟩ ⟨dey⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "di glory"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "make ⟨e⟩ ⟨dey⟩ glad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "for im works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:23.640074796Z",
+  "model": "glm-5.2"
+}

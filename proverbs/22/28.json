@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "no shift boundary of old time wey your papa dem set.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תַּ֭סֵּג",
+      "gloss": "shift"
+    },
+    {
+      "surface": "גְּב֣וּל",
+      "gloss": "boundary"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "of old time"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עָשׂ֣וּ",
+      "gloss": "your papa dem set"
+    },
+    {
+      "surface": "אֲבוֹתֶֽיךָ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:18.647529899Z",
+  "model": "glm-5.2"
+}

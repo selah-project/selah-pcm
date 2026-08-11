@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di whole land no dey before you? Make you separate now from me; if ⟨you go⟩ ⟨to di⟩ left, I ⟨go go⟩ ⟨to di⟩ right; and if ⟨you go⟩ ⟨to di⟩ right, I ⟨go go⟩ ⟨to di⟩ left.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di whole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "make you separate"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "from me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "⟨to di⟩ left"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "I ⟨go go⟩ ⟨to di⟩ right"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "⟨to di⟩ right"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "I ⟨go go⟩ ⟨to di⟩ left"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:51.643139418Z",
+  "model": "glm-5.2"
+}

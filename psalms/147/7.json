@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Make una sing to Yahweh wit thanksgiving; make una play music to Elohim wey we get wit harp.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Make una sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wit thanksgiving"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "make una play music"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "to Elohim wey we get"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wit harp"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:20.361636532Z",
+  "model": "glm-5.2"
+}

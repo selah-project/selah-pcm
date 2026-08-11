@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "I bin dig ⟨את⟩ di water, and I drink am; and with di sole of my feet I go dry up all di rivers of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "I"
+    },
+    {
+      "surface": "קַרְתִּי",
+      "gloss": "I bin dig"
+    },
+    {
+      "surface": "וְשָׁתִיתִי",
+      "gloss": "and I drink"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "di water"
+    },
+    {
+      "surface": "וְאַחֲרִיב",
+      "gloss": "and I go dry up"
+    },
+    {
+      "surface": "בְּכַף",
+      "gloss": "with di sole"
+    },
+    {
+      "surface": "פַּעְמַי",
+      "gloss": "of my feet"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יְאֹרֵי",
+      "gloss": "di rivers"
+    },
+    {
+      "surface": "מָצוֹר",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:41.659196872Z",
+  "model": "glm-5.2"
+}

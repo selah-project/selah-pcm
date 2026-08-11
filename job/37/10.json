@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "By ⟨di⟩ breath of El, ice dey form, and di width of water dey freeze solid.",
+  "tokens": [
+    {
+      "surface": "מִנִּשְׁמַת",
+      "gloss": "by breath"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "dey form"
+    },
+    {
+      "surface": "קָרַח",
+      "gloss": "ice"
+    },
+    {
+      "surface": "וְרֹחַב",
+      "gloss": "and width"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "water"
+    },
+    {
+      "surface": "בְּמוּצָק",
+      "gloss": "dey freeze solid"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:33.832304884Z",
+  "model": "glm-5.2"
+}

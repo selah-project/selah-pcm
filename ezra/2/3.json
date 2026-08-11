@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Di pikin-dem of Parosh, two thousand, one hundred, seventy and two.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "two thousand"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "and two"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:38.594264678Z",
+  "model": "glm-5.2"
+}

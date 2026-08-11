@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "⟨Di one⟩ wey dey forgive all your iniquity, wey dey heal all your sickness-dem.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "⟨Di one⟩ wey dey forgive"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "your iniquity"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "wey dey heal"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "your sickness-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:08.395123270Z",
+  "model": "glm-5.2"
+}

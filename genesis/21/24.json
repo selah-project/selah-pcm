@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Avraham bin talk, sey, I go swear.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ bin talk"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "go swear"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:09.310646005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 25:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Di eighteenth to Hanani, im sons and im brodas — twelve.",
+  "tokens": [
+    {
+      "surface": "לִשְׁמוֹנָ֤ה",
+      "gloss": "di eighteenth"
+    },
+    {
+      "surface": "עָשָׂר֙",
+      "gloss": "-teen"
+    },
+    {
+      "surface": "לַחֲנָ֔נִי",
+      "gloss": "to Hanani"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "and im brodas"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "twelve"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "-"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:26.231026807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Tie dem on top your fingers, write dem on top di tablet of your heart.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Tie dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "your fingers"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "write dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "di tablet"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "of your heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:01.010535670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Iyov stand up, and e tear ⟨את⟩ im outer robe, and shave ⟨את⟩ im head, and fall down to di ground, and worship.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and stand up"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "and e tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im outer robe"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "im outer robe"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "and shave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im head"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "and fall down"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to di ground"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and worship"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:53.803966239Z",
+  "model": "glm-5.2"
+}

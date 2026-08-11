@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And all di officials of di provinces, and di satraps, and di governors, and those wey dey do di king work, dem bin dey lift up ⟨את⟩ di Yehudim, because fear of Mordecai bin fall on dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di officials"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "of di provinces"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "and di satraps"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "and di governors"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "and those wey dey do"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "belong to di king"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "dem bin dey lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yehudim"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehudim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "bin fall"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fear"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "of Mordecai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:47.261815562Z",
+  "model": "glm-5.2"
+}

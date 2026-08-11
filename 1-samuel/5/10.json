@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "So dem send ⟨את⟩ di ark of Elohim go Ekron. And e come to pass, as di ark of Elohim enter Ekron, di Ekron people cry out, dem talk sey, 'Dem don carry round to me ⟨את⟩ di ark of Elohim of Yisra'el, to kill me and ⟨את⟩ my people!'",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "so dem send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "as ⟨it⟩ enter"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "dem cry out"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "di Ekron people"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dem talk sey"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "dem carry round"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "to kill me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:14.259202981Z",
+  "model": "glm-5.2"
+}

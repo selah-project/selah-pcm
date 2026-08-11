@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Im go surely rebuke ⟨את⟩ una, if for secret una dey lift face.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "im go surely"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "rebuke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "for secret"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "una dey lift"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:38.834593348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And wetin e do bin bad for Yahweh eye, and ⟨Im⟩ kill am sef.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "and bin bad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for eye of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e do"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨Im⟩ kill"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:53.826634497Z",
+  "model": "glm-5.2"
+}

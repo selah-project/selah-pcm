@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "As Yahweh finish ⟨to⟩ speak to Avraham, Yahweh go, and Avraham return to im place.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "finish"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨to⟩ speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "and Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "return"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "to im place"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:39.030182088Z",
+  "model": "glm-5.2"
+}

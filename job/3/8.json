@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 3:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make dem wey dey curse days curse ⟨am⟩; dose wey dey ready to wake up Leviathan.",
+  "tokens": [
+    {
+      "surface": "יקבהו",
+      "gloss": "make curse ⟨am⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אררי",
+      "gloss": "dem wey dey curse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "days"
+    },
+    {
+      "surface": "העתידים",
+      "gloss": "dose wey dey ready"
+    },
+    {
+      "surface": "ערר",
+      "gloss": "to wake up"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Leviathan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:23.754790899Z",
+  "model": "glm-5.2"
+}

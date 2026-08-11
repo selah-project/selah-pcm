@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 22:9",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Shaphan di scribe come go meet di king, and e tell ⟨את⟩ di king di matter, and e talk say, \"Your servants don pour out ⟨את⟩ di money wey dem find for di house, and dem give am enter hand of di people wey dey do di work, di overseers for house of Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "di scribe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk say"
+    },
+    {
+      "surface": "התיכו",
+      "gloss": "don pour out"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di money"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di money"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wey dem find"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for di house"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "and dem give am"
+    },
+    {
+      "surface": "על",
+      "gloss": "enter"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand of"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "di people wey dey do"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "di overseers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:28.113097579Z",
+  "model": "glm-5.2"
+}

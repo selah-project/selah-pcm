@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Because of dat, dem dey talk for Sefer Milchamot Yahweh: ⟨את⟩ Vahev for Suphah, and ⟨את⟩ di stream-dem of Arnon.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "on"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יֵֽאָמַ֔ר",
+      "gloss": "dem dey talk"
+    },
+    {
+      "surface": "בְּסֵ֖פֶר",
+      "gloss": "for Sefer"
+    },
+    {
+      "surface": "מִלְחֲמֹ֣ת",
+      "gloss": "Milchamot"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Vahev"
+    },
+    {
+      "surface": "וָהֵ֣ב",
+      "gloss": "Vahev"
+    },
+    {
+      "surface": "בְּסוּפָ֔ה",
+      "gloss": "for Suphah"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di stream-dem"
+    },
+    {
+      "surface": "הַנְּחָלִ֖ים",
+      "gloss": "stream-dem"
+    },
+    {
+      "surface": "אַרְנֽוֹן",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:25.724247369Z",
+  "model": "glm-5.2"
+}

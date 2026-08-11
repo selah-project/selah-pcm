@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 3:5",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Here I ⟨be⟩ against you, oracle of Yahweh of hosts, and I go uncover your hem upon your face, and I go show di nations your nakedness, and di kingdoms your shame.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Here I"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "and I go uncover"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "your hem"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "והראיתי",
+      "gloss": "and I go show"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "מערך",
+      "gloss": "your nakedness"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "and di kingdoms"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "your shame"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:03.294357968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And your servant ⟨dey⟩ for inside your people wey you bin choose — people wey plenty, wey dem no fit count and dem no fit score because of plenty.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "and your servant"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "you bin choose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wey plenty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "dem go fit count"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dem go fit score"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "because of plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T10:58:01.927478218Z",
+  "model": "glm-5.2"
+}

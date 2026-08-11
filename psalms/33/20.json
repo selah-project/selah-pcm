@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Our life don wait for Yahweh; ⟨im be⟩ our help and our shield.",
+  "tokens": [
+    {
+      "surface": "נַ֭פְשֵׁנוּ",
+      "gloss": "our life"
+    },
+    {
+      "surface": "חִכְּתָ֣ה",
+      "gloss": "don wait"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "עֶזְרֵ֖נוּ",
+      "gloss": "our help"
+    },
+    {
+      "surface": "וּמָגִנֵּ֣נוּ",
+      "gloss": "and our shield"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨im be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:46.904499794Z",
+  "model": "glm-5.2"
+}

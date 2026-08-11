@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 4:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Bikos of dat, di land go dey mourn, and evribodi wey dey stay inside go dey waste away — wit di animal dem of di field and wit di bird dem of heaven — even di fish dem of di sea go dey gather ⟨away⟩.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "bikos of"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תֶּאֱבַל",
+      "gloss": "go dey mourn"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "וְאֻמְלַל",
+      "gloss": "and go dey waste away"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "evribodi"
+    },
+    {
+      "surface": "יוֹשֵׁב",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בְּחַיַּת",
+      "gloss": "wit animal dem of"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "וּבְעוֹף",
+      "gloss": "and wit bird dem of"
+    },
+    {
+      "surface": "הַשָּׁמָיִם",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "even"
+    },
+    {
+      "surface": "דְּגֵי",
+      "gloss": "fish dem of"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "יֵאָסֵפוּ",
+      "gloss": "go dey gather"
+    }
+  ],
+  "timestamp": "2026-08-11T14:50:26.024046839Z",
+  "model": "glm-5.2"
+}

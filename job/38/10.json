@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 38:10",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "and I bin break my law on top am, and I put bar and doors,",
+  "tokens": [
+    {
+      "surface": "וָאֶשְׁבֹּ֣ר",
+      "gloss": "and I bin break"
+    },
+    {
+      "surface": "עָלָ֣יו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "חֻקִּ֑י",
+      "gloss": "my law"
+    },
+    {
+      "surface": "וָֽ֝אָשִׂ֗ים",
+      "gloss": "and I put"
+    },
+    {
+      "surface": "בְּרִ֣יחַ",
+      "gloss": "bar"
+    },
+    {
+      "surface": "וּדְלָתָֽיִם",
+      "gloss": "and doors"
+    }
+  ],
+  "timestamp": "2026-08-11T13:26:47.492796522Z",
+  "model": "glm-5.2"
+}

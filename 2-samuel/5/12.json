@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And Dawud come know sey Yahweh don establish am as king over Yisra'el, and sey ⟨e⟩ don lift up im kingdom, sake of ⟨im⟩ people Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "come know"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "don establish"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "and sey"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "don lift up"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "im kingdom"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:44.498275326Z",
+  "model": "glm-5.2"
+}

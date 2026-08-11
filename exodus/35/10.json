@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And everybody wey ⟨get⟩ wise heart among una, make dem come and make ⟨את⟩ everything wey Yahweh don command.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and everybody"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "among una"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "make dem come"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "everything"
+    },
+    {
+      "surface": "כל",
+      "gloss": "everything"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:55.531389540Z",
+  "model": "glm-5.2"
+}

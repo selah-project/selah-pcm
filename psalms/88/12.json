@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Abi dem go talk about your chesed for grave? ⟨Abi dem go talk about⟩ your faithfulness for Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "abi dem go talk about"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "for grave"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "your faithfulness"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "for Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:04.465968097Z",
+  "model": "glm-5.2"
+}

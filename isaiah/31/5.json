@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 31:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Like bird dem wey dey fly, so Yahweh of host dem go protect Yerushalaim — protecting, and e go rescue, passing over, and ⟨e go⟩ make dem escape.",
+  "tokens": [
+    {
+      "surface": "כצפרים",
+      "gloss": "Like bird dem"
+    },
+    {
+      "surface": "עפות",
+      "gloss": "wey dey fly"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "go protect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of host dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "גנון",
+      "gloss": "protecting"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "and go rescue"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "passing over"
+    },
+    {
+      "surface": "והמליט",
+      "gloss": "and make dem escape"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:38.037248466Z",
+  "model": "glm-5.2"
+}

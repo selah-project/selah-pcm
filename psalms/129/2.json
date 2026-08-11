@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 129,
+  "translation": "Plenty times dem oppress me from my youth, but dem no fit prevail against me —",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Plenty times"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "dem oppress me"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "from my youth"
+    },
+    {
+      "surface": "גם",
+      "gloss": "but"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dem fit prevail"
+    },
+    {
+      "surface": "לי",
+      "gloss": "against me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:04.045421861Z",
+  "model": "glm-5.2"
+}

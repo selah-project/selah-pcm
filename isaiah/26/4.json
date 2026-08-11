@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Trust for Yahweh forever, because for Yah, Yahweh ⟨be⟩ rock of ages!",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עד",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "for Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rock"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "of ages"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:31.689496175Z",
+  "model": "glm-5.2"
+}

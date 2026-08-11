@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and to appoint for imself commanders of thousands and commanders of fifties, and to plow im plowing and to reap im harvest, and to make im instruments of war and instruments of im chariot.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "and to appoint"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "commanders"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "of thousands"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "and commanders"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "of fifties"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "and to plow"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "im plowing"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "and to reap"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "im harvest"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "and to make"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "instruments"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "of im war"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "and instruments"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "of im chariot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:39.125277723Z",
+  "model": "glm-5.2"
+}

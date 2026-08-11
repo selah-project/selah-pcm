@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ take ⟨את⟩ di elders of di city, and ⟨את⟩ thorn of di wilderness, and ⟨את⟩ di briers; and ⟨he⟩ discipline ⟨את⟩ di men of Sukkot wit dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and ⟨he⟩ take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di elders of di city"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "di elders of"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "thorn of di wilderness"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "thorn of"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di wilderness"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di briers"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "di briers"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "and ⟨he⟩ discipline"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wit dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di men of Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:03.977564946Z",
+  "model": "glm-5.2"
+}

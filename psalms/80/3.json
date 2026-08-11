@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 80,
+  "translation": "For front of Efrayim and Binyamin and Menasheh, wake up ⟨את⟩ your power, and come for ⟨our⟩ salvation for us!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "and Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "and Menasheh"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your power"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "your power"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "and come"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "for salvation"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:10.012785918Z",
+  "model": "glm-5.2"
+}

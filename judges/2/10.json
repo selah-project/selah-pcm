@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And also all dat generation gather join dia papa, and anoda generation stand up behind dem, wey no know ⟨את⟩ Yahweh and also ⟨את⟩ di work wey ⟨he⟩ do for Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dat generation"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "gather"
+    },
+    {
+      "surface": "אל",
+      "gloss": "join"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and stand up"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "behind dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:22.694410269Z",
+  "model": "glm-5.2"
+}

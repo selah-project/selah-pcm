@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Where ox no dey, manger dey clean; but plenty harvest dey come by di power of ox.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "where no dey"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ox"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "manger"
+    },
+    {
+      "surface": "בר",
+      "gloss": "dey clean"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "but plenty"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "harvest"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "by power"
+    },
+    {
+      "surface": "שור",
+      "gloss": "of ox"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:42.332261093Z",
+  "model": "glm-5.2"
+}

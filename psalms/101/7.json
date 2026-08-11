@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 101,
+  "translation": "No go siddon inside my house pesin wey dey do deceit; pesin wey dey talk lies, no go stand before my eye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "go siddon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inside"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my house"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "deceit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wey dey talk"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "before"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:48.064589925Z",
+  "model": "glm-5.2"
+}

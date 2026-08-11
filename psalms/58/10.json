@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 58,
+  "translation": "Before una pots go understand ⟨di⟩ thorn-bush, ⟨e⟩ go carry am comot like living thing, like burning anger e go storm am.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "before"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "go understand"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "una pots"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "thorn-bush"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "חי",
+      "gloss": "living thing"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "burning anger"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "go storm am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:20.176877605Z",
+  "model": "glm-5.2"
+}

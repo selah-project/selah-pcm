@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "I go bend ⟨my⟩ ear to di parable; I go open my riddle on top di harp.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "I go bend"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "to di parable"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "my ear"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "I go open"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "on top di harp"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "my riddle"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:55.535643123Z",
+  "model": "glm-5.2"
+}

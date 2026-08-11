@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "Look am, e dey come, and e don happen, na oracle of Adonai Yahweh; na dis ⟨be⟩ di day wey I bin talk about.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look am"
+    },
+    {
+      "surface": "באה",
+      "gloss": "e dey come"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "and e don happen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na dis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I bin talk about"
+    }
+  ],
+  "timestamp": "2026-08-11T12:16:53.270513245Z",
+  "model": "glm-5.2"
+}

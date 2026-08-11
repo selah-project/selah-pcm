@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And I bin send ⟨את⟩ Mosheh and ⟨את⟩ Aharon, and I bin strike Mitsrayim, as wetin I do inside am, and after dat one I bring ⟨את⟩ una out.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "and I bin send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "and I bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "wey I do"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "I bring out"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:10.899325514Z",
+  "model": "glm-5.2"
+}

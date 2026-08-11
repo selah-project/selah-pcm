@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Miktam wey belong to David. Guard me, El, sake of say I don take refuge for inside you.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wey belong to David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Guard me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of say"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "I don take refuge"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for inside you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:34.289819773Z",
+  "model": "glm-5.2"
+}

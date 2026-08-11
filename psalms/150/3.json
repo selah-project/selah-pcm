@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 150,
+  "translation": "Praise ⟨am⟩ wit ⟨di⟩ blast of shofar, praise ⟨am⟩ wit nevel and kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Praise ⟨am⟩"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "wit ⟨di⟩ blast"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "of shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "praise ⟨am⟩"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "wit nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "and kinnor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:15.841906915Z",
+  "model": "glm-5.2"
+}

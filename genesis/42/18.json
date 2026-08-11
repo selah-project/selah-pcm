@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "So Yosef talk to dem for di third day, sey, Make una do dis ⟨thing⟩ and una go live — ⟨na⟩ Elohim I dey fear.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "so ⟨he⟩ talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "third"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "make una do"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "and una go live"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "I dey fear"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:01.368740809Z",
+  "model": "glm-5.2"
+}

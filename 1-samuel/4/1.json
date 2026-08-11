@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So di word of Shemuël come to all Yisraël, and Yisraël go out to meet Pelishtim for battle, and dem camp beside Eben-ha-Ezer, and Pelishtim camp for Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "so ⟨bin⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and ⟨bin⟩ go out"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for battle"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem camp"
+    },
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "and Pelishtim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "camp"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "for Afek"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:01.010179298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And refuge go perish from di shepherd dem, and escape from di mighty one dem of di flock.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "and ⟨refuge⟩ go perish"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "refuge"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "di shepherd dem"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "and escape"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "from di mighty one dem of"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:44.980357896Z",
+  "model": "glm-5.2"
+}

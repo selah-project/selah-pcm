@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Dem don open dia mouth wide against me, like lion wey dey tear ⟨and⟩ dey roar.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "dem don open wide"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "dia mouth"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "wey dey tear"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "⟨and⟩ dey roar"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:46.343247212Z",
+  "model": "glm-5.2"
+}

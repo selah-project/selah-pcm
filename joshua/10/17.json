@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem tell Yehoshua, sey: ⟨dem⟩ don find di five kings, dem dey hide for di cave for Makedah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and dem tell"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "to Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "⟨dem⟩ don find"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "di five"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "dem dey hide"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "for di cave"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "for Makedah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:05.116143882Z",
+  "model": "glm-5.2"
+}

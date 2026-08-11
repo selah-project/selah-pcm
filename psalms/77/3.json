@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "For di day of my trouble, Adonai, I seek ⟨am⟩; my hand dey stretch out for night and e no dey slack; my ⟨life⟩ don refuse to ⟨find⟩ comfort.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "of my trouble"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "I seek ⟨am⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "dey stretch out"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨e⟩ no"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "dey slack"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "don refuse"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "to ⟨find⟩ comfort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my ⟨life⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:45.040569901Z",
+  "model": "glm-5.2"
+}

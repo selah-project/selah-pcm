@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem answer ⟨את⟩ Yehoshua, sey: Evri wetin you bin command us, we go do; and to any place wey you send us, we go go.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "and dem answer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "you bin command us"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "you send us"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "we go go"
+    }
+  ],
+  "timestamp": "2026-08-11T10:18:35.868412848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Chazaʾel, king of Aram, bin dey press ⟨את⟩ Yisraʾel, all di days of Yehoʾachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "and Chazaʾel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "bin dey press"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraʾel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoʾachaz"
+    }
+  ],
+  "timestamp": "2026-08-11T11:14:12.444733640Z",
+  "model": "glm-5.2"
+}

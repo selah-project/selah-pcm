@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And dem strike ⟨את⟩ am, and ⟨את⟩ im sons, and ⟨את⟩ all im people, until no survivor remain for am; and dem take possession of ⟨את⟩ im land.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "and dem strike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im people"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "remain"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "survivor"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "and dem take possession"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:55:59.635616034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh Elohim bin plant garden for Eden, for di east side, and e bin put dia ⟨את⟩ di man wey e bin form.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "and bin plant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "garden"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "for Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "for di east side"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and bin put"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "e bin form"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:06.862565858Z",
+  "model": "glm-5.2"
+}

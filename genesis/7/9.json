@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Two-two, dem come meet Noach, enter di ark, male and female, as Elohim bin command ⟨את⟩ Noach.",
+  "tokens": [
+    {
+      "surface": "שְׁנַ֨יִם",
+      "gloss": "two"
+    },
+    {
+      "surface": "שְׁנַ֜יִם",
+      "gloss": "two"
+    },
+    {
+      "surface": "בָּ֧אוּ",
+      "gloss": "dem come"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "נֹ֛חַ",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הַתֵּבָ֖ה",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "זָכָ֣ר",
+      "gloss": "male"
+    },
+    {
+      "surface": "וּנְקֵבָ֑ה",
+      "gloss": "and female"
+    },
+    {
+      "surface": "כַּֽאֲשֶׁ֛ר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נֹֽחַ",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-11T15:39:14.784914726Z",
+  "model": "glm-5.2"
+}

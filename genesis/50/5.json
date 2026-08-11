@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "Papa bin make me swear, sey: 'Look, I ⟨dey⟩ about to die. For my grave wey I dig for myself for di land of Kenaan, na there you go bury me.' And now, make I go up, abeg, and I go bury ⟨את⟩ my papa, and I go come back.'",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Papa"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "bin make me swear"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Look"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מת",
+      "gloss": "about to die"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "for my grave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "I dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "na there"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "you go bury me"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "make I go up"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "and I go bury"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my papa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "and I go come back"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:16.533480703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "If im sons abandon my Torah, and for my mishpatim dem no walk inside,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "dem abandon"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Torah"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "and for my mishpatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "dem go walk"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:22.918763164Z",
+  "model": "glm-5.2"
+}

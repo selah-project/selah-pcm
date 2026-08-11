@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Your eye dem go see strange tin, and your heart go talk perversity.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "your eye dem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "go see"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "strange tin"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "and your heart"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "go talk"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversity"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:18.631509562Z",
+  "model": "glm-5.2"
+}

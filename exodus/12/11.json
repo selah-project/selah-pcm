@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And like dis una go eat ⟨את⟩ am: una waist dem dey girded, una sandal dem for una leg dem, and una walking-stick for una hand; and una go eat ⟨את⟩ am inside haste — Pesach, e ⟨belong⟩ to Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "and like dis"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go eat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am (di lamb)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "una waist dem"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "dey girded"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "una sandal dem"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "for una leg dem"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "and una walking-stick"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "for una hand"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "and una go eat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am (di lamb)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "inside haste"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:53.621614532Z",
+  "model": "glm-5.2"
+}

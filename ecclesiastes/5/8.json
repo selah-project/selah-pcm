@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "But di profit of land, na for everybody — ⟨even⟩ king dey serve di field wey dem work.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "But di profit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of land"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for everybody"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "di field"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "wey dem work"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:35.201852278Z",
+  "model": "glm-5.2"
+}

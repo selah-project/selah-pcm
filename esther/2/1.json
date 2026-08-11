@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "After all dis things, wen di hot anger of King Achashverosh bin cool down, e bin remember ⟨את⟩ Vashti, and ⟨את⟩ wetin she do, and ⟨את⟩ wetin dem decree against her.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "after"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di things"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "wen e cool down"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "anger"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "e remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin she do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "she do"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin dem decree against her"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "dem decree"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against her"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:16.363032242Z",
+  "model": "glm-5.2"
+}

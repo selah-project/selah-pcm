@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Six days work fit dey done, but for di seventh day na Shabbat, Shabbaton, holy to Yahweh. Anybody wey do any work for di day of Shabbat, go surely die.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fit dey done"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "but for di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabbaton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anybody"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "wey do"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "work"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "of Shabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "go surely die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:08.669102278Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Yahweh bin dey speak unto Mosheh, sey:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin dey speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:05.722633656Z",
+  "model": "glm-5.2"
+}

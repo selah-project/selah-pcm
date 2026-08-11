@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "You hold di watch of my eye, I bin dey shake and I no fit talk.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "You hold"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "di watch of"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "I bin dey shake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "fit talk"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.829110974Z",
+  "model": "glm-5.2"
+}

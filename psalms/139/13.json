@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "Because na You create ⟨את⟩ my kidney, You weave me for inside my mama belly.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na You"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "create"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "my kidney"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "You weave me"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "for inside belly"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my mama"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:45.372317582Z",
+  "model": "glm-5.2"
+}

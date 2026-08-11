@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Di rope dem of wicked people don tie me down, ⟨but⟩ your Torah I neva forget.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "di rope dem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "don tie me down"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "your Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "I neva"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "forget"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:21.172866452Z",
+  "model": "glm-5.2"
+}

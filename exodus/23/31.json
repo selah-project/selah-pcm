@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make I go set ⟨את⟩ your boundary from Sea of Suf reach sea of Pelishtim, and from wilderness reach di River; because I go put for una hand ⟨את⟩ di people wey dey stay for di land, and you go drive dem comot from your front.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Make I go set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your boundary"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "your boundary"
+    },
+    {
+      "surface": "מים",
+      "gloss": "from sea"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "of Suf"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and reach"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Pelishtim"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "and from wilderness"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "di River"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "for una hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people wey dey stay for di land"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di people wey dey stay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "and you go drive dem comot"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "from your front"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:02.483307628Z",
+  "model": "glm-5.2"
+}

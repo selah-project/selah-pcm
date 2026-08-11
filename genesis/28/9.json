@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 28:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "So Esav bin go meet Yishmael, and e take ⟨את⟩ Machalath, daughter of Yishmael, son of Avraham, sister of Nevayoth, on top of im wives, for imself, as wife.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bin go"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machalath"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sister of"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayoth"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "im wives"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as wife"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:42.278587253Z",
+  "model": "glm-5.2"
+}

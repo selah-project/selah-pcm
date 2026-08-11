@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 19:7",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di man bin stand up to waka, but im father-in-law bin press am, so ⟨he⟩ turn back and ⟨he⟩ sleep dia.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and ⟨he⟩ bin stand up"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to waka"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "but ⟨he⟩ bin press"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "im father-in-law"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "so ⟨he⟩ turn back"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "and ⟨he⟩ sleep"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-11T10:33:38.918323778Z",
+  "model": "glm-5.2"
+}

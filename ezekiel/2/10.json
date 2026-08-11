@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨e⟩ spread ⟨את⟩ am before me, and ⟨e⟩ ⟨be⟩ written front and back; and written on top am ⟨be⟩ dirges, and groaning, and woe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "And ⟨e⟩ spread"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di scroll)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before me"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "and ⟨e⟩"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "⟨be⟩ written"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "front"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "and back"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "and written"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dirges"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "and groaning"
+    },
+    {
+      "surface": "והי",
+      "gloss": "and woe"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:50.222418958Z",
+  "model": "glm-5.2"
+}

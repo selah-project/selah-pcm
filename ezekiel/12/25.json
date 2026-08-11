@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 12:25",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Because na me be Yahweh, I go talk ⟨את⟩ wetin I go talk — one word, and e go happen; e no go delay again, because for una own days, house of rebellion, I go talk one word and I go do am — oracle of Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲדַבֵּר֙",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "אֵת֩",
+      "gloss": "⟨את⟩",
+      "marks": "wetin I go talk"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אֲדַבֵּ֤ר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "דָּבָר֙",
+      "gloss": "one word"
+    },
+    {
+      "surface": "וְיֵ֣עָשֶׂ֔ה",
+      "gloss": "and e go happen"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִמָּשֵׁ֖ךְ",
+      "gloss": "go delay"
+    },
+    {
+      "surface": "ע֑וֹד",
+      "gloss": "again"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "because"
+    },
+    {
+      "surface": "בִֽימֵיכֶ֞ם",
+      "gloss": "for una own days"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "הַמֶּ֗רִי",
+      "gloss": "rebellion"
+    },
+    {
+      "surface": "אֲדַבֵּ֤ר",
+      "gloss": "I go talk"
+    },
+    {
+      "surface": "דָּבָר֙",
+      "gloss": "one word"
+    },
+    {
+      "surface": "וַעֲשִׂיתִ֔יו",
+      "gloss": "and I go do am"
+    },
+    {
+      "surface": "נְאֻ֖ם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:05:41.061742162Z",
+  "model": "glm-5.2"
+}

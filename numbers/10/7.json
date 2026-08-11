@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "But wen ⟨you⟩ wan gather ⟨את⟩ di assembly, una go blow, but make una no raise alarm.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "but wen ⟨you⟩ wan gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di assembly"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "una go blow"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but make una no"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "raise alarm"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:02.426450723Z",
+  "model": "glm-5.2"
+}

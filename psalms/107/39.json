@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And dem reduce, and dem bow down, under oppression of evil and sorrow.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "and dem reduce"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "and dem bow down"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "under oppression"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "of evil"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "and sorrow"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:53.781818353Z",
+  "model": "glm-5.2"
+}

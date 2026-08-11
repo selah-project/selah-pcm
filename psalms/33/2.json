@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Give Yahweh tanks wit harp; make una play song for am wit ten-string instrument.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "give tanks"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "wit harp"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "wit lyre"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ten-string"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "make una play song"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:15.258986445Z",
+  "model": "glm-5.2"
+}

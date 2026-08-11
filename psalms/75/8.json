@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 75,
+  "translation": "For na Elohim dey judge; ⟨im⟩ dis one, ⟨im⟩ dey bring down, and ⟨im⟩ dat one, ⟨im⟩ dey lift up.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dey judge"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "dey bring down"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "and dat one"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "dey lift up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:21.783718788Z",
+  "model": "glm-5.2"
+}

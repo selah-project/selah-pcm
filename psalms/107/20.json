@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "⟨Im⟩ send im word and ⟨im⟩ heal dem, and ⟨im⟩ rescue dem from dia destruction.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "⟨im⟩ send"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "im word"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "and ⟨im⟩ heal dem"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "and ⟨im⟩ rescue"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "from dia destruction"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:44.700656901Z",
+  "model": "glm-5.2"
+}

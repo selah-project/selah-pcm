@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨he⟩ talk to dem, make Yahweh dey wit una as I go send ⟨una⟩ and ⟨את⟩ una small-small pickin; see-am, because bad thing dey for una front.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "make e be"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "wit una"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "I go send"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una small-small pickin"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "una small-small pickin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "see-am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad thing"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "dey for front of"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "una face"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:31.191017675Z",
+  "model": "glm-5.2"
+}

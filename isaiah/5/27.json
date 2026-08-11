@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "No body dey tired and no body dey stumble among dem; ⟨dem⟩ no go doze and ⟨dem⟩ no go sleep; di belt of dia waist no go open and di strap of dia shoe no go break.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "no body dey"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "tired"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no body dey"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "stumble"
+    },
+    {
+      "surface": "בו",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "go doze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "go sleep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "go open"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "di belt"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "of dia waist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "go break"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "di strap"
+    },
+    {
+      "surface": "נעליו",
+      "gloss": "of dia shoe"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:50.298253441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So dem bin stand up for twilight make dem go enter inside camp of Aram, and dem bin come reach di edge of camp of Aram, and han, nobody no dey there.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "dem bin stand up"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "for twilight"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "make dem go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dem bin come reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "edge"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and han"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nobody"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:30.957968725Z",
+  "model": "glm-5.2"
+}

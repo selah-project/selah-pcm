@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "But Paroh make im heart heavy even dis time too, and ⟨e⟩ no send ⟨את⟩ di people ⟨away⟩.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "But ⟨e⟩ make heavy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im heart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even too"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "for dis time"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:21:17.602824244Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Di righteous man dey chop to ⟨say⟩ im nephesh don full, but belly of wicked people go lack.",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "righteous man"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "dey chop"
+    },
+    {
+      "surface": "לְשֹׂבַע",
+      "gloss": "to ⟨say⟩ . . . don full"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "im nephesh"
+    },
+    {
+      "surface": "וּבֶטֶן",
+      "gloss": "but belly"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "תֶּחְסָר",
+      "gloss": "go lack"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:44.715745343Z",
+  "model": "glm-5.2"
+}

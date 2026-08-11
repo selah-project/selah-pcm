@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di pikin-dem of Yisra'el bin give to di Leviyim ⟨את⟩ di cities and ⟨את⟩ dia pasture-lands.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and bin give"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "to di Leviyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cities"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "di cities"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia pasture-lands"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "dia pasture-lands"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:08.978561072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "⟨Im⟩ talk sey, 'When una dey deliver ⟨את⟩ di Hebrew woman of pikin, and una see dem on top di birth-stone — if ⟨na⟩ son, make una kill ⟨את⟩ am; but if ⟨na⟩ daughter, make she live.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "when una dey deliver woman of pikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Hebrew woman of pikin"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "di Hebrew woman of pikin"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "and una see dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "di birth-stone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "make una kill"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "make she live"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:55.372321070Z",
+  "model": "glm-5.2"
+}

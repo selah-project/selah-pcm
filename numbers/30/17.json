@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Dis na di chuqim wey Yahweh don command Moshe, between man and im waif, between fada and im dotah, for im yut for im fada haus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "di chuqim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "and im waif"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fada"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "and im dotah"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "for im yut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "for"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "im fada haus"
+    }
+  ],
+  "timestamp": "2026-08-11T14:26:59.870970113Z",
+  "model": "glm-5.2"
+}

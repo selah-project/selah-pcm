@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Say you dey search for my iniquity, and for my sin you dey investigate?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "say"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "you dey search for"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "my iniquity"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "and for my sin"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "you dey investigate"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:46.869514900Z",
+  "model": "glm-5.2"
+}

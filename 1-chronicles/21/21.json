@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "David come reach Ornan, and Ornan look up and see ⟨את⟩ David, and e come outside from di threshing floor, and e bow down to David, face ⟨to⟩ di ground.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "come"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "and look"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and come outside"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "di threshing floor"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and bow down"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "face"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:10.402463067Z",
+  "model": "glm-5.2"
+}

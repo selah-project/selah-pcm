@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So why you no keep ⟨את⟩ di oath of Yahweh, and ⟨את⟩ di commandment wey I lay on top you?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "so why"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "you keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di oath"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "oath"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di commandment"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "di commandment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I lay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "on top you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:36:53.657241694Z",
+  "model": "glm-5.2"
+}

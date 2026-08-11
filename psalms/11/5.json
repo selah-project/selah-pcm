@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Yahweh dey test di righteous one, but ⟨as for⟩ di wicked one and di person wey dey love violence — im life hate ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "di righteous one"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "dey test"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "but ⟨as for⟩ di wicked one"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "and di person wey dey love"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hate"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im life",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:43.694712073Z",
+  "model": "glm-5.2"
+}

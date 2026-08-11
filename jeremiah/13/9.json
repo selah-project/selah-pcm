@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Like dis Yahweh bin talk: na so I go spoil ⟨את⟩ di pride of Yehudah, and ⟨את⟩ di big pride of Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "I go spoil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pride of Yehudah"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "di pride"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di big pride of Yerushalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "di pride"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "di big"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:49.207308438Z",
+  "model": "glm-5.2"
+}

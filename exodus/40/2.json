@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "For di first day of di first month, you go set up ⟨את⟩ di Mishkan of Tent of Meeting.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "for one"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "you go set up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Meeting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:49.032644368Z",
+  "model": "glm-5.2"
+}

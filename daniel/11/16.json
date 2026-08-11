@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 11:16",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨the one⟩ wey dey come against am go do according to im own will, and nobody go stand before am; and ⟨he⟩ go stand for ⟨di⟩ land of ⟨di⟩ Glory, and destruction ⟨go be⟩ for im hand.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨he⟩ go do"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "⟨the one⟩ wey dey come"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "against am"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "according to im will"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and nobody"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "standing"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "and ⟨he⟩ go stand"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "of ⟨di⟩ Glory"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "and destruction"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:45:12.649101820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Flocks don clothe di pastures, and valleys dey wrap ⟨dem⟩ with grain; dem go shout for joy, yes, dem go sing.",
+  "tokens": [
+    {
+      "surface": "לָבְשׁ֬וּ",
+      "gloss": "don clothe"
+    },
+    {
+      "surface": "כָרִ֨ים",
+      "gloss": "flocks"
+    },
+    {
+      "surface": "הַצֹּ֗אן",
+      "gloss": "di pastures"
+    },
+    {
+      "surface": "וַעֲמָקִ֥ים",
+      "gloss": "and valleys"
+    },
+    {
+      "surface": "יַֽעַטְפוּ",
+      "gloss": "dey wrap"
+    },
+    {
+      "surface": "בָ֑ר",
+      "gloss": "with grain"
+    },
+    {
+      "surface": "יִ֝תְרוֹעֲע֗וּ",
+      "gloss": "dem go shout for joy"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "yes"
+    },
+    {
+      "surface": "יָשִֽׁירוּ",
+      "gloss": "dem go sing"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:12.805940491Z",
+  "model": "glm-5.2"
+}

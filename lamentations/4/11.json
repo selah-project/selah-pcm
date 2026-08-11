@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Yahweh don finish ⟨את⟩ im wrath, e don pour out di burning of im nose; and e kindle fire for Tziyon, and e come chop im foundation.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wrath"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "im wrath"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "don pour out"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "di burning"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "of im nose"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "and e kindle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "for Tziyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and e come chop"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "im foundation"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:54.102869817Z",
+  "model": "glm-5.2"
+}

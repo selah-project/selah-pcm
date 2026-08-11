@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And Paroh bin talk to im brodas, \"Wetin be una work?\" And dem bin talk to Paroh, \"Your servant dem ⟨be⟩ shepherd of sheep, both we and our papa dem.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "be una work"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem bin talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shepherd"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "of sheep"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servant dem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "גם",
+      "gloss": "and"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "our papa dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:27.687694286Z",
+  "model": "glm-5.2"
+}

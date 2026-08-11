@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And make dem lift am up for gathering of ⟨di⟩ people, and for where elders dey siddon make dem praise am!",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "and make dem lift am up"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "for gathering of"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "and for where elders dey siddon"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "elders"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "make dem praise am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:59.051338123Z",
+  "model": "glm-5.2"
+}

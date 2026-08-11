@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Truly, Yahweh, di kings of Ashshur don lay waste ⟨את⟩ di nations and ⟨את⟩ dia land.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "truly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "don lay waste"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "di kings of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nations"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dia land"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:55.872957465Z",
+  "model": "glm-5.2"
+}

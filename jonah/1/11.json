@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem bin tell am, \"Wetin we go do to you, so dat di sea go quiet from on top us?\" Because di sea dey go and dey storm.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem bin tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "and ⟨it⟩ go quiet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "from on top us"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "dey go"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "and dey storm"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:12.664247847Z",
+  "model": "glm-5.2"
+}

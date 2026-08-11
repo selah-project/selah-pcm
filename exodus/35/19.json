@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "⟨את⟩ di weaving klot for to serve for di holy place, ⟨את⟩ di holy klot dem for Aharon di priest, and ⟨את⟩ di klot dem of im son dem for to serve as priest.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di weaving klot"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klot dem"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "weaving"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "for to serve"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "for di holy place"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di holy klot dem"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klot dem"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "for Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di klot dem of im son dem"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klot dem"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son dem"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "for to serve as priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:10.425488092Z",
+  "model": "glm-5.2"
+}

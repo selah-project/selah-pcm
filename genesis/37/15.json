@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And ⟨a⟩ man bin find am, and behold, e dey wander for di field. And di man bin ask am, sey, \"Wetin you dey find?\"",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "bin find am"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨a⟩ man"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "dey wander"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "bin ask am"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "you dey find"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:56.927544482Z",
+  "model": "glm-5.2"
+}

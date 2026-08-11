@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "And I go make your battlements of kadkod, and your gates of stones of ekdach, and all your border of stones of chefetz.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "And I go make"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "of kadkod"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "your battlements"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "and your gates"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "of stones of"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "ekdach"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "your border"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "of stones of"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chefetz"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:28.995969503Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Una don multiply una dead-body for inside dis city, and una don fill im streets wit dead-body.",
+  "tokens": [
+    {
+      "surface": "הִרְבֵּיתֶם",
+      "gloss": "una don multiply"
+    },
+    {
+      "surface": "חַלְלֵיכֶם",
+      "gloss": "una dead-body"
+    },
+    {
+      "surface": "בָּעִיר",
+      "gloss": "for inside di city"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וּמִלֵּאתֶם",
+      "gloss": "and una don fill"
+    },
+    {
+      "surface": "חוּצֹתֶיהָ",
+      "gloss": "im streets"
+    },
+    {
+      "surface": "חָלָל",
+      "gloss": "wit dead-body"
+    }
+  ],
+  "timestamp": "2026-08-11T14:47:47.942157063Z",
+  "model": "glm-5.2"
+}

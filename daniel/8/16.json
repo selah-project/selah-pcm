@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And I hear voice of man between ⟨di banks of⟩ Ulai, and ⟨he⟩ call out, and ⟨he⟩ talk, \"Gavri'el, make dis ⟨man⟩ understand ⟨את⟩ di vision.\"",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "and I hear"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and ⟨he⟩ call out"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavri'el"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "make ⟨him⟩ understand"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "dis ⟨man⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "di vision"
+    }
+  ],
+  "timestamp": "2026-08-11T13:42:47.926519587Z",
+  "model": "glm-5.2"
+}

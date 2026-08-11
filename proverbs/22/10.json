@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Drive di mocker comot, and quarrel go go out; ⟨so⟩ strife and insult go cease.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "drive comot"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "di mocker"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and go go out"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "quarrel"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "and go cease"
+    },
+    {
+      "surface": "דין",
+      "gloss": "strife"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "and insult"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:55.925282883Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di talk-dem of Yahweh ⟨be⟩ pure talk-dem — silver wey dem refine for furnace for di ground, wey dem purify seven times.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "di talk-dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "talk-dem"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "pure"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "wey dem refine"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "for furnace"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "for di ground"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "wey dem purify"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seven times"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:02.685194875Z",
+  "model": "glm-5.2"
+}

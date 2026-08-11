@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨e⟩ turn ⟨dia⟩ rivers to blood, and ⟨dia⟩ streams, so dat dem no fit drink.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "and e turn"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "to blood"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "dia rivers"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "and dia streams"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no fit"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "drink"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:00.474338566Z",
+  "model": "glm-5.2"
+}

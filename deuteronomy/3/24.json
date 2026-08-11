@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Adonai, Yahweh, you don start to show ⟨את⟩ your servant ⟨את⟩ your greatness and ⟨את⟩ your strong hand; because who ⟨be⟩ El for heaven and for earth wey go do like your work dem and like your mighty power?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "don start"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "to show"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your servant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your greatness"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "your greatness"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your strong hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "and for earth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "like your work dem"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "and like your mighty power"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:53.521792309Z",
+  "model": "glm-5.2"
+}

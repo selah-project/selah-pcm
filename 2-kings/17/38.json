@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di covenant wey I cut wit ⟨את⟩ una, make una no forget; and make una no fear oda gods.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "and di covenant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "I cut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "wit ⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "make una forget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "make una fear"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gods"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:51.749212858Z",
+  "model": "glm-5.2"
+}

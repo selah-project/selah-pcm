@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Di arrogant dem don plaster lie on top me; me, wit all my heart I dey guard ⟨את⟩ your precepts.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "don plaster"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lie"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arrogant dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "I dey guard"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "your precepts",
+      "marks": "your precepts"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:37.445558853Z",
+  "model": "glm-5.2"
+}

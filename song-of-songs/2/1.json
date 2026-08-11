@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Na me ⟨be⟩ flower of Sharon, lily of di valleys.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "flower"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "of Sharon"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "lily"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "of di valleys"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:39.598669382Z",
+  "model": "glm-5.2"
+}

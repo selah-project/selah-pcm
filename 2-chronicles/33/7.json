@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 33:7",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And e bin put ⟨את⟩ di carved image of di idol wey e bin make inside di house of Elohim, wey Elohim bin talk to David and to Shelomah im son, say: For dis house and for Yerushalayim wey I don choose from all di tribes of Yisra'el, I go put ⟨את⟩ my name forever;",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and e bin put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di carved image"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "carved image"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "of di idol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e bin make"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "inside di house"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for dis house"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "and for Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "I don choose"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "di tribes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my name"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "לעילום",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T14:15:35.452346022Z",
+  "model": "glm-5.2"
+}

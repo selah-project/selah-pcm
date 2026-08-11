@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 2:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And e come to pass, as dem bin dey go, dey waka and dey talk, and ⟨behold⟩ — chariot of fire and horses of fire! And dem separate between di two of dem, and Eliyahu go up inside whirlwind go heaven.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "bin dey go"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "and dey talk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and ⟨behold⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariot"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "וסוסי",
+      "gloss": "and horses"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "and dem separate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "di two of dem"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "inside whirlwind"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:02.920514423Z",
+  "model": "glm-5.2"
+}

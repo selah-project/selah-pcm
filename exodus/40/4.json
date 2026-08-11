@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And you go bring inside ⟨את⟩ di table, and you go arrange ⟨את⟩ im arrangement; and you go bring inside ⟨את⟩ di lampstand, and you go light ⟨את⟩ im lamps.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "and you go bring inside"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "and you go arrange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im arrangement"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "im arrangement"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "and you go bring inside"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di lampstand"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di lampstand"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "and you go light"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im lamps"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "im lamps"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:46.336309464Z",
+  "model": "glm-5.2"
+}

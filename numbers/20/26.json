@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 20:26",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And make ⟨את⟩ Aharon comot ⟨את⟩ im cloths, and you go put ⟨את⟩ dem on Elazar im pikin; and Aharon go dey gathered and go die dere.",
+  "tokens": [
+    {
+      "surface": "והפשט",
+      "gloss": "and make comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloths"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "and you go put on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "and Aharon"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "go dey gathered"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and go die"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:28.742118451Z",
+  "model": "glm-5.2"
+}

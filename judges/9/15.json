@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 9:15",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Di bramble-bush bin talk to di trees, If truly una dey anoint ⟨את⟩ me as king over una, come, take shelter for my shade; and if no be so, make fire come out from di bramble-bush and ⟨e go⟩ devour ⟨את⟩ di cedars of Levanon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "di bramble-bush"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "di trees"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "truly"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "dey anoint"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me as king"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as king"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over una"
+    },
+    {
+      "surface": "באו",
+      "gloss": "come"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "take shelter"
+    },
+    {
+      "surface": "בצלי",
+      "gloss": "for my shade"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no be so"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "make fire come out"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "di bramble-bush"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and go devour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cedars of Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "di cedars"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "of Levanon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:29:37.916564358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "But ⟨na⟩ ⟨את⟩ Yahweh una Elohim una go fear, and ⟨he⟩ go deliver ⟨את⟩ una from hand of all una enemies.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "una go fear"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and ⟨he⟩"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "go deliver"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:51.749376006Z",
+  "model": "glm-5.2"
+}

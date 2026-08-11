@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Against ⟨an⟩ godless nation I go send am, and against ⟨di⟩ people of my fury I go command am, make ⟨e⟩ take spoil, and make ⟨e⟩ seize plunder, and make ⟨e⟩ turn dem to trampling-place like mud for di streets.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "Against nation"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "godless"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "I go send am"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "of my fury"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "I go command am"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "make ⟨e⟩ take"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "and make ⟨e⟩ seize"
+    },
+    {
+      "surface": "בז",
+      "gloss": "plunder"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "and make ⟨e⟩ turn dem to"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "trampling-place"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "like mud"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "for di streets"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:28.320616114Z",
+  "model": "glm-5.2"
+}

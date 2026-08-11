@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Sluggard bury im hand for di bowl, even to im mouth self, im no go bring am back.",
+  "tokens": [
+    {
+      "surface": "טָ֘מַ֤ן",
+      "gloss": "bury"
+    },
+    {
+      "surface": "עָצֵ֣ל",
+      "gloss": "Sluggard"
+    },
+    {
+      "surface": "יָ֭דוֹ",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "בַּצַּלָּ֑חַת",
+      "gloss": "for di bowl"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "even"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פִּ֝֗יהוּ",
+      "gloss": "im mouth"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "im no"
+    },
+    {
+      "surface": "יְשִׁיבֶֽנָּה",
+      "gloss": "go bring am back"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:02.970006109Z",
+  "model": "glm-5.2"
+}

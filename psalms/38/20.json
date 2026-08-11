@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And my enemies dey alive, dem don strong; and dem wey hate me for nothing don plenty.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "And my enemies"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dey alive"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "dem don strong"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "and don plenty"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "dem wey hate me"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "for nothing"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:09.407301971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And e put ⟨את⟩ dem for custody for house of chief of di slaughterer-dem, inside di round-house, di place wey Yosef bin dey bound there.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "for custody"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chief"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "di slaughterer-dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "di round-house"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "bin dey bound"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:24.519989164Z",
+  "model": "glm-5.2"
+}

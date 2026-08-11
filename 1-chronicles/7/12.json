@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Shuppim and Huppim, sons of Ir; Chushim, sons of Acher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "And Shuppim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "and Huppim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "of Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Chushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "of Acher"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:30.846480609Z",
+  "model": "glm-5.2"
+}

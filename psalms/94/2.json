@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 94,
+  "translation": "Lift up ⟨yourself⟩, ⟨you⟩ wey dey judge di earth; pay back di proud ones wetin dem deserve.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Lift up"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨you⟩ wey dey judge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pay back"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "wetin dem deserve"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "di proud ones"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:41.150830806Z",
+  "model": "glm-5.2"
+}

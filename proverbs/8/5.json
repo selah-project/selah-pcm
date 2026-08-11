@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Una wey no sabi book, make una get sense; and una wey dey fool, make una get ⟨understanding⟩ heart.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "make una get understanding"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "una wey no sabi book"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "sense"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "and una wey dey fool"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "make una get understanding"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:32.727194496Z",
+  "model": "glm-5.2"
+}

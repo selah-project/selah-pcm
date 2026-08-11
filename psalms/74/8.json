@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Dem talk for dia heart, 'Make we oppress dem altogether'; dem don burn all meeting-place dem of El for di land.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "for dia heart"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "make we oppress dem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "altogether"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "dem don burn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "meeting-place dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "of El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:10.200117493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And king of Ashshur bin hear am, and king of Ashshur go up go Damascus, and e seize am, and e carry ⟨im⟩ people go Kir, and ⟨את⟩ Retsin e kill.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and bin hear"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damascus"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "and seize am"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "and carry ⟨im⟩ people go"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "e kill"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:42.539852815Z",
+  "model": "glm-5.2"
+}

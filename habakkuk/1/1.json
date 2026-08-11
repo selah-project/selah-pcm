@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di load wey Chavakkuk di nabi bin see.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "di load"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Chavakkuk"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "di nabi"
+    }
+  ],
+  "timestamp": "2026-08-11T16:33:52.880823278Z",
+  "model": "glm-5.2"
+}

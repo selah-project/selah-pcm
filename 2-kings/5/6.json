@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di letter come to di king of Yisra'el, to say: And now, as dis letter come to you, look, I don send to you ⟨את⟩ Naaman my servant, make you cure am from im leprosy.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֵא",
+      "gloss": "and ⟨e⟩ come"
+    },
+    {
+      "surface": "הַסֵּפֶר",
+      "gloss": "di letter"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "king"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "to say"
+    },
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "כְּבֹא",
+      "gloss": "as ⟨e⟩ come"
+    },
+    {
+      "surface": "הַסֵּפֶר",
+      "gloss": "di letter"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "to you"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "look"
+    },
+    {
+      "surface": "שָׁלַחְתִּי",
+      "gloss": "I don send"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "to you"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נַעֲמָן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עַבְדִּי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "וַאֲסַפְתּוֹ",
+      "gloss": "make you cure am"
+    },
+    {
+      "surface": "מִצָּרַעְתּוֹ",
+      "gloss": "from im leprosy"
+    }
+  ],
+  "timestamp": "2026-08-11T16:12:21.544188924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yahweh bin talk, \"Di cry of Sedom and Amorah don really grow, and dia sin don really heavy well well.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זַעֲקַ֛ת",
+      "gloss": "di cry"
+    },
+    {
+      "surface": "סְדֹ֥ם",
+      "gloss": "of Sedom"
+    },
+    {
+      "surface": "וַעֲמֹרָ֖ה",
+      "gloss": "and Amorah"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "⟨don⟩ really"
+    },
+    {
+      "surface": "רָבָּ֑ה",
+      "gloss": "grow"
+    },
+    {
+      "surface": "וְחַ֨טָּאתָ֔ם",
+      "gloss": "and dia sin"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "⟨don⟩ really"
+    },
+    {
+      "surface": "כָבְדָ֖ה",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "well well"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:44.585843684Z",
+  "model": "glm-5.2"
+}

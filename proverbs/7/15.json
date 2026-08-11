@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because of dat, I come out to meet you, to find your face, and I find you.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "I come out"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "to meet you"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "to find"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "and I find you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:13.436579978Z",
+  "model": "glm-5.2"
+}

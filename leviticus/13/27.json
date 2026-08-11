@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And di priest go check am for di seventh day: if e don spread well for di skin, den di priest go declare am ⟨na⟩ unclean — ⟨na⟩ plague of tzara'at e be.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "and e go check am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "e don spread"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "spread"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "for di skin"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "and e go declare unclean"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plague"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:52.707764782Z",
+  "model": "glm-5.2"
+}

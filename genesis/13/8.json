@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So Avram talk to Lot, make quarrel no dey between me and you, and between my shepherd-dem and your shepherd-dem, because we ⟨be⟩ broda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "make"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨abeg⟩"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "quarrel"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "and between you"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "my shepherd-dem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "your shepherd-dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨men⟩"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broda"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:39.353514240Z",
+  "model": "glm-5.2"
+}

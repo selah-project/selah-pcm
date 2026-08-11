@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And di Filistia man bin look and bin see ⟨את⟩ David, and bin disdain am, sey ⟨im⟩ bin ⟨be⟩ boy, and red for skin, wit fine face.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "and bin look"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "di Filistia man"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "and bin see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "and bin disdain am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin be"
+    },
+    {
+      "surface": "נער",
+      "gloss": "boy"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "and red for skin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fine"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "face"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:47.207885354Z",
+  "model": "glm-5.2"
+}

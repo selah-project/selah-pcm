@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go bring ⟨את⟩ di bull to front of Tent of Meeting, and Aharon and im sons go lay ⟨את⟩ dia hand on top di head of di bull.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "and you go bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di bull"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "di bull"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to front of"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Meeting"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "and ⟨dem⟩ go lay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im sons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia hand"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dia hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "of di bull"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:35.675622306Z",
+  "model": "glm-5.2"
+}

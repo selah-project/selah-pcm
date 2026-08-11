@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Of David, wen e bin change ⟨את⟩ im behavior in front of Avimelech, and e pursue am comot, and e go.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Of David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "wen e bin change"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im behavior"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "im behavior"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "and e pursue am comot"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and e go"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:54.105586803Z",
+  "model": "glm-5.2"
+}

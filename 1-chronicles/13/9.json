@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And dem come reach di treshing-floor of Kidon, and Uzza send ⟨את⟩ im hand to hold ⟨את⟩ di ark, because di cow dem stumble.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "treshing-floor"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and ⟨he⟩ send"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "to hold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "stumble"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "di cow dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:46.416216125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And I — I bin give ⟨את⟩ di years of dia iniquity to you, to di number of days: three hundred and ninety days; and you go bear di iniquity of house of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I bin give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di years"
+    },
+    {
+      "surface": "שני",
+      "gloss": "years"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "of dia iniquity"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "to di number"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "of days"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "and ninety"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "and you go bear"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:03:24.268612162Z",
+  "model": "glm-5.2"
+}

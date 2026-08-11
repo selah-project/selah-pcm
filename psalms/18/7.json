@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "For trouble, I bin call Yahweh, and to my Elohim I bin cry for help; im hear my voice from im temple, and my cry come before am, enter im ear.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "for trouble"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I bin call"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "I bin cry for help"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "im hear"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "from im temple"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "and my cry"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "enter im ear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:18.700996101Z",
+  "model": "glm-5.2"
+}

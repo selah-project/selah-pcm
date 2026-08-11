@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Shaul bin build altar for Yahweh; ⟨na⟩ ⟨am⟩ ⟨he⟩ bin start to build altar for Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "and bin build"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bin start"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "to build"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:33:16.029973734Z",
+  "model": "glm-5.2"
+}

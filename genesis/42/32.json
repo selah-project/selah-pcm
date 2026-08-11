@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "“We be twelve brodas, sons of one papa; one no dey again, and di smallest one dey ⟨today⟩ ⟨with⟩ ⟨את⟩ our papa for ⟨di⟩ land of Kenaan.”",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brodas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "of our papa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no dey again"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "and di smallest one"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "our papa"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "our papa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:38.947283060Z",
+  "model": "glm-5.2"
+}

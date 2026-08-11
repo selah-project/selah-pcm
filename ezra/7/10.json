@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because Ezra bin prepare im heart make e find Torah of Yahweh and make e do am, and make e teach for Israel ⟨di⟩ law and judgment.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "bin prepare"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "make e find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "and make e do"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "and make e teach"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "law"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "and judgment"
+    }
+  ],
+  "timestamp": "2026-08-11T16:50:22.932882162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 85,
+  "translation": "Show us, Yahweh, your chesed, and make you give your salvation to us.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Show us"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "and your salvation"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "make you give"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "to us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:37.045795418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Your commandments dey make me wise pass my enemies, because e dey with me forever.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "than my enemies"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "dey make me wise"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "Your commandments"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dey with me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:29.769473658Z",
+  "model": "glm-5.2"
+}

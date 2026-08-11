@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨he⟩ get two wife; di name of one ⟨na⟩ Hannah, and di name of di second ⟨na⟩ Peninnah; and Peninnah get pikin-dem, but Hannah no get pikin-dem.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "and to am"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wife-dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "name"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "of one"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and name"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "of di second"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninnah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "to Peninnah"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "but to Hannah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no get"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "pikin-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:43.510235935Z",
+  "model": "glm-5.2"
+}

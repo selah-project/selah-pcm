@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Wise people dey hide knowledge; but mouth of fool, ruin dey near.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "wise people"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "dey hide"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "knowledge"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "but mouth of"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ruin"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "dey near"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:38.087355863Z",
+  "model": "glm-5.2"
+}

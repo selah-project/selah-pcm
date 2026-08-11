@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 46,
+  "translation": "So Yaʿaqov rise from Beʾer-Sheva, and di pikin-dem of Yisraʾel carry Yaʿaqov dia papa, ⟨את⟩ ⟨im⟩, and ⟨את⟩ dia small-pikin-dem, and ⟨את⟩ dia waif-dem, inside di wagon-dem wey Parʿoh bin send make dem go carry ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "So (Yaʿaqov) rise"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "from"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beʾer-Sheva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "and (di pikin-dem) carry"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaʿaqov dia papa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia small-pikin-dem"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "dia small-pikin-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia waif-dem"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "dia waif-dem"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "inside di wagon-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʿoh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "make dem go carry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:20.282834181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And im do wetin bad for Yahweh eye; im no comot from all di sin dem wey Yaravʿam pikin of Nevat do, wey im make Yisraʾel sin, ⟨for inside⟩ im waka.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "and im do"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "di bad ting"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for eye of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סר",
+      "gloss": "im comot"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "sin dem"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravʿam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "im make sin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraʾel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraʾel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "im waka"
+    }
+  ],
+  "timestamp": "2026-08-11T14:38:51.236854638Z",
+  "model": "glm-5.2"
+}

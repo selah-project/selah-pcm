@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Dem don see ⟨את⟩ di way wey you dey walk, Elohim; ⟨את⟩ di way wey El wey be my King, dey walk, for di holy place.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "dem don see"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "di way wey you dey walk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "di way wey"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wey be my"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "King"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "for di holy place"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:16.494631006Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "From detention and from judgment dem take ⟨am⟩, and ⟨as for⟩ ⟨את⟩ im generation, who fit meditate? Because dem cut am off from di land of di living; because of di wicked-act of my people, di plague ⟨na⟩ for dem.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "from detention"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "and from judgment"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im generation"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "im generation"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "fit meditate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "dem cut am off"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "of di living"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "because of di wicked-act"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "of my people"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "di plague"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:21.382490091Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So I buy am for myself wit fifteen silver, and one homer of barley, and one letekh of barley.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "and I buy am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "with fifteen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fifteen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "and one homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "of barley"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "and one letekh"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "of barley"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:59.341801462Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Wen guidance no dey, people ⟨dey⟩ fall; but deliverance dey for plenty advisors.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Wen ... no dey"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "guidance"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "fall"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "but deliverance dey"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "for plenty"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "advisors"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:09.974723859Z",
+  "model": "glm-5.2"
+}

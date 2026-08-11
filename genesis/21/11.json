@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di matter bin dey very bad for Avraham im eye, sake of im son.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "And bin dey bad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for im eye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:59.839013320Z",
+  "model": "glm-5.2"
+}

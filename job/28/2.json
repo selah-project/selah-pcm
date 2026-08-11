@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Iron — dem dey take am from dust, and stone — dem dey pour out copper.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "from dust"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dem dey take"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "and stone"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dem dey pour out"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "copper"
+    }
+  ],
+  "timestamp": "2026-08-11T13:23:19.622235452Z",
+  "model": "glm-5.2"
+}

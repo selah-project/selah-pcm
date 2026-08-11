@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Make you stand, go Tsarephath, wey ⟨e⟩ dey for Tsidon side, and you go siddon there. Look, I don command one widow woman for there, make she dey feed you.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "make you stand"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Tsarephath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "⟨e⟩ dey for Tsidon side"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "and you go siddon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I don command"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "one woman"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "widow"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "make she dey feed you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:46.974605862Z",
+  "model": "glm-5.2"
+}

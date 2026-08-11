@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Turn comot from bad and do good; seek shalom and pursue am.",
+  "tokens": [
+    {
+      "surface": "ס֣וּר",
+      "gloss": "Turn comot"
+    },
+    {
+      "surface": "מֵ֭רָע",
+      "gloss": "from bad"
+    },
+    {
+      "surface": "וַעֲשֵׂה",
+      "gloss": "and do"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "good"
+    },
+    {
+      "surface": "בַּקֵּ֖שׁ",
+      "gloss": "seek"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "וְרָדְפֵֽהוּ",
+      "gloss": "and pursue am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:59.254942802Z",
+  "model": "glm-5.2"
+}

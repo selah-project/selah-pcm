@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "For Yahweh my life go boast; di humble-dem go hear and dem go glad.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "For Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "my life go boast"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dem go hear"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "di humble-dem"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "and dem go glad"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:54.106015311Z",
+  "model": "glm-5.2"
+}

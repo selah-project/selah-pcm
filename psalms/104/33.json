@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "I go sing for Yahweh as long as I dey alive; I go play music for my Elohim while I dey exist.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "I go sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "as long as I dey alive"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "I go play music"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "for my Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "while I dey exist"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:22.536850233Z",
+  "model": "glm-5.2"
+}

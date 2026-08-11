@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And im broda dem by dia families, wen dem dey record dia genealogy — ⟨di⟩ head ⟨na⟩ Ye'i'el, and Zekharyahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "And im broda dem"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "by dia families"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "wen dem dey record"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "dia genealogy"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨di⟩ head"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Ye'i'el"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "and Zekharyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:13.377979881Z",
+  "model": "glm-5.2"
+}

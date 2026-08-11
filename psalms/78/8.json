@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And make dem no be like dia papa-dem, one stubborn and bitter generation, one generation wey im heart no ⟨be⟩ ready, and wey im spirit no stay steadfast ⟨את⟩ ⟨with⟩ ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and make dem no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "be"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "like dia papa-dem"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "stubborn"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "and bitter"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "⟨be⟩ ready"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "stay steadfast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨with⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "im spirit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:59.566526134Z",
+  "model": "glm-5.2"
+}

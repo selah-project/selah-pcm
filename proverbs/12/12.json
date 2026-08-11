@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Wicked person desire di net of evil people, but di root of righteous people dey give.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "desire"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Wicked person"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "di net"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "of evil people"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "but di root"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "of righteous people"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dey give"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:00.987987672Z",
+  "model": "glm-5.2"
+}

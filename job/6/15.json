@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "My brodas don betray like stream, like di channel of streams wey dey pass away.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "my brodas"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "don betray"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "stream"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "like di channel of"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "streams"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "wey dey pass away"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:54.955131187Z",
+  "model": "glm-5.2"
+}

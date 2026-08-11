@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Absalom talk to Ahithophel, Give una advice, wetin we go do?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And (he) talk"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahithophel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "advice"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:47.853363555Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And David bin talk to Yehonatan, \"See, tomorrow na new moon, and I suppose to sit down with di king to chop; so make you send me make I go hide for di field until di third evening.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new moon"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "to sit down"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "I go sit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "and you go send me"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "and I go hide"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "di evening"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "di third"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:41.625449106Z",
+  "model": "glm-5.2"
+}

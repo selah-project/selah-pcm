@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Olives go dey for you inside all your border, but oil you no go rub, because your olive go drop off.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "olives"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inside all"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "your border"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "but oil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "you go rub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "go drop off"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "your olive"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:37.933081535Z",
+  "model": "glm-5.2"
+}

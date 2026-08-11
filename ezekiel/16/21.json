@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Say you slaughter ⟨את⟩ my pikin-dem, and you give dem, as dem dey pass dem give to dem.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "say you slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my pikin-dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin-dem"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "and you give dem"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "as dem dey pass"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "to dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:50.637300749Z",
+  "model": "glm-5.2"
+}

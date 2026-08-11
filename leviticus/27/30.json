@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And any tithe of di land — from seed of di land, from fruit of di tree — na Yahweh get am; e ⟨is⟩ holy to Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "And any"
+    },
+    {
+      "surface": "מַעְשַׂ֨ר",
+      "gloss": "tithe"
+    },
+    {
+      "surface": "הָאָ֜רֶץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "מִזֶּ֤רַע",
+      "gloss": "from seed"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "מִפְּרִ֣י",
+      "gloss": "from fruit"
+    },
+    {
+      "surface": "הָעֵ֔ץ",
+      "gloss": "of di tree"
+    },
+    {
+      "surface": "לַיהוָ֖ה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "na Yahweh get am"
+    },
+    {
+      "surface": "קֹ֖דֶשׁ",
+      "gloss": "holy"
+    },
+    {
+      "surface": "לַֽיהוָֽה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:05.747844306Z",
+  "model": "glm-5.2"
+}

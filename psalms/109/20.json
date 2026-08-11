@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Dis one ⟨na⟩ ⟨di⟩ work of my adversaries from ⟨את⟩ Yahweh, and of dem wey dey talk bad against my life.",
+  "tokens": [
+    {
+      "surface": "זֹ֤את",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "פְּעֻלַּ֣ת",
+      "gloss": "work of"
+    },
+    {
+      "surface": "שֹׂ֭טְנַי",
+      "gloss": "my adversaries"
+    },
+    {
+      "surface": "מֵאֵ֣ת",
+      "gloss": "from ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְהַדֹּבְרִ֥ים",
+      "gloss": "and of dem wey dey talk"
+    },
+    {
+      "surface": "רָ֝֗ע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "against"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:28.202123695Z",
+  "model": "glm-5.2"
+}

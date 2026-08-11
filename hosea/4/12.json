@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "My people dey ask ⟨from⟩ dia wooden-idol, and dia rod dey declare to dem; because spirit of ashewo-waka don make dem stray, and dem don do ashewo from under dia Elohim.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "⟨from⟩ dia wooden-idol"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "dey ask"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "and dia rod"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "dey declare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "of ashewo-waka"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "don make dem stray"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "and dem don do ashewo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:06.563449031Z",
+  "model": "glm-5.2"
+}

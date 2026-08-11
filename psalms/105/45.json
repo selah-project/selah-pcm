@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "So dat dem go keep im decrees, and im instructions dem go guard. Praise Yah!",
+  "tokens": [
+    {
+      "surface": "בַּעֲב֨וּר",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "יִשְׁמְר֣וּ",
+      "gloss": "dem go keep"
+    },
+    {
+      "surface": "חֻ֭קָּיו",
+      "gloss": "im decrees"
+    },
+    {
+      "surface": "וְתוֹרֹתָ֥יו",
+      "gloss": "and im instructions"
+    },
+    {
+      "surface": "יִנְצֹ֗רוּ",
+      "gloss": "dem go guard"
+    },
+    {
+      "surface": "הַֽלְל֛וּ",
+      "gloss": "praise"
+    },
+    {
+      "surface": "יָ֥הּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:18.943887022Z",
+  "model": "glm-5.2"
+}

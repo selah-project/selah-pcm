@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Yahweh go support am on top di bed of sickness; you don turn all im lying-down for im illness.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "go support am"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "di bed"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "of sickness"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "im lying-down"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "you don turn"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "for im illness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:41.857693666Z",
+  "model": "glm-5.2"
+}

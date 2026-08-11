@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And a man of di middle come out from di camp of di Pelishtim dem — Golyat im name, from Gat — im height six cubit and one span.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and come out"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man of"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "di middle"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "from di camp of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Pelishtim dem"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "from Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "im height"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "and one span"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:18.355509319Z",
+  "model": "glm-5.2"
+}

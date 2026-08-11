@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "For I go pour water on top ⟨di one wey⟩ thirsty, and streams on top dry ground; I go pour my spirit on top your seed, and my blessing on top your children dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "I go pour"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "thirsty"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "and streams"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "dry ground"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "I go pour"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "and my blessing"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "your children dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.863444152Z",
+  "model": "glm-5.2"
+}

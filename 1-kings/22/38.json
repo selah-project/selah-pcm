@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And dem wash ⟨את⟩ di chariot near di pool of Shomeron, and di dogs lick ⟨את⟩ im blood, and di prostitutes wash ⟨demself⟩ — na so Yahweh talk am, wey e bin talk.",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "dem wash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di chariot"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "di chariot"
+    },
+    {
+      "surface": "על",
+      "gloss": "near"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "di pool"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "lick"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "di dogs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im blood"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "and di prostitutes"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "wash"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "na so ... talk am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin talk"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:19.882382254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "And king of Bavel strike ⟨את⟩ dem, and ⟨im⟩ kill dem for Rivlah, for land of Chamat; and ⟨im⟩ carry Yehudah go from im land.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "and ⟨im⟩ kill dem"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "for Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "and ⟨im⟩ carry go"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "im land"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:45.420352079Z",
+  "model": "glm-5.2"
+}

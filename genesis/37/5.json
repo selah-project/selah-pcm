@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Yusuf bin dream dream, and e tell ⟨to⟩ im brodas, and dem add still more to hate ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "bin dream"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "dream"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "to im brodas"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "and dem add"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still more"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "to hate"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:02.360065230Z",
+  "model": "glm-5.2"
+}

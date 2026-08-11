@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Make I fit declare all your praise for di gates of daughter Zion; make I glad for your salvation.",
+  "tokens": [
+    {
+      "surface": "לְמַ֥עַן",
+      "gloss": "make ⟨I fit⟩"
+    },
+    {
+      "surface": "אֲסַפְּרָ֗ה",
+      "gloss": "declare"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תְּהִלָּ֫תֶ֥יךָ",
+      "gloss": "your praise"
+    },
+    {
+      "surface": "בְּשַֽׁעֲרֵ֥י",
+      "gloss": "for di gates of"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "צִיּ֑וֹן",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "אָ֝גִ֗ילָה",
+      "gloss": "make I glad"
+    },
+    {
+      "surface": "בִּישׁוּעָתֶֽךָ",
+      "gloss": "for your salvation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:53.146679234Z",
+  "model": "glm-5.2"
+}

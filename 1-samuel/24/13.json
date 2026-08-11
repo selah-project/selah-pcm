@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Make Yahweh judge between me and between you, and make Yahweh avenge me from you; but my hand no go dey upon you.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "make im judge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and between you"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "and make im avenge me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "and my hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "בך",
+      "gloss": "upon you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:26.066263870Z",
+  "model": "glm-5.2"
+}

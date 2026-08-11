@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e come to pass, wen Paroh bin send ⟨את⟩ di people, Elohim no lead dem through di road of land of Pelishtim, although e dey near; for Elohim talk sey, make e no be sey di people go change mind wen dem see war, and dem go return Mitsrayim-ward.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "wen im send"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "lead"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "road of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "although"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "near"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e dey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make e no be sey"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "go change mind"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "wen dem see"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "war"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "and dem go return"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim-ward"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:52.325462405Z",
+  "model": "glm-5.2"
+}

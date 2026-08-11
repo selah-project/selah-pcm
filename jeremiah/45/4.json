@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Like dis you go tell am: Like dis Yahweh don talk: Look! Wetin I bin build, I ⟨be⟩ dey pull down; and ⟨את⟩ wetin I bin plant, I ⟨be⟩ dey uproot — and ⟨את⟩ di whole earth, na im.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you go tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look!"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "I bin build"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dey pull down"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin I bin plant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "I bin plant"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "dey uproot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di whole earth"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di whole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na im"
+    }
+  ],
+  "timestamp": "2026-08-11T11:57:39.407442257Z",
+  "model": "glm-5.2"
+}

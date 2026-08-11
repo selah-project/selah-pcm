@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "⟨Im fit eat⟩ di bread of im Elohim — from di most-holy things and from di holy things ⟨im fit eat⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "of im Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "from di most-holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "things"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "di holy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "im fit eat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:57.666202283Z",
+  "model": "glm-5.2"
+}

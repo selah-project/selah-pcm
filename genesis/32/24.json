@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And e bin take dem, and e bin make dem pass over ⟨את⟩ di stream, and e bin pass over ⟨את⟩ all wey belong to am.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "and e bin take dem"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "and e bin make dem pass over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di stream"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "di stream"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "and e bin pass over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all wey belong to am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לו",
+      "gloss": "belong to am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:45.675668398Z",
+  "model": "glm-5.2"
+}

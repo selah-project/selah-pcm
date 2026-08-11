@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And e put ⟨את⟩ di maid dem and ⟨את⟩ dia pikin dem first, and ⟨את⟩ Leah and ⟨את⟩ im pikin dem behind, and ⟨את⟩ Rachel and ⟨את⟩ Yosef as di last dem.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di maid dem"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "di maid dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dia pikin dem"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "dia pikin dem"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "first"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Leah"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "and im pikin dem"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "behind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "as di last dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:08.845913856Z",
+  "model": "glm-5.2"
+}

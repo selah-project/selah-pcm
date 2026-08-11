@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "and ⟨when⟩ person go with ⟨את⟩ im neighbour inside forest to chop tree, and im hand shift for di axe to cut di tree, and di iron comot from di tree, and e catch ⟨את⟩ im neighbour and e die — dis one go run to one of dis cities and live.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "and ⟨when⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "inside forest"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "tree"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "and shift"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "for di axe"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "to cut"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "and comot"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "di iron"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "and catch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and die"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "go run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "of di cities"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "and live"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:53.135593342Z",
+  "model": "glm-5.2"
+}

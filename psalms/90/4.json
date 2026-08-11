@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 90,
+  "translation": "Because thousand years for your eye ⟨be⟩ like day of yesterday, when e pass, and like watch for di night.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "for your eye"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "like day"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "of yesterday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "e pass"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "and like watch"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for di night"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:32.694243219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "⟨את⟩ di kos, and ⟨את⟩ di yanshuf, and di tinshemet;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "di kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "di yanshuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "and di tinshemet"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:54.701462318Z",
+  "model": "glm-5.2"
+}

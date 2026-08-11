@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "And ⟨im⟩ bring Yisrael out from among dem, sey im chesed dey forever.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "and ⟨im⟩ bring out"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "from among dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:10.924097482Z",
+  "model": "glm-5.2"
+}

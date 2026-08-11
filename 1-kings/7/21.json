@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And e bin raise di pillars for di porch of di temple, and e bin raise di right pillar, and e call im name Yakin, and e bin raise di left pillar, and e call im name Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and e bin raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pillars"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "di pillars"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "for di porch"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "of di temple"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and e bin raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di right pillar"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "di pillar"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "right"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "and e bin raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di left pillar"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "di pillar"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "left"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and e call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im name"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:20.747278633Z",
+  "model": "glm-5.2"
+}

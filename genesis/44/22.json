@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And we talk to my lord, 'Di boy no fit leave im papa; if im leave im papa, ⟨im⟩ go die.'",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "And we talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my lord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "and if im leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:50.317762457Z",
+  "model": "glm-5.2"
+}

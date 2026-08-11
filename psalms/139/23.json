@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "Search me, El, and know ⟨את⟩ my heart; test me, and know ⟨את⟩ my anxious thought dem.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "search me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "and know"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "test me"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "and know"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "my anxious thought dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:38.532641065Z",
+  "model": "glm-5.2"
+}

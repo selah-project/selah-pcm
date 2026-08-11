@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "wey dem destroy for ⟨En-Dor⟩; dem come be dung for di ground.",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְדוּ",
+      "gloss": "wey dem destroy"
+    },
+    {
+      "surface": "בְעֵין",
+      "gloss": "for"
+    },
+    {
+      "surface": "דֹּאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "dem come be"
+    },
+    {
+      "surface": "דֹּמֶן",
+      "gloss": "dung"
+    },
+    {
+      "surface": "לָאֲדָמָה",
+      "gloss": "for di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:44.770455550Z",
+  "model": "glm-5.2"
+}

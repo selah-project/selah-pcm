@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And e take away ⟨את⟩ di strange gods and ⟨את⟩ di idol from inside di house of Yahweh, and all di altars wey ⟨he⟩ bin build for di mountain of di house of Yahweh and for Yerushalayim, and e throw dem outside di city.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "and e take away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di strange gods"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gods"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "di strange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di idol"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "di idol"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from inside di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "di altars"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "בית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "and for Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "and e throw"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "outside"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di city"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:49.516882789Z",
+  "model": "glm-5.2"
+}

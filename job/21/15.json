@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "'Wetin be Shaddai, sey we go serve am? And wetin we go gain, sey we go meet am?'",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "we go serve am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "we go gain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "we go meet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:46.443896377Z",
+  "model": "glm-5.2"
+}

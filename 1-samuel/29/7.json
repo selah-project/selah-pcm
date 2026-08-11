@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "So now, go back and go for peace, and make you no do bad tin for di eye of di Philistine lords.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "So now"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "for peace"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "make you do"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "of di lords"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Philistine"
+    }
+  ],
+  "timestamp": "2026-08-11T10:46:21.548885810Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "Song, make una sing to Yahweh one new song, because Him do wonders, im right hand and im holy arm don save ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "make una sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "save"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "im right hand"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "and arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "im holy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:51.661988806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Make I quick-run escape for myself, comot from wind wey dey rush, from storm.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "make I quick-run"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "escape"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "comot from wind"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "wey dey rush"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "from storm"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:54.683444546Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "and I tear ⟨את⟩ di kingdom from di house of David, and I give am to you; but you no be like my servant David, wey keep my commandments, and wey waka behind me with all im heart, to do only wetin dey straight for my eye.",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "and I tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kingdom"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from di house"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "and I give am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but you no"
+    },
+    {
+      "surface": "היית",
+      "gloss": "be"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "like my servant"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "keep"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my commandments"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "with all"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "wetin dey straight"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:10.516676516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "But my eye bin pity dem, make I no destroy dem, and I no finish dem for di wilderness.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "But ⟨my eye⟩ bin pity"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "make I no destroy dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and I no"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "do"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "finish"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:09:14.367255334Z",
+  "model": "glm-5.2"
+}

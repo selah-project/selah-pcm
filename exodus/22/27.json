@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Elohim, make you no curse, and leader among your people, make you no curse.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "make you curse"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "and leader"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "among your people"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "make you curse"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:07.946865937Z",
+  "model": "glm-5.2"
+}

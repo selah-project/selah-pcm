@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di people come out and ⟨dem⟩ plunder ⟨את⟩ Aram camp, and one seah of fine flour come be one shekel, and two seah of barley come be one shekel, according to Yahweh word.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and come out"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "and plunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram camp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "one seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "of fine flour"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "one shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "and two seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "of barley"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "one shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "according to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh word"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:43.544356064Z",
+  "model": "glm-5.2"
+}

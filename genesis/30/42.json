@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "But when di sheep dem weak, ⟨he⟩ no go put ⟨am⟩; and di weak one dem go be for Lavan, and di strong one dem for Ya'akov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "but when ⟨dem⟩ weak"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di sheep dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "⟨he⟩ go put"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and ⟨it⟩ go be"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "di weak one dem"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "for Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "and di strong one dem"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-11T09:10:40.567541196Z",
+  "model": "glm-5.2"
+}

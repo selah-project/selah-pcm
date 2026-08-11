@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And ⟨im⟩ do di tin wey straight for Yahweh im eye, and ⟨im⟩ waka for all di way of Dawud im papa, and ⟨im⟩ no shift right or left.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨im⟩ do"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "di tin wey straight"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and ⟨im⟩ waka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di way"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of Dawud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨im⟩ no"
+    },
+    {
+      "surface": "סר",
+      "gloss": "shift"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "or left"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:20.472750429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "One time I swear by My holiness — if to David I go lie:",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "One time"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "I swear"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "by My holiness"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "I go lie"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:23.484067547Z",
+  "model": "glm-5.2"
+}

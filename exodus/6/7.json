@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And I go take una for myself, to be my people, and I go be ⟨di⟩ Elohim for una, and una go know sey I, Yahweh, ⟨na⟩ una Elohim, di One wey dey bring una comot from under di load-dem-wey-dey-break-person-back of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "and I go take"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "for myself"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to be my people"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "and I go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "and una go know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "di One wey dey bring comot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "from under di load-dem"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "load-dem-wey-dey-break-person-back"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:36.830070618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "And Yosef find favor for im eye, and ⟨im⟩ serve ⟨את⟩ am; and ⟨im⟩ put am in charge of im house, and all wey ⟨im⟩ get ⟨im⟩ put for im hand.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "and Yosef find"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨Yosef⟩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im eye"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "and ⟨im⟩ serve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am (Yosef)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "and ⟨im⟩ put am in charge"
+    },
+    {
+      "surface": "על",
+      "gloss": "of"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wey ⟨im⟩ get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨im⟩ put"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:56.352678943Z",
+  "model": "glm-5.2"
+}

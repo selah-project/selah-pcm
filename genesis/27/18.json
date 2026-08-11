@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And ⟨he⟩ come meet im papa, and ⟨he⟩ talk, \"My papa.\" And ⟨he⟩ talk, \"Here I dey; who you be, my son?\"",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "and ⟨he⟩ come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨he⟩ talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:22.452528878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Cham, fada of Kenaan, see ⟨את⟩ di nakedness of im fada, and im tell im two broda for outside.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and ⟨im⟩ see"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fada of"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nakedness"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "di nakedness"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of im fada"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "im two"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broda"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "for outside"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:41.948746551Z",
+  "model": "glm-5.2"
+}

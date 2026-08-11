@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "I see ⟨את⟩ all di pipo wey dey live, wey dey waka under sun, together with di second youth, wey go stand for im position.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di pipo wey dey live"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "di pipo wey dey live"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "wey dey waka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together with"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di youth"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im position"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:26.720354962Z",
+  "model": "glm-5.2"
+}

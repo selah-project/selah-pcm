@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yoav bin blow di horn, and di people bin turn back from dey pursue Israel, because Yoav bin hold back ⟨את⟩ di people.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "and bin blow"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "di horn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin turn back"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "from dey pursue"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "bin hold back"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:46.801730452Z",
+  "model": "glm-5.2"
+}

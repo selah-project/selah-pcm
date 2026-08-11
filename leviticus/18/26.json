@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And make una keep, una ⟨na⟩ ⟨את⟩ my statutes and ⟨את⟩ my judgments, and make una no do from all di abominations, dis ⟨dem⟩ — di native-born and di stranger wey dey sojourn among una.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "and make una keep"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my statutes"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my statutes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my judgments"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my judgments"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "make una do"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "di abominations"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "di native-born"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "and di stranger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wey dey sojourn"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "among una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:32.974031793Z",
+  "model": "glm-5.2"
+}

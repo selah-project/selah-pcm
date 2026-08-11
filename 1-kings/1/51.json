@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 1:51",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem bin tell Solomon, sey, Look, Adonijah dey fear ⟨את⟩ King Solomon; and look, ⟨he⟩ don grab di horns of di altar, sey, Make King Solomon swear to me today, sey ⟨he⟩ no go kill ⟨את⟩ im servant wit sword.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and dem bin tell"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "to Solomon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "King Solomon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and look"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "⟨he⟩ don grab"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "di horns"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "of di altar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "Make … swear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "today"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "⟨he⟩ go kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servant"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:04.798768770Z",
+  "model": "glm-5.2"
+}

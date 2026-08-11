@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 129,
+  "translation": "Yahweh ⟨be⟩ righteous; ⟨im⟩ don cut di cords of di wicked.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "don cut"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "di cords"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of di wicked"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:04.045628566Z",
+  "model": "glm-5.2"
+}

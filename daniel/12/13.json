@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "But as for you, go ⟨to⟩ di end; and you go rest, and you go stand for your lot, for ⟨di⟩ end of ⟨di⟩ days.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "But as for you"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "to di end"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "and you go rest"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "and you go stand"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "for your lot"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "for di end"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "of di days"
+    }
+  ],
+  "timestamp": "2026-08-11T13:43:51.734144639Z",
+  "model": "glm-5.2"
+}

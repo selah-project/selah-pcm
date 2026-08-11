@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "And I go establish im seed forever, and im throne ⟨go be⟩ like di days of heaven.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "And I go establish"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "and im throne"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "like di days of"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:22.918617068Z",
+  "model": "glm-5.2"
+}

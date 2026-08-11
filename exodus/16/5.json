@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e go come to pass, for di sixth day, wen dem don prepare ⟨את⟩ wetin dem go bring, and e go be double on top wetin dem dey gather day by day.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go come to pass"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "di sixth"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "and dem go prepare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dem go bring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "dem go bring"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "double"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "dem dey gather"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "יום",
+      "gloss": "by day"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:50.727116015Z",
+  "model": "glm-5.2"
+}

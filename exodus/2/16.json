@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Now, ⟨di⟩ kohen of Midyan get seven daughters, and dem come draw water, and dem fill ⟨את⟩ di troughs make dem water ⟨di⟩ flock of dia papa.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "now ⟨di⟩ kohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "of Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "daughters"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "draw water"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "and dem fill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di troughs"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "di troughs"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "make dem water"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨di⟩ flock"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "of dia papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:16.982837425Z",
+  "model": "glm-5.2"
+}

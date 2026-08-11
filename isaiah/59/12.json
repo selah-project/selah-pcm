@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "For our rebellion dem don plenty before You, and our sin dem dey testify against us; for our rebellion dem ⟨be⟩ ⟨את⟩ wit us, and our iniquity dem, we know ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "don plenty"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "our rebellion dem"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "before You"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "and our sin dem"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "dey testify"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "against us"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "our rebellion dem"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "our rebellion dem"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "and our iniquity dem"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "we know ⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:43.193025095Z",
+  "model": "glm-5.2"
+}

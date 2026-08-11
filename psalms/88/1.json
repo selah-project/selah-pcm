@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Song, musical piece, for di sons of Korach; for di one wey dey direct, on top Machalath, for to answer; instructive poem, for Heyman di Ezraite.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Song"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "musical piece"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di sons of"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "for di one wey dey direct"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "for to answer"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "instructive poem"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "for Heyman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "di Ezraite"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:43.352918889Z",
+  "model": "glm-5.2"
+}

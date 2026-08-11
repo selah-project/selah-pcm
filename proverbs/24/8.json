@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Person wey dey plan to do bad, dem go call am master of wicked plan.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "person wey dey plan"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "to do bad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "master"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "of wicked plan"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "dem go call"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:37.758428034Z",
+  "model": "glm-5.2"
+}

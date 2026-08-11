@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "⟨im⟩ take advice with im officer dem and im mighty warrior dem to block ⟨את⟩ di water of di spring dem wey dey outside di city, and dem help am.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "and ⟨im⟩ take advice"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "im officer dem"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "and im mighty warrior dem"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "to block"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di water of di spring dem"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "di water of"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "di spring dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dey outside"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "and dem help am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:52.037402135Z",
+  "model": "glm-5.2"
+}

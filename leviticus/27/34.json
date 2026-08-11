@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Dis na di commandments wey Yahweh bin command ⟨את⟩ Moshe, give di pikin-dem of Yisra'el, for Mount Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "di commandments"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "give"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for Mount"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-11T09:46:35.967895437Z",
+  "model": "glm-5.2"
+}

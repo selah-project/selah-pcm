@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Make dem remember di sin of im papa-dem to Yahweh, and make dem no wipe di sin of im mama comot.",
+  "tokens": [
+    {
+      "surface": "יִזָּכֵ֤ר",
+      "gloss": "make dem remember"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אֲ֭בֹתָיו",
+      "gloss": "im papa-dem"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְחַטַּ֥את",
+      "gloss": "and sin"
+    },
+    {
+      "surface": "אִ֝מּ֗וֹ",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִּמָּֽח",
+      "gloss": "make dem wipe comot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:52.722324593Z",
+  "model": "glm-5.2"
+}

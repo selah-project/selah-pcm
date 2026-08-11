@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Teach me your way, Yahweh; I go waka for your truth. Make my heart one, to fear your name.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "teach me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "your way"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "I go waka"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "for your truth"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "make one"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "to fear"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:36.132344281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And all di earth dey seek ⟨את⟩ di face of Shelomoh, to hear ⟨את⟩ im wisdom wey Elohim put inside im heart.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di face of Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "of Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "to hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wisdom"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "im wisdom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "put"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "inside im heart"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:06.744023380Z",
+  "model": "glm-5.2"
+}

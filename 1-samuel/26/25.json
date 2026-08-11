@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 26:25",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Saul bin tell David: \"Blessing dey on top you, my pikin David. Wetin you go do, you go do am, and wetin you fit do, you go fit do am.\" David come waka go im way, and Saul come go back to im place.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "שאואל",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blessing dey on top"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גם",
+      "gloss": "still"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do am"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and still"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "you go fit do am"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "come waka go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "go im way"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "and Saul"
+    },
+    {
+      "surface": "שב",
+      "gloss": "come go back"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "to im place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:42.442341888Z",
+  "model": "glm-5.2"
+}

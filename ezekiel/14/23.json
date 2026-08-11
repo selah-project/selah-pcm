@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 14:23",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And dem go console una, because una go see ⟨את⟩ dia way and ⟨את⟩ dia doings; and una go know sey no be for nothing me do ⟨את⟩ all wetin me do inside am—oracle of Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְנִחֲמוּ",
+      "gloss": "And dem go console"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תִרְאוּ",
+      "gloss": "una go see"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia way"
+    },
+    {
+      "surface": "דַּרְכָּם",
+      "gloss": "dia way"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia doings"
+    },
+    {
+      "surface": "עֲלִילוֹתָם",
+      "gloss": "dia doings"
+    },
+    {
+      "surface": "וִידַעְתֶּם",
+      "gloss": "and una go know"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חִנָּם",
+      "gloss": "for nothing"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "me do"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "all wetin me do inside am"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "me do"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהֹוִה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:07:00.703437869Z",
+  "model": "glm-5.2"
+}

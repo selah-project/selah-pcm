@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Di hail bin strike for all di land of Mitsrayim ⟨את⟩ every wetin dey for di field, from man reach beast; and ⟨את⟩ every grass of di field, di hail bin strike, and ⟨את⟩ every tree of di field ⟨e⟩ bin break.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "bin strike"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "di hail"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "every wetin dey for di field"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dey for di field"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "from man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "every grass of di field"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "bin strike"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "di hail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "every tree of di field"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tree"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bin break"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:50.442801975Z",
+  "model": "glm-5.2"
+}

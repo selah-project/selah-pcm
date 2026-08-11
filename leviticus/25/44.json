@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And your male servant and your female servant wey ⟨dem⟩ go be for you, ⟨na⟩ from ⟨את⟩ di nations wey dey around una, from dem una go buy male servant and female servant.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "and your male servant"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "and your female servant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dem go be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "di nations"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "dey around una"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "una go buy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "male servant"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and female servant"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:14.558533633Z",
+  "model": "glm-5.2"
+}

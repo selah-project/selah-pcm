@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "My face dey burn red from crying, and shadow of death dey on my eyelid dem.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "dey burn red"
+    },
+    {
+      "surface": "מני",
+      "gloss": "from"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "crying"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "my eyelid dem"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "shadow of death"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:20.603060686Z",
+  "model": "glm-5.2"
+}

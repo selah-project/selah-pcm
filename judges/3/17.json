@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And im bin present ⟨את⟩ di offering to Eglon, wey be king of Moab. And Eglon ⟨na⟩ man wey dey very fat.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "And im bin present"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di offering"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "di offering"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "to Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "And Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "wey dey fat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very"
+    }
+  ],
+  "timestamp": "2026-08-11T14:31:44.092797339Z",
+  "model": "glm-5.2"
+}

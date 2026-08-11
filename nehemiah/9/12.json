@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And with pillar of cloud you bin guide dem for day, and with pillar of fire for night, to shine light for dem ⟨את⟩ di road wey dem go follow.",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "and with pillar"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "of cloud"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "you bin guide dem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "and with pillar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "to shine light"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di road"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dem go follow"
+    },
+    {
+      "surface": "בה",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:51:10.767562276Z",
+  "model": "glm-5.2"
+}

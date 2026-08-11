@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "No strange El go dey inside you, and you no go bow down to foreign El.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "strange"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "you go bow down"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "foreign"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:40.027074767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And by prophet Yahweh bring ⟨up⟩ ⟨את⟩ Yisra'el from Mitsrayim, and by prophet ⟨dem⟩ guard am.",
+  "tokens": [
+    {
+      "surface": "וּבְנָבִיא",
+      "gloss": "and by prophet"
+    },
+    {
+      "surface": "הֶעֱלָה",
+      "gloss": "bring up"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ ⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "וּבְנָבִיא",
+      "gloss": "and by prophet"
+    },
+    {
+      "surface": "נִשְׁמָר",
+      "gloss": "guard am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:08.725376613Z",
+  "model": "glm-5.2"
+}

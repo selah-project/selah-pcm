@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Tell una broda-dem, ⟨say⟩ \"My people\"; and tell una sista-dem, \"⟨She don get⟩ mercy.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "tell"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "una broda-dem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "My people"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "and una sista-dem"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "⟨she don get⟩ mercy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:14.011392787Z",
+  "model": "glm-5.2"
+}

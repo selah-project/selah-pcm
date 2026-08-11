@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Di Worthy-of-praise, I go call Yahweh, and from my enemies I go dey saved.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "di Worthy-of-praise"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I go call"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "and from"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "I go dey saved"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:45.040792130Z",
+  "model": "glm-5.2"
+}

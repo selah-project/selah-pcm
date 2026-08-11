@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di people cry to Mosheh, and Mosheh pray to Yahweh, and di fire come down.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "and dem cry"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "and im pray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "and e come down"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:31.018855873Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And di priests bin slaughter dem, and dem bin purify ⟨את⟩ dia blood on top di altar, to make atonement for all Yisrael; because di king bin talk say di burnt-offering and di sin-offering ⟨na⟩ for all Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "and dem bin slaughter dem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "and dem bin purify"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia blood"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dia blood"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "on top di altar"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "to make atonement"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk say"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "di burnt-offering"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "and di sin-offering"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.878791234Z",
+  "model": "glm-5.2"
+}

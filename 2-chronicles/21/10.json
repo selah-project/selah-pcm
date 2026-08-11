@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 21:10",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So Edom bin revolt from under ⟨di⟩ hand of Yehudah till to dis day. At dat time too Livnah revolt from under im hand, because e bin abandon ⟨את⟩ Yahweh, Elohim of im papa dem.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "bin revolt"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨di⟩ hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till to"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dis day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אז",
+      "gloss": "at dat time"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "too revolt"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "at"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dat time"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "e bin abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "im papa dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:45.594251591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And I go command ⟨את⟩ my blessing for una for di sixth year, and e go produce ⟨את⟩ di harvest for three years.",
+  "tokens": [
+    {
+      "surface": "וְצִוִּ֤יתִי",
+      "gloss": "and I go command"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "my blessing"
+    },
+    {
+      "surface": "בִּרְכָתִי֙",
+      "gloss": "my blessing"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "בַּשָּׁנָ֖ה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "הַשִּׁשִּׁ֑ית",
+      "gloss": "di sixth"
+    },
+    {
+      "surface": "וְעָשָׂת֙",
+      "gloss": "and e go produce"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di harvest"
+    },
+    {
+      "surface": "הַתְּבוּאָ֔ה",
+      "gloss": "di harvest"
+    },
+    {
+      "surface": "לִשְׁלֹ֖שׁ",
+      "gloss": "for three"
+    },
+    {
+      "surface": "הַשָּׁנִֽים",
+      "gloss": "years"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:18.838368621Z",
+  "model": "glm-5.2"
+}

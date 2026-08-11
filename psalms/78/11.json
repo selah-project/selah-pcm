@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And dem forget im exploits, and im wonders wey ⟨e⟩ show dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "and dem forget"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "im exploits"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "and im wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "⟨e⟩ show dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:42.452196128Z",
+  "model": "glm-5.2"
+}

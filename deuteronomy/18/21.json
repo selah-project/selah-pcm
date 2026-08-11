@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And if you talk for your mind, sey, \"How we go know ⟨את⟩ di word wey Yahweh no talk?\"",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "you talk"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "for your mind"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "how"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "we go know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:05.534568350Z",
+  "model": "glm-5.2"
+}

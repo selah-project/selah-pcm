@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And if your brother come poor wit you, and e sell imself to you, you no go make am work inside work of slave.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and if"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "come poor"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "and e sell imself"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "go make work"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "work of"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slave"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:39.558912713Z",
+  "model": "glm-5.2"
+}

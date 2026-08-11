@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Eyes I bin ⟨be⟩ to di blind, and feet to di lame — ⟨na⟩ me.",
+  "tokens": [
+    {
+      "surface": "עֵינַ֣יִם",
+      "gloss": "eyes"
+    },
+    {
+      "surface": "הָ֭יִיתִי",
+      "gloss": "I bin be"
+    },
+    {
+      "surface": "לַֽעִוֵּ֑ר",
+      "gloss": "to di blind"
+    },
+    {
+      "surface": "וְרַגְלַ֖יִם",
+      "gloss": "and feet"
+    },
+    {
+      "surface": "לַפִּסֵּ֣חַ",
+      "gloss": "to di lame"
+    },
+    {
+      "surface": "אָֽנִי",
+      "gloss": "na me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:23:35.131334307Z",
+  "model": "glm-5.2"
+}

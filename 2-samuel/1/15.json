@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Dawud call one of di boys, and talk, \"Come near, strike am.\" And ⟨im⟩ strike am, and ⟨im⟩ die.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and call"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "to one"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "of di boys"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "גש",
+      "gloss": "come near"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "strike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and ⟨im⟩ strike am"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and ⟨im⟩ die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:01.207253744Z",
+  "model": "glm-5.2"
+}

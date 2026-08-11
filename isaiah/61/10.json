@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "I go well well glad for Yahweh, my life go rejoice for my Elohim; because ⟨e⟩ don wear me garment of salvation, ⟨e⟩ wrap me with robe of righteousness, like as bridegroom dey wear priestly crown, and like as bride dey wear ⟨im⟩ jewelry.",
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gliss": "I go well well glad",
+      "gloss": "I go well well glad"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "glad"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "go rejoice"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "for my Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "⟨e⟩ don wear me"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "garment"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "of salvation"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "robe"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "of righteousness"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "⟨e⟩ wrap me"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "like as bridegroom"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "dey wear priestly crown"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "priestly crown"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "and like as bride"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "dey wear"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "⟨im⟩ jewelry"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:33.600170960Z",
+  "model": "glm-5.2"
+}

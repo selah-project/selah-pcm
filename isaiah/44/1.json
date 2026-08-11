@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And now, hear, Yaʿaqov my servant, and Yisraʾel wey I bin choose ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servant"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisraʾel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "I bin choose"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.863049720Z",
+  "model": "glm-5.2"
+}

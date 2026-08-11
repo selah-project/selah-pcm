@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 5:24",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And e go be: wen you hear ⟨את⟩ di sound of marching for top of di baka trees, den make you move sharp-sharp; because den Yahweh go go out before you, to strike for di camp of di Philistines.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "and ⟨e⟩ go be"
+    },
+    {
+      "surface": "בשמעך",
+      "gloss": "wen you hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sound"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "of marching"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "for top of"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "di baka trees"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "תחרץ",
+      "gloss": "make you move sharp-sharp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "go go out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "to strike"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "for di camp of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Philistines"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:45.153805930Z",
+  "model": "glm-5.2"
+}

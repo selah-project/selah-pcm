@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And to di children of Yisra'el you go speak, say: Any man, any man wey curse im Elohim, go bear im sin.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "And to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "you go speak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Any man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "any man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": " curse"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "im Elohim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "go bear"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "im sin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:37.247873174Z",
+  "model": "glm-5.2"
+}

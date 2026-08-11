@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because of violence to your brother Yaakov, shame go cover you, and you go ⟨be⟩ cut off forever.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "because of violence"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "to your brother"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "go cover you"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "and you go cut off"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:43.045345246Z",
+  "model": "glm-5.2"
+}

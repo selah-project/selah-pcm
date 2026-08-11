@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 23:29",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For im days, Paroh Neko king of Mitsrayim bin go up against di king of Ashur, upon River Perat; and di king Yoshyahu bin go to meet am, and ⟨he⟩ kill am for Megiddo, wen ⟨he⟩ see ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "for im days"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "River"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshyahu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "to meet am"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "and ⟨he⟩ kill am"
+    },
+    {
+      "surface": "במגדו",
+      "gloss": "for Megiddo"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "wen ⟨he⟩ see"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.869492552Z",
+  "model": "glm-5.2"
+}

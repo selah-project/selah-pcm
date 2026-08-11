@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "For di sake of David your servant, no turn ⟨make⟩ di face of your Mashíach back.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "turn back"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨make⟩ di face"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "of your Mashíach"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:29.190070400Z",
+  "model": "glm-5.2"
+}

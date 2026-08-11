@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "But you no call ⟨את⟩ me, Ya'akov; because you tire of me, Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "but you no"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "call"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "you tire of"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:29.872544259Z",
+  "model": "glm-5.2"
+}

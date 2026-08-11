@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And Hamor talk with ⟨את⟩ dem, sey: \"Shechem my son — im heart don hold tight to una daughter, make una give ⟨את⟩ am to am as wife.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "with ⟨את⟩ dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "don hold tight"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "to una daughter"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "make una give"
+    },
+    {
+      "surface": "נא",
+      "gloss": "please"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di girl)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as wife"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:33.944339045Z",
+  "model": "glm-5.2"
+}

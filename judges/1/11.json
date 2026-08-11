@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And ⟨im⟩ bin go from dere to di pipol-dem wey dey stay for Devir — and di name of Devir bifor-bifor bin ⟨be⟩ Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "and bin go"
+    },
+    {
+      "surface": "משם",
+      "gloss": "from dere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "pipol-dem wey dey stay"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and di name of"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "bifor-bifor"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-11T10:26:11.804385950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Dem wey bin dey chop delicate tins, don wast for inside street; dem wey dem bin dey carry for scarlet, don hug dung-hill.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "dem wey bin dey chop"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "delicate tins"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "don wast"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "for inside street"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "dem wey dem bin dey carry"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "don hug"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "dung-hill"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:57.150985189Z",
+  "model": "glm-5.2"
+}

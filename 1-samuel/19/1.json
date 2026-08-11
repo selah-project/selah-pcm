@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Sha'ul bin talk to Yonatan im pikin, and to all im servant dem, make dem kill ⟨את⟩ Dawid. And Yonatan, pikin of Sha'ul, bin dey pleased wit Dawid well well.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant dem"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "make dem kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "and Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "of Sha'ul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "bin dey pleased"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "wit Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:34.349296950Z",
+  "model": "glm-5.2"
+}

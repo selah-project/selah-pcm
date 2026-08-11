@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And na di next day, Pelishtim come to strip ⟨את⟩ di dead body dem, and dem find ⟨את⟩ Shaul and ⟨את⟩ im three son dem wey fall for mount ha-Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and na"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "di next day"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "⟨dem⟩ come"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "to strip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dead body dem"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "di dead body dem"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "and ⟨dem⟩ find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "three"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "three"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son dem"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "wey fall"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for mount"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ha-Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:22.070906535Z",
+  "model": "glm-5.2"
+}

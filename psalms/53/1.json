@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "To di choir master, on top Machalat, one instructive song, wey belong to David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di choir master"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "instructive song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wey belong to David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:16.557705039Z",
+  "model": "glm-5.2"
+}

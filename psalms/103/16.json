@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Becos wind dey pass over-am, and e no dey again, and im place no go recognize-am again.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "becos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "dey pass"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over-am"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "and e no dey again"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "go recognize-am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "im place"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:50.344047742Z",
+  "model": "glm-5.2"
+}

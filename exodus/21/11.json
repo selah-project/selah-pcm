@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And if ⟨im⟩ no do dis three tin for am, ⟨she⟩ go comot free, wit no money.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "And if"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "three"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨im⟩ go do"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "and ⟨she⟩ go comot"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "free"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wit no"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "money"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:39.625020920Z",
+  "model": "glm-5.2"
+}

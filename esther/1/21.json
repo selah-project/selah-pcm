@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 1:21",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Di matter bin sweet for di eye of di king and di prince dem, and di king bin do according to di word of Memucan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "bin sweet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "and di prince dem"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and bin do"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "according to di word of"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "Memucan"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:01.334897195Z",
+  "model": "glm-5.2"
+}

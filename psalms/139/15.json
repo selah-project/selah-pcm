@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "My bone no hide from You, wey You bin make me for secret place, You bin embroider me for di deepest part of di earth.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "hide"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "My bone"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from You"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "You bin make me"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "for secret place"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "You bin embroider me"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "for di deepest part of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:45.372711973Z",
+  "model": "glm-5.2"
+}

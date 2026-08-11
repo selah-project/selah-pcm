@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 144,
+  "translation": "Blessed ⟨be⟩ di people wey e be like dat for dem; blessed ⟨be⟩ di people wey Yahweh ⟨be⟩ Elohim of dem!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "e be like dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "wey Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:42.352815013Z",
+  "model": "glm-5.2"
+}

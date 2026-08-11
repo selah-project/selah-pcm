@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "How sweet your word dey to my mouth — pass honey to my tongue!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "how"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "sweet"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "to my mouth"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "your word"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "pass honey"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "to my tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:38.226903412Z",
+  "model": "glm-5.2"
+}

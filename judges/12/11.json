@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And after am, Elon di Zevulunite bin judge ⟨את⟩ Yisra'el, and im bin judge ⟨את⟩ Yisra'el for ten years.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "and im bin judge"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "after am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "di Zevulunite"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "and im bin judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    }
+  ],
+  "timestamp": "2026-08-11T10:31:04.264804720Z",
+  "model": "glm-5.2"
+}

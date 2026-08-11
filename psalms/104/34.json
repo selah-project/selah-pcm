@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Make my meditation be sweet to ⟨im⟩; I, I go glad for Yahweh.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "make ⟨im⟩ be sweet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "to ⟨im⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "my meditation"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "I go glad"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:22.537110392Z",
+  "model": "glm-5.2"
+}

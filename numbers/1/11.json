@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "For Binyamin, Abidan, pikin ⟨of⟩ Gidoni.",
+  "tokens": [
+    {
+      "surface": "לְבִ֨נְיָמִ֔ן",
+      "gloss": "For Binyamin"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "gloss": "Abidan"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "gloss": "Gidoni"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:17.399917483Z",
+  "model": "glm-5.2"
+}

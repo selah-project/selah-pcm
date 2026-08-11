@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Dis na di korban of Aharon and im pikin-dem, wey dem go present to Yahweh for di day wey dem anoint am: one-tenth of ⟨di⟩ efah of fine flour, ⟨as⟩ mincha wey dey always; half of am for morning, and half of am for evening.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "קָרְבַּן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וּבָנָיו",
+      "gloss": "and im pikin-dem"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יַקְרִיבוּ",
+      "gloss": "dem go present"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "הִמָּשַׁח",
+      "gloss": "wey dem anoint"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "am (Aharon)"
+    },
+    {
+      "surface": "עֲשִׂירִית",
+      "gloss": "one-tenth"
+    },
+    {
+      "surface": "הָאֵפָה",
+      "gloss": "of ⟨di⟩ efah"
+    },
+    {
+      "surface": "סֹלֶת",
+      "gloss": "fine flour"
+    },
+    {
+      "surface": "מִנְחָה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "תָּמִיד",
+      "gloss": "wey dey always"
+    },
+    {
+      "surface": "מַחֲצִיתָהּ",
+      "gloss": "half of am"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וּמַחֲצִיתָהּ",
+      "gloss": "and half of am"
+    },
+    {
+      "surface": "בָּעָרֶב",
+      "gloss": "for evening"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:31.730493654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Amon im pikin, Yoshiyahu im pikin.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:52.458614661Z",
+  "model": "glm-5.2"
+}

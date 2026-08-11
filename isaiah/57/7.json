@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Upon high and exalted mountain you bin set your bed; even there you climb up to slaughter sacrifice.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "גָבֹהַּ",
+      "gloss": "high"
+    },
+    {
+      "surface": "וְנִשָּׂא",
+      "gloss": "and exalted"
+    },
+    {
+      "surface": "שַׂמְתְּ",
+      "gloss": "you bin set"
+    },
+    {
+      "surface": "מִשְׁכָּבֵךְ",
+      "gloss": "your bed"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "even"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "there"
+    },
+    {
+      "surface": "עָלִית",
+      "gloss": "you climb up"
+    },
+    {
+      "surface": "לִזְבֹּחַ",
+      "gloss": "to slaughter"
+    },
+    {
+      "surface": "זָבַח",
+      "gloss": "sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:50.823584901Z",
+  "model": "glm-5.2"
+}

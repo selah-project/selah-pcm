@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And I go close up ⟨את⟩ Mitsrayim for di hand of harsh masters, and one fierce king go rule over dem — na di word of Adonai, Yahweh of hosts.",
+  "tokens": [
+    {
+      "surface": "וְסִכַּרְתִּי֙",
+      "gloss": "and I go close up"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "for di hand"
+    },
+    {
+      "surface": "אֲדֹנִ֣ים",
+      "gloss": "masters"
+    },
+    {
+      "surface": "קָשֶׁ֑ה",
+      "gloss": "harsh"
+    },
+    {
+      "surface": "וּמֶ֤לֶךְ",
+      "gloss": "and king"
+    },
+    {
+      "surface": "עַז֙",
+      "gloss": "fierce"
+    },
+    {
+      "surface": "יִמְשָׁל",
+      "gloss": "go rule"
+    },
+    {
+      "surface": "בָּ֔ם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "word"
+    },
+    {
+      "surface": "הָאָד֖וֹן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאֽוֹת",
+      "gloss": "of hosts"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:45.896248855Z",
+  "model": "glm-5.2"
+}

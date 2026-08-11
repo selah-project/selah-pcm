@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And all di pipo and all Yisrael know for dat day, sey e no bin come from di king ⟨make⟩ dem kill ⟨את⟩ Avner, son of Ner.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "and dem know"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e bin"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "from di king"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "make dem kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נר",
+      "gloss": "of Ner"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:12.933876660Z",
+  "model": "glm-5.2"
+}

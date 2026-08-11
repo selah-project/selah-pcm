@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And di boundary of Og, wey ⟨be⟩ king of Bashan, from di remnant of Rephaim, wey dey stay for Ashtarot and for Edrei.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "And di boundary"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "of Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "of Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "from di remnant"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "of Rephaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "for Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "and for Edrei"
+    }
+  ],
+  "timestamp": "2026-08-11T14:30:09.200831725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di man wey dey hold bow no go stand, and di fast man wit im legs no go escape, and di horse rider no go save ⟨im⟩ life.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "And di man wey dey hold"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "bow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "and di fast man"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "wit im legs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "go escape"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "and di rider"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "horse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "go save"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨im⟩ life"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:27.138944877Z",
+  "model": "glm-5.2"
+}

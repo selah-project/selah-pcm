@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "So she komot from ⟨את⟩ am, and she lock di door behind herself and behind her pikin-dem; na dem dey bring near to her, and she dey pour.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "so she komot"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "from ⟨את⟩ am"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "and she lock"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "di door"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "behind herself"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "and behind"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "her pikin-dem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "dey bring near"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to her"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "and she"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "dey pour"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:34.754806608Z",
+  "model": "glm-5.2"
+}

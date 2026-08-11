@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Now di king bin dey talk to Gechazi, servant of di man of Elohim, sey, 'Abeg, tell me ⟨את⟩ all di great things wey Elisha don do.'",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "now di king"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bin dey talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "servant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "tell"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di great things"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "di great things"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "don do"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:13.853793390Z",
+  "model": "glm-5.2"
+}

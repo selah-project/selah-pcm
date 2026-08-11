@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And e come to pass, as Yoav dey watch di city, dat ⟨he⟩ put ⟨את⟩ Uriyah for di place wey ⟨he⟩ know sey men of valour dey dere.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "as dey watch"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "of valour"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dey dere"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:33.375522716Z",
+  "model": "glm-5.2"
+}

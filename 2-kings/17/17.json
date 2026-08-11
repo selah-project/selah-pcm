@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And dem make dia sons and ⟨את⟩ dia daughters pass through fire, and dem dey do divination wit oracles, and dem dey practice enchantment, and dem sell demsef to do wetin bad for Yahweh eye, to make am vex.",
+  "tokens": [
+    {
+      "surface": "וַֽ֠יַּעֲבִירוּ",
+      "gloss": "and dem make pass"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia sons"
+    },
+    {
+      "surface": "בְּנֵיהֶ֤ם",
+      "gloss": "dia sons"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia daughters"
+    },
+    {
+      "surface": "בְּנֽוֹתֵיהֶם֙",
+      "gloss": "dia daughters"
+    },
+    {
+      "surface": "בָּאֵ֔שׁ",
+      "gloss": "through fire"
+    },
+    {
+      "surface": "וַיִּקְסְמ֥וּ",
+      "gloss": "and dem dey do divination"
+    },
+    {
+      "surface": "קְסָמִ֖ים",
+      "gloss": "oracles"
+    },
+    {
+      "surface": "וַיְנַחֵ֑שׁוּ",
+      "gloss": "and dem dey practice enchantment"
+    },
+    {
+      "surface": "וַיִּֽתְמַכְּר֗וּ",
+      "gloss": "and dem sell demsef"
+    },
+    {
+      "surface": "לַעֲשׂ֥וֹת",
+      "gloss": "to do"
+    },
+    {
+      "surface": "הָרַ֛ע",
+      "gloss": "wetin bad"
+    },
+    {
+      "surface": "בְּעֵינֵ֥י",
+      "gloss": "for eye"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְהַכְעִיסֽוֹ",
+      "gloss": "to make am vex"
+    }
+  ],
+  "timestamp": "2026-08-11T16:13:59.239174084Z",
+  "model": "glm-5.2"
+}

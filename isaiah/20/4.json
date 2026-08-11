@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "na so di king of Ashshur go lead ⟨את⟩ di captive of Mitsrayim and ⟨את⟩ di exile of Kush, young men and old men, naked and barefoot, and ⟨with⟩ dia buttocks expose — ⟨di⟩ nakedness of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "go lead"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captive of Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "di captive"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di exile of Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "di exile"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "of Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "young men"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "and old men"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "naked"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "and barefoot"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "and expose"
+    },
+    {
+      "surface": "שת",
+      "gloss": "dia buttocks"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "di nakedness"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:37.994360574Z",
+  "model": "glm-5.2"
+}

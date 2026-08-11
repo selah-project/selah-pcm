@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Inside Your hand I dey put my spirit; You don buy ⟨את⟩ me back, Yahweh, El of truth.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Inside Your hand"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "I dey put"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "You don buy back"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "of truth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:13.532144777Z",
+  "model": "glm-5.2"
+}

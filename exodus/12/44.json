@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "But evri servant, man wey dem buy wit silver, and una circumcise ⟨את⟩ am, den e go chop inside-am.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "but evri"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "wey dem buy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wit silver"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "and una circumcise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e go chop"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside-am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:24:11.050609865Z",
+  "model": "glm-5.2"
+}

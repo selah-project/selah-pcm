@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Because na me Yahweh, your Elohim, di Kadosh of Yisra'el, your Savior — I don give Mitsrayim as your ransom, Kush and Sva instead of you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "di Kadosh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "your Savior"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "as your ransom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "and Sva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "instead of you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.426584361Z",
+  "model": "glm-5.2"
+}

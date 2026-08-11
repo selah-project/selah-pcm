@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And una go pursue ⟨את⟩ una enemies, and dem go fall before una by sword.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "and una go pursue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una enemies"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "and dem go fall"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "by sword"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:12.689587292Z",
+  "model": "glm-5.2"
+}

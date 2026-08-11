@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Noach bin enter, and im son dem, and im wife, and di wife dem of im son dem, ⟨את⟩ wit ⟨am⟩, inside di ark, from di face of di water dem of di flood.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and bin enter"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "and im son dem"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "and im wife"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "and di wife dem of"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im son dem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wit ⟨am⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "מי",
+      "gloss": "di water dem of"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "di flood"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:28.472129385Z",
+  "model": "glm-5.2"
+}

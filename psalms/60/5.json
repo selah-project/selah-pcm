@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "You show ⟨to⟩ your people hard thing; you make us drink wine of reeling.",
+  "tokens": [
+    {
+      "surface": "הִרְאִ֣יתָה",
+      "gloss": "you show"
+    },
+    {
+      "surface": "עַמְּךָ֣",
+      "gloss": "your people"
+    },
+    {
+      "surface": "קָשׁ֑ה",
+      "gloss": "hard thing"
+    },
+    {
+      "surface": "הִ֝שְׁקִיתָ֗נוּ",
+      "gloss": "you make us drink"
+    },
+    {
+      "surface": "יַ֣יִן",
+      "gloss": "wine"
+    },
+    {
+      "surface": "תַּרְעֵלָֽה",
+      "gloss": "of reeling"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:26.957059139Z",
+  "model": "glm-5.2"
+}

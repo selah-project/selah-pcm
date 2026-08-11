@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I bin gather for myself also silver and gold, and special treasure of king and of di province; I bin make for myself male singer and female singer, and pleasure of son of man — wife and wife plenty.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "I bin gather"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "and special treasure"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "of king"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "and of di province"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I bin make"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "male singer"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "and female singer"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "and pleasure"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of son"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "wife"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "and wife plenty"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:34.328020201Z",
+  "model": "glm-5.2"
+}

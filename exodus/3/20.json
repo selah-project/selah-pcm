@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And I go stretch out ⟨את⟩ my hand and I go strike ⟨את⟩ Mitsrayim wit all my wonders wey I go do among dem, and after dat, im go send una comot.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "and I go stretch out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "and I go strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wit all"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "my wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "and after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "im go send una comot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:59.453479253Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "So now, carry now your tools, your quiver and your bow, and go outside go di bush, and hunt for me food.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "So now"
+    },
+    {
+      "surface": "שא",
+      "gloss": "carry"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "your tools"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "your quiver"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "and your bow"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "and go outside"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "go di bush"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "and hunt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "food"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:38.627838832Z",
+  "model": "glm-5.2"
+}

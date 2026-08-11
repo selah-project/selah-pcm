@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And messenger of Yahweh appear to am inside flame of fire from inside di bush; and e look, and see — di bush dey burn with fire, but di bush no dey consumed.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "And"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "appear to am"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "inside flame"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "di bush"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and e look"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "di bush"
+    },
+    {
+      "surface": "בער",
+      "gloss": "dey burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "with fire"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "but di bush"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "no"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dey consumed"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:58.796222941Z",
+  "model": "glm-5.2"
+}

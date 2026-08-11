@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Speak to di pikin-dem of Yisra'el, sey: Give una sef ⟨את⟩ di city-dem of refuge wey I don speak to una by hand of Moshe,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una sef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city-dem of refuge"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "city-dem"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "of refuge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "I don speak"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:05.181560722Z",
+  "model": "glm-5.2"
+}

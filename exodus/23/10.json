@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And six year you go sow ⟨את⟩ your land, and you go gather ⟨את⟩ im produce.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "and six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "year"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "you go sow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your land"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "your land"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "and you go gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im produce"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "im produce"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:04.809427292Z",
+  "model": "glm-5.2"
+}

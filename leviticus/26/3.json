@@ -1,0 +1,47 @@
+{
+  "tier": "hand",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "If una waka inside my laws, and una keep ⟨את⟩ my commandments, and una do ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "If"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "inside my laws"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "una waka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my commandments"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my commandments"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "una keep"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and una do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.769839349Z",
+  "model": "claude-opus-4-8"
+}

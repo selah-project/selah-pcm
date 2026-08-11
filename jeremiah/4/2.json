@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 4:2",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "and you go swear: 'Yahweh dey live,' for truth, for judgment, and for righteousness; and ⟨for inside am⟩ di nation-dem go bless ⟨demselv⟩, and for inside am dem go boast.",
+  "tokens": [
+    {
+      "surface": "וְנִשְׁבַּ֨עְתָּ֙",
+      "gloss": "and you go swear"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בֶּאֱמֶ֖ת",
+      "gloss": "for truth"
+    },
+    {
+      "surface": "בְּמִשְׁפָּ֣ט",
+      "gloss": "for judgment"
+    },
+    {
+      "surface": "וּבִצְדָקָ֑ה",
+      "gloss": "and for righteousness"
+    },
+    {
+      "surface": "וְהִתְבָּ֥רְכוּ",
+      "gloss": "dem go bless"
+    },
+    {
+      "surface": "ב֛וֹ",
+      "gloss": "for inside am"
+    },
+    {
+      "surface": "גּוֹיִ֖ם",
+      "gloss": "di nation-dem"
+    },
+    {
+      "surface": "וּב֥וֹ",
+      "gloss": "and for inside am"
+    },
+    {
+      "surface": "יִתְהַלָּֽלוּ",
+      "gloss": "dem go boast"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:43.559258784Z",
+  "model": "glm-5.2"
+}

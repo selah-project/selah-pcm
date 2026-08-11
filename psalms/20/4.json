@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make ⟨im⟩ remember all your grain-offerings, and your burnt-offering make ⟨im⟩ accept — Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "make ⟨im⟩ remember"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "your grain-offerings"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "and your burnt-offering"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "make ⟨im⟩ accept"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:33.557582409Z",
+  "model": "glm-5.2"
+}

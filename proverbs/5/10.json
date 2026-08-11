@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "make pippo wey no sabi you no dey satisfy ⟨demself⟩ wit your strength, and your sweat ⟨dey go⟩ inside house of stranger;",
+  "tokens": [
+    {
+      "surface": "פֶּֽן",
+      "gloss": "make"
+    },
+    {
+      "surface": "יִשְׂבְּע֣וּ",
+      "gloss": "no dey satisfy"
+    },
+    {
+      "surface": "זָרִ֣ים",
+      "gloss": "pippo wey no sabi you"
+    },
+    {
+      "surface": "כֹּחֶ֑ךָ",
+      "gloss": "your strength"
+    },
+    {
+      "surface": "וַ֝עֲצָבֶ֗יךָ",
+      "gloss": "and your sweat"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "inside house"
+    },
+    {
+      "surface": "נָכְרִֽי",
+      "gloss": "of stranger"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:15.753918277Z",
+  "model": "glm-5.2"
+}

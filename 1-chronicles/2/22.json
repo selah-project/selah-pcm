@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Segub begat ⟨את⟩ Yair, and ⟨im⟩ get twenty-three cities for di land of Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "and Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "begat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨im⟩ get"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "three"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "of Gilad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:16.051914647Z",
+  "model": "glm-5.2"
+}

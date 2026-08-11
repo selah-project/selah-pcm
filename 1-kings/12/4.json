@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "\"Your papa make ⟨את⟩ di yoke wey dey on top us hard; and you, now, make di hard work of your papa, and di heavy yoke wey e put on top us, lighter, and we go serve you.\"",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Your papa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "make hard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di yoke wey dey on top us"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "yoke wey dey on top us"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "make lighter"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "di work of"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "di hard"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "and di yoke of"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "di heavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e put"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "on top us"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "and we go serve you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:47.544780841Z",
+  "model": "glm-5.2"
+}

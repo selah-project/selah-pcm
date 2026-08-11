@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And e come be sey, anytime wey Mosheh bin raise im hand, Israel bin dey prevail; and anytime wey im bin rest im hand, Amalek bin dey prevail.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "bin raise"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "and bin dey prevail"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "and anytime wey"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "bin rest"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "and bin dey prevail"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:25.674019478Z",
+  "model": "glm-5.2"
+}

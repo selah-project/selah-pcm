@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And una go be to Me for people, and I go be to una for Elohim.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "and una go be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for people"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:51:58.387681942Z",
+  "model": "glm-5.2"
+}

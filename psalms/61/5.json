@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "Make I dwell for your tent forever, I go take refuge for di hidden place of your wings. Selah.",
+  "tokens": [
+    {
+      "surface": "אָג֣וּרָה",
+      "gloss": "make I dwell"
+    },
+    {
+      "surface": "בְ֭אָהָלְךָ",
+      "gloss": "for your tent"
+    },
+    {
+      "surface": "עוֹלָמִ֑ים",
+      "gloss": "forever"
+    },
+    {
+      "surface": "אֶֽחֱסֶ֨ה",
+      "gloss": "I go take refuge"
+    },
+    {
+      "surface": "בְסֵ֖תֶר",
+      "gloss": "for di hidden place"
+    },
+    {
+      "surface": "כְּנָפֶ֣יךָ",
+      "gloss": "of your wings"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:03.767968715Z",
+  "model": "glm-5.2"
+}

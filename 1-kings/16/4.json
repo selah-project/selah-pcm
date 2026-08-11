@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Anybody wey die for Baasha for di town, dogs go chop; and anybody wey die for am for di field, bird of di heaven go chop.”",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "anybody wey die"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "for Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di town"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dogs"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "and anybody wey die"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "bird of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:16.511068802Z",
+  "model": "glm-5.2"
+}

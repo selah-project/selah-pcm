@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And you go take ⟨את⟩ di anointing oil, and you go anoint ⟨את⟩ di mishkan and ⟨את⟩ evri wetin dey inside am; and you go set am apart — ⟨את⟩ ⟨am⟩ and ⟨את⟩ all im tools — and e go be holy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di anointing oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "di anointing"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "and you go anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "evri wetin dey inside am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dey inside am"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "and you go set apart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im tools"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im tools"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:08.476285337Z",
+  "model": "glm-5.2"
+}

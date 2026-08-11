@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Adonai dey give ⟨di⟩ word: di female proclaimers — na big army dem be.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨di⟩ word"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "di female proclaimers"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "army"
+    },
+    {
+      "surface": "רב",
+      "gloss": "big"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.317492497Z",
+  "model": "glm-5.2"
+}

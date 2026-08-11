@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And e talk to me, son of man, wetin you go find, chop am; chop ⟨את⟩ dis scroll, and go, speak to house of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin you go find"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "you go find"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "chop am"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis scroll"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "di scroll"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:04:05.478040120Z",
+  "model": "glm-5.2"
+}

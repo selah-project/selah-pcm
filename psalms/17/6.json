@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Na me I call you, because you dey answer me; make you bend your ear to my side, hear my word.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "I call you"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "you dey answer me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "make you bend"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "your ear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to my side"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hear"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "my word"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:23.064003803Z",
+  "model": "glm-5.2"
+}

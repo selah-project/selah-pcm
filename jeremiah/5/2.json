@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And even if dem talk, 'As Yahweh dey live,' na to lie dem dey swear.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and even if"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey live"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "to lie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "dem dey swear"
+    }
+  ],
+  "timestamp": "2026-08-11T11:42:53.397539087Z",
+  "model": "glm-5.2"
+}

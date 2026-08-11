@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "\"Comot from here, turn face go east, and hide yourself for di stream of Kerith, wey dey before di Yarden.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Comot"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from here"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "turn face"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "east"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "and hide yourself"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "for di stream"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "of Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "על",
+      "gloss": "before"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:19.774768443Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "⟨E⟩ turn dia heart to hate im people, to dey plot against im servants.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "⟨E⟩ turn"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "to hate"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "to dey plot"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "against im servants"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:34.567815776Z",
+  "model": "glm-5.2"
+}

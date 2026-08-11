@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And ⟨some⟩ Hebrew dem cross over ⟨את⟩ di Yarden to ⟨di⟩ land of Gad and Gilad; and Shaul still dey for Gilgal, and all di people bin dey tremble after am.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "And Hebrew dem"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "to land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "of Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "and Gilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "and Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "still dey"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "for Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "bin dey tremble"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "after am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:35.027735690Z",
+  "model": "glm-5.2"
+}

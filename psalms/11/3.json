@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Because ⟨di⟩ foundations dem dey break, ⟨wetin⟩ di righteous don do?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "⟨di⟩ foundations dem"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "dey break"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨wetin⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "don do"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:32.861793639Z",
+  "model": "glm-5.2"
+}

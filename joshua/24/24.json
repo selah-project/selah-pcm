@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di pipo bin talk to Yehoshua, \"⟨Na⟩ Yahweh, our Elohim, we go serve, and to im voice we go listen.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "And dem bin talk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "we go serve"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "and to im voice"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "we go listen"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:54.049080891Z",
+  "model": "glm-5.2"
+}

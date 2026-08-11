@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "But me, for righteousness I go gaze upon ya face; I go satisfy, when I wake up, wit ya form.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "But me"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "for righteousness"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "I go gaze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "upon ya face"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "I go satisfy"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "when I wake up"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "wit ya form"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:01.894309413Z",
+  "model": "glm-5.2"
+}

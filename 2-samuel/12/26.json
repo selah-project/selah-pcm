@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yoav fight against Rabbat of di pikin-dem of Ammon, and ⟨im⟩ capture ⟨את⟩ di city of di kingship.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "and fight"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "against Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di pikin-dem"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "and ⟨im⟩ capture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "of di kingship"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:17.546085594Z",
+  "model": "glm-5.2"
+}

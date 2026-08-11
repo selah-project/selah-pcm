@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Dey waka ⟨את⟩ wise people, and you go wise; but pesin wey dey follow fools go suffer.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Dey waka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wise people"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wise people"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "and you go wise"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "but pesin wey dey follow"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "fools"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "go suffer"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:17.233669113Z",
+  "model": "glm-5.2"
+}

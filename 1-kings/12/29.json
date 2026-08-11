@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And e put ⟨את⟩ di one for Bet־El, and ⟨את⟩ di one e put for Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "for house of"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di one"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di one"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e put"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "for Dan"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:03.418734464Z",
+  "model": "glm-5.2"
+}

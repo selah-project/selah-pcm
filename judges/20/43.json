@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "judges 20:43",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "⟨Dem⟩ surround ⟨את⟩ Binyamin, ⟨dem⟩ pursue am, from place of rest ⟨dem⟩ stamp am down, until opposite Giv'ah, from east side of sun.",
+  "tokens": [
+    {
+      "surface": "כתרו",
+      "gloss": "⟨dem⟩ surround"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "הרדיפהו",
+      "gloss": "⟨dem⟩ pursue am"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "from place of rest"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "⟨dem⟩ stamp am down"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "opposite"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Giv'ah"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "from east side"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "of sun"
+    }
+  ],
+  "timestamp": "2026-08-11T10:34:39.116548216Z",
+  "model": "glm-5.2"
+}

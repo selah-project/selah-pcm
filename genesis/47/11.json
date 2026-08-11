@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "And Yosef settle ⟨את⟩ im papa and ⟨את⟩ im broda-dem, and e give dem possession for land of Mitsrayim, for di best of di land, for land of Raamses, as Paroh bin command.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "and settle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im papa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im broda-dem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda-dem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "possession"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "for best of"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land of"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:17:53.450178225Z",
+  "model": "glm-5.2"
+}

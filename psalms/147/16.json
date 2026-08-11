@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Di One wey dey give snow like wool, frost like ash ⟨im⟩ dey scatter.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Di One wey dey give"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snow"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "like wool"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "frost"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "like ash"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "dey scatter"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:11.689099989Z",
+  "model": "glm-5.2"
+}

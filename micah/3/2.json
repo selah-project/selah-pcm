@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "⟨Dem⟩ wey dey hate good, and dey love evil; wey dey tear dia skin from on top dem, and dia flesh from on top dia bones.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "hater-dem of"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "and lover-dem of"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "evil"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "snatcher-dem of"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "dia skin"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "from on top dem"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "and dia flesh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "dia bones"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:34.131042123Z",
+  "model": "glm-5.2"
+}

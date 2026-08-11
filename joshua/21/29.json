@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmut and ⟨את⟩ im open-land, ⟨את⟩ Ein-Ganim and ⟨את⟩ im open-land — four cities.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ein-Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open-land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open-land"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    }
+  ],
+  "timestamp": "2026-08-11T10:25:05.894195686Z",
+  "model": "glm-5.2"
+}

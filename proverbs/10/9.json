@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Person wey dey waka wit complete heart, go waka for safety; but person wey dey bend im road go ⟨be⟩ know.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Person wey dey waka"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "wit complete heart"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "go waka"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "for safety"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "but person wey dey bend"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "im road"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "go ⟨be⟩ know"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:53.113376108Z",
+  "model": "glm-5.2"
+}

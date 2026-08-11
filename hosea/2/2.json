@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 2:2",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di pikin-dem of Yehudah and di pikin-dem of Yisra'el go gada join-bodi, and dem go choose one head for dem, and dem go komot from di land, because di day of Yizre'el go big.",
+  "tokens": [
+    {
+      "surface": "ונקבצו",
+      "gloss": "and dem go gada join-bodi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "join-bodi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "and dem go choose"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "and dem go komot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "go big"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di day of"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:14.011281931Z",
+  "model": "glm-5.2"
+}

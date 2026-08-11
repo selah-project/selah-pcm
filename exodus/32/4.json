@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And e take am from dia hand, and e fashion ⟨את⟩ am wit engraving tool, and e make am to become molten calf. And dem talk, \"Dis one na your elohim, O Yisra'el, wey bring you up from land of Mitsrayim!\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and e take"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "from dia hand"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "and e fashion"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (di gold)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "wit engraving tool"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "and e make am"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "calf"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "molten"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "bring you up"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:39.064274691Z",
+  "model": "glm-5.2"
+}

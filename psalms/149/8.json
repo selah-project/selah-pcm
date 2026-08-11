@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Make ⟨dem⟩ tie dia king-dem wit chain, and dia noble-dem wit iron shackle.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "make ⟨dem⟩ tie"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dia king-dem"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "wit chain"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "and dia noble-dem"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "wit shackle"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iron"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:51.111701253Z",
+  "model": "glm-5.2"
+}

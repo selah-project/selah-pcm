@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "For for di place wey dem carry ⟨את⟩ am go exile — ⟨im⟩ go die dia, and ⟨את⟩ dis land ⟨im⟩ no go see again.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "for di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "dem carry go exile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "go die"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dis land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go see"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:32.994127147Z",
+  "model": "glm-5.2"
+}

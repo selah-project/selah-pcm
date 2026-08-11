@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem keep ⟨את⟩ am until morning, as Moshe bin command, and e no spoil, and worm no dey inside am.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "and dem keep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "and worm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:31.402244962Z",
+  "model": "glm-5.2"
+}

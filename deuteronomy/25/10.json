@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And dem go call im name for Yisrael: House of di man wey dem pull im sandal.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "and dem go call"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "of di man wey dem pull"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "im sandal"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:54.097932120Z",
+  "model": "glm-5.2"
+}

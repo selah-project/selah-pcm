@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And my life-force, ⟨e⟩ dey tremble well well; and ⟨you⟩, ⟨you⟩ Yahweh — until when?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "and my life-force"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "⟨e⟩ dey tremble"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "when"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:37.257702490Z",
+  "model": "glm-5.2"
+}

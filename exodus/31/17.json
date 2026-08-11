@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Between me and between di pikin-dem of Yisra'el, ⟨na⟩ sign ⟨im⟩ ⟨be⟩ forever: for six days Yahweh make ⟨את⟩ di heaven and ⟨את⟩ di earth, and for di seventh day ⟨im⟩ rest and ⟨im⟩ catch im breath.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "Between me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אות",
+      "gloss": "sign"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "make"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di heaven"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "and for di day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seventh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rest"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "and catch im breath"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:10.878995870Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And ⟨im⟩ lift di needy ⟨up⟩ from suffering, and ⟨im⟩ make families like flock.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "and lift"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "di needy"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "from suffering"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "and make"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "like flock"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "families"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:51.197240143Z",
+  "model": "glm-5.2"
+}

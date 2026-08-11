@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Yahweh our Elohim give am make e siddon for our front, and we strike am and ⟨את⟩ im sons and ⟨את⟩ all im people.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּתְּנֵ֛הוּ",
+      "gloss": "and e give am"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "לְפָנֵ֑ינוּ",
+      "gloss": "for our front"
+    },
+    {
+      "surface": "וַנַּ֥ךְ",
+      "gloss": "and we strike"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:29.818139035Z",
+  "model": "glm-5.2"
+}

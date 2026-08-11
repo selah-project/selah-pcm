@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 130,
+  "translation": "I bin wait for Yahweh, my life dey wait, and for im word I dey hope.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "I bin wait for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "dey wait"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "and for im word"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "I dey hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:02.966174384Z",
+  "model": "glm-5.2"
+}

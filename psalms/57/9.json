@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 57,
+  "translation": "Wake up, my glory; wake up, ⟨di⟩ nevel and di kinnor; I go wake up ⟨di⟩ dawn.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my glory"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "wake up"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "and kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "I go wake up"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dawn"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:56.597737091Z",
+  "model": "glm-5.2"
+}

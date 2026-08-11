@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Leave me make I destroy dem, and I go wipe ⟨את⟩ dia name from under di heaven, and I go make ⟨את⟩ you to nation wey strong and plenty pass dem.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "leave"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "make I destroy dem"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "and I go wipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia name"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "dia name"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "from under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ you"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "to nation"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and plenty"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pass dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:41.820017454Z",
+  "model": "glm-5.2"
+}

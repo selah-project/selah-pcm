@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "To di leader, on top dove of silence of far places, for David, ⟨na⟩ miktam, wen Pelishtim bin hold am for Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "dove of"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "silence"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "far places"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "wen ⟨dem⟩ bin hold"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "for Gat"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:18.664617476Z",
+  "model": "glm-5.2"
+}

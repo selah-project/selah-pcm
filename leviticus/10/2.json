@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And fire come out from before Yahweh, and e swallow ⟨את⟩ dem, and dem die before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "and e come out"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "from before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "and e swallow"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "and dem die"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:23:11.104167968Z",
+  "model": "glm-5.2"
+}

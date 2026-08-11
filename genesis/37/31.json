@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Dem come take ⟨את⟩ Yosef im koton, come slaughter one he-goat from ⟨di⟩ goat dem, come dip ⟨את⟩ di koton for di blood.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "dem come take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef im koton"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "koton"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "come slaughter"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "he-goat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "goat dem"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "come dip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di koton"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "di koton"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "for di blood"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:51.480357015Z",
+  "model": "glm-5.2"
+}

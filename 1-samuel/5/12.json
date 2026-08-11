@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And di men wey no die, dem strike dem with tumors; and di cry of di city go up to heaven.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "and di men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "dem die"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "dem strike dem"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "with tumors"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "and ⟨it⟩ go up"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "di cry"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "to heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:14.259596771Z",
+  "model": "glm-5.2"
+}

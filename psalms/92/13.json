@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "Di righteous ⟨go⟩ blossom like date-palm; like cedar for Lebanon ⟨im⟩ ⟨go⟩ grow tall.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "like date-palm"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "go blossom"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "like cedar"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "for Lebanon"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "go grow tall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:22.708312190Z",
+  "model": "glm-5.2"
+}

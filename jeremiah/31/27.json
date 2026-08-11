@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "See, days dey come, oracle of Yahweh, and I go sow ⟨את⟩ house of Yisra'el and ⟨את⟩ house of Yehudah — seed of person and seed of animal.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "באים",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "and I go sow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "house of Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "house of Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "person"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "and seed of"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    }
+  ],
+  "timestamp": "2026-08-11T11:52:26.054670223Z",
+  "model": "glm-5.2"
+}

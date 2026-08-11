@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Look, I dey send messenger before you, to guard you for di road, and to bring you to di place wey I don prepare.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dey send"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "to guard you"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "and to bring you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "I don prepare"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:35.734715277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Then all di king im wise men dem enta, but dem no fit read di writing, and make dem know di interpretation give di king.",
+  "tokens": [
+    {
+      "surface": "אֱדַ֨יִן֙",
+      "gloss": "Then"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "dem enta"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חַכִּימֵ֣י",
+      "gloss": "wise men"
+    },
+    {
+      "surface": "מַלְכָּ֑א",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וְלָֽא",
+      "gloss": "but dem no"
+    },
+    {
+      "surface": "כָהֲלִ֤ין",
+      "gloss": "fit"
+    },
+    {
+      "surface": "כְּתָבָא֙",
+      "gloss": "di writing"
+    },
+    {
+      "surface": "לְמִקְרֵ֔א",
+      "gloss": "to read"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "and ⟨di⟩ interpretation"
+    },
+    {
+      "surface": "לְהוֹדָעָ֥ה",
+      "gloss": "to make known"
+    },
+    {
+      "surface": "לְמַלְכָּֽא",
+      "gloss": "give di king"
+    }
+  ],
+  "timestamp": "2026-08-11T16:48:36.554396200Z",
+  "model": "glm-5.2"
+}

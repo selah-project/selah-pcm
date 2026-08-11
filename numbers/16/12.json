@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Moshe send to call Datan and Aviram, di sons of Eliav, and dem talk sey, 'We no go come up.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "to call"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "and Aviram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "of Eliav"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "we go come up"
+    }
+  ],
+  "timestamp": "2026-08-11T09:54:57.893119130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Because you go pass through di water, ⟨את⟩ you na me ⟨dey⟩; and for di river dem, dem no go sweep you away; because you go waka for inside fire, you no go burn, and flame no go blaze on top you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "you go pass"
+    },
+    {
+      "surface": "במים",
+      "gloss": "through di water"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "and for di river dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "dem go sweep you away"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "you go waka"
+    },
+    {
+      "surface": "במו",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "you go burn"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "and flame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "go blaze"
+    },
+    {
+      "surface": "בך",
+      "gloss": "on top you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:51.426422675Z",
+  "model": "glm-5.2"
+}

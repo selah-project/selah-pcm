@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And e drive nations comot from front of dem, and e make dem fall for di rope of inheritance, and e make di tribes of Yisra'el settle for dia tents.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "and e drive comot"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "from front of dem"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "and e make dem fall"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "for di rope"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "of inheritance"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "and e make settle"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "for dia tents"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "di tribes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:07.039720167Z",
+  "model": "glm-5.2"
+}

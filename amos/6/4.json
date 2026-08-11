@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Dem wey dey lie down on top beds of ivory, and dey stretch out on top dia couches, and dey chop rams from di flock, and calves from inside di stall —",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Dem wey dey lie down"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "beds"
+    },
+    {
+      "surface": "שן",
+      "gloss": "of ivory"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "and dey stretch out"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "dia couches"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "and dey chop"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "rams"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "from di flock"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "and calves"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "di stall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:55.146517859Z",
+  "model": "glm-5.2"
+}

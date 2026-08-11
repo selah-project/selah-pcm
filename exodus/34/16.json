@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "and you go take from im daughter-dem for ya son-dem, and im daughter-dem go commit prostitution afta dia Elohim, and dem go make ⟨את⟩ ya son-dem commit prostitution afta dia Elohim.",
+  "tokens": [
+    {
+      "surface": "וְלָקַחְתָּ֥",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "מִבְּנֹתָ֖יו",
+      "gloss": "from im daughter-dem"
+    },
+    {
+      "surface": "לְבָנֶ֑יךָ",
+      "gloss": "for ya son-dem"
+    },
+    {
+      "surface": "וְזָנ֣וּ",
+      "gloss": "and dem go commit prostitution"
+    },
+    {
+      "surface": "בְנֹתָ֗יו",
+      "gloss": "im daughter-dem"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "afta"
+    },
+    {
+      "surface": "אֱלֹ֣הֵיהֶ֔ן",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "וְהִזְנוּ֙",
+      "gloss": "and dem go make commit prostitution"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ya son-dem"
+    },
+    {
+      "surface": "בָּנֶ֔יךָ",
+      "gloss": "ya son-dem"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "afta"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶֽן",
+      "gloss": "dia Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:40.851190992Z",
+  "model": "glm-5.2"
+}

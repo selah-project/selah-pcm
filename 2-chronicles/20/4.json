@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yehudah gather together to seek Yahweh; even from all di town dem of Yehudah dem come to seek ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "and dem gather together"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to seek"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "from Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "di town dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dem come"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:11:19.216872821Z",
+  "model": "glm-5.2"
+}

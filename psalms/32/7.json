@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "You ⟨na⟩ my hiding place, you go guard me from trouble; with shout of escape you go surround me. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "⟨na⟩ my hiding place"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "from trouble"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "you go guard me"
+    },
+    {
+      "surface": "רני",
+      "gloss": "with shout"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "of escape"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "you go surround me"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:31.912709887Z",
+  "model": "glm-5.2"
+}

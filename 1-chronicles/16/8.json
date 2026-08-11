@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Give tanks to Yahweh, call ⟨for⟩ inside ⟨His⟩ name, make known among di peoples im works!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Give tanks"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "call"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "inside im name"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "make known"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "among di peoples"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "im works"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:38.637163768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Lift ⟨את⟩ di head of di sons of Kehath from among di sons of Levi, by dia families, by dia papa house:",
+  "tokens": [
+    {
+      "surface": "נָשֹׂ֗א",
+      "gloss": "Lift"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "רֹאשׁ֙",
+      "gloss": "head"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "קְהָ֔ת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "מִתּ֖וֹךְ",
+      "gloss": "from among"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "לֵוִ֑י",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֖ם",
+      "gloss": "by dia families"
+    },
+    {
+      "surface": "לְבֵ֥ית",
+      "gloss": "by house"
+    },
+    {
+      "surface": "אֲבֹתָֽם",
+      "gloss": "of dia papa"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:50.096099603Z",
+  "model": "glm-5.2"
+}

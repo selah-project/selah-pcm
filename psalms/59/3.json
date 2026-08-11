@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Snatch me from worker-dem of nothing, and from blood-men, save me.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "snatch me"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "from worker-dem of"
+    },
+    {
+      "surface": "און",
+      "gloss": "nothing"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "and from men of"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blood"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "save me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:40.402853849Z",
+  "model": "glm-5.2"
+}

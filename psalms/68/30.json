@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "From your temple upon Yerushalaim, kings go bring gifts to you.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "from your temple"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "go bring"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "שי",
+      "gloss": "gifts"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:25.382883505Z",
+  "model": "glm-5.2"
+}

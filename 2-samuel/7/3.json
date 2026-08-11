@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Natan come talk to di king, 'Evri wetin dey your heart, go do am, becos Yahweh dey with you.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dey your heart"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "כי",
+      "gloss": "becos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dey with you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:22.728125951Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨את⟩ di pot-dem, and ⟨את⟩ di shovel-dem, and ⟨את⟩ di trimmer-dem, and ⟨את⟩ di bowl-dem, and ⟨את⟩ all di bronze vessel-dem wey dem dey serve wit, dem take am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pot-dem"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "di pot-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di shovel-dem"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "di shovel-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di trimmer-dem"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "di trimmer-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di bowl-dem"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "di bowl-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di bronze vessel-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel-dem"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "di bronze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "dem dey serve"
+    },
+    {
+      "surface": "בם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dem take am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:19:25.238663608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Abi wild donkey dey bray on top grass? Abi ox dey bellow on top im fodder?",
+  "tokens": [
+    {
+      "surface": "הֲיִֽנְהַק",
+      "gloss": "Abi ⟨e⟩ dey bray"
+    },
+    {
+      "surface": "פֶּ֥רֶא",
+      "gloss": "wild donkey"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "grass"
+    },
+    {
+      "surface": "אִ֥ם",
+      "gloss": "Abi"
+    },
+    {
+      "surface": "יִגְעֶה",
+      "gloss": "⟨e⟩ dey bellow"
+    },
+    {
+      "surface": "שּׁ֝֗וֹר",
+      "gloss": "ox"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בְלִילֽוֹ",
+      "gloss": "im fodder"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:25.704131567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 71,
+  "translation": "Elohim, you bin teach me from when I be small pickin, and till now I go dey declare your wonderful works.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "you bin teach me"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "from when I be small pickin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and till"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "now"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "I go dey declare"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "your wonderful works"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:18.484274120Z",
+  "model": "glm-5.2"
+}

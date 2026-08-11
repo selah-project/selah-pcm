@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Bad people don set trap for me, but from your precepts I neva wander.",
+  "tokens": [
+    {
+      "surface": "נָתְנ֬וּ",
+      "gloss": "don set"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "Bad people"
+    },
+    {
+      "surface": "פַּ֣ח",
+      "gloss": "trap"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "וּ֝מִפִּקּוּדֶ֗יךָ",
+      "gloss": "but from your precepts"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "I neva"
+    },
+    {
+      "surface": "תָעִֽיתִי",
+      "gloss": "wander"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:43.341697752Z",
+  "model": "glm-5.2"
+}

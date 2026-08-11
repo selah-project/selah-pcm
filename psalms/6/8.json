@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "My eye don fade from vexation; e don grow old because of all my enemies.",
+  "tokens": [
+    {
+      "surface": "עָֽשְׁשָׁ֣ה",
+      "gloss": "don fade"
+    },
+    {
+      "surface": "מִכַּ֣עַס",
+      "gloss": "from vexation"
+    },
+    {
+      "surface": "עֵינִ֑י",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "עָֽ֝תְקָ֗ה",
+      "gloss": "don grow old"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "because of all"
+    },
+    {
+      "surface": "צוֹרְרָֽי",
+      "gloss": "my enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:10.712626211Z",
+  "model": "glm-5.2"
+}

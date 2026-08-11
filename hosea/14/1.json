@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 14:1",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Shomron go carry ⟨im⟩ guilt, because ⟨e⟩ rebel against im Elohim; by sword dem go fall; dia small-pikin dem go dash down, and dia pregnant-woman dem dem go rip open.",
+  "tokens": [
+    {
+      "surface": "תאשם",
+      "gloss": "go carry guilt"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "rebel"
+    },
+    {
+      "surface": "באלהיה",
+      "gloss": "against im Elohim"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by sword"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dem go fall"
+    },
+    {
+      "surface": "עלליהם",
+      "gloss": "dia small-pikin"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "dem go dash down"
+    },
+    {
+      "surface": "והריותיו",
+      "gloss": "and im pregnant-woman dem"
+    },
+    {
+      "surface": "יבקעו",
+      "gloss": "dem go rip open"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:08.486742357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "And for di name of Yahweh I go call: 'Ah now, Yahweh, make You deliver my life!'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "and for di name of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I go call"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ah now"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "make You deliver"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:38.930820572Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And evri outsider no go eat holy thing; person wey dey stay wit priest and person wey dem hire, ⟨dem⟩ no go eat holy thing.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "זר",
+      "gloss": "outsider"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go eat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy thing"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "person wey dey stay"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "and person wey dem hire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go eat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy thing"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:59.451697167Z",
+  "model": "glm-5.2"
+}

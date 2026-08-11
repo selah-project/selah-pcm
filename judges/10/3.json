@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And after ⟨im⟩ bin rise Yair di Gil'adi, and ⟨he⟩ bin judge ⟨את⟩ Yisra'el twenty and two year.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin rise"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "after ⟨im⟩"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "di Gil'adi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "bin judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "and two"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:48.217319433Z",
+  "model": "glm-5.2"
+}

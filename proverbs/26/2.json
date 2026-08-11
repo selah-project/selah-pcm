@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Like bird wey dey wander, like swallow wey dey fly, so curse wey dem lay for nothing, e no go land.",
+  "tokens": [
+    {
+      "surface": "כַּצִּפּ֣וֹר",
+      "gloss": "like bird"
+    },
+    {
+      "surface": "לָ֭נוּד",
+      "gloss": "to wander"
+    },
+    {
+      "surface": "כַּדְּר֣וֹר",
+      "gloss": "like swallow"
+    },
+    {
+      "surface": "לָע֑וּף",
+      "gloss": "to fly"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "so"
+    },
+    {
+      "surface": "קִֽלְלַ֥ת",
+      "gloss": "curse"
+    },
+    {
+      "surface": "חִ֝נָּ֗ם",
+      "gloss": "for nothing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תָבֹֽא",
+      "gloss": "go land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:04.416114315Z",
+  "model": "glm-5.2"
+}

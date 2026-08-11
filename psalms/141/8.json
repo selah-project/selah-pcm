@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 141,
+  "translation": "Because my eyes ⟨dey look⟩ to you, Yahweh, Adonai; for you I don take refuge — no pour out my life.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eyes"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "for you"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "I don take refuge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תער",
+      "gloss": "pour out"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:16.471761002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Take im cloth, because ⟨he⟩ stand surety for stranger, and for sake of strange woman, take pledge from am.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "take"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "im cloth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "⟨he⟩ stand surety"
+    },
+    {
+      "surface": "זר",
+      "gloss": "stranger"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "and for sake of"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "strange woman"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "take pledge from am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:39.043892803Z",
+  "model": "glm-5.2"
+}

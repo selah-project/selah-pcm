@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Mitsrayim press di people hard, to hurry to send dem comot from di land, because dem talk say, \"All of us ⟨na⟩ dead.\"",
+  "tokens": [
+    {
+      "surface": "וַתֶּחֱזַק",
+      "gloss": "and dem press hard"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לְמַהֵר",
+      "gloss": "to hurry"
+    },
+    {
+      "surface": "לְשַׁלְּחָם",
+      "gloss": "to send dem comot"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אָמְרוּ",
+      "gloss": "dem talk"
+    },
+    {
+      "surface": "כֻּלָּנוּ",
+      "gloss": "all of us"
+    },
+    {
+      "surface": "מֵתִים",
+      "gloss": "dead"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:00.190728781Z",
+  "model": "glm-5.2"
+}

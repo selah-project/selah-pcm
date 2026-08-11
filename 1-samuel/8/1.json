@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "E come happen, when Shemuël don old, e come put ⟨את⟩ im sons as judges for Yisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e come happen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "when"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "don old"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e come put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im sons"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im sons"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "as judges"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Yisraël"
+    }
+  ],
+  "timestamp": "2026-08-11T10:37:17.493385917Z",
+  "model": "glm-5.2"
+}

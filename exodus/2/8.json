@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Paroh im daughter bin talk to am, Go. And di young woman come go, and she come call ⟨את⟩ di mama of di pikin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "and she bin talk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Go"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "and she come go"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "di young woman"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "and she come call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "di mama"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "of di pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:55.237342508Z",
+  "model": "glm-5.2"
+}

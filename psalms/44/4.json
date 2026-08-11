@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Because no be wit dia sword dem possess di land, and dia arm no save dem; but your right hand, and your arm, and di light of your face, because you favor dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "wit dia sword"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "dem possess"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "and dia arm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "save"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "your right hand"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "and your arm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "and di light"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "of your face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "you favor dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:59.281171457Z",
+  "model": "glm-5.2"
+}

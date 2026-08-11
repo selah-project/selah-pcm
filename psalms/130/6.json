@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 130,
+  "translation": "My life ⟨dey⟩ for Adonai, more than ⟨those⟩ wey dey guard ⟨for⟩ morning, ⟨those⟩ wey dey guard ⟨for⟩ morning.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "for Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "more than ⟨those⟩ wey dey guard"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨for⟩ morning"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "⟨those⟩ wey dey guard"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨for⟩ morning"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:02.966354357Z",
+  "model": "glm-5.2"
+}

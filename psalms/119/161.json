@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Oga dem bin dey pursue me notin do me, but my heart dey fear because of ⟨your⟩ word.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Oga dem"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "bin dey pursue me"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "notin do me"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "because of ⟨your⟩ word"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:42.636722561Z",
+  "model": "glm-5.2"
+}

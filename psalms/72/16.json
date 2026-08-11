@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 72,
+  "translation": "Make abundance of grain ⟨be⟩ for di earth, for top of di mountains e go wave like Lebanon, im fruit; and dem go blossom from di city like grass of di earth.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "make ⟨be⟩"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "abundance"
+    },
+    {
+      "surface": "בר",
+      "gloss": "of grain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "for top of"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "e go wave"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "like Lebanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "im fruit"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "and dem go blossom"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "from di city"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:28.940781647Z",
+  "model": "glm-5.2"
+}

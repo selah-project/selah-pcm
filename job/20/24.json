@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "E go run from iron weapon; bow of copper go pass through am.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "go run"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "from weapon"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "of iron"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "go pass through am"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bow"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "of copper"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:18.763282558Z",
+  "model": "glm-5.2"
+}

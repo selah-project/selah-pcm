@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 150,
+  "translation": "Evri tin wey get breath, make ⟨e⟩ praise Yah! Make una praise Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "wey get breath"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "make ⟨e⟩ praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "make una praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:55.782610450Z",
+  "model": "glm-5.2"
+}

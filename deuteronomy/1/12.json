@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "How I go fit carry by miself alone una burden, and una load, and una quarrel?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "how"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "I go fit carry"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "by miself alone"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "una trouble"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "and una load"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "and una quarrel"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:35.513711467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Hear, O heaven, and give ear, O earth, for Yahweh don talk: ⟨I⟩ bin raise sons and ⟨I⟩ bin lift dem up, but dem don rebel against me.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hear"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "O heaven"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "and give ear"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "O earth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "⟨I⟩ bin raise"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "and ⟨I⟩ bin lift dem up"
+    },
+    {
+      "surface": "והם",
+      "gloss": "but dem"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "don rebel"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:11.548360185Z",
+  "model": "glm-5.2"
+}

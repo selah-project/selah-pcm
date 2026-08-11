@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Dem come send ⟨את⟩ di koton of di stripes, come bring am to dia papa, come talk sey: \"Dis one wey we find — make you check now: ⟨na⟩ dis ⟨be⟩ your pikin im koton, abi no be so?\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "dem come send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di koton of di stripes"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "koton"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "of di stripes"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "come bring am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "come talk sey"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "wey we find"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "make you check"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "⟨na⟩ dis ⟨be⟩ di koton"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "your pikin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "abi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be so"
+    }
+  ],
+  "timestamp": "2026-08-11T14:19:51.480625791Z",
+  "model": "glm-5.2"
+}

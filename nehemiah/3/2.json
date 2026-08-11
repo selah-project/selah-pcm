@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And beside am, men of Yeriho bin build; and beside dem, Zakkur pikin of Imri bin build.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "And beside"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and beside"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bin build"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Zakkur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Imri"
+    }
+  ],
+  "timestamp": "2026-08-11T13:50:05.063638510Z",
+  "model": "glm-5.2"
+}

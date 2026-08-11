@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And ⟨he⟩ lift ⟨im⟩ eyes and look, ⟨את⟩ di women and ⟨את⟩ di pikin-dem, and ⟨he⟩ talk, \"Who be dis-ones wey ⟨dey⟩ with you?\" And ⟨he⟩ talk, \"Di pikin-dem wey Elohim bin show favor to ⟨im⟩ servant ⟨your⟩.\"",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im eyes"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "eyes"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and look"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di women"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "di women"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pikin-dem"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis-ones"
+    },
+    {
+      "surface": "לך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "show favor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨im⟩ servant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨im⟩ servant ⟨your⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:19.293660762Z",
+  "model": "glm-5.2"
+}

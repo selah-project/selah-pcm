@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 22:10",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Na im go build house for My name, and na im go be to Me ⟨as⟩ pikin, and Me I go be to am ⟨as⟩ papa, and I go establish di throne of im kingdom on top Yisra'el forever.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "go build"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for My name"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and na im"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "as pikin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and Me"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "as papa"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "and I go establish"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "di throne"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "of im kingdom"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:56.399190492Z",
+  "model": "glm-5.2"
+}

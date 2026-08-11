@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "But Yehudah go ⟨be⟩ inhabited forever, and Yerushalayim from generation to generation.",
+  "tokens": [
+    {
+      "surface": "וִיהוּדָ֖ה",
+      "gloss": "but Yehudah"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תֵּשֵׁ֑ב",
+      "gloss": "go ⟨be⟩ inhabited"
+    },
+    {
+      "surface": "וִירוּשָׁלִַ֖ם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "לְד֥וֹר",
+      "gloss": "from generation"
+    },
+    {
+      "surface": "וָדֽוֹר",
+      "gloss": "to generation"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:10.549174568Z",
+  "model": "glm-5.2"
+}

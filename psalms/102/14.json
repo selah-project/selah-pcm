@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "You go stand up, you go pity Tziyon, because time don reach to show am favor, because di appointed season don come.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "you go stand up"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "you go pity"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "to show favor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "בא",
+      "gloss": "don come"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "appointed season"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:29.258442675Z",
+  "model": "glm-5.2"
+}

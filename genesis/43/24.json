@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And di man bring ⟨את⟩ di men inside Yosef house, and im give water, and dem wash dia legs, and im give feed for dia donkeys.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "And ... bring"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di men"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "inside"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and im give"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "and dem wash"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dia legs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and im give"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "feed"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "for dia donkeys"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:31.784376994Z",
+  "model": "glm-5.2"
+}

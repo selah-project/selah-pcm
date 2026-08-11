@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And e bin take ten men from among di elders of di city, and e talk sey, 'Siddon here.' And dem siddon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "And e bin take"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "from among di elders"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sey siddon"
+    },
+    {
+      "surface": "פה",
+      "gloss": "here"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "And dem siddon"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:27.005179592Z",
+  "model": "glm-5.2"
+}

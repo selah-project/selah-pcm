@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e bin make ⟨את⟩ di anointing oil, holy ⟨thing⟩, and ⟨את⟩ di incense of sweet spices wey ⟨be⟩ pure — work of perfumer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di anointing oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "di anointing"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di incense"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incense"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "of sweet spices"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "of perfumer"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:00.223770570Z",
+  "model": "glm-5.2"
+}

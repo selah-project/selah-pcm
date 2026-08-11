@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And dem send, and dem call am, and Yarov'am and all Yisra'el come, and dem speak to Rehav'am, to talk sey:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "and dem send"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem call"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨he⟩ come"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "and dem speak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk sey"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:00.261622557Z",
+  "model": "glm-5.2"
+}

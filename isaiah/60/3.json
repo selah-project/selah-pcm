@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "And nations go waka to your light, and kings to di brightness of your rising.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "And go waka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "to your light"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "and kings"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "to di brightness"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "of your rising"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:53.189079611Z",
+  "model": "glm-5.2"
+}

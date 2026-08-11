@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And all di wells wey servants of im papa bin dig for di days of Avraham im papa, Pelishtim bin stop dem, and dem bin fill dem wit dust.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "di wells"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bin dig"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants of"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di days"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "bin stop dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "and bin fill dem"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:11.861330065Z",
+  "model": "glm-5.2"
+}

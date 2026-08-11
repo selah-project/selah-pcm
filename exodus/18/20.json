@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And you go warn dem ⟨את⟩ di statutes and ⟨את⟩ di teachings, and you go make known to dem ⟨את⟩ di way wey dem go waka for inside, and ⟨את⟩ di work wey dem go do.",
+  "tokens": [
+    {
+      "surface": "וְהִזְהַרְתָּ֣ה",
+      "gloss": "and you go warn"
+    },
+    {
+      "surface": "אֶתְהֶ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di statutes"
+    },
+    {
+      "surface": "הַחֻקִּ֖ים",
+      "gloss": "di statutes"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di teachings"
+    },
+    {
+      "surface": "הַתּוֹרֹ֑ת",
+      "gloss": "di teachings"
+    },
+    {
+      "surface": "וְהוֹדַעְתָּ֣ה",
+      "gloss": "and you go make known"
+    },
+    {
+      "surface": "לָהֶ֗ם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di way"
+    },
+    {
+      "surface": "הַדֶּ֨רֶךְ֙",
+      "gloss": "di way"
+    },
+    {
+      "surface": "יֵ֣לְכוּ",
+      "gloss": "dem go waka"
+    },
+    {
+      "surface": "בָ֔הּ",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di work"
+    },
+    {
+      "surface": "הַֽמַּעֲשֶׂ֖ה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יַעֲשֽׂוּן",
+      "gloss": "dem go do"
+    }
+  ],
+  "timestamp": "2026-08-11T15:47:42.345574717Z",
+  "model": "glm-5.2"
+}

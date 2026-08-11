@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Make you silent for Yahweh, and long ⟨dey⟩ patient for ⟨Him⟩; no let anger burn inside you for di man wey im way dey succeed, for di man wey dey do evil plans.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "make you silent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "and long dey patient"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ⟨Him⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "let anger burn inside you"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "for di man wey im way dey succeed"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "im way"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "for di man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey do"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "evil plans"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:37.787053029Z",
+  "model": "glm-5.2"
+}

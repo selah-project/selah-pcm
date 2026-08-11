@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Make dem thank Yahweh for im chesed, and for im wonders to ⟨di⟩ children of man.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "make dem thank"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "for im chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "and for im wonders"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to ⟨di⟩ children"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:01.537745629Z",
+  "model": "glm-5.2"
+}

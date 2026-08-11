@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And e bin tell Moshe: \"Na me, your in-law Yitro, bin come to meet you, and your wife and di two sons of am dey wit am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Na me"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "your in-law"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to meet you"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "and your wife"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "and di two"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sons of am"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "dey wit am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:54.420253290Z",
+  "model": "glm-5.2"
+}

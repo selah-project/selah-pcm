@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And Yahweh bin speak to Mosheh, sey:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "And bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:36.163450932Z",
+  "model": "glm-5.2"
+}

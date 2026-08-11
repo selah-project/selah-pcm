@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And as di letter reach dem, dem take ⟨את⟩ di son of di king, and dem slaughter seventy man; and dem put ⟨את⟩ dia head for basket, and dem send am to am for Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "as e reach"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "di letter"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di son of di king"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di son of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "dem slaughter"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dem put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia head"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dia head"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "for basket"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dem send"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:12:48.220858710Z",
+  "model": "glm-5.2"
+}

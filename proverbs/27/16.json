@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Whoever hide am, ⟨im⟩ hide wind, and di ointment of im right hand go call out.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "whoever hide am"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "⟨im⟩ hide"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "and di ointment"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "of im right hand"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go call out"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:39.044428742Z",
+  "model": "glm-5.2"
+}

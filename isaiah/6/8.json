@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Then I bin hear ⟨את⟩ di voice of Adonai wey dey talk, ⟨את⟩ who I go send? and who go go for us? Then I talk, here I dey, send me.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "then I bin hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wey dey talk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "who"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "I go send"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "go go"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "then I talk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "send me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:49.036173426Z",
+  "model": "glm-5.2"
+}

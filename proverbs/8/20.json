@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For di road of righteousness I dey walk, for inside di paths of justice.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "of righteousness"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "I dey walk"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "di paths"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "of justice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:08.657450460Z",
+  "model": "glm-5.2"
+}

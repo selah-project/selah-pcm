@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And David again gather ⟨את⟩ all di chosen men for Israel, thirty thousand.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "again"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "further"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di chosen men for Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "chosen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:49:49.865689177Z",
+  "model": "glm-5.2"
+}

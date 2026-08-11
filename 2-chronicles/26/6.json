@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And e go out and e fight against Peleshet, and e break down ⟨את⟩ wall of Gat and ⟨את⟩ wall of Yavneh and ⟨את⟩ wall of Ashdod; and e build cities for Ashdod and among Peleshet.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and e go out"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and e fight"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "against Peleshet"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "and e break down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wall of Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "wall of"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wall of Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "wall of"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wall of Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "wall of"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "and e build"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "for Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "and among Peleshet"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:14.477478098Z",
+  "model": "glm-5.2"
+}

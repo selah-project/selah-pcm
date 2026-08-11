@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 86,
+  "translation": "Guard my life, for ⟨I be⟩ person wey dey loyal; save your servant — you ⟨be⟩ my Elohim — ⟨di one⟩ wey dey trust ⟨in⟩ you.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Guard"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "person wey dey loyal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨I be⟩"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "save"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "wey dey trust"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨in⟩ you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:21.012832857Z",
+  "model": "glm-5.2"
+}

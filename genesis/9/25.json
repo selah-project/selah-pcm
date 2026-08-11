@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And im talk sey: Cursed ⟨be⟩ Kenaan; servant of servants im go bi for im brothers.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk sey"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "cursed"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servant"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "of servants"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "im go bi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "for im brothers"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:00.824745755Z",
+  "model": "glm-5.2"
+}

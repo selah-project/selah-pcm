@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Your wickedness ⟨na⟩ for man wey be like you, and your righteousness ⟨na⟩ for son of man.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "for man"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wey be like you"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "your wickedness"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "and for son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "your righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:25:41.542295475Z",
+  "model": "glm-5.2"
+}

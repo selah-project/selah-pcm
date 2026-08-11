@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And you, son of man, watchman I don set you for house of Yisrael; so you go hear word from my mouth, and you go warn dem ⟨את⟩ from me.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "And you"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "watchman"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "I don set you"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "so you go hear"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "from my mouth"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "and you go warn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:21.159445232Z",
+  "model": "glm-5.2"
+}

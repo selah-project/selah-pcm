@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "and ⟨את⟩ di ten bases, and ⟨את⟩ di ten basins on top di bases,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ten bases"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "di bases"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ten basins"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "di basins"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "di bases"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:16.186757203Z",
+  "model": "glm-5.2"
+}

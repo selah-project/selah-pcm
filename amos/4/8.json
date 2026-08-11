@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 4:8",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Then two, three cities bin wander unto one city to drink water, and dem no satisfy; and una no return unto me — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְנָעוּ",
+      "gloss": "then bin wander"
+    },
+    {
+      "surface": "שְׁתַּיִם",
+      "gloss": "two"
+    },
+    {
+      "surface": "שָׁלֹשׁ",
+      "gloss": "three"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "one"
+    },
+    {
+      "surface": "לִשְׁתּוֹת",
+      "gloss": "to drink"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "water"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יִשְׂבָּעוּ",
+      "gloss": "dem satisfy"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שַׁבְתֶּם",
+      "gloss": "una return"
+    },
+    {
+      "surface": "עָדַי",
+      "gloss": "unto me"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:26:27.592416754Z",
+  "model": "glm-5.2"
+}

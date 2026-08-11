@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Yahweh bin tell Moshe: \"Stretch ⟨את⟩ your hand toward di heaven, make hail go fall on top all di land of Mitsrayim, on top man and on top animal and on top all di grass of di field inside di land of Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Stretch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "toward"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heaven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "make ⟨e⟩ go fall"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hail"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "on top all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "di grass"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "inside di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:46:37.241734543Z",
+  "model": "glm-5.2"
+}

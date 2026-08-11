@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Head of ⟨di⟩ word of you na truth, and forever, all ⟨di⟩ righteous judgments of you.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "word of you"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "na truth"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "and forever"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgments"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "righteous of you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:28.769379749Z",
+  "model": "glm-5.2"
+}

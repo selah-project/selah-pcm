@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And Yehonatan talk, 'See, we dey cross go meet di men, and we go show oursef to dem.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dey cross"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "and we go show oursef"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:32:51.756079007Z",
+  "model": "glm-5.2"
+}

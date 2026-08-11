@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And after di earthquake, fire; no be for di fire Yahweh ⟨dey⟩. And after di fire, sound of quiet wey thin.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "di earthquake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "באש",
+      "gloss": "for di fire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "of quiet"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "wey thin"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:42.002929708Z",
+  "model": "glm-5.2"
+}

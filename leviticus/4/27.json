@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 4:27",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And if one person sin by mistake, from di people of di land, for doing one of di commandments of Yahweh, wey no suppose do, e go dey guilty.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "person"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "by mistake"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from di people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "בעשתה",
+      "gloss": "for doing"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "ממצות",
+      "gloss": "of di commandments"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "suppose do"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "e go dey guilty"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:05.407286677Z",
+  "model": "glm-5.2"
+}

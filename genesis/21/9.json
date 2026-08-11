@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Sarah see ⟨את⟩ di son of Hagar di Egyptian wey she born for Avraham, dey laugh.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "And she see"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "of Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "di Egyptian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "she born"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "for Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "dey laugh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:59.838645128Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Hollow, wit planks, you go make ⟨את⟩ am; as e show ⟨את⟩ you for di mountain, so dem go make am.",
+  "tokens": [
+    {
+      "surface": "נָבוּב",
+      "gloss": "hollow"
+    },
+    {
+      "surface": "לֻחֹת",
+      "gloss": "wit planks"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "am (di altar)"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "as"
+    },
+    {
+      "surface": "הֶרְאָה",
+      "gloss": "e show"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "בָּהָר",
+      "gloss": "for di mountain"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יַעֲשׂוּ",
+      "gloss": "dem go make am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:47.410894358Z",
+  "model": "glm-5.2"
+}

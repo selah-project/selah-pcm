@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "My Elohim, my rock, na for am I go take refuge; my shield, and di horn of my salvation, my high tower, and my refuge, my saviour; na you go save me from violence.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rock"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "I go take refuge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "my shield"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "and di horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "of my salvation"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my high tower"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "and my refuge"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "my saviour"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "from violence"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "you go save me"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:02.788487892Z",
+  "model": "glm-5.2"
+}

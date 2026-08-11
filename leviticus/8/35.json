@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 8:35",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And for ⟨di⟩ entrance of ⟨di⟩ tent of meeting una go siddon, day and night, seven days, and make una keep ⟨את⟩ di charge of Yahweh, so that una no go die; because na so dem bin command me.",
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "and for ⟨di⟩ entrance"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "of ⟨di⟩ tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "una go siddon"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "day"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "and night"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "and make una keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di charge"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "di charge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "so that no"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "una go die"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "dem bin command me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:50.179559947Z",
+  "model": "glm-5.2"
+}

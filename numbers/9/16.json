@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "So e go dey always: cloud dey cover am, and appearance of fire for night.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "So"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e go dey"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "cloud"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "dey cover am"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "and appearance"
+    },
+    {
+      "surface": "אש",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "for night"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:26.064862469Z",
+  "model": "glm-5.2"
+}

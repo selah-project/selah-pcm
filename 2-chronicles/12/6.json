@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And di oga-dem of Yisra'el and di king bin humble demsef, and dem talk say: \"Yahweh ⟨be⟩ righteous.\"",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "and dem bin humble"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di oga-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:04.261437443Z",
+  "model": "glm-5.2"
+}

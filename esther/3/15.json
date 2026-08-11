@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Di runners dem bin komot, dem dey rush am by di word of di king, and di law bin dey given for Shushan di capital. And di king and Haman bin siddon to drink, but di city Shushan bin dey confused.",
+  "tokens": [
+    {
+      "surface": "הָֽרָצִ֞ים",
+      "gloss": "di runners dem"
+    },
+    {
+      "surface": "יָצְא֤וּ",
+      "gloss": "bin komot"
+    },
+    {
+      "surface": "דְחוּפִים֙",
+      "gloss": "dem dey rush am"
+    },
+    {
+      "surface": "בִּדְבַ֣ר",
+      "gloss": "by di word"
+    },
+    {
+      "surface": "הַמֶּ֔לֶךְ",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "וְהַדָּ֥ת",
+      "gloss": "and di law"
+    },
+    {
+      "surface": "נִתְּנָ֖ה",
+      "gloss": "bin dey given"
+    },
+    {
+      "surface": "בְּשׁוּשַׁ֣ן",
+      "gloss": "for Shushan"
+    },
+    {
+      "surface": "הַבִּירָ֑ה",
+      "gloss": "di capital"
+    },
+    {
+      "surface": "וְהַמֶּ֤לֶךְ",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "וְהָמָן֙",
+      "gloss": "and Haman"
+    },
+    {
+      "surface": "יָשְׁב֣וּ",
+      "gloss": "bin siddon"
+    },
+    {
+      "surface": "לִשְׁתּ֔וֹת",
+      "gloss": "to drink"
+    },
+    {
+      "surface": "וְהָעִ֥יר",
+      "gloss": "but di city"
+    },
+    {
+      "surface": "שׁוּשָׁ֖ן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "נָבֽוֹכָה",
+      "gloss": "bin dey confused"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:29.800621432Z",
+  "model": "glm-5.2"
+}

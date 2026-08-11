@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "And my spirit don dey faint on top me, inside me my heart don turn to nothing.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "don dey faint"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "don turn to nothing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:16.610786712Z",
+  "model": "glm-5.2"
+}

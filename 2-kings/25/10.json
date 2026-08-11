@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨את⟩ di walls of Yerushalayim wey dey round about, all di army of Kasdim wey ⟨dey⟩ wit di chief of di guards dem pull down.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di walls of Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "walls"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "round about"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dem pull down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "di guards"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:47.126885925Z",
+  "model": "glm-5.2"
+}

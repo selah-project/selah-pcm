@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 60:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 60,
+  "translation": "Because na for me di islands dey wait, and di ships of Tarshish ⟨dey⟩ first, to bring una sons from far, dia silver and dia gold dey ⟨את⟩ wit dem, for di Name of Yahweh una Elohim, and for di Holy One of Yisrael, because ⟨im⟩ don make you fine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "איים",
+      "gloss": "di islands"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "dey wait"
+    },
+    {
+      "surface": "ואניות",
+      "gloss": "and di ships"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "of Tarshish"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "first"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "to bring"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "una sons"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "dia silver"
+    },
+    {
+      "surface": "וזהבם",
+      "gloss": "and dia gold"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dia silver and dia gold"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "for di Name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "and for di Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "im don make you fine"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:24.339889627Z",
+  "model": "glm-5.2"
+}

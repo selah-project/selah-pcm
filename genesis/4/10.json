@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨im⟩ talk: \"Wetin you don do? Di voice of ya broda blood dey cry to Me from di ground.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "And ⟨im⟩ talk"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עָשִׂיתָ",
+      "gloss": "you don do"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "voice"
+    },
+    {
+      "surface": "דְּמֵי",
+      "gloss": "blood"
+    },
+    {
+      "surface": "אָחִיךָ",
+      "gloss": "ya broda"
+    },
+    {
+      "surface": "צֹעֲקִים",
+      "gloss": "dey cry"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "to Me"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הָאֲדָמָה",
+      "gloss": "di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:13.021271301Z",
+  "model": "glm-5.2"
+}

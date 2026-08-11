@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And ⟨di⟩ son-dem of Midyan: Eifah and Efer and Chanokh and Avida and Eldaah; all dis one ⟨na⟩ son-dem of Keturah.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and ⟨di⟩ son-dem of"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Eifah"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "and Efer"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "and Chanokh"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "and Avida"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "and Eldaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "בני",
+      "gloss": "son-dem of"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:26.615081541Z",
+  "model": "glm-5.2"
+}

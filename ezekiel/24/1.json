@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 24:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di word of Yahweh come to me for di ninth year, for di tenth month, for di tenth ⟨day⟩ of di month, say:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨bin⟩ come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "di ninth"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "di tenth"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "for di tenth ⟨day⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:17.607246036Z",
+  "model": "glm-5.2"
+}

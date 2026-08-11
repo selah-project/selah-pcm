@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "If You hide Your face, dem go panic; if You take away dia breath, dem go die, and go back to dia dust.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "if You hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Your face"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "dem go panic"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "if You take away"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "dia breath"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "dem go die"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "dia dust"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "dem go return"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:23.639736293Z",
+  "model": "glm-5.2"
+}

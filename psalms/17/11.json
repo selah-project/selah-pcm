@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Our steps — now, dem don surround me; dia eyes dem set to bend ⟨us⟩ down for di earth.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "our steps"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dem don surround me"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dia eyes"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "dem set"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "to bend down"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:15.544240822Z",
+  "model": "glm-5.2"
+}

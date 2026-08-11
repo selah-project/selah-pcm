@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And for di fifteenth day of dis month, ⟨na⟩ Chag ha-Matzot for Yahweh; seven days una go chop matzot.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "and for fifteen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "of di month"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "חג",
+      "gloss": "Chag"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ha-Matzot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:43.191744927Z",
+  "model": "glm-5.2"
+}

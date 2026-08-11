@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And im bin measure ⟨את⟩ di porch of di gate, eight cubit; and ⟨את⟩ im pillar dem, two cubit; and di porch of di gate ⟨bin dey⟩ from inside.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and im bin measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di porch of di gate"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "porch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "eight"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "and im pillar dem"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "two"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "and di porch"
+    },
+    {
+      "surface": "השער",
+      "gloss": "of di gate"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "from inside"
+    }
+  ],
+  "timestamp": "2026-08-11T12:17:49.624841940Z",
+  "model": "glm-5.2"
+}

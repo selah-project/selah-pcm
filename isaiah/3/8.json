@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "For Jerusalem don stumble, and Yehudah don fall; because dia tongue and dia doings dey against Yahweh, to provoke ⟨di eyes⟩ of im glory.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "don stumble"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalem"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "and Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "don fall"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dia tongue"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "and dia doings"
+    },
+    {
+      "surface": "אל",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "to provoke"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨di eyes⟩"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "of im glory"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:30.916016810Z",
+  "model": "glm-5.2"
+}

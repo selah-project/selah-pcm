@@ -1,0 +1,57 @@
+{
+  "tier": "hand",
+  "verse": 5,
+  "ref": "genesis 41:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And e sleep, and e dream di second time, and see, seven ear of corn dey grow comot for one stalk, dem fat and dem fine.",
+  "tokens": [
+    {
+      "surface": "ויישן",
+      "gloss": "And e sleep"
+    },
+    {
+      "surface": "ויחלם",
+      "gloss": "and e dream"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "di second time"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ear of corn"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dey grow comot"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "for stalk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "בריאות",
+      "gloss": "dem fat"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "and dem fine"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.763677954Z",
+  "model": "claude-opus-4-8"
+}

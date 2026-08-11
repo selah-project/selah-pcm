@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Mosheh bin speak to di pikin-dem of Yisra'el make dem do di Pesach.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "make dem do"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "di Pesach"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:25.810133813Z",
+  "model": "glm-5.2"
+}

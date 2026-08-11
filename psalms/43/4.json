@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And I go enter reach altar of Elohim, reach El, joy of my gladness; and I go praise you with lyre, Elohim, my Elohim.",
+  "tokens": [
+    {
+      "surface": "וְאָב֤וֹאָה",
+      "gloss": "and I go enter"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "מִזְבַּ֬ח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "reach"
+    },
+    {
+      "surface": "אֵל֮",
+      "gloss": "El"
+    },
+    {
+      "surface": "שִׂמְחַ֪ת",
+      "gloss": "joy"
+    },
+    {
+      "surface": "גִּ֫ילִ֥י",
+      "gloss": "of my gladness"
+    },
+    {
+      "surface": "וְאוֹדְךָ֥",
+      "gloss": "and I go praise you"
+    },
+    {
+      "surface": "בְכִנּ֗וֹר",
+      "gloss": "with lyre"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:01.214032703Z",
+  "model": "glm-5.2"
+}

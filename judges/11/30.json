@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yiftach vow one neder to Yahweh, and e talk sey: 'If You go truly give ⟨את⟩ ⟨the⟩ children of Ammon inside my hand,'",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "and e vow"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "truly give"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "You go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "children"
+    },
+    {
+      "surface": "בני",
+      "gloss": "children"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "inside my hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:31:48.863950916Z",
+  "model": "glm-5.2"
+}

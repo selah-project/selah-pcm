@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "My eye dey pine away because of my affliction; I bin call you, Yahweh, evri day, I bin stretch out my hands to you.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "dey pine away"
+    },
+    {
+      "surface": "מני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "עני",
+      "gloss": "my affliction"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "I bin call you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "I bin stretch out"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my hands"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:04.465703399Z",
+  "model": "glm-5.2"
+}

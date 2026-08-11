@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "So dem hang ⟨את⟩ Haman on top di tree wey im bin prepare for Mordekhai, and di anger of di king come down.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "So dem hang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "im bin prepare"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "for Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "and di anger"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "come down"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:50.146185566Z",
+  "model": "glm-5.2"
+}

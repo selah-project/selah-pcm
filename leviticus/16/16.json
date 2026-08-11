@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And e go make atonement upon di holy place, from di uncleanness of Benei-Yisrael, and from dia transgressions, for all dia sin; and so e go do for Ohel Mo'ed, wey dey dwell ⟨את⟩ dem, among dia uncleanness.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "and e go make atonement"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "di holy place"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "from di uncleanness"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Benei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "and from dia transgressions"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dia sin"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "and so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e go do"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "for Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "wey dey dwell"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "dia uncleanness"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:12.620707335Z",
+  "model": "glm-5.2"
+}

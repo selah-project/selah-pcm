@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "And e wash im face and come out, and e hold imself, and e talk: \"Put ⟨the⟩ food.\"",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "And e wash"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and come out"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "and e hold imself"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Put"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨the⟩ food"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:57.117489115Z",
+  "model": "glm-5.2"
+}

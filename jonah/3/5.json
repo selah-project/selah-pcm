@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di men of Nineveh bin believe Elohim, and dem proclaim fast, and dem wear sackcloth, from dia big ones reach ⟨down to⟩ dia small ones.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "and bin believe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "of Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "and dem proclaim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fast"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "and dem wear"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sackcloth"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "from dia big ones"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "dia small ones"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:03.103590753Z",
+  "model": "glm-5.2"
+}

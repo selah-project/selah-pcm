@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 2:21",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "People wey big and plenty and tall, like di Anakim; but Yahweh destroy dem from dia front, and ⟨dem⟩ take dia place, and dem settle under dem.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "and plenty"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "and tall"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "like di Anakim"
+    },
+    {
+      "surface": "וישמידם",
+      "gloss": "and ⟨He⟩ destroy dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "from dia front"
+    },
+    {
+      "surface": "ויירשם",
+      "gloss": "and ⟨dem⟩ take dia place"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "and dem settle"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "under dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:40.247932071Z",
+  "model": "glm-5.2"
+}

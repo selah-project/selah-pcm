@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And di heart of dem wey dey rush go understand to know, and di tongue of dem wey dey stammer go quick to speak clear tings.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "And di heart"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "of dem wey dey rush"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "go understand"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "and di tongue"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "of dem wey dey stammer"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "go quick"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "to speak"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "clear tings"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:32.402119868Z",
+  "model": "glm-5.2"
+}

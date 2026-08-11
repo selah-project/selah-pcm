@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Make una magnify Yahweh together wit ⟨me⟩; and make we lift up im name together.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Make una magnify"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨together wit⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "and make we lift up"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:54.106168651Z",
+  "model": "glm-5.2"
+}

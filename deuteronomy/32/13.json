@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 32:13",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "⟨E⟩ make am ride on top di high place dem of ⟨di⟩ earth, and ⟨e⟩ chop di produce of field dem, and ⟨E⟩ make am suck honey from rock, and oil from flint rock.",
+  "tokens": [
+    {
+      "surface": "יַרְכִּבֵ֨הוּ֙",
+      "gloss": "⟨E⟩ make am ride"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בָּמֳתֵי",
+      "gloss": "high place dem of"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "וַיֹּאכַ֖ל",
+      "gloss": "and ⟨e⟩ chop"
+    },
+    {
+      "surface": "תְּנוּבֹ֣ת",
+      "gloss": "produce"
+    },
+    {
+      "surface": "שָׂדָ֑י",
+      "gloss": "field dem"
+    },
+    {
+      "surface": "וַיֵּנִקֵּ֤הוּֽ",
+      "gloss": "and ⟨E⟩ make am suck"
+    },
+    {
+      "surface": "דְּבַשׁ֙",
+      "gloss": "honey"
+    },
+    {
+      "surface": "מִסֶּ֔לַע",
+      "gloss": "from rock"
+    },
+    {
+      "surface": "וְשֶׁ֖מֶן",
+      "gloss": "and oil"
+    },
+    {
+      "surface": "מֵחַלְמִ֥ישׁ",
+      "gloss": "from flint"
+    },
+    {
+      "surface": "צֽוּר",
+      "gloss": "rock"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:08.648738862Z",
+  "model": "glm-5.2"
+}

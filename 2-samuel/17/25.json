@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 17:25",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And ⟨na⟩ Absalom bin put ⟨את⟩ Amasa instead of Yoab on top di army; and Amasa bin ⟨be⟩ son of one man, and im name ⟨na⟩ Yitra di Yisraeli, wey bin come to Avigayil, daughter of Nachash, sister of Tseruyah, mother of Yoab.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bin put"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "di army"
+    },
+    {
+      "surface": "ועמשא",
+      "gloss": "and Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "and im name"
+    },
+    {
+      "surface": "יתרא",
+      "gloss": "Yitra"
+    },
+    {
+      "surface": "הישראלי",
+      "gloss": "di Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אביגל",
+      "gloss": "Avigayil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "of Nachash"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sister"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "of Tseruyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mother"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "of Yoab"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:40.023088449Z",
+  "model": "glm-5.2"
+}

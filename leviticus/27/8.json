@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "But if di person too poor pass ⟨wetin⟩ your valuation reach, den make dem stand am before di priest, and di priest go value ⟨את⟩ am; according to wetin di hand of di person wey vow fit reach, so di priest go value am.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "מך",
+      "gloss": "⟨e⟩ too poor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ im"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "pass your valuation"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "den make dem stand am"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "and go value"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "על",
+      "gloss": "according to"
+    },
+    {
+      "surface": "פי",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "fit reach"
+    },
+    {
+      "surface": "יד",
+      "gloss": "di hand"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "of di person wey vow"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "go value am"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:47.199387725Z",
+  "model": "glm-5.2"
+}

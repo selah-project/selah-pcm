@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Pay attention to me, my people, and my nation, hearken to me: for Torah go come out from ⟨את⟩ me, and my judgment as light for di peoples I go establish.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Pay attention"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "and my nation"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hearken to me"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "from ⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "go come out"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "and my judgment"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "as light"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "for di peoples"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "I go establish"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:52.586766914Z",
+  "model": "glm-5.2"
+}

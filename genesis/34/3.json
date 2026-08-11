@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And im life bin hook well-well to Dinah, daughter of Yaakob, and e bin love ⟨את⟩ di girl, and e bin speak to di heart of di girl.",
+  "tokens": [
+    {
+      "surface": "וַתִּדְבַּ֣ק",
+      "gloss": "and e bin hook well-well"
+    },
+    {
+      "surface": "נַפְשׁ֔וֹ",
+      "gloss": "im life"
+    },
+    {
+      "surface": "בְּדִינָ֖ה",
+      "gloss": "to Dinah"
+    },
+    {
+      "surface": "בַּֽת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "of Yaakob"
+    },
+    {
+      "surface": "וַיֶּֽאֱהַב֙",
+      "gloss": "and e bin love"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di girl"
+    },
+    {
+      "surface": "הַֽנַּעֲרָ֔",
+      "gloss": "di girl"
+    },
+    {
+      "surface": "וַיְדַבֵּ֖ר",
+      "gloss": "and e bin speak"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "הַֽנַּעֲרָֽ",
+      "gloss": "of di girl"
+    }
+  ],
+  "timestamp": "2026-08-11T15:41:23.470466600Z",
+  "model": "glm-5.2"
+}

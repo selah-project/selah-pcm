@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Only, spring and cistern — gathering of water — go dey pure; but wetin touch dia dead body go dey unclean.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "spring"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "and cistern"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "gathering"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "but wetin touch"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "dia dead body"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "go dey unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:15.957270449Z",
+  "model": "glm-5.2"
+}

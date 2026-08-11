@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And im drink from di wine and im come drink, and im come uncover imsef for inside im tent.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "and im drink"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "היין",
+      "gloss": "di wine"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "and im come drink"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "and im come uncover imsef"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "im tent"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:41.948519717Z",
+  "model": "glm-5.2"
+}

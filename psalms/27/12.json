@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Make you no give me to di desire of my enemies, because false witnesses don rise against me, and dem dey breathe violence.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Make you no"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "give me"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "to di desire"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "of my enemies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "don rise"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "witnesses"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "false"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "and dem dey breathe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:34.900421601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "And I talk say, ⟨dis⟩ ⟨be⟩ my sorrow — ⟨but⟩ di years of di right hand of Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "and I talk"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "my sorrow"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "years"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "right hand"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:13.367602107Z",
+  "model": "glm-5.2"
+}

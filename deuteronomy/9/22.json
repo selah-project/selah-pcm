@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And for Taberah, and for Massah, and for Kibroth-HaTaavah, una dey provoke Yahweh ⟨את⟩ to anger.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "and for Taberah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "and for Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "and for Kibroth-HaTaavah"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Kibroth-HaTaavah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "una dey provoke to anger"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "una bin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:39.859232829Z",
+  "model": "glm-5.2"
+}

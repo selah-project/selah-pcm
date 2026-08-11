@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "You talk sey, 'Ah! for me now, because Yahweh don add sorrow on top my pain; I don tire for my groaning, and rest I no find.'",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "you talk"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ah!"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "don add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "sorrow"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "my pain"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "I don tire"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "for my groaning"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "and rest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "I find"
+    }
+  ],
+  "timestamp": "2026-08-11T11:57:39.407284277Z",
+  "model": "glm-5.2"
+}

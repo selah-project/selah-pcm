@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and ⟨את⟩ di lamb e go pay back fourfold, sake of wetin e do ⟨את⟩ dis thing, and sake of sey e no show pity.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di lamb"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "di lamb"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "e go pay back"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "fourfold"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis thing"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di thing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and sake of"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "e show pity"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:51.042963695Z",
+  "model": "glm-5.2"
+}

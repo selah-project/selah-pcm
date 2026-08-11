@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Then you go carry ⟨את⟩ di man or ⟨את⟩ di woman wey do ⟨את⟩ dis bad tin come out go to your gate—⟨את⟩ di man or ⟨את⟩ di woman—and you go stone dem with stones, and dem go die.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "you go carry come out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di woman"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis bad tin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di tin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "your gate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di woman"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "you go stone dem"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "with stones"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dem go die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:57.364835165Z",
+  "model": "glm-5.2"
+}

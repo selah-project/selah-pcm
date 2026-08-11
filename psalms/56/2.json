@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "Show me favor, Elohim, because mortal man dey pant to swallow me; all day e dey fight, e dey press me.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "show me favor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "⟨e⟩ dey pant to swallow me"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "e dey fight"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "e dey press me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:18.664823930Z",
+  "model": "glm-5.2"
+}

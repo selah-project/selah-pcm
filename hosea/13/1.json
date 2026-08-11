@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Wen Efrayim bin dey talk, ⟨na⟩ trembling, ⟨e⟩ rise high for Yisrael; but ⟨e⟩ come dey guilty for Ba'al, and ⟨e⟩ die.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Wen ... bin dey talk"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "trembling"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "rise high"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "and come dey guilty"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "for Ba'al"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "and die"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:03.615248Z",
+  "model": "glm-5.2"
+}

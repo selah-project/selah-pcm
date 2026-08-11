@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "See, I don call by name Betzalel, pikin of Uri, pikin of Chur, from di tribe of Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "See"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "I don call"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by name"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "from di tribe of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:41.061973661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Because of dat, I go praise you, Yahweh, among di nations, and to your name I go sing praise.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "I go praise you"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "and to your name"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "I go sing praise"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:28.526691465Z",
+  "model": "glm-5.2"
+}

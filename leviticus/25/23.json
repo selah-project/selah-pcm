@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And di land no go sell for permanent loss-of-right, because di land na ⟨for⟩ me; because una ⟨be⟩ strangers and dwellers wit me.",
+  "tokens": [
+    {
+      "surface": "וְהָאָ֗רֶץ",
+      "gloss": "and di land"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִמָּכֵר֙",
+      "gloss": "go sell"
+    },
+    {
+      "surface": "לִצְמִתֻ֔ת",
+      "gloss": "for permanent loss-of-right"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "for me"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גֵרִ֧ים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "וְתוֹשָׁבִ֛ים",
+      "gloss": "and dwellers"
+    },
+    {
+      "surface": "אַתֶּ֖ם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "wit me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:18.838850014Z",
+  "model": "glm-5.2"
+}

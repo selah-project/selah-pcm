@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So di messenger go, and e come, and e tell David ⟨את⟩ all wetin Yoab don send am to talk.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "so e go"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "di messenger"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and e tell"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "e don send am"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:23.447641264Z",
+  "model": "glm-5.2"
+}

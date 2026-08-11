@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "But as for una, una ⟨be⟩ people wey dey patch lie, healers of nothing — all of una.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "but"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "patchers"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lie"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "healers"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "nothing"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "all of una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:04.608349861Z",
+  "model": "glm-5.2"
+}

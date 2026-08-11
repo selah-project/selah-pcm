@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 22:19",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "⟨Na⟩ donkey burial dem go bury am; dem go drag am and throw am away, beyond di gate of Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "קבורת",
+      "gloss": "burial"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "donkey"
+    },
+    {
+      "surface": "יקבר",
+      "gloss": "dem go bury am"
+    },
+    {
+      "surface": "סחוב",
+      "gloss": "dem go drag am"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "and throw am away"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "di gate of"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:48:02.622736097Z",
+  "model": "glm-5.2"
+}

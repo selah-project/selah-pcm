@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Elohim, ⟨na⟩ Him understand im way, and ⟨na⟩ Him ⟨don⟩ sabi ⟨את⟩ im place.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "⟨na⟩ Him understand"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "im way"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and ⟨na⟩ Him"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨don⟩ sabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im place"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "im place"
+    }
+  ],
+  "timestamp": "2026-08-11T13:22:53.431545278Z",
+  "model": "glm-5.2"
+}

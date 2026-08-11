@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e make ⟨את⟩ di menorah, pure gold, work of hammering — e make ⟨את⟩ di menorah, im base, and im branch, im cup dem, im knob dem, and im flower dem — from ⟨am⟩ ⟨dem⟩ ⟨be⟩ one piece.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di menorah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "work of hammering"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "di menorah"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "im base"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "and im branch"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "im cup dem"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "im knob dem"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "and im flower dem"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "from am"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem be"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:52.462400747Z",
+  "model": "glm-5.2"
+}

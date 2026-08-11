@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Only, to Elohim, my nafsh, make you siddon quiet; because from am na im my hope dey come.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "make you siddon quiet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nafsh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "my hope"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:21.822648548Z",
+  "model": "glm-5.2"
+}

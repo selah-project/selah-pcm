@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 105,
+  "translation": "Dem put among dem di words of im signs, and wonders for di land of Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Dem put"
+    },
+    {
+      "surface": "בם",
+      "gloss": "among dem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words of"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "im signs"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "and wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land of"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:34.568206220Z",
+  "model": "glm-5.2"
+}

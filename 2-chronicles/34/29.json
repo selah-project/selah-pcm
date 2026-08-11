@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Di king bin send, and e bin gather ⟨את⟩ all di elders of Yehudah and Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "and bin gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "di elders"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:16:25.953937183Z",
+  "model": "glm-5.2"
+}

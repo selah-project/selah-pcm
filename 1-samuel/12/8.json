@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "When Ya'akov come enter Mitsrayim, and una papa-dem cry to Yahweh, Yahweh send ⟨את⟩ Mosheh and ⟨את⟩ Aharon, and dem bring ⟨את⟩ una papa-dem comot from Mitsrayim, and dem make dem sitdown for dis place.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "when"
+    },
+    {
+      "surface": "בא",
+      "gloss": "come enter"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "and cry"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "una papa-dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Yahweh send"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "and dem bring comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una papa-dem"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "una papa-dem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "and dem make dem sitdown"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "for place"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:49.110125465Z",
+  "model": "glm-5.2"
+}

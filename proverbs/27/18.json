@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Whoever dey guard fig tree go chop im fruit, and whoever dey guard im master go ⟨get⟩ honor.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "whoever dey guard"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fig tree"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "im fruit"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "and whoever dey guard"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "go ⟨get⟩ honor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:35.736401879Z",
+  "model": "glm-5.2"
+}

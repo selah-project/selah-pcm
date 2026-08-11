@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And di upper rooms bin short, because di galleries bin dey consume from dem — from di lower ones and from di middle ones for di building.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "And di rooms"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "di upper ones"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "bin short"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bin dey consume"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "di galleries"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "from di lower ones"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "and from di middle ones"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "for di building"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:33.639597758Z",
+  "model": "glm-5.2"
+}

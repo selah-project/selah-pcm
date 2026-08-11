@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Di voice of Yahweh dey make female deer born, and e dey strip forest bare; and for ⟨im⟩ temple, evri one dey talk, ⟨say⟩, \"Glory!\"",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "dey make born"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "female deer"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "and dey strip bare"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "forest"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "and for im temple"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "evri one"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:11.462650402Z",
+  "model": "glm-5.2"
+}

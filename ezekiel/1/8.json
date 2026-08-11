@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And hand of human-being ⟨bin dey⟩ under dia wing dem, on top dia four side dem; and dia face dem and dia wing dem — to di four of dem.",
+  "tokens": [
+    {
+      "surface": "וִידֵיהֶם",
+      "gloss": "and dia hand dem"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "human-being"
+    },
+    {
+      "surface": "מִתַּחַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כַנְפֵיהֶם",
+      "gloss": "dia wing dem"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אַרְבַּעַת",
+      "gloss": "four"
+    },
+    {
+      "surface": "רִבְעֵיהֶם",
+      "gloss": "dia side dem"
+    },
+    {
+      "surface": "וּפְנֵיהֶם",
+      "gloss": "and dia face dem"
+    },
+    {
+      "surface": "וְכַנְפֵיהֶם",
+      "gloss": "and dia wing dem"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּם",
+      "gloss": "to di four of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:02:19.192839146Z",
+  "model": "glm-5.2"
+}

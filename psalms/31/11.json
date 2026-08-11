@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Because my life don finish wit sorrow, and my years wit groaning, my power totter because of my sin, and my bones don fail.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "wit sorrow"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "and my years"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "wit groaning"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "totter"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "because of my sin"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my power"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "and my bones"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "don fail"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:00.493158344Z",
+  "model": "glm-5.2"
+}

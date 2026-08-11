@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 23:47",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And make di assembly stone dem with stone, and make dem cut ⟨את⟩ dem with dia sword; dia son-dem and dia daughter-dem dem go kill, and dia house-dem with fire dem go burn.",
+  "tokens": [
+    {
+      "surface": "ורגמו",
+      "gloss": "and make dem stone"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "with stone"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "וברא",
+      "gloss": "and make dem cut"
+    },
+    {
+      "surface": "אותהן",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "with dia sword"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dia son-dem"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "and dia daughter-dem"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "dem go kill"
+    },
+    {
+      "surface": "ובתיהן",
+      "gloss": "and dia house-dem"
+    },
+    {
+      "surface": "באש",
+      "gloss": "with fire"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "dem go burn"
+    }
+  ],
+  "timestamp": "2026-08-11T12:10:37.923407131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di priest go dip ⟨את⟩ im finger inside di blood, and go sprinkle from di blood seven times before Yahweh, for ⟨di⟩ front of di veil of di sanctuary.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "and go dip"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im finger"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "im finger"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "inside di blood"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "and go sprinkle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "di blood"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "front of di veil"
+    },
+    {
+      "surface": "פני",
+      "gloss": "front of"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "di veil"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "of di sanctuary"
+    }
+  ],
+  "timestamp": "2026-08-11T09:37:24.525047680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And still, im servant-dem talk more against Yahweh, ⟨di⟩ Elohim, and against Chizkiyahu im servant.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "and still"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "talk"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servant-dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨di⟩ Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "im servant"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:43.763311322Z",
+  "model": "glm-5.2"
+}

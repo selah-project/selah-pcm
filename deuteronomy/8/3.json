@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨im⟩ humble you, and ⟨im⟩ make you hungry, and ⟨im⟩ feed you with ⟨את⟩ di manna wey you no know and wey your papa dem no know, to make you know sey man no dey live by bread alone, but by evri tin wey dey come out from di mouth of Yahweh man dey live.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "and ⟨im⟩ humble you"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "and ⟨im⟩ make you hungry"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "and ⟨im⟩ feed you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di manna"
+    },
+    {
+      "surface": "המן",
+      "gloss": "di manna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "you know"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dem know"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "your papa dem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "to make"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "you know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "di bread"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alone"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "man dey live"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "wey dey come out"
+    },
+    {
+      "surface": "פי",
+      "gloss": "from di mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "man dey live"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:36.341115174Z",
+  "model": "glm-5.2"
+}

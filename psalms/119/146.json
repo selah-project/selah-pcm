@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin call ⟨You⟩ — save me, and I go keep ⟨Your⟩ testimonies.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "I bin call You"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "save me"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "and I go keep"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Your testimonies"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938549424Z",
+  "model": "glm-5.2"
+}

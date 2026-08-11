@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "If you pound ⟨את⟩ di fool for mortar among crushed grain wit pestle, im foolishness no go comot from on top am.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תִּכְתּוֹשׁ",
+      "gloss": "you pound"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "di fool"
+    },
+    {
+      "surface": "הָאֱוִיל",
+      "gloss": "di fool"
+    },
+    {
+      "surface": "בַּמַּכְתֵּשׁ",
+      "gloss": "for mortar"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "among"
+    },
+    {
+      "surface": "הָרִיפוֹת",
+      "gloss": "crushed grain"
+    },
+    {
+      "surface": "בַּעֱלִי",
+      "gloss": "wit pestle"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תָסוּר",
+      "gloss": "go comot"
+    },
+    {
+      "surface": "מֵעָלָיו",
+      "gloss": "from on top am"
+    },
+    {
+      "surface": "אִוַּלְתּוֹ",
+      "gloss": "im foolishness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:52.863437673Z",
+  "model": "glm-5.2"
+}

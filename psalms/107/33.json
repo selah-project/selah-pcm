@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "E dey turn river dem to desert, and spring dem of water to dry land wey dey thirst.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "E dey turn"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "river dem"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "to desert"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "and spring dem of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "to dry land wey dey thirst"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:52.638208503Z",
+  "model": "glm-5.2"
+}

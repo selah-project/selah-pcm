@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Shemuel bin talk say, \"Gada all Yisra'el go Mitspah, and I go pray for una to Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "go Mitspah"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "and I go pray"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:33:43.361136805Z",
+  "model": "glm-5.2"
+}

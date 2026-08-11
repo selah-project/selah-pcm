@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Truly, ⟨im⟩ love di people-dem; all ⟨im⟩ holy one-dem dey for your hand; and dem gather for your feet; each one go receive from your words.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "truly"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "⟨im⟩ love"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "di people-dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "⟨im⟩ holy one-dem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dey for your hand"
+    },
+    {
+      "surface": "והם",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "gather"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "for your feet"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "go receive"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "from your words"
+    }
+  ],
+  "timestamp": "2026-08-11T10:17:25.053220791Z",
+  "model": "glm-5.2"
+}

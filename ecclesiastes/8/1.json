@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Who ⟨be⟩ like di wise man? And who sabi di meaning of one mata? Wisdom of man dey shine im face, and di strength of im face go change.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Who"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "like di wise man"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "And who"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "di meaning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "of one mata"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Wisdom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "dey shine"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "and di strength"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "of im face"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "go change"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:18.894735096Z",
+  "model": "glm-5.2"
+}

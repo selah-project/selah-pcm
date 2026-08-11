@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Wild animal, and all cattle; creeping thing, and winged bird.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "wild animal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "cattle"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "creeping thing"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "and bird"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "winged"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:52.319079248Z",
+  "model": "glm-5.2"
+}

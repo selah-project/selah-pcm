@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "So dem bin komot from Sukkot, and dem bin kamp for Etam, wey dey for di edge of di wilderness.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bin komot"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bin kamp"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "edge"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:49.735068582Z",
+  "model": "glm-5.2"
+}

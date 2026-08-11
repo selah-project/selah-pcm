@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "Wit trumpets and ⟨di⟩ voice of shofar, make una shout loud before di King, Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "wit trumpets"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "and voice"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "of shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "make una shout loud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di King"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:21.821632958Z",
+  "model": "glm-5.2"
+}

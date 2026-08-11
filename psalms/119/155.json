@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Far from wicked people, deliverance; for your statutes dem no seek.",
+  "tokens": [
+    {
+      "surface": "רָח֣וֹק",
+      "gloss": "Far"
+    },
+    {
+      "surface": "מֵרְשָׁעִ֣ים",
+      "gloss": "from wicked people"
+    },
+    {
+      "surface": "יְשׁוּעָ֑ה",
+      "gloss": "deliverance"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חֻ֝קֶּיךָ",
+      "gloss": "your statutes"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "no"
+    },
+    {
+      "surface": "דָרָֽשׁוּ",
+      "gloss": "dem seek"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:11.727229314Z",
+  "model": "glm-5.2"
+}

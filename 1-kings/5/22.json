@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Chiram come send to Shelomah, to talk say: \"I hear ⟨את⟩ wetin you send to me; I go do ⟨את⟩ all wetin you want, wit cedar wood and wit cypress wood.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "come send"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "to talk say"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "I hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "you send"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "go do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all wetin you want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "wetin you want"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "wit wood"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "of cedar"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "and wit wood"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "of cypress"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:19.956745254Z",
+  "model": "glm-5.2"
+}

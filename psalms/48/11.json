@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Like your name, Elohim, na so your praise dey reach di end-end of di earth; your right hand don full wit righteousness.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "like your name"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "your praise"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey reach"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "di end-end"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "don full wit"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "your right hand"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:35.523642002Z",
+  "model": "glm-5.2"
+}

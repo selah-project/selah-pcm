@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Anybody wey dey fear ⟨את⟩ di word of Yahweh among Pharaoh im servants, im carry ⟨את⟩ im servants and ⟨את⟩ im livestock enter di houses.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "anybody wey dey fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word of Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "among im servants"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "im carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im servants"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im livestock"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "im livestock"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "di houses"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:03.035354286Z",
+  "model": "glm-5.2"
+}

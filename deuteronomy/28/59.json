@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "den Yahweh go make ⟨את⟩ your plagues extraordinary, and ⟨את⟩ di plagues of your seed — great plagues and persistent, and bad sicknesses and persistent.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "den go make extraordinary"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your plagues"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "your plagues"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di plagues of your seed"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "di plagues"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "of your seed"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "plagues"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "great"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "and persistent"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "and sicknesses"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bad"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "and persistent"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:29.992629102Z",
+  "model": "glm-5.2"
+}

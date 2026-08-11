@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And Balak sacrifice cow and sheep, and ⟨he⟩ send give Bilam and to di chiefs wey ⟨dey⟩ ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "And ⟨he⟩ sacrifice"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "cow"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "and sheep"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and ⟨he⟩ send give"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "and to di chiefs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:57:47.867867280Z",
+  "model": "glm-5.2"
+}

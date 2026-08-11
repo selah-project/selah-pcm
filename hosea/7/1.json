@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "As I dey heal Yisrael, ⟨na⟩ den ⟨dem⟩ go reveal ⟨di⟩ iniquity of Efrayim, and ⟨di⟩ bad tin-dem of Shomron; because dem dey do lie-lie, and ⟨di⟩ thief dey come inside, ⟨dem⟩ don strip ⟨di⟩ raiding band outside.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "as I dey heal"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "and go reveal"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "and bad tin-dem"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "of Shomron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "dem dey do"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lie-lie"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "and thief"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "don strip"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "raiding band"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "outside"
+    }
+  ],
+  "timestamp": "2026-08-11T12:22:25.044009455Z",
+  "model": "glm-5.2"
+}

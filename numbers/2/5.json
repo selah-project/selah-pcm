@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And dose wey dey camp near am, na di tribe of Yissaskar; and di prince of di sons of Yissaskar, Netanel, son of Tsoar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "and dose wey dey camp"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "near am"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribe"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "and di prince"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "of Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:41.572079297Z",
+  "model": "glm-5.2"
+}

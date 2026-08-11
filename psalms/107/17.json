@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Fool dem, because of ⟨di⟩ way of dia rebellion, and because of dia iniquities, dem dey suffer.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "fool dem"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "from ⟨di⟩ way of"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "dia rebellion"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "and because of dia iniquities"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "dem dey suffer"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:44.700234965Z",
+  "model": "glm-5.2"
+}

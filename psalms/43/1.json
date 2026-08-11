@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Do me judgement, Elohim, and fight my case against ⟨one⟩ nation wey no get chesed; from man of deceit and ⟨from⟩ wickedness, rescue me.",
+  "tokens": [
+    {
+      "surface": "שָׁפְטֵ֤נִי",
+      "gloss": "do me judgement"
+    },
+    {
+      "surface": "אֱלֹהִ֨ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְרִ֘יבָ֤ה",
+      "gloss": "and fight"
+    },
+    {
+      "surface": "רִיבִ֗י",
+      "gloss": "my case"
+    },
+    {
+      "surface": "מִגּ֥וֹי",
+      "gloss": "against ⟨one⟩ nation"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חָסִ֑יד",
+      "gloss": "get chesed"
+    },
+    {
+      "surface": "מֵ֤אִישׁ",
+      "gloss": "from man"
+    },
+    {
+      "surface": "מִרְמָ֖ה",
+      "gloss": "of deceit"
+    },
+    {
+      "surface": "וְעַוְלָ֣ה",
+      "gloss": "and ⟨from⟩ wickedness"
+    },
+    {
+      "surface": "תְפַלְּטֵֽנִי",
+      "gloss": "rescue me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:01.213363965Z",
+  "model": "glm-5.2"
+}

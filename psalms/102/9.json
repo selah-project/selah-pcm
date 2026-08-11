@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "All di day, my enemies dey shame me; and dem wey dey mad against me, dem swear against me.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "dem dey shame me"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "dem wey dey mad"
+    },
+    {
+      "surface": "בי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "dem swear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:23.113229780Z",
+  "model": "glm-5.2"
+}

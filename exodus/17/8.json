@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Amalek bin come, and bin fight wit Yisra'el for Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "And bin come"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and bin fight"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "for Refidim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:49.847230661Z",
+  "model": "glm-5.2"
+}

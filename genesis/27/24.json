@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And im talk, \"You, be my son Esav?\" And im talk, \"Na me.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "זה",
+      "gloss": "be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:08:58.866670048Z",
+  "model": "glm-5.2"
+}

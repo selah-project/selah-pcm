@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 56,
+  "translation": "My enemies don pant all day, because plenty dem dey fight against me from height.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "dem don pant"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "dem dey fight"
+    },
+    {
+      "surface": "לי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "from height"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:18.664966169Z",
+  "model": "glm-5.2"
+}

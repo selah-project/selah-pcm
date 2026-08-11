@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And I take ⟨את⟩ di book of di purchase — ⟨את⟩ di sealed one, ⟨the one with⟩ commandment and statutes, and ⟨את⟩ di open one.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "and I take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di book"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "book"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "of di purchase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sealed one"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "di sealed one"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "commandment"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "and statutes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di open one"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "di open one"
+    }
+  ],
+  "timestamp": "2026-08-11T11:53:16.188113687Z",
+  "model": "glm-5.2"
+}

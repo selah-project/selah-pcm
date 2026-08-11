@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And ⟨את⟩ di floor of di house e overlay wit gold, for inside and for outside.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "And ⟨את⟩",
+      "marks": "di floor of di house"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "di floor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "e overlay"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wit gold"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "and for outside"
+    }
+  ],
+  "timestamp": "2026-08-11T10:59:19.275701303Z",
+  "model": "glm-5.2"
+}

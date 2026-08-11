@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Road of faithfulness I don choose; ya judgement dem I don set ⟨for front of me⟩.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "road"
+    },
+    {
+      "surface": "אֱמוּנָ֥ה",
+      "gloss": "of faithfulness"
+    },
+    {
+      "surface": "בָחָ֑רְתִּי",
+      "gloss": "I don choose"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֥יךָ",
+      "gloss": "ya judgement dem"
+    },
+    {
+      "surface": "שִׁוִּֽיתִי",
+      "gloss": "I don set"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:20.930468813Z",
+  "model": "glm-5.2"
+}

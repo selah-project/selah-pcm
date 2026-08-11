@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And wounded body go fall down inside una midst, and una go know sey na me ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְנָפַ֥ל",
+      "gloss": "and go fall"
+    },
+    {
+      "surface": "חָלָ֖ל",
+      "gloss": "wounded body"
+    },
+    {
+      "surface": "בְּתֽוֹכְכֶ֑ם",
+      "gloss": "inside una midst"
+    },
+    {
+      "surface": "וִֽידַעְתֶּ֖ם",
+      "gloss": "and una go know"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:46:18.040833668Z",
+  "model": "glm-5.2"
+}

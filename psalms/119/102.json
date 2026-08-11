@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "From your judgement I no shift, because na you teach me.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "from your judgement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "I shift"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "teach me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:38.226732156Z",
+  "model": "glm-5.2"
+}

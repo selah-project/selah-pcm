@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And di sons of Ya'akov bin answer ⟨את⟩ Shekhem and ⟨את⟩ Hamor im papa wit deceit, and bin speak, because ⟨he⟩ bin defile ⟨את⟩ Dinah, dia sister.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "and bin answer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "of Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "im papa"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "wit deceit"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "and bin speak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "bin defile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "dia sister"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:27.372208703Z",
+  "model": "glm-5.2"
+}

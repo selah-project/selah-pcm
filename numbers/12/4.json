@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yahweh talk suddenly to Moshe and to Aharon and to Miryam, \"Una three, comot go to ⟨di⟩ tent of meeting.\" And di three of dem comot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And ⟨im⟩ talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "suddenly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "comot"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "una three"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go to"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and dem comot"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "di three of dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:57.782112382Z",
+  "model": "glm-5.2"
+}

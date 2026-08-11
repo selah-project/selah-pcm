@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Make desolation fall on dem; make dem go down Sheol alive; because wickedness dey inside dia dwelling, for dia midst.",
+  "tokens": [
+    {
+      "surface": "יְשִׁימ֥וֹת",
+      "gloss": "Make desolation"
+    },
+    {
+      "surface": "עָלֵ֗ימוֹ",
+      "gloss": "fall on dem"
+    },
+    {
+      "surface": "יֵרְד֣וּ",
+      "gloss": "make dem go down"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "alive"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רָע֖וֹת",
+      "gloss": "wickedness"
+    },
+    {
+      "surface": "בִּמְגוּרָ֣ם",
+      "gloss": "inside dia dwelling"
+    },
+    {
+      "surface": "בְּקִרְבָּֽם",
+      "gloss": "for dia midst"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:09.198160301Z",
+  "model": "glm-5.2"
+}

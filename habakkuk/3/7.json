@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Under trouble I see tent dem of Kushan; curtain dem of di land of Midyan dey tremble.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "און",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I see"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tent dem of"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "dey tremble"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "curtain dem of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land of"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-11T12:31:49.041000681Z",
+  "model": "glm-5.2"
+}

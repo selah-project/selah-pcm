@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Man go make for imself Elohim, and dem no be Elohim?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "go make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "and dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:46:12.680544524Z",
+  "model": "glm-5.2"
+}

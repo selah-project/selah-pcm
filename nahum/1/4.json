@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "⟨Im⟩ dey rebuke di sea and ⟨im⟩ don dry am, and all di rivers ⟨im⟩ don turn to desert; Bashan don wilt, and Karmel, and di flower of Levanon don wilt.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "⟨im⟩ dey rebuke"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "and ⟨im⟩ don dry am"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "di rivers"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "⟨im⟩ don turn to desert"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "don wilt"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "and Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "and di flower"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "of Levanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "don wilt"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:25.951234272Z",
+  "model": "glm-5.2"
+}

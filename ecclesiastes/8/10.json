@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And so I bin see wicked people wey dem don bury, and dem come, and from holy place dem dey waka, and dem forget dem for di city wey dem do so — dis one too na hebel.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "And so"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I bin see"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "wey dem don bury"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "and dem come"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "and from"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "holy place"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "dem dey waka"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "and dem forget dem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:28.329120902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "E bin judge di case of poor man and needy one; den ⟨e bin⟩ fine — no be so? Dat one na to know Me, na so Yahweh talk.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "e bin judge"
+    },
+    {
+      "surface": "דין",
+      "gloss": "di case of"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy one"
+    },
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fine"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no be so"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Dat one na"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh talk"
+    }
+  ],
+  "timestamp": "2026-08-11T11:47:51.801569158Z",
+  "model": "glm-5.2"
+}

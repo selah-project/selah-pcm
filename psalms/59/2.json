@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "Snatch me from my enemy-dem, my Elohim, lift me high from dem wey dey rise against me.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "snatch me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "from my enemy-dem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "from dem wey dey rise against me"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "lift me high"
+    }
+  ],
+  "timestamp": "2026-08-11T12:47:40.402742982Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Work of stone carver, engraving of signet ring, you go engrave ⟨את⟩ di two stone dem according to di name dem of di son dem of Yisrael; surrounded with gold filigree setting dem you go make ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "work of"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "carver"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stone"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "engraving of"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "signet ring"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "you go engrave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two stone dem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "di stone dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "according to"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "di name dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di son dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "surrounded"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "with filigree setting dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "di two stone dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:11.879747692Z",
+  "model": "glm-5.2"
+}

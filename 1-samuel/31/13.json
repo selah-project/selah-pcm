@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And dem take ⟨את⟩ dia bones, and dem bury am under di tamarisk for Yavesh, and dem fast seven days.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְחוּ",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dia bones"
+    },
+    {
+      "surface": "עַצְמֹתֵיהֶם",
+      "gloss": "dia bones"
+    },
+    {
+      "surface": "וַיִּקְבְּרוּ",
+      "gloss": "and dem bury"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הָאֶשֶׁל",
+      "gloss": "di tamarisk"
+    },
+    {
+      "surface": "בְּיָבֵשָׁה",
+      "gloss": "for Yavesh"
+    },
+    {
+      "surface": "וַיָּצֻמוּ",
+      "gloss": "and dem fast"
+    },
+    {
+      "surface": "שִׁבְעַת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T16:06:20.237083526Z",
+  "model": "glm-5.2"
+}

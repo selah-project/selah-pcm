@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "I bin sink for deep mud, and ⟨dere⟩ ⟨be⟩ no footing; I don enter deep-water depths, and flood don wash me away.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "I bin sink"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "for"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "deep mud"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨dere be⟩ no"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "footing"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "I don enter"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "deep-water depths"
+    },
+    {
+      "surface": "מים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "and flood"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "don wash me away"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:53.366501413Z",
+  "model": "glm-5.2"
+}

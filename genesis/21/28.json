@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And Avraham bin set ⟨את⟩ seven female sheep of di flock by demsef.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "bin set"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seven female sheep of di flock"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "female sheep"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di flock"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "by demsef"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:12.816316025Z",
+  "model": "glm-5.2"
+}

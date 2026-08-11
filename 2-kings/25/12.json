@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "But from di poor people of di land, chief of di executioners leave some behind, as vineyard-workers and as farm-workers.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "But from di poor people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "leave behind"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "of di executioners"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "as vineyard-workers"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "and as farm-workers"
+    }
+  ],
+  "timestamp": "2026-08-11T14:39:45.750911174Z",
+  "model": "glm-5.2"
+}

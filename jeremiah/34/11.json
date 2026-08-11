@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "But after dat, dem turn back, and dem make ⟨את⟩ di male slaves and ⟨את⟩ di female slaves wey dem bin send away as free people, return, and dem subdue dem again as male slaves and as female slaves.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dem turn back"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dem make return"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di male slaves"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "di male slaves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di female slaves"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "di female slaves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dem bin send away"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "as free people"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "and dem subdue dem again"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "as male slaves"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "and as female slaves"
+    }
+  ],
+  "timestamp": "2026-08-11T14:44:59.488473039Z",
+  "model": "glm-5.2"
+}

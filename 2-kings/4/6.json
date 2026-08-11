@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And e come happen, when ⟨dem⟩ fill di vessel-dem finish, she talk to her son, say, 'Bring anoda vessel near to me.' And im talk to her, say, 'No vessel dey again.' And di oil stop.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come happen"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "when fill"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "di vessel-dem"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "she talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "her son"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "bring near"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to her"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "and stop"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "di oil"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:34.755070495Z",
+  "model": "glm-5.2"
+}

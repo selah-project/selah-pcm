@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And you go look ⟨upon⟩ distress for ⟨di⟩ dwelling-place, amidst all di good wey ⟨He⟩ go do for Yisra'el; and old man no go ever dey for your house all ⟨di⟩ days.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "and you go look"
+    },
+    {
+      "surface": "צר",
+      "gloss": "distress"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "for dwelling-place"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amidst all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "go do good"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "for Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no go"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ever dey"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "old man"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "for your house"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:07.246290808Z",
+  "model": "glm-5.2"
+}

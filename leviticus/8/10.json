@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Mosheh bin take ⟨את⟩ di anointing oil, and e bin anoint ⟨את⟩ di tabernacle and ⟨את⟩ evri wetin dey inside am, and e bin sanctify ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di anointing oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "di anointing"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "and bin anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tabernacle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di tabernacle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "evri wetin dey inside am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dey inside am"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "and bin sanctify"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:48.597331594Z",
+  "model": "glm-5.2"
+}

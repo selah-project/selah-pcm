@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And Yahweh bless ⟨את⟩ di latter end of Iyov more than im beginning; and ⟨he⟩ get fourteen thousand sheep, and six thousand camels, and one thousand yoke of cattle, and one thousand female donkeys.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "And Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di latter end"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "latter end"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "of Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "more than im beginning"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨he⟩ get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨to him⟩"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fourteen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "and six"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "camels"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "and one thousand"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "yoke"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "of cattle"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "and one thousand"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "female donkeys"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:35.818886227Z",
+  "model": "glm-5.2"
+}

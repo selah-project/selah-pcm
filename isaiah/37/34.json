@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "For di road wey ⟨im⟩ come, for dat same road ⟨im⟩ go return; and inside dis city ⟨im⟩ no go enter — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בא",
+      "gloss": "come"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "go return"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and inside"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "go enter"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:33.805971293Z",
+  "model": "glm-5.2"
+}

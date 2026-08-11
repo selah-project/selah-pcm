@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di pikin-dem of Ezrah: Yeter, and Mered, and Efer, and Yalon; and ⟨she⟩ born ⟨את⟩ Miryam, and ⟨את⟩ Shammay, and ⟨את⟩ Yishbach, faja of Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "and di pikin-dem of"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "and Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "and Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "and Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "and ⟨she⟩ born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Yishbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faja of"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:47.645390418Z",
+  "model": "glm-5.2"
+}

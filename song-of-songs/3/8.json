@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "All of dem dey hold sword, dem wey dem don train for war — each man get im sword on top im thigh, sake of di fear for night.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "All of dem"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "dey hold"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "dem wey dem don train"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "for war"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "im sword"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "im thigh"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sake of di fear"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "for night"
+    }
+  ],
+  "timestamp": "2026-08-11T15:00:38.624349063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Comot from my side, all una wey dey do iniquity, because Yahweh don hear di voice of my cry.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Comot"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from my side"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "una wey dey do"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "of my cry"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:40.513721935Z",
+  "model": "glm-5.2"
+}

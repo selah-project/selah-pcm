@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "and di dust go return to di earth as ⟨e⟩ bin dey before, and di spirit go return to Elohim wey give am.",
+  "tokens": [
+    {
+      "surface": "וְיָשֹׁב",
+      "gloss": "and ⟨e⟩ go return"
+    },
+    {
+      "surface": "הֶעָפָר",
+      "gloss": "di dust"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "כְּשֶׁהָיָה",
+      "gloss": "as ⟨e⟩ bin dey before"
+    },
+    {
+      "surface": "וְהָרוּחַ",
+      "gloss": "and di spirit"
+    },
+    {
+      "surface": "תָּשׁוּב",
+      "gloss": "⟨e⟩ go return"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נְתָנָהּ",
+      "gloss": "give am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:36:22.525327178Z",
+  "model": "glm-5.2"
+}

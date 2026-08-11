@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So, because of una, Tziyon go become farm land wey dem plow, and Yerushalayim go become heap of ruins, and hill of di house go become shrine dem of forest.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "because of una"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "farm land"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "go become … wey dem plow"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "and Yerushalayim"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "heap of ruins"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go become"
+    },
+    {
+      "surface": "והר",
+      "gloss": "and hill of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "go become shrine dem of"
+    },
+    {
+      "surface": "יער",
+      "gloss": "forest"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:26.818946301Z",
+  "model": "glm-5.2"
+}

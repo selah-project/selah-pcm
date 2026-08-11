@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Barzillai talk to di king: \"How many be di days of di years of my life, sey I go climb ⟨את⟩ di king go Yerushalaim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "how many"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days of"
+    },
+    {
+      "surface": "שני",
+      "gloss": "di years of"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "I go climb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:35.883350317Z",
+  "model": "glm-5.2"
+}

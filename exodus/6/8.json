@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And I go bring una enter di land wey I raise my hand sey I go give am to Avraham, to Yitschaq, and to Ya'aqov; and I go give am to una as possession — I ⟨na⟩ Yahweh.'",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "and I go bring enter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "enter di land"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to\/enter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "I raise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sey I go give"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ am",
+      "marks": "to Avraham"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "to Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "to Yitschaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "and to Ya'aqov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go give"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ am",
+      "marks": "to una"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "as possession"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:36.830218327Z",
+  "model": "glm-5.2"
+}

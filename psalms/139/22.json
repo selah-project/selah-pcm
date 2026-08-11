@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": " wit complete hate I don hate dem; to enemy dem dem don become to me.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "complete"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hate"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "I don hate dem"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "to enemy dem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem don become"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:38.532512804Z",
+  "model": "glm-5.2"
+}

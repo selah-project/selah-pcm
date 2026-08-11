@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Fear and trembling don come inside me, and horror don cover me.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "fear"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "and trembling"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "don come"
+    },
+    {
+      "surface": "בי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "and ⟨don⟩ cover me"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "horror"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:29.959978745Z",
+  "model": "glm-5.2"
+}

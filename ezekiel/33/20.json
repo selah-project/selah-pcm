@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And una bin dey talk say, 'Di way of Adonai no ⟨be⟩ straight.' Each man according to im ways, I go judge ⟨את⟩ una, O house of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "and una bin talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "straight"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di way"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "according to im ways"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "I go judge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T12:14:27.008967598Z",
+  "model": "glm-5.2"
+}

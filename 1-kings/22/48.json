@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And king no dey for Edom; na deputy ⟨dey stand⟩ as king.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "and king"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "for Edom"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    }
+  ],
+  "timestamp": "2026-08-11T11:08:43.087366699Z",
+  "model": "glm-5.2"
+}

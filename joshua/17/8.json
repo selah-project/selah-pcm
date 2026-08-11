@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "To Menashsheh bin belong ⟨את⟩ di land of Tappu'aḥ, but Tappu'aḥ itself, near ⟨di⟩ boundary of Menashsheh, bin belong to di sons of Efrayim.",
+  "tokens": [
+    {
+      "surface": "לִמְנַשֶּׁ֕ה",
+      "gloss": "to Menashsheh"
+    },
+    {
+      "surface": "הָיְתָ֖ה",
+      "gloss": "belong"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "land of"
+    },
+    {
+      "surface": "תַּפּ֑וּחַ",
+      "gloss": "Tappu'aḥ"
+    },
+    {
+      "surface": "וְתַפּ֛וּחַ",
+      "gloss": "and Tappu'aḥ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "near"
+    },
+    {
+      "surface": "גְּב֥וּל",
+      "gloss": "boundary of"
+    },
+    {
+      "surface": "מְנַשֶּׁ֖ה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "to sons of"
+    },
+    {
+      "surface": "אֶפְרָֽיִם",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:40.253372653Z",
+  "model": "glm-5.2"
+}

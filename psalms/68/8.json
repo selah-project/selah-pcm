@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Elohim, when you bin dey go out before your people, when you bin dey march for di wilderness — Selah.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּצֵאתְךָ",
+      "gloss": "when you bin dey go out"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "before"
+    },
+    {
+      "surface": "עַמֶּךָ",
+      "gloss": "your people"
+    },
+    {
+      "surface": "בְּצַעְדְּךָ",
+      "gloss": "when you bin dey march"
+    },
+    {
+      "surface": "בִישִׁימוֹן",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:36.668849855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Because our life-force don sink reach dust, our belle don gum ground.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "don sink"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "reach dust"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "our life-force"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "don gum"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ground"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "our belle"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:08.611572819Z",
+  "model": "glm-5.2"
+}

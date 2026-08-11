@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "Remember, Adonai, ⟨di⟩ disgrace of your servant-dem, ⟨how⟩ I dey carry for my bosom ⟨di⟩ reproach of all ⟨di⟩ many people-dem!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Remember"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "disgrace"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servant-dem"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "I dey carry"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "for my bosom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "many"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "people-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:08.032886717Z",
+  "model": "glm-5.2"
+}

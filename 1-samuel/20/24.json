@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "So David hide for di field. And when di new moon come, di king sit down ontop di food to chop.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "so ⟨im⟩ hide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and when ⟨e⟩ come"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "di new moon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "⟨im⟩ sit down"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "על",
+      "gloss": "ontop"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "di food"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "to chop"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:09.760124980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "hand",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And di daughter of any man wey be priest, if she begin to do ashawo, ⟨את⟩ her papa na im she dey make common — dem go burn am wit fire.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "And di daughter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of a man"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wey be priest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "she begin"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "to do ashawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her papa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "her papa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na she"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "dey make am common"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "dem go burn am"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.768665695Z",
+  "model": "claude-opus-4-8"
+}

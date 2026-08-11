@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Dis one dem na from di son dem of Gad, head dem of di army; di smol one na one per hundred, and di big one na one per thousand.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis one dem"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from di son dem of"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "head dem of"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "di army"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "per hundred"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "di smol one"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "and di big one"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "per thousand"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:25.103350883Z",
+  "model": "glm-5.2"
+}

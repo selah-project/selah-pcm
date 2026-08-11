@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 5:25",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And now, why we go die? For dis big fire go chop us; if we continue to hear ⟨את⟩ di voice of Yahweh we Elohim again, we go die.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "we go die"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "go chop us"
+    },
+    {
+      "surface": "האש",
+      "gloss": "di fire"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "big"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יספים",
+      "gloss": "we continue"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "to hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "we Elohim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "we go die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:08.365538971Z",
+  "model": "glm-5.2"
+}

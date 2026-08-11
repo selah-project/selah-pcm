@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "One dey touch another, and breeze no fit enter between dem.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "another"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "dey touch"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "and breeze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no fit"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "between dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:21.392123277Z",
+  "model": "glm-5.2"
+}

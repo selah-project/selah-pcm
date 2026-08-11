@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Tell chokmah: 'You ⟨be⟩ my sister,' and to binah call ⟨am⟩ kinwoman.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Tell"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "to chokmah"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my sister"
+    },
+    {
+      "surface": "את",
+      "gloss": "you ⟨be⟩"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "and kinwoman"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "to binah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "call ⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:01.010648852Z",
+  "model": "glm-5.2"
+}

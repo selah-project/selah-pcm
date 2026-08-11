@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 99,
+  "translation": "And di strength of di king wey love judgment — na you establish straightness; judgment and righteousness for Ya'akov, na you do am.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "and strength"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "of king"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "love"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "establish"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "straightness"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgment"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "and righteousness"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "for Ya'akov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na you"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "do am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:27.411243384Z",
+  "model": "glm-5.2"
+}

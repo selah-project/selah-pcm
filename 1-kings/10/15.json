@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Apart from ⟨wetin come⟩ from di men of trade, and di trade of di merchants, and all di kings of Arabia, and di governors of di land.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "apart from"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "from di men"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "of trade"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "and di trade"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "of di merchants"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "di kings"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "of Arabia"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "and di governors"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:33.133325110Z",
+  "model": "glm-5.2"
+}

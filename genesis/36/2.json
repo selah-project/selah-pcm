@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "Esav take ⟨את⟩ im wife dem from among di daughter dem of Kenaan: ⟨את⟩ Adah wey be daughter of Elon di Hitite, and ⟨את⟩ Oholibamah wey be daughter of Anah, wey be daughter of Tsibon di Hivite.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im wife dem"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "im wife dem"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "from among di daughter dem"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wey be daughter"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "of Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hitite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Oholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wey be daughter"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "of Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wey be daughter"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "of Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "di Hivite"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:47.201533271Z",
+  "model": "glm-5.2"
+}

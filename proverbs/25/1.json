@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Dis dem too ⟨na⟩ proverbs wey Shelomoh bin write, wey ⟨di⟩ men of Chizkiyah, king of Yehudah, bin copy out.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis dem"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "proverbs"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "bin copy out"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "men of"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:12.918599161Z",
+  "model": "glm-5.2"
+}

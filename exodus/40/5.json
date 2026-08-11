@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And you go put ⟨את⟩ di gold altar for incense for front of di Ark of di Testimony, and you go put ⟨את⟩ di screen of di entrance to di Mishkan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di gold altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "for incense"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "of di Testimony"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "and you go put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di screen"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "screen"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "of di entrance"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "to di Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:52.968573548Z",
+  "model": "glm-5.2"
+}

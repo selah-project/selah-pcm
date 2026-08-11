@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Dem go come and go tell im righteousness to ⟨di⟩ people wey dem go born, sey ⟨na⟩ im do am.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Dem go come"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "and go tell"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "im righteousness"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "to di people"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "wey dem go born"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im do am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:57.654980674Z",
+  "model": "glm-5.2"
+}

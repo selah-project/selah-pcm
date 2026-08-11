@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di frogs go comot from you, and from your houses, and from your servants, and from your people; na only for di river dem go remain.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "And go comot"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "di frogs"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "and from your houses"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "and from your servants"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "and from your people"
+    },
+    {
+      "surface": "רק",
+      "gloss": "Na only"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "for di river"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "dem go remain"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:31.368063753Z",
+  "model": "glm-5.2"
+}

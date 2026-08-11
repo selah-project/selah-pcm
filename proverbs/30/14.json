@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Generation wey im teeth ⟨na⟩ sword, and im molar teeth ⟨na⟩ knife — to chop poor man commot from ⟨di⟩ earth, and needy man from among man.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Generation"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sword"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "im teeth"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "and knife"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "im molar teeth"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "to chop"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "commot from earth"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "and needy man"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "from among man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:31.153400977Z",
+  "model": "glm-5.2"
+}

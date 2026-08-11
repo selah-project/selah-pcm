@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Plenti be my pursuers and my enemies; yet from ⟨di⟩ testimonies of you I no bend.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "plenti"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "my pursuers"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "and my enemies"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "from testimonies of you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "I bend"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:28.768739476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Di pikin-dem of Levi ⟨na⟩ Gershom, Kehath, and Merari.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "and Merari"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:53.256538044Z",
+  "model": "glm-5.2"
+}

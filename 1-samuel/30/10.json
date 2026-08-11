@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Dawud bin pursue, im and four hundred men; but two hundred men stand ⟨dia⟩ wey don tire, from crossing ⟨את⟩ Nachal HaBesor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "bin pursue"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "but stand"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "two hundred"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "don tire"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "from crossing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachal HaBesor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nachal"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "HaBesor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:13.205229105Z",
+  "model": "glm-5.2"
+}

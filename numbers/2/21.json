@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "and im army, and di ones wey dem count — thirty-two thousand and two hundred.",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "and im army"
+    },
+    {
+      "surface": "וּפְקֻדֵיהֶ֑ם",
+      "gloss": "and di ones wey dem count"
+    },
+    {
+      "surface": "שְׁנַ֧יִם",
+      "gloss": "two"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֛ים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "וּמָאתָֽיִם",
+      "gloss": "and two hundred"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:15.366044993Z",
+  "model": "glm-5.2"
+}

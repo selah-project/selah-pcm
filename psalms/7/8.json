@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And make ⟨di⟩ assembly of nations surround ⟨you⟩, and over dem, return to height.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "and make ⟨di⟩ assembly"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "of nations"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "surround ⟨you⟩"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "and over dem"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "to height"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "return"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:55.590742094Z",
+  "model": "glm-5.2"
+}

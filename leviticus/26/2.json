@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "⟨את⟩ My Shabbat dem una go keep, and my holy place una go fear; na me ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My Shabbat dem"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "My Shabbat dem"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "una go keep"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "and my holy place"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "una go fear"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:27.032598021Z",
+  "model": "glm-5.2"
+}

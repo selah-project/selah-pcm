@@ -1,0 +1,53 @@
+{
+  "tier": "hand",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "From di mouth of small pikin dem and dem wey still dey suck breast, you don establish strength because of dem wey dey trouble you, make e stop di enemy and di one wey dey pay back.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "From ⟨di⟩ mouth"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "of small pikin dem"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "and dem wey still dey suck breast"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "you don establish"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "למען",
+      "gloss": "because of"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "dem wey dey trouble you"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "make e stop"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "⟨di⟩ enemy"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "and di one wey dey pay back"
+    }
+  ],
+  "timestamp": "2026-08-11T19:50:45.784716713Z",
+  "model": "claude-opus-4-8"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Sarah, wife of my master, born son for my master after ⟨she⟩ don old; and ⟨e⟩ don give am ⟨את⟩ all wetin ⟨e⟩ get.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "and born"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my master"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "for my master"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "⟨she⟩ don old"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨e⟩ don give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all wetin ⟨e⟩ get"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨e⟩ get"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:11.436671997Z",
+  "model": "glm-5.2"
+}

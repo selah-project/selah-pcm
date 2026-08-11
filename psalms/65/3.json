@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Wey dey hear prayer — to You all flesh go come.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wey dey hear"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "prayer"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "go come"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:58.406826793Z",
+  "model": "glm-5.2"
+}

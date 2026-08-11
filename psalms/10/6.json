@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "E talk for im heart, 'I no go ever shake; from generation go generation, I no go ⟨know⟩ trouble.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "e talk"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "for im heart"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "go ever shake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "from generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "go generation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "go ⟨know⟩ trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:14.301482488Z",
+  "model": "glm-5.2"
+}

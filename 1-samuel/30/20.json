@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And Dawid take ⟨את⟩ all di sheep and di cattle; dem drive dem go in front of dat livestock, and dem talk: \"Dis na Dawid im spoil.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and take"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di sheep and di cattle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di sheep"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "and di cattle"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "dem drive dem go"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dat livestock"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-11T10:45:50.140177581Z",
+  "model": "glm-5.2"
+}

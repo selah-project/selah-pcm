@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "When wicked people come near me make dem chop ⟨את⟩ my flesh — my enemies and my foes — dem stumble and fall.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "when"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "near me"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "make dem chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my flesh"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my flesh"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my enemies"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "and my foes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "stumble"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "and fall"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:10.987678037Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨dem⟩ catch one young man from di men of Sukkot, and ⟨dem⟩ ask am; and ⟨he⟩ write for am ⟨את⟩ di chiefs of Sukkot and ⟨את⟩ im elders — seventy and seven man.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "and ⟨dem⟩ catch"
+    },
+    {
+      "surface": "נער",
+      "gloss": "one young man"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "from di men of"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "and ⟨dem⟩ ask am"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "and ⟨he⟩ write"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di chiefs of Sukkot"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di chiefs of"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im elders"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "im elders"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seventy"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:03.977179642Z",
+  "model": "glm-5.2"
+}

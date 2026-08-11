@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So di herdsmen bin come and bin drive dem away, but Mosheh bin stand up and bin save dem, and bin give water to ⟨את⟩ dia flock.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bin come"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "di herdsmen"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "and bin drive dem away"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bin stand up"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "and bin save dem"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and bin give water"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia flock"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dia flock"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:16.669424040Z",
+  "model": "glm-5.2"
+}

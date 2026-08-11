@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "My days don pass faster than ⟨di⟩ weaver im shuttle, and dem don finish without hope.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "my days"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "don pass faster"
+    },
+    {
+      "surface": "מני",
+      "gloss": "than"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "weaver im shuttle"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "and dem don finish"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "without"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:50.912272050Z",
+  "model": "glm-5.2"
+}

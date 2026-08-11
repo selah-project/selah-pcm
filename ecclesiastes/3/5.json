@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "A time to troway stones, and a time to gather stones together; a time to hug, and a time to far from hugging.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "a time"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "to troway"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stones"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "and a time"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "to gather together"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stones"
+    },
+    {
+      "surface": "עת",
+      "gloss": "a time"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "to hug"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "and a time"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "to far from"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "hugging"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:58.649353222Z",
+  "model": "glm-5.2"
+}

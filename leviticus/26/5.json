@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And ⟨the⟩ threshing go reach ⟨את⟩ di grape harvest, and di grape harvest go reach ⟨את⟩ di sowing time; and una go chop una bread to satiety, and una go siddon for safety inside una land.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "una"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "threshing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di grape harvest"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "grape harvest"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "and di grape harvest"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "go reach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sowing time"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sowing time"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "and una go chop"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "una bread"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "to satiety"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "and una go siddon"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "for safety"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "inside una land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:25:32.223949010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "⟨Na⟩ di word of Yahweh come to Yehu son of Chanani, against Baasha, say:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:16.510537582Z",
+  "model": "glm-5.2"
+}

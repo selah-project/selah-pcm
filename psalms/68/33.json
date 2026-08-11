@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Kingdoms of di earth, sing to Elohim, play music to Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdoms"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di earth"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "play music"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "to Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:36.406076425Z",
+  "model": "glm-5.2"
+}

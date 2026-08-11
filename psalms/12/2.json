@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Save, Yahweh, for di devout ⟨man⟩ don finish, for di faithful ones don disappear from among di sons of man.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "save"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "don finish"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "devout"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "don disappear"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "faithful ones"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "from among di sons of"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:46.466466042Z",
+  "model": "glm-5.2"
+}

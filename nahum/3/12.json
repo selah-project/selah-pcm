@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "All your strongholds ⟨be⟩ fig tree with first-ripe figs; if dem shake am, dem go fall inside mouth of di eater.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "your strongholds"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "fig tree"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "first-ripe figs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "dem shake am"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dem go fall"
+    },
+    {
+      "surface": "על",
+      "gloss": "inside"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mouth of"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "di eater"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:10.974358314Z",
+  "model": "glm-5.2"
+}

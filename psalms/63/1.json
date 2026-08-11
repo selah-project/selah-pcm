@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "Song for David, wen e dey for di wilderness of Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "wen e dey"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:53.104008711Z",
+  "model": "glm-5.2"
+}

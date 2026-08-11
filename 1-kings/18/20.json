@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "So Ahab send go all di pikin of Yisra'el, and e gada ⟨את⟩ di nabi dem go Mount haKarmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and ... send go"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "and ... gada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nabi dem"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "di nabi dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mount"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "haKarmel"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:26.969411789Z",
+  "model": "glm-5.2"
+}

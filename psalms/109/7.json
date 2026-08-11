@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Wen dem dey judge am, make im come out wicked, and make im prayer come be sin.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "wen dem dey judge am"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "make im come out"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "and im prayer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "make ⟨im⟩ come be"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:13.930256642Z",
+  "model": "glm-5.2"
+}

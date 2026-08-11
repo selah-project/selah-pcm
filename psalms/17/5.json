@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Make my steps hold fast for your path-way dem, make my foot no shift.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "make hold fast"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "my step dem"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "for your path-way dem"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "⟨make⟩ shift"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "my foot"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:23.063746770Z",
+  "model": "glm-5.2"
+}

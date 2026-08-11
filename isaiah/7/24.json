@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "With arrows and with bow man go come there, because shamir and shayth di whole land go be.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "with arrows"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "and with bow"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "man go come"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "and shayth"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di whole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:13.749440285Z",
+  "model": "glm-5.2"
+}

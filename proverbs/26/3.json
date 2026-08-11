@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Whip for horse, bit for donkey, and rod for ⟨di⟩ back of stupid-people.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "whip"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "for horse"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "bit"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "for donkey"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "and rod"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "for back of"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "stupid-people"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:04.735038670Z",
+  "model": "glm-5.2"
+}

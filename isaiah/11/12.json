@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨he⟩ go raise signal for di nations, and ⟨he⟩ go gather di driven-away of Yisrael, and di scattered of Yehudah ⟨he⟩ go collect from di four corners of di earth.",
+  "tokens": [
+    {
+      "surface": "וְנָשָׂ֥א",
+      "gloss": "and ⟨he⟩ go raise"
+    },
+    {
+      "surface": "נֵס֙",
+      "gloss": "signal"
+    },
+    {
+      "surface": "לַגּוֹיִ֔ם",
+      "gloss": "for di nations"
+    },
+    {
+      "surface": "וְאָסַ֖ף",
+      "gloss": "and ⟨he⟩ go gather"
+    },
+    {
+      "surface": "נִדְחֵ֣י",
+      "gloss": "di driven-away"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "וּנְפֻצ֤וֹת",
+      "gloss": "and di scattered"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "יְקַבֵּ֔ץ",
+      "gloss": "⟨he⟩ go collect"
+    },
+    {
+      "surface": "מֵאַרְבַּ֖ע",
+      "gloss": "from di four"
+    },
+    {
+      "surface": "כַּנְפ֥וֹת",
+      "gloss": "corners"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "of di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:45.006231328Z",
+  "model": "glm-5.2"
+}

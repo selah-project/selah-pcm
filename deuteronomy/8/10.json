@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And you go chop and you go full, and you go bless ⟨את⟩ Yahweh your Elohim on top di good land wey ⟨im⟩ give you.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "and you go chop"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "and you go full"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "and you go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "di good"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:08.170179826Z",
+  "model": "glm-5.2"
+}

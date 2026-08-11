@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Geval, and Ammon, and Amalek; Pelesheth wit di pipo wey dey live for Tzor.",
+  "tokens": [
+    {
+      "surface": "גְּבָ֣ל",
+      "gloss": "Geval"
+    },
+    {
+      "surface": "וְ֭עַמּוֹן",
+      "gloss": "and Ammon"
+    },
+    {
+      "surface": "וַעֲמָלֵ֑ק",
+      "gloss": "and Amalek"
+    },
+    {
+      "surface": "פְּלֶ֗שֶׁת",
+      "gloss": "Pelesheth"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יֹ֥שְׁבֵי",
+      "gloss": "di pipo wey dey live for"
+    },
+    {
+      "surface": "צֽוֹר",
+      "gloss": "Tzor"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:44.888424208Z",
+  "model": "glm-5.2"
+}

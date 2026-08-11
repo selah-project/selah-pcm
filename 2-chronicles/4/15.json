@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "⟨את⟩ di one Sea, and ⟨את⟩ di twelve cow-dem under-am.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di one Sea"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di Sea"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di twelve cow-dem"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "di cow-dem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ten"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under-am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:36.890634913Z",
+  "model": "glm-5.2"
+}

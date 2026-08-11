@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "She bin dey like merchant ship dem, from far she dey bring ⟨im⟩ food.",
+  "tokens": [
+    {
+      "surface": "הָ֭יְתָה",
+      "gloss": "she bin dey"
+    },
+    {
+      "surface": "כָּאֳנִיּ֣וֹת",
+      "gloss": "like ship dem"
+    },
+    {
+      "surface": "סוֹחֵ֑ר",
+      "gloss": "merchant"
+    },
+    {
+      "surface": "מִ֝מֶּרְחָ֗ק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "תָּבִ֥יא",
+      "gloss": "she dey bring"
+    },
+    {
+      "surface": "לַחְמָֽהּ",
+      "gloss": "⟨im⟩ food"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:51.181939242Z",
+  "model": "glm-5.2"
+}

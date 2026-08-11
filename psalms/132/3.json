@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 132,
+  "translation": "⟨If⟩ I no go enter inside tent of my house, ⟨if⟩ I no go climb on top my bed,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨If⟩"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "I no go enter"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "inside tent"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "of my house"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨if⟩"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "I no go climb"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "my couch"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:07.056221591Z",
+  "model": "glm-5.2"
+}

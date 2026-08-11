@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And di flood bin dey forty days upon di earth, and di waters bin multiply and dem bin carry ⟨את⟩ di ark, and e bin rise up from upon di earth.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and bin dey"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "di flood"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "days"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "and bin multiply"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di waters"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "and bin carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "and bin rise up"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from upon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:01:26.485341346Z",
+  "model": "glm-5.2"
+}

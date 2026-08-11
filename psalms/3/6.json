@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "I bin lie down and I sleep; I wake up, because Yahweh dey hold me.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "bin lie down"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "and I sleep"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "I wake up"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "dey hold me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:21.735313876Z",
+  "model": "glm-5.2"
+}

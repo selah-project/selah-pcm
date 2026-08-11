@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 14:23",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And even dem sef build for demsef bamot, and matsevot, and asherim, on top evri high hill, and under evri fresh tree.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "and dem build"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem sef"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for demsef"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "and matsevot"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "and asherim"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "hill"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "high"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "and under"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tree"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "fresh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:37.835981866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "How ⟨e⟩ set im signs for Mitsrayim, and im wonders for field of Tso'an.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "how"
+    },
+    {
+      "surface": "שם",
+      "gloss": "e set"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "im signs"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "and im wonders"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for field"
+    },
+    {
+      "surface": "צען",
+      "gloss": "of Tso'an"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:00.474200836Z",
+  "model": "glm-5.2"
+}

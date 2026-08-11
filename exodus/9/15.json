@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Because if to say I bin already stretch out ⟨את⟩ my hand, and strike you, and ⟨את⟩ your people with disease, you for don vanish from di earth —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "already"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "I bin stretch out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "and strike"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ you"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your people"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "your people"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "with disease"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "you for vanish"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:00.542085580Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And ⟨את⟩ una younger brother make una bring to me, so dat una words go dey confirmed, and una no go die. And dem do so.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una younger brother"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "una brother"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "younger"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "make una bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "so dat go dey confirmed"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "una words"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "una go die"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:01.369028031Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Dem dey cry, and ⟨e bin⟩ no get who go save, unto Yahweh, and ⟨e⟩ no answer dem.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "dem dey cry"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and ⟨e bin⟩ no get"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "who go save"
+    },
+    {
+      "surface": "על",
+      "gloss": "unto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨e⟩ no"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "answer dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:57.429669332Z",
+  "model": "glm-5.2"
+}

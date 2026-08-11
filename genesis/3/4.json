@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di serpent come talk to di woman, \"No! Una no go truly die.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and come talk"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "di serpent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מות",
+      "gloss": "truly die"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "una go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:20.913275006Z",
+  "model": "glm-5.2"
+}

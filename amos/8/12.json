@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And dem go wander from sea reach sea, and from north reach east; dem go run up-and-down to find ⟨את⟩ word of Yahweh, but dem no go find am.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "and dem go wander"
+    },
+    {
+      "surface": "מים",
+      "gloss": "from sea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "and from north"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "east"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "dem go run up-and-down"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "to find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "word of Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but dem no go"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "find am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:45.755839625Z",
+  "model": "glm-5.2"
+}

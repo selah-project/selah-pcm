@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And ⟨also⟩ di feast of harvest, ⟨wit⟩ di firstfruit of yu work wey yu don sow for di field; and di feast of ingathering, for di going-out of di year, wen yu don gather ⟨את⟩ yu work from di field.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "and ⟨also⟩ di feast"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "of harvest"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "firstfruit"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "of yu work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "yu don sow"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "and di feast"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "of ingathering"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "for di going-out"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "of di year"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "wen yu don gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yu work"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "yu work"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "di field"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:35.756517580Z",
+  "model": "glm-5.2"
+}

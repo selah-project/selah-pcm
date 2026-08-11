@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Hear now ⟨את⟩ wetin Yahweh dey talk: stand up, plead ⟨im⟩ case ⟨את⟩ to di mountains, and make di hills hear ⟨im⟩ voice.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hear"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dey talk"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "plead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ to",
+      "marks": "di mountains"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "di mountains"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "and make dem hear"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "di hills"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "your voice"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:09.410298143Z",
+  "model": "glm-5.2"
+}

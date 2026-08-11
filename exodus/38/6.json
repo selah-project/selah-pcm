@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "And ⟨im⟩ make ⟨את⟩ di poles of wood of acacia, and ⟨im⟩ overlay ⟨את⟩ them with bronze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨im⟩ make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poles"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di poles"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "and ⟨im⟩ overlay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ them"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "with bronze"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:27.453253920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "So di taskmasters of di people and dia officers bin come out, and dem bin talk to di people, sey: \"Like dis Paroh don talk: ⟨I⟩ no dey give una straw.",
+  "tokens": [
+    {
+      "surface": "וַיֵּצְאוּ",
+      "gloss": "so dem bin come out"
+    },
+    {
+      "surface": "נֹגְשֵׂי",
+      "gloss": "taskmasters"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "וְשֹׁטְרָיו",
+      "gloss": "and dia officers"
+    },
+    {
+      "surface": "וַיֹּאמְרוּ",
+      "gloss": "and dem bin talk"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כֹּה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אֵינֶנִּי",
+      "gloss": "no dey"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "una"
+    },
+    {
+      "surface": "תֶּבֶן",
+      "gloss": "straw"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:56.413217202Z",
+  "model": "glm-5.2"
+}

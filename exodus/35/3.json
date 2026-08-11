@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Make una no kindle fire for any of una dwelling-place-dem, for di day of shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "make una kindle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for any"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "of una dwelling-place-dem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "of shabbat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:40.508197593Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Elohim call ⟨את⟩ di firmament heaven. And evening bin come, and morning bin come — day two.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "di firmament"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:40.032727596Z",
+  "model": "glm-5.2"
+}

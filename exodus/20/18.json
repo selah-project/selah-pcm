@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And all di people bin dey see ⟨את⟩ di thunder-sounds and ⟨את⟩ di torch-flames and ⟨את⟩ di sound of di shofar and ⟨את⟩ di mountain wey dey smoke; and di people see and dem tremble and dem stand far.{LONG_DASH}",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "bin dey see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di thunder-sounds"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "di thunder-sounds"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di torch-flames"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "di torch-flames"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di sound of di shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "of di shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di mountain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "wey dey smoke"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and ⟨dem⟩ see"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "and dem tremble"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "and dem stand"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "far"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:05.008619531Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And di cities wey Ḥuram bin give to Shelomoh, Shelomoh build dem, and e make ⟨את⟩ di sons of Yisra'el make dem stay dia.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "and di cities"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bin give"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Ḥuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "to Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "build"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": ""
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "and e make...stay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.335218948Z",
+  "model": "glm-5.2"
+}

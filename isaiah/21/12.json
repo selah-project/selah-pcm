@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Watchman talk: morning dey come, and also night. If una dey seek, make una seek; make una turn back, make una come.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "watchman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morning"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "night"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "una dey seek"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "make una seek"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "make una turn back"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "make una come"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:32.921396202Z",
+  "model": "glm-5.2"
+}

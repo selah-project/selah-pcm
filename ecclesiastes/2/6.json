@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "I bin make for myself pool of water, to dey give water from dem to forest wey ⟨dey⟩ sprout tree.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "I bin make"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for myself"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "pool"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "to dey give water"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "יער",
+      "gloss": "to forest"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "wey ⟨dey⟩ sprout"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "tree"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:34.327695033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Dis na evil inside all wey dem dey do under sun, sey one event dey for all; and even heart of sons of man dey full of evil, and madness dey inside dia heart for dia life, and after dat — to di dead.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inside all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dem dey do"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "event"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and even"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of sons"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dey full"
+    },
+    {
+      "surface": "רע",
+      "gloss": "of evil"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "and madness"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "inside dia heart"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "for dia life"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "and after dat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "di dead"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:46.183688727Z",
+  "model": "glm-5.2"
+}

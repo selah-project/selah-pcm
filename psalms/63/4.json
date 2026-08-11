@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "Because your chesed ⟨be⟩ better pass life, my lips go praise you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "better"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "pass life"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lips"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "go praise you"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:53.104536073Z",
+  "model": "glm-5.2"
+}

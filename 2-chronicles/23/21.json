@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And all di people of di land bin glad, and di city bin quiet; and ⟨את⟩ Athaliah dem kill am wit sword.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "and dem bin glad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "and di city"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bin quiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athaliah"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dem kill"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:05.755115225Z",
+  "model": "glm-5.2"
+}

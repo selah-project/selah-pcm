@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So Bat-Sheva enter go to di king inside ⟨di⟩ room, and di king don old very well, and Avishag di Shunamit woman dey serve ⟨את⟩ di king.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "so ⟨she⟩ enter go"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "inside ⟨di⟩ room"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "don old"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "very well"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "and Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "di Shunamit woman"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "dey serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:43.520855208Z",
+  "model": "glm-5.2"
+}

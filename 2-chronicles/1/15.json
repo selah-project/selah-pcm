@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di king bin make ⟨את⟩ di silver and ⟨את⟩ di gold for Yerushalayim like stones, and ⟨את⟩ di cedar trees e give like sycamore trees wey dey for di lowland for abundance.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "And bin make"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di silver"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di gold"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "di gold"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "like stones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di cedar trees"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "di cedar trees"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e give"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "like sycamore trees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey for"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di lowland"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "for abundance"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:04.160319597Z",
+  "model": "glm-5.2"
+}

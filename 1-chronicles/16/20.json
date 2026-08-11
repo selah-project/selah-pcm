@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And dem bin dey waka from one nation go anoda nation, and from one kingdom go anoda people.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "and dem bin dey waka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "from one nation"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "anoda nation"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "and from one kingdom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anoda people"
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:53.060420384Z",
+  "model": "glm-5.2"
+}

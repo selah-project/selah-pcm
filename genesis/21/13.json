@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And I go also make ⟨את⟩ di pikin of di bondwoman inside nation, because na your seed ⟨he⟩ be.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "of di bondwoman"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "inside nation"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "I go make am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "your seed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    }
+  ],
+  "timestamp": "2026-08-11T09:06:07.336953552Z",
+  "model": "glm-5.2"
+}

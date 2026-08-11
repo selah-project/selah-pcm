@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And ⟨im⟩ talk sey, \"You no fit see ⟨את⟩ my face, because man no fit see me and live.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And ⟨im⟩ talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "to see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "see me"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "and live"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:41.733161755Z",
+  "model": "glm-5.2"
+}

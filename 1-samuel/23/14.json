@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 23:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And David bin dey stay for di wilderness, for di strongholds, and e bin dey stay for di hill, for di wilderness of Zif; and Sha'ul bin dey find am all di days, but Elohim no give am into im hand.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bin dey stay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "for di strongholds"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin dey stay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for di hill"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "of Zif"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "and bin dey find am"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "give"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "into im hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:15.590883596Z",
+  "model": "glm-5.2"
+}

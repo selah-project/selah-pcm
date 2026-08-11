@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And di man talk to ʿEli, 'Na me wey come from di battlefield, and na from di battlefield I run today.' And e talk, 'Wetin happen, my son?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and di man talk"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ʿEli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na me"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "wey come"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "di battlefield"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "di battlefield"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "I run"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "happen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:56.132689560Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 9:34",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And wen Paroh si sey di rain and di hail and di thunder dem don stop, e add to do sin again; and e make im hart hard, na im and im servant dem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and wen e si"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "don stop"
+    },
+    {
+      "surface": "המטר",
+      "gloss": "di rain"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "and di hail"
+    },
+    {
+      "surface": "והקלת",
+      "gloss": "and di thunder dem"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "and e add to"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "do sin again"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "and e make hard"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im hart"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "and im servant dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:23.864639080Z",
+  "model": "glm-5.2"
+}

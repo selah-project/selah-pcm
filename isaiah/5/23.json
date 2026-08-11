@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Dem wey dey justify di wicked person sake of bribe, and dey take away di righteousness of di righteous from am!",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "dem wey dey justify"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "di wicked person"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sake of"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bribe"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "and di righteousness of"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "dey take away"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:18.502934916Z",
+  "model": "glm-5.2"
+}

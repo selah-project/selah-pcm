@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Why ⟨you⟩ dey hide your face, ⟨and⟩ dey forget our trouble and our oppression?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "⟨you⟩ dey hide"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "⟨and⟩ dey forget"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "our trouble"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "and our oppression"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:08.611383949Z",
+  "model": "glm-5.2"
+}

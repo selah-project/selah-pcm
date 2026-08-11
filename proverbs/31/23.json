@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Dem know im husband for di gates, wen ⟨im⟩ dey sit down with di elder dem of di land.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dem know"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "for di gates"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "im husband"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "wen im dey sit down"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "elder dem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "of di land"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:48.098987256Z",
+  "model": "glm-5.2"
+}

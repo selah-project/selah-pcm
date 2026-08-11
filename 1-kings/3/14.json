@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And if you go waka for my ways, to keep my statutes and my commandments, as Dawid wey be your papa bin waka, I go make your days long ⟨for⟩ ⟨את⟩ your days.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "you go waka"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "for my ways"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "to keep"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "my statutes"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "and my commandments"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin waka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "I go make long"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your days"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "your days"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:55.799821043Z",
+  "model": "glm-5.2"
+}

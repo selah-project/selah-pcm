@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 23:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No, my Adonai, hear me: di field I don give you, and di cave wey dey inside am, I don give am to you; for di eye of di sons of my people I don give am to you — bury your dead.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "No"
+    },
+    {
+      "surface": "אֲדֹנִ֣י",
+      "gloss": "my Adonai"
+    },
+    {
+      "surface": "שְׁמָעֵ֔נִי",
+      "gloss": "hear me"
+    },
+    {
+      "surface": "הַשָּׂדֶה֙",
+      "gloss": "di field"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "you"
+    },
+    {
+      "surface": "וְהַמְּעָרָ֥ה",
+      "gloss": "and di cave"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בּ֖וֹ",
+      "gloss": "dey inside am"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "to you"
+    },
+    {
+      "surface": "נְתַתִּ֑יהָ",
+      "gloss": "I don give am"
+    },
+    {
+      "surface": "לְעֵינֵ֧י",
+      "gloss": "for di eye of"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "עַמִּ֛י",
+      "gloss": "my people"
+    },
+    {
+      "surface": "נְתַתִּ֥יהָ",
+      "gloss": "I don give am"
+    },
+    {
+      "surface": "לָּ֖ךְ",
+      "gloss": "to you"
+    },
+    {
+      "surface": "קְבֹ֥ר",
+      "gloss": "bury"
+    },
+    {
+      "surface": "מֵתֶֽךָ",
+      "gloss": "your dead"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:27.495065789Z",
+  "model": "glm-5.2"
+}

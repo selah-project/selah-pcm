@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Truly, I know sey na so; but how man ⟨go⟩ dey righteous wit El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Truly"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "but how"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "⟨go⟩ dey righteous"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:28.889286421Z",
+  "model": "glm-5.2"
+}

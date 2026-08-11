@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "And di chief executioner bin take ⟨את⟩ Sraya di chief priest, and ⟨את⟩ Tsefanyah di second priest, and ⟨את⟩ di three gate-keeper dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and bin take"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chief"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "executioner dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di chief"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "di second"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di three"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "di three"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "keeper dem"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "of di gate"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:41.785819452Z",
+  "model": "glm-5.2"
+}

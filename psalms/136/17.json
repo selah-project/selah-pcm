@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "To di One wey bin strike ⟨את⟩ great kings, because im chesed dey last forever.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "to di One wey bin strike"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "great"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed dey last"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:15.893633284Z",
+  "model": "glm-5.2"
+}

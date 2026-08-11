@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e go slaughter ⟨את⟩ one of di birds inside ⟨an⟩ earthen vessel, on top of living water.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "and e go slaughter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "one of di birds"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "earthen"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "living"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:40.124553277Z",
+  "model": "glm-5.2"
+}

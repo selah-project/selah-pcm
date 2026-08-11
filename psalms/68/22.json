@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Truly, Elohim go crush ⟨im⟩ enemy ⟨dem⟩ head, di hairy scalp of di one wey dey walk for im guilt.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Truly"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "go crush"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "head"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "im enemy ⟨dem⟩"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "di hairy scalp"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hairy"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wey dey walk"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "for im guilt"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:29.748633422Z",
+  "model": "glm-5.2"
+}

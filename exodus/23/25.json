@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And una go serve ⟨את⟩ Yahweh una Elohim, and ⟨im⟩ go bless ⟨את⟩ una bread and ⟨את⟩ una water; and I go comot sickness from inside una.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "and una go serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "and ⟨im⟩ go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una bread"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "una bread"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una water"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "una water"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "and I go comot"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sickness"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "from inside una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:45.658155124Z",
+  "model": "glm-5.2"
+}

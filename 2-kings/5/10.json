@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "So Elisha send messenger to am, sey make e go, and make e wash seven times for Yarden, and im flesh go come back to am, and e go dey clean.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "So send"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "make e go"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "and make e wash"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "times"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "for Yarden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and go come back"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "im flesh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "and e go dey clean"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:52.296969149Z",
+  "model": "glm-5.2"
+}

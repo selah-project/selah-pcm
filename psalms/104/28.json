@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "You give dem, dem dey gather; You open Your hand, dem dey satisfy with good tin.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "You give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "dem dey gather"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "You open"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Your hand"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "dem dey satisfy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "with good tin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:09.371530550Z",
+  "model": "glm-5.2"
+}

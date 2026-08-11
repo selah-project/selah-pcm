@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "and e lay ⟨את⟩ im two hand-dem on top am, and e commission am, as Yahweh bin speak by di hand of Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "and e lay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im two hand-dem"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "im two hand-dem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "and e commission am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by di hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:59:28.664103091Z",
+  "model": "glm-5.2"
+}

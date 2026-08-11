@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 87,
+  "translation": "And for Tsiyon, dem go talk: ⟨na⟩ man and man bin born for am; and na im, di Highest, go establish am.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "And for Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "בה",
+      "gloss": "for am"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and na im"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "go establish am"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "di Highest"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.640191224Z",
+  "model": "glm-5.2"
+}

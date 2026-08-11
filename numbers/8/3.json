@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Aharon do so — toward di front of di menorah e bring up ⟨את⟩ im lamps, as Yahweh bin command ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "do"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toward"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di front"
+    },
+    {
+      "surface": "פני",
+      "gloss": "of"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "di menorah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e bring up"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "im lamps"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:03.833334729Z",
+  "model": "glm-5.2"
+}

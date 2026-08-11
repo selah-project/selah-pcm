@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 2:12",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And wen dem lift ⟨את⟩ dia eye dem from far, dem no fit recognize am; and dem lift up dia voice and cry; and each man tear im own robe, and dem throw dust upon dia head dem toward heaven.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "and dem lift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia eye dem"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dia eye dem"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הכירהו",
+      "gloss": "dem fit recognize am"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "and dem lift up"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dia voice"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and dem cry"
+    },
+    {
+      "surface": "ויקרעו",
+      "gloss": "and dem tear"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "im own robe"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "and dem throw"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dia head dem"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "toward heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:23.732801038Z",
+  "model": "glm-5.2"
+}

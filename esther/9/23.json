@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And di Yehudim bin accept ⟨את⟩ wetin dem bin start to do, and ⟨את⟩ wetin Mordekai bin write to dem.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "and bin accept"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehudim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin dem bin start to do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "dem bin start"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin Mordekai bin write to dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "bin write"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:44.856449629Z",
+  "model": "glm-5.2"
+}

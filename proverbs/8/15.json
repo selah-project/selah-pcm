@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Through me kings dey reign, and rulers dey decree justice.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "through me"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kings"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "dey reign"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "and rulers"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "dey decree"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:31.410332934Z",
+  "model": "glm-5.2"
+}

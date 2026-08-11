@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Yahweh dey hold up di lowly people; e dey bring di wicked people down reach ground.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "dey hold up"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "di lowly people"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "e dey bring down"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "di wicked people"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "reach"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ground"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:20.361509403Z",
+  "model": "glm-5.2"
+}

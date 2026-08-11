@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Yahweh, for your favor you make my mountain stand strong ⟨with⟩ oz; you hide your face, I come dey tremble.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "for your favor"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "you make stand strong"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "my mountain"
+    },
+    {
+      "surface": "עז",
+      "gloss": "strength"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "you hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I come dey"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tremble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:01.874674067Z",
+  "model": "glm-5.2"
+}

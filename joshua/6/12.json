@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Yehoshua wake up early for morning, and di priests carry ⟨את⟩ di ark of Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "And wake up early"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "and carry"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:19.981570577Z",
+  "model": "glm-5.2"
+}

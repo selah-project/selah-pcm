@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 3:15",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And I go strike winter house on top summer house, and houses of ivory go perish, and plenty houses go finish — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְהִכֵּיתִ֥י",
+      "gloss": "and I go strike"
+    },
+    {
+      "surface": "בֵית",
+      "gloss": "house"
+    },
+    {
+      "surface": "הַחֹ֖רֶף",
+      "gloss": "of winter"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house"
+    },
+    {
+      "surface": "הַקָּ֑יִץ",
+      "gloss": "of summer"
+    },
+    {
+      "surface": "וְאָבְד֞וּ",
+      "gloss": "and dem go perish"
+    },
+    {
+      "surface": "בָּתֵּ֣י",
+      "gloss": "houses of"
+    },
+    {
+      "surface": "הַשֵּׁ֗ן",
+      "gloss": "ivory"
+    },
+    {
+      "surface": "וְסָפ֛וּ",
+      "gloss": "and dem go finish"
+    },
+    {
+      "surface": "בָּתִּ֥ים",
+      "gloss": "houses"
+    },
+    {
+      "surface": "רַבִּ֖ים",
+      "gloss": "plenty"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:51.224753568Z",
+  "model": "glm-5.2"
+}

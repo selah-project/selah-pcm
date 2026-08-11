@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Like killing for inside my bones, my adversaries don reproach me, as dem dey talk to me all day, 'Where ⟨be⟩ your Elohim?'",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "like killing"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "for inside my bones"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "dem reproach me"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "my adversaries"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "as dem dey talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "איה",
+      "gloss": "where"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:23.776278177Z",
+  "model": "glm-5.2"
+}

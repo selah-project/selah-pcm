@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And ⟨את⟩ di houses of Yerushalayim una count, and una pull down di houses to fortify di wall.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di houses"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "di houses"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "una count"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "and una pull down"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "di houses"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "to fortify"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "di wall"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:13.523975778Z",
+  "model": "glm-5.2"
+}

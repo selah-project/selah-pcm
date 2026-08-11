@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Yahoshua hear ⟨את⟩ di voice of di people as dem dey shout, and im talk to Mosheh, \"Na di voice of war dey for di camp!\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "And im hear"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di voice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "as dem dey shout"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "of war"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "for di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:20.094130651Z",
+  "model": "glm-5.2"
+}

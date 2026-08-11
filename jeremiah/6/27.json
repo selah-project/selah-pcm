@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 6:27",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "I don make you assayer among my people, ⟨as⟩ fortress; and you go know, and you go test ⟨את⟩ dia way.",
+  "tokens": [
+    {
+      "surface": "בחון",
+      "gloss": "assayer"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "I don make you"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "among my people"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "⟨as⟩ fortress"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "and you go know"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "and you go test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia way"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "dia way"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:42.807790267Z",
+  "model": "glm-5.2"
+}

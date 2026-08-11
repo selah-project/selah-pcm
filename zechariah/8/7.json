@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Like dis Yahweh of hosts don talk: here I am, I dey save ⟨את⟩ my people from land of east, and from land of going-down of sun.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yahweh of hosts don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I am"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "I dey save"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land of"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "east"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "and from land of"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "going-down"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "of sun"
+    }
+  ],
+  "timestamp": "2026-08-11T12:34:31.495070909Z",
+  "model": "glm-5.2"
+}

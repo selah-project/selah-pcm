@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 114,
+  "translation": "From di face of Adonai, earth, shake! From di face of ⟨di⟩ Eloah of Yaakov,",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "shake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:37.743459582Z",
+  "model": "glm-5.2"
+}

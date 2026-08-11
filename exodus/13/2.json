@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Set apart for Me evri firstborn, ⟨wey dey⟩ open evri womb among di pikin-dem of Yisra'el, for man and for animal — na Me get ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Set apart"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for Me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "⟨wey dey⟩ open"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "womb"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "among di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "for man"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "and for animal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na Me get"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:00.566522020Z",
+  "model": "glm-5.2"
+}

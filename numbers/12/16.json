@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And after dat, di pipo move journey from Ḥatserot, and dem pitch camp for wilderness of Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "dem move journey"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "from Ḥatserot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "and dem pitch camp"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for wilderness"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-11T09:52:31.081636993Z",
+  "model": "glm-5.2"
+}

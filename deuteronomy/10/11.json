@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "An Yahweh talk to me: 'Get up, waka go lead di people front, make dem enter an possess ⟨את⟩ di land wey I swear to dia papa-papa to give dem.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "An talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Get up"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waka go"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "lead go front"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "make dem enter"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "an possess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "I swear"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "to dia papa-papa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:10.409839045Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Di wicked person dey plan against di righteous one, and dey grind im teeth on top am.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "dey plan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Di wicked person"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "against di righteous one"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "and dey grind"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "im teeth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:28.126355216Z",
+  "model": "glm-5.2"
+}

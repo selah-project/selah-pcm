@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Di face of Yahweh dey against dose wey dey do bad, to cut off dia memory from ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "against dose wey dey do"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bad"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "to cut off"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from earth"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "dia memory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:40.651839197Z",
+  "model": "glm-5.2"
+}

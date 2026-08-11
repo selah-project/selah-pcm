@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 13:10",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And di woman rush, and run, and tell im husband, and talk to am sey, 'Look, di man wey come to me for daytime don show to me.'",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "and rush"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "and run"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "im husband"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "don show"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "בא",
+      "gloss": "come"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for daytime"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:33:08.892162973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "I go bless ⟨את⟩ Yahweh for evri time; im praise go dey always for my mouth.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "I go bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for evri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "im praise"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "for my mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:54.105837483Z",
+  "model": "glm-5.2"
+}

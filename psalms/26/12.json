@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "My foot don stand for level ground; for di congregations I go bless Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "My foot"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "don stand"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "for level ground"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "for di congregations"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "I go bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:17.772814695Z",
+  "model": "glm-5.2"
+}

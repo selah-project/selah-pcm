@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and di priest go present ⟨dem⟩ before Yahweh, and ⟨he⟩ go make ⟨את⟩ im sin offering and ⟨את⟩ im burnt offering.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "and go present"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "di priest"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im sin offering"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "im sin offering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im burnt offering"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "im burnt offering"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:12.950225873Z",
+  "model": "glm-5.2"
+}

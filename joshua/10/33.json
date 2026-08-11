@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Then Horam, king of Gezer, go up to help ⟨את⟩ Lachish, and Yehoshua strike am and ⟨את⟩ im people, until ⟨he⟩ no leave any survivor for am.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "then"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "to help"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lachish"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lachish"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and strike am"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im people"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "leave"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "survivor"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:24.758588734Z",
+  "model": "glm-5.2"
+}

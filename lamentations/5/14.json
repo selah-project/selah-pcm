@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Elders ⟨don⟩ stop from ⟨di⟩ gate ⟨of assembly⟩, young men from dia music.",
+  "tokens": [
+    {
+      "surface": "זְקֵנִים",
+      "gloss": "Elders"
+    },
+    {
+      "surface": "מִשַּׁעַר",
+      "gloss": "from gate"
+    },
+    {
+      "surface": "שָׁבָתוּ",
+      "gloss": "⟨don⟩ stop"
+    },
+    {
+      "surface": "בַּחוּרִים",
+      "gloss": "young men"
+    },
+    {
+      "surface": "מִנְּגִינָתָם",
+      "gloss": "from dia music"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:55.496302845Z",
+  "model": "glm-5.2"
+}

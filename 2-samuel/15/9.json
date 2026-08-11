@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "Di king bin tell am, 'Go well.' So im bin stand up and im bin go, ⟨to⟩ Chevron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "well"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "im bin stand up"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "im bin go"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Chevron"
+    }
+  ],
+  "timestamp": "2026-08-11T14:35:01.498651745Z",
+  "model": "glm-5.2"
+}

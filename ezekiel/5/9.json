@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go do inside you ⟨את⟩ wetin I never do, and ⟨את⟩ wetin I no go do di like of again, because of all your disgusting things.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "and I go do"
+    },
+    {
+      "surface": "בך",
+      "gloss": "inside you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I do"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "di like of am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "יען",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "your disgusting things"
+    }
+  ],
+  "timestamp": "2026-08-11T12:04:14.579960874Z",
+  "model": "glm-5.2"
+}

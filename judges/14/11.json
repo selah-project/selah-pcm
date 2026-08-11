@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e come be, as dem see am, ⟨dem⟩ take thirty friends, and dem dey wit am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "as dem see"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ am",
+      "marks": "dem take thirty friends"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dem take"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "friends"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem dey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:31:57.038800648Z",
+  "model": "glm-5.2"
+}

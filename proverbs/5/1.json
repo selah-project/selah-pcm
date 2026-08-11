@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "My son, make you ear siddon for my wisdom, bend your ear to my understanding.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "to my wisdom"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "make you ear siddon"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "to my understanding"
+    },
+    {
+      "surface": "הט",
+      "gloss": "bend"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "your ear"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:51.729027569Z",
+  "model": "glm-5.2"
+}

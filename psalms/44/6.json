@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "For Your sake we dey push down our enemies; for Your name we dey trample those wey rise against us.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "For Your sake"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "our enemies"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "we dey push down"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "for Your name"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "we dey trample"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "those wey rise against us"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:50.182139428Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So Elohim make ⟨את⟩ di two big lights — ⟨את⟩ di big light to rule ⟨di⟩ day, and ⟨את⟩ di small light to rule ⟨di⟩ night — ⟨and⟩ ⟨את⟩ di stars.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "make"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two big lights"
+    },
+    {
+      "surface": "שני",
+      "gloss": "two"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "lights"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "big"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di big light"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "light"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "big"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "to rule"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨di⟩ day"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di small light"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "light"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "to rule"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨di⟩ night"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨and⟩ ⟨את⟩",
+      "marks": "di stars"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "stars"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:36.028099462Z",
+  "model": "glm-5.2"
+}

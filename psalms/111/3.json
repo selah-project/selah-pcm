@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 111,
+  "translation": "Splendor and majesty ⟨be⟩ im work, and im righteousness dey stand forever.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Splendor"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "and majesty"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "im work"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "and im righteousness"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "dey stand"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:21.502837071Z",
+  "model": "glm-5.2"
+}

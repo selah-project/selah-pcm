@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Then Eli call ⟨את⟩ Samuel, and ⟨im⟩ talk sey, Samuel, my son. And ⟨im⟩ talk sey, here I dey.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "then ⟨im⟩ call"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk sey"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk sey"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:37.250881324Z",
+  "model": "glm-5.2"
+}

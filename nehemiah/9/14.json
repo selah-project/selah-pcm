@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And ⟨את⟩ your holy Sabbath you bin make known to dem, and commandments and decrees and Torah you bin command for dem, by hand of Moshe, your servant.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "your holy Sabbath"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "your holy"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "you bin make known"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "and commandments"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "and decrees"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "and Torah"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "you bin command"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand of"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:55.966095991Z",
+  "model": "glm-5.2"
+}

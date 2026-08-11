@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "and ⟨את⟩ di turban of fine linen, and ⟨את⟩ di ornate head-tire dem of fine linen, and ⟨את⟩ di trouser dem of linen, fine twined linen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "di turban"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fine linen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di ornate head-tire dem"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ornate head-tire dem"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "cap dem"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fine linen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di trouser dem"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "trouser dem"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fine linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "twined"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:44.428705945Z",
+  "model": "glm-5.2"
+}

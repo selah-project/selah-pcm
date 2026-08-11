@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Dis ⟨be⟩ di animal-dem wey una fit eat: cow, sheep of di ram-dem, and sheep of di goat-dem.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "di animal-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "una fit eat"
+    },
+    {
+      "surface": "שור",
+      "gloss": "cow"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "of di ram-dem"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "and sheep"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "of di goat-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:14.013592488Z",
+  "model": "glm-5.2"
+}

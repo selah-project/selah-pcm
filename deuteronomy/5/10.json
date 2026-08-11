@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "and wey dey do chesed to thousands, to dem wey love me, and to dem wey dey keep my commandments.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "and wey dey do"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "to thousands"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "to dem wey love me"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "and to dem wey dey keep"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "my commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:34.432902082Z",
+  "model": "glm-5.2"
+}

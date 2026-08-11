@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Di voice of my beloved! See am, e dey come, e dey leap on top di mountain, e dey jump on top di hill.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "di voice"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "of my beloved"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see am"
+    },
+    {
+      "surface": "זה",
+      "gloss": "e"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dey come"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "e dey leap"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "e dey jump"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "di hill"
+    }
+  ],
+  "timestamp": "2026-08-11T13:28:11.199250459Z",
+  "model": "glm-5.2"
+}

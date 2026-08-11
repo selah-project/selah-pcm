@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "Di dead dem no dey praise Yah, and no be all dem wey dey go down ⟨go⟩ silence.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "di dead dem"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "dey praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no be"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "dem wey dey go down"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "silence"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:11.713326138Z",
+  "model": "glm-5.2"
+}

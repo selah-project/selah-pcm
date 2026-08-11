@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Wey dem dey praise, I go call Yahweh; and from my enemies I go dey saved.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "wey dem dey praise"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I go call"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומאיבי",
+      "gloss": "and from my enemies"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "I go dey saved"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:02.788687814Z",
+  "model": "glm-5.2"
+}

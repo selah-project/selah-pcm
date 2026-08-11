@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Each person, im mama and im papa, make una fear; and ⟨את⟩ my Shabbat dem, make una keep; I, Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "each person"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "im mama"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "and im papa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "make una fear"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my Shabbat dem"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "my Shabbat dem"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "make una keep"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:05.897124499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 98,
+  "translation": "Yahweh don make ⟨im⟩ salvation known; before di eyes of di nations ⟨e⟩ don reveal im righteousness.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "don make known"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "im salvation"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "before di eyes of"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "don reveal"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "im righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:51.662213225Z",
+  "model": "glm-5.2"
+}

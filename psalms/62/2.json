@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Only to Elohim ⟨my⟩ life dey silent; from am ⟨come⟩ my deliverance.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "dey silent"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "my deliverance"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:32.343259899Z",
+  "model": "glm-5.2"
+}

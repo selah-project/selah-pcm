@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And dem bin serve di idol-dem, wey Yahweh bin tell dem sey, Una no go do ⟨את⟩ dis tin.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "and dem bin serve"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "di idol-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "go do"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis tin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:43.548723507Z",
+  "model": "glm-5.2"
+}

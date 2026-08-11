@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Yahweh talk to Mosheh, Stretch your hand on top land of Mitsrayim for di locust, make ⟨e⟩ climb on top land of Mitsrayim, and make ⟨e⟩ chop ⟨את⟩ evri grass of di land — ⟨את⟩ evri wetin di hail don leave.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Stretch"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "for di locust"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and make ⟨e⟩ climb"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "and make ⟨e⟩ chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri grass of di land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "of di land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "evri wetin di hail don leave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "don leave"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "di hail"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:31.191703047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 1:11",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Nathan bin talk to Bath-Sheba, mama of Solomon, say: ⟨You⟩ never hear sey Adonijah, son of Haggith, don become king, and David wey be our lord no know?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama of"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "never"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "⟨you⟩ hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "don become king"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Haggith"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "and wey be our lord"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "know"
+    }
+  ],
+  "timestamp": "2026-08-11T10:56:48.754584564Z",
+  "model": "glm-5.2"
+}

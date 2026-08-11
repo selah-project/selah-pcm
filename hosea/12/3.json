@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And Yahweh get case wit Yehudah, and go visit Yaakov according to im ways; according to im deeds ⟨im⟩ go repay am.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "and ⟨get⟩ case"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "and to visit"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "according to im ways"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "according to im deeds"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "go repay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:34.960951449Z",
+  "model": "glm-5.2"
+}

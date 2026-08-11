@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Throne of glory, high up from ⟨di⟩ beginning, ⟨na⟩ di place of our sanctuary.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "Throne"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "of glory"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "high up"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "from beginning"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "of our sanctuary"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:52.234188705Z",
+  "model": "glm-5.2"
+}

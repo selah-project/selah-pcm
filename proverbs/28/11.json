@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Rich man ⟨be⟩ papa wey get sense for im own eye; but poor man wey get understand go search am deep.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "papa wey get sense"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "for im own eye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rich"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "but poor man"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "wey get understand"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "go search am deep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:23.374866752Z",
+  "model": "glm-5.2"
+}

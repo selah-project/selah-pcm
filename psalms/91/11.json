@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "Because im messengers, ⟨e⟩ go command concerning you, to guard you for all your ways.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "im messengers"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "go command"
+    },
+    {
+      "surface": "לך",
+      "gloss": "concerning you"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "to guard you"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "your ways"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:03.210077107Z",
+  "model": "glm-5.2"
+}

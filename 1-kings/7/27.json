@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And e make ⟨את⟩ di ten stand dem wit copper; four cubit na di length of one stand, and four cubit im width, and three cubit im height.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ten stand dem"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "di stand dem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "wit copper"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "length"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "di stand"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "and four"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "for cubit"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "im height"
+    }
+  ],
+  "timestamp": "2026-08-11T11:00:10.694480968Z",
+  "model": "glm-5.2"
+}

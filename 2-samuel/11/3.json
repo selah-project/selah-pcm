@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So Dawid bin send and bin ask about di woman, and one talk sey, ⟨na⟩ dis no ⟨be⟩ Bat-Sheva, daughter of Eliam, wife of Uriyah di Hittite?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "and bin ask about"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and one talk sey"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter of"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife of"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "di Hittite"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:16.804566654Z",
+  "model": "glm-5.2"
+}

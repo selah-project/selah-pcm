@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Yechizqiyahu ask di priests and di Levites about di heaps.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "and ask"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizqiyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "and di Levites"
+    },
+    {
+      "surface": "על",
+      "gloss": "about"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "di heaps"
+    }
+  ],
+  "timestamp": "2026-08-11T14:14:47.143748241Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Many shepherds don destroy my vineyard, dem trample ⟨את⟩ my plot; dem turn ⟨את⟩ di plot of my delight to desert wey waste.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "shepherds"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "many"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "don destroy"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "my vineyard"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "dem trample"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my plot"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "my plot"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dem turn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plot of my delight"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "plot"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "of my delight"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "to desert"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "wey waste"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:51.563079878Z",
+  "model": "glm-5.2"
+}

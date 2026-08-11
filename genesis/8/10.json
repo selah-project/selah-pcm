@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And im wait again seven oda days, and im come add send ⟨את⟩ di dove comot from di ark.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "and im wait"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "and im come add"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di dove"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "di dove"
+    },
+    {
+      "surface": "מן",
+      "gloss": "comot from"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "di ark"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:55.967447237Z",
+  "model": "glm-5.2"
+}

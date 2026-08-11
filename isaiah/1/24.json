@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Therefore — oracle of Adonai, Yahweh of hosts, di Mighty One of Yisra'el: Hah! ⟨Me⟩ go find relief from My adversaries, and ⟨Me⟩ go take revenge from My enemies.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Therefore"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "di Mighty One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hah!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "⟨Me⟩ go find relief"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "from My adversaries"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "and ⟨Me⟩ go take revenge"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "from My enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:14.471365662Z",
+  "model": "glm-5.2"
+}

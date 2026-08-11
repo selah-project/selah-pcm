@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Still today, ⟨e go⟩ stand for Nob; ⟨e dey⟩ wave im hand toward di mount of ⟨daughter⟩ Zion, di hill of Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "for Nob"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stand"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "⟨e dey⟩ wave"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "הר",
+      "gloss": "toward di mount of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨daughter⟩"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "di hill of"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:50.163562802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "make I sow, and anoda pesin chop ⟨am⟩, and my pikin-dem make dem pull from di root!",
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "make I sow"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and anoda pesin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chop"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "and my pikin-dem"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "make dem pull from di root"
+    }
+  ],
+  "timestamp": "2026-08-11T15:00:26.460121283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Dis na yua lot, di share of yua measure from ⟨את⟩ me — oracle of Yahweh — because you forget me, and you trust for lie.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "yua lot"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "di share"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "of yua measure"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩",
+      "marks": "from me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "you forget"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "and you trust"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "for lie"
+    }
+  ],
+  "timestamp": "2026-08-11T11:45:23.747071637Z",
+  "model": "glm-5.2"
+}

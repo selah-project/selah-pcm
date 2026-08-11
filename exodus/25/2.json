@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Talk to ⟨di⟩ sons of Yisra'el, make dem take contribution for Me — ⟨את⟩ from evri man wey im heart dey move am, una go take ⟨את⟩ my contribution.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "make dem take"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for Me"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "contribution"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ from"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "e dey move am"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "im heart"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "una go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my contribution"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "my contribution"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:32.870316303Z",
+  "model": "glm-5.2"
+}

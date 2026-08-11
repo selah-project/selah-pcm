@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Seven weeks you go count for yourself; from when sickle begin ⟨to touch⟩ ⟨the⟩ standing grain, you go begin to count seven weeks.",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "weeks"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "you go count"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "from when begin"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "sickle"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "standing grain"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "you go begin"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "to count"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "weeks"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:27.665237170Z",
+  "model": "glm-5.2"
+}

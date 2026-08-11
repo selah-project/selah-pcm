@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And e bin make ⟨את⟩ all di ones wey dem find for Yerushalayim and Binyamin to stand; and di pipo wey dey live for Yerushalayim bin do like di covenant of Elohim, Elohim of dia papa dem.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "and bin make to stand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "di ones wey dem find"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "and Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and bin do"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "di pipo wey dey live"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "like di covenant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "of dia papa dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:16:25.954515425Z",
+  "model": "glm-5.2"
+}

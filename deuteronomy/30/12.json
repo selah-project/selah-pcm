@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "E no dey for heaven, so sey ⟨person⟩ go talk, 'Who go climb go heaven for us, and carry am come for us, and make us hear am, ⟨את⟩, and we go do am?'",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e dey"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "so sey go talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "go climb"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "go heaven"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "and carry am come"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "and make us hear am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am (di commandment)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "and we go do am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:44.837514359Z",
+  "model": "glm-5.2"
+}

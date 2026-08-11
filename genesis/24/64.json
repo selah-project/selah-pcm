@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Ribkah bin lift up ⟨את⟩ ⟨im⟩ eyes, and bin see ⟨את⟩ Yitschak, and bin fall down from on top di camel.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "and bin lift up"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨im⟩ eyes"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "⟨im⟩ eyes"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "and bin see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "and bin fall down"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from on top"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "di camel"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:32.076713895Z",
+  "model": "glm-5.2"
+}

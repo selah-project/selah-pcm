@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "As Adonai bin make camp of Aram hear sound of chariot, sound of horse, ⟨את⟩ sound of great army, dem bin talk, man to im brother, say, Han, king of Israel don hire against us ⟨את⟩ kings of di Hittites and ⟨את⟩ kings of Mitsrayim, to come against us!",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "as Adonai"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "bin make hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "camp of Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "of Aram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "of chariot"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound",
+      "marks": "sound of horse"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "of horse"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sound",
+      "marks": "sound of great army"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dem bin talk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brother"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "say, han"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "don hire"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "against us"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kings of di Hittites"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "of di Hittites"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "kings of Mitsrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "to come"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "against us"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.868951164Z",
+  "model": "glm-5.2"
+}

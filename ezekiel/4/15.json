@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And ⟨He⟩ bin talk to me, \"See, I don give you ⟨את⟩ cow dung instead of human dung, and you go make ⟨את⟩ your bread on top am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "See"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cow dung"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "dung"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "cow"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "dung"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "human"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your bread"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "your bread"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:03:47.092406607Z",
+  "model": "glm-5.2"
+}

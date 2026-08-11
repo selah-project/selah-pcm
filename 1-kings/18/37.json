@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Answer me, Yahweh, answer me, make ⟨say⟩ dis people sabi sey na You ⟨be⟩ Yahweh ⟨di⟩ Elohim, and na You turn ⟨את⟩ dia heart back.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Answer me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "make ⟨say⟩ ... sabi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dis people"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨di⟩ Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and na You"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "turn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia heart"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "back"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:27.502365091Z",
+  "model": "glm-5.2"
+}

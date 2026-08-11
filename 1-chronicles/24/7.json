@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di first lot bin come out for Yehoyariv, for Yed'ayah di second.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "di lot"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "for Yehoyariv"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "for Yed'ayah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di second"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.848148365Z",
+  "model": "glm-5.2"
+}

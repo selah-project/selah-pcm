@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And una no go profane ⟨את⟩ di name of my holiness; and I go dey sanctified among di children of Yisrael; ⟨na⟩ me ⟨be⟩ Yahweh, wey dey sanctify una.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "una go profane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name of my holiness"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "of my holiness"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "and I go dey sanctified"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "among"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨na⟩ me ⟨be⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wey dey sanctify una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:02.449179566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And dem give dem ⟨את⟩ di town-dem of refuge: ⟨את⟩ Shekem and ⟨את⟩ im pasture-land-dem for hill of Efrayim, and ⟨את⟩ Gezer and ⟨את⟩ im pasture-land-dem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "and dem give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di town-dem of refuge"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "town-dem"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "of refuge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im pasture-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im pasture-land-dem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "for hill"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "of Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im pasture-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im pasture-land-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:09.837539791Z",
+  "model": "glm-5.2"
+}

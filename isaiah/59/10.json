@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 59,
+  "translation": "We dey grope for wall like blind ⟨people⟩, and like person wey no get eye we dey grope; we stumble for afternoon like for twilight, for ruin ⟨places⟩ like dead ⟨people⟩.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "we dey grope"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "like blind"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "wall"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "and like person wey no get"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "eye"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "we dey grope"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "we stumble"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "for afternoon"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "like for twilight"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "for ruin"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "like dead"
+    }
+  ],
+  "timestamp": "2026-08-11T11:37:43.192662946Z",
+  "model": "glm-5.2"
+}

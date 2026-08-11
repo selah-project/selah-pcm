@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "deer, and gazelle, and roe deer, and wild goat, and pygarg, and wild ox, and mountain sheep.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "deer"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "and gazelle"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "and roe deer"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "and wild goat"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "and pygarg"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "and wild ox"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "and mountain sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:54.044506870Z",
+  "model": "glm-5.2"
+}

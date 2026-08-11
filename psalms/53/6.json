@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "For dia, fear bin catch dem — fear wey no bin dey; sake of sey Elohim don scatter di bones of di one wey camp against you. You don put dem to shame, sake of sey Elohim don reject dem.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "for dia"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "fear bin catch dem"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fear"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "don scatter"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "di bones"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "of di one wey camp against you"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "you don put dem to shame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "don reject dem"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.835193258Z",
+  "model": "glm-5.2"
+}

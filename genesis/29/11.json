@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Ya'akov kiss Rachel, and e lift up ⟨את⟩ im voice, and e cry.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "and e kiss"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "and e lift up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im voice"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "im voice"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "and e cry"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:05.524233210Z",
+  "model": "glm-5.2"
+}

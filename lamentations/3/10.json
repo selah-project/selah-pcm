@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Bear wey dey ambush, na im ⟨be⟩ to me, lion for hiding place dem.",
+  "tokens": [
+    {
+      "surface": "דֹּב",
+      "gloss": "Bear"
+    },
+    {
+      "surface": "אֹרֵב",
+      "gloss": "wey dey ambush"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lion"
+    },
+    {
+      "surface": "בְּמִסְתָּרִים",
+      "gloss": "for hiding place dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:09.858253730Z",
+  "model": "glm-5.2"
+}

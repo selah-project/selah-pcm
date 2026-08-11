@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 5:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Because vineyard of Yahweh of hosts ⟨na⟩ house of Israel, and di man of Yehudah ⟨na⟩ ⟨im⟩ pleasant planting: and ⟨he⟩ look for justice, and see, oppression; for righteousness, and see, cry.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "and di man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "planting"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "im pleasant"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "and ⟨he⟩ look"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "for justice"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "oppression"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "for righteousness"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "cry"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:40.228022470Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Because from inside prison e come out make e king; because even for im kingdom, poor man born.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from inside"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "prison"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e come out"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "make e king"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "for im kingdom"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "born"
+    },
+    {
+      "surface": "רש",
+      "gloss": "poor man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:26.720189547Z",
+  "model": "glm-5.2"
+}

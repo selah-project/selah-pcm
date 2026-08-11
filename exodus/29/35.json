@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go do like dis for Aharon and for im sons, according to all wetin I don command ⟨את⟩ you; seven days you go fill dia hand.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go do"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "for Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "and for im sons"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "I don command"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "you"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "you go fill"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dia hand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:04.884308055Z",
+  "model": "glm-5.2"
+}

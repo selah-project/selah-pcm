@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And Yahweh tok say to am, 'Because I go dey wit you, you go strike ⟨את⟩ Midyan as one man.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok say"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "I go dey"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "you go strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "as one man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T10:28:26.605968142Z",
+  "model": "glm-5.2"
+}

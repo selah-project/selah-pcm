@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "So David still ask Yahweh again, and Yahweh answer am, and talk: \"Stand up, go down Keilah, because na Me dey give ⟨את⟩ Pelishtim dem inside your hand.\"",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "so ⟨he⟩ still"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאol",
+      "gloss": "to ask"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "and answer am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "רד",
+      "gloss": "go down"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dey give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim dem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "inside your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:16.998032555Z",
+  "model": "glm-5.2"
+}

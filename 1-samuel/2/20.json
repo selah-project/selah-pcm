@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And Eli bin dey bless ⟨את⟩ Elkanah and ⟨את⟩ im wife, and ⟨he⟩ bin dey talk, 'Make Yahweh give you seed from dis woman, in place of di loan wey ⟨dem⟩ ask for Yahweh.' And dem go go to dia place.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "and bin dey bless"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im wife"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and bin dey talk"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "make ⟨im⟩ give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "you"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "di woman"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in place of"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "di loan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dem ask"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "and dem go go"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "to dia place"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:10.267598161Z",
+  "model": "glm-5.2"
+}

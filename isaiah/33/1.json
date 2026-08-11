@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Woe unto you, you wey dey destroy, and you neva bin dey destroyed! You wey dey act treacherously, and dem neva bin act treacherously against you! Wen you finish to destroy, dem go destroy you; wen you finish to act treacherously, dem go act treacherously against you.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woe"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "you wey dey destroy"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "bin dey destroyed"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "you wey dey act treacherously"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and dem neva"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "act treacherously"
+    },
+    {
+      "surface": "בו",
+      "gloss": "against you"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "wen you finish"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "dem go destroy you"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "wen you finish"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "to act treacherously"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "dem go act treacherously"
+    },
+    {
+      "surface": "בך",
+      "gloss": "against you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:42:05.075039251Z",
+  "model": "glm-5.2"
+}

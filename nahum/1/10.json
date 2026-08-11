@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because entangled like thorns, and drunk like dia drink, dem don devour dem, like dry stubble wey full.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עד",
+      "gloss": "while"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "thorns"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "entangled"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "and like dia drink"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "drunk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "dem don devour dem"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "like stubble"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "dry"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "full"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:01.417636234Z",
+  "model": "glm-5.2"
+}

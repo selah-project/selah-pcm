@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "she dey prepare ⟨im⟩ food for summer; she dey gather ⟨im⟩ food for harvest.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "she dey prepare"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "for summer"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "im food"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "she dey gather"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "for harvest"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "im food"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:11.372906740Z",
+  "model": "glm-5.2"
+}

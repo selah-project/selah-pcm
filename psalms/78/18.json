@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And dem try El for dia heart, to ask food for dia appetite.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "and dem try"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "for dia heart"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "to ask"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "food"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "for dia appetite"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:43.071086048Z",
+  "model": "glm-5.2"
+}

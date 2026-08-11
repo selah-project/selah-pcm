@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Show favor to me, Yahweh, sey I ⟨don⟩ waste away; heal me, Yahweh, sey my bones ⟨don⟩ tremble.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "show favor to me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "I ⟨don⟩ waste away"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "heal me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "tremble"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my bones"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:37.257595671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And ⟨di⟩ lying-down of dew go up, and look! upon di face of ⟨di⟩ wilderness, ⟨something⟩ fine, flake-like, fine like frost upon ⟨di⟩ earth.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "and go up"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lying-down"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "⟨di⟩ dew"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and look!"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨di⟩ wilderness"
+    },
+    {
+      "surface": "דק",
+      "gloss": "fine"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "flake-like"
+    },
+    {
+      "surface": "דק",
+      "gloss": "fine"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "like frost"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:05.487316798Z",
+  "model": "glm-5.2"
+}

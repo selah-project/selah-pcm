@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "So di Pelishtim dem bin gather ⟨את⟩ all dia camp dem go Afek, and Yisrael bin dey camp for di spring wey dey for Yizre'el.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "bin gather"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dia camp dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "dia camp dem"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "and Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "bin dey camp"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "for di spring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "dey for Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:03.265068137Z",
+  "model": "glm-5.2"
+}

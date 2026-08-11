@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 10:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Den Yehoshua speak to Yahweh, for di day wey Yahweh ⟨bin⟩ give ⟨את⟩ di Emori before pikin-dem of Yisra'el; and e talk for di eyes of Yisra'el: \"Sun, for Giv'on, stop; and moon, for di valley of Ayalon.\"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "den"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "speak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "תת",
+      "gloss": "give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Emori"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for di eyes of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "for Giv'on"
+    },
+    {
+      "surface": "דום",
+      "gloss": "stop"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "and moon"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "for di valley of"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:07.310102072Z",
+  "model": "glm-5.2"
+}

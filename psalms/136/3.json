@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 136,
+  "translation": "Make una give thanks to Adonai of ⟨di⟩ lords, sey im chesed go stay forever.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "make una give thanks"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "to Adonai of"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "⟨di⟩ lords"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "im chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:22.264616600Z",
+  "model": "glm-5.2"
+}

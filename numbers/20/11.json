@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Mosheh bin raise ⟨את⟩ im hand, and ⟨im⟩ strike ⟨את⟩ di rock wit im staff two time; and plenti water bin come out, and di congregation bin drink, and dia animals too.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "and bin raise"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di rock"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "di rock"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "wit im staff"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "two time"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and bin come out"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenti"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "and bin drink"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "di congregation"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "and dia animals too"
+    }
+  ],
+  "timestamp": "2026-08-11T09:56:43.113311773Z",
+  "model": "glm-5.2"
+}

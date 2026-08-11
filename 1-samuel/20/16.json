@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "So Yehonatan cut covenant wit di family of David, ⟨saying⟩: “Make Yahweh seek am from di hand of David im enemies.”",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "so ⟨e⟩ cut"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "family"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "and make ⟨e⟩ seek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:08.946097937Z",
+  "model": "glm-5.2"
+}

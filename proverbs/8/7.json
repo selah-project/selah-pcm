@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Because my palate dey ponder truth, and abomination to my lips ⟨na⟩ wickedness.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "truth"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "dey ponder"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "my palate"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "and abomination"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "to my lips"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:32.727539351Z",
+  "model": "glm-5.2"
+}

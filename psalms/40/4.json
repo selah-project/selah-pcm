@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And ⟨he⟩ put inside my mouth new song, praise to Elohim wey be we own; plenty people go see and fear, and trust for Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨he⟩ put"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "inside my mouth"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "praise"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "to Elohim wey be we own"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "dem go see"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plenty people"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "and fear"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "and trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:29.286593859Z",
+  "model": "glm-5.2"
+}

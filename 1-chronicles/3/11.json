@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yoram im son, Achazyahu im son, Yoash im son,",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im son"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:52.926696886Z",
+  "model": "glm-5.2"
+}

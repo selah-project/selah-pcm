@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And di servant tell Yitschak ⟨את⟩ all di things wey im don do.",
+  "tokens": [
+    {
+      "surface": "וסיפר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "di servant"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di things"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di things"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "im don do"
+    }
+  ],
+  "timestamp": "2026-08-11T14:18:42.967337534Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Because of dis I go lament and I go howl, I go walk barefoot and naked; I go make lamentation like jackals, and mourning like daughters of ostrich.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Because of"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "I go lament"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "and I go howl"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "I go walk"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "barefoot"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "and naked"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go make"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "lamentation"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "like jackals"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "and mourning"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "like daughters of"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ostrich"
+    }
+  ],
+  "timestamp": "2026-08-11T14:52:12.428539Z",
+  "model": "glm-5.2"
+}

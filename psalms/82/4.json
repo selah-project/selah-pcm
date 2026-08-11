@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 82,
+  "translation": "Make di weak person and di poor person escape; from hand of wicked people snatch dem.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "make"
+    },
+    {
+      "surface": "דל",
+      "gloss": "di weak person"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and di poor person"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "escape"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "from hand of wicked people"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "snatch dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:26.174511991Z",
+  "model": "glm-5.2"
+}

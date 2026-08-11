@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Build houses, and siddon inside; plant gardens, and chop ⟨את⟩ im fruit.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Build"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "houses"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "and siddon"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "and plant"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "gardens"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "and chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im fruit"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "fruit"
+    }
+  ],
+  "timestamp": "2026-08-11T11:51:17.620290900Z",
+  "model": "glm-5.2"
+}

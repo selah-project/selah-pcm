@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And Shaul gather ⟨את⟩ di people, and e count dem for Telaim — two hundred thousand foot soldiers, and ten thousand ⟨את⟩ men of Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "and gather"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "and e count dem"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "for Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "two hundred"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "foot soldiers"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "and ten"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "men of Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:41:03.637052644Z",
+  "model": "glm-5.2"
+}

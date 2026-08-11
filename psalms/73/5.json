@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "For di trouble wey dey for mortal man, dem no get am; and wit ordinary human being, dem no dey suffer.",
+  "tokens": [
+    {
+      "surface": "בַּעֲמַ֣ל",
+      "gloss": "for di trouble"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "wey dey for mortal man"
+    },
+    {
+      "surface": "אֵינֵ֑מוֹ",
+      "gloss": "dem no get am"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "and wit"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "ordinary human being"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "dem no"
+    },
+    {
+      "surface": "יְנֻגָּֽעוּ",
+      "gloss": "dey suffer"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:52.097668672Z",
+  "model": "glm-5.2"
+}

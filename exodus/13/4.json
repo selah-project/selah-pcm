@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Today, una dey comot, for di month of Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Today"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "dey comot"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for di month of"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-08-11T09:25:00.566847768Z",
+  "model": "glm-5.2"
+}

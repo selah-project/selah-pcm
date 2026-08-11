@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "Like shadow wey dey lean, I don waka; dem don shake me off like locust.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Like shadow"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "wey dey lean"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "I don waka"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "dem don shake me off"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "like locust"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:18.493136618Z",
+  "model": "glm-5.2"
+}

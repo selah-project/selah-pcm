@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And e send ⟨את⟩ di young men of di pikin-dem of Yisra'el, and dem bin make burnt offering-dem go up, and dem bin slaughter sacrifice-dem of peace offering-dem to Yahweh, ⟨na⟩ young bull-dem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and e send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di young men"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "young men"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "and dem make go up"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "burnt offering-dem"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "and dem slaughter"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sacrifice-dem"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "of peace offering-dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "young bull-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:06.551530677Z",
+  "model": "glm-5.2"
+}

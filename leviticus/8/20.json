@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨את⟩ di ram ⟨dem⟩ cut am into im pieces, and Moshe burn ⟨את⟩ di head and ⟨את⟩ di pieces and ⟨את⟩ di fat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "And ⟨את⟩",
+      "marks": "di ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "di ram"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "⟨dem⟩ cut am"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "into im pieces"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "and burn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di head"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pieces"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "di pieces"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fat"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "di fat"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:13.974887900Z",
+  "model": "glm-5.2"
+}

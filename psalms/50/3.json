@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "Make our Elohim come, and make e no keep quiet: fire go dey chop before am, and round about am e go dey storm well-well.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "make ⟨im⟩ come"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make no"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "keep quiet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go dey chop"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "and round about am"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "go dey storm"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:26.458571671Z",
+  "model": "glm-5.2"
+}

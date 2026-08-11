@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Your silver don become dross, your wine dem cut-am down wit water.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "Your silver"
+    },
+    {
+      "surface": "היה",
+      "gloss": "don become"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "dross"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "your wine"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "dem cut-am down"
+    },
+    {
+      "surface": "במים",
+      "gloss": "wit water"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:14.471048152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "But ⟨you suppose⟩ surely kill am; your hand go be di first against am to put am to death, and di hand of all di people go follow for di end.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "but"
+    },
+    {
+      "surface": "הָרֹג",
+      "gloss": "kill"
+    },
+    {
+      "surface": "תַּהַרְגֶנּוּ",
+      "gloss": "you surely kill am"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "against am"
+    },
+    {
+      "surface": "בָרִאשׁוֹנָה",
+      "gloss": "for di first"
+    },
+    {
+      "surface": "לַהֲמִיתוֹ",
+      "gloss": "to put am to death"
+    },
+    {
+      "surface": "וְיַד",
+      "gloss": "and di hand"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בָּאַחֲרֹנָה",
+      "gloss": "for di end"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:30.776493510Z",
+  "model": "glm-5.2"
+}

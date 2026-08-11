@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 27:27",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And im come near and kiss am; and im perceive ⟨את⟩ di smell of im clothes, and im bless am. And im talk say, see! di smell of my son, like di smell of field wey Yahweh don bless.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "and im come near"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and im kiss"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "and im perceive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di smell"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smell"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "of im clothes"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "and im bless am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see!"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "smell"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of my son"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "like smell"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "field"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "don bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:55.383959158Z",
+  "model": "glm-5.2"
+}

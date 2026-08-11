@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di king of Apek, one; di king of Lasharon, one;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "of Apek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "of Lasharon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:40.000800558Z",
+  "model": "glm-5.2"
+}

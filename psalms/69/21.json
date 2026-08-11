@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "Shame don break my heart, and I dey sick; and I bin dey wait make somebody nod sympathy, but notin dey; and for comforters, but I no find any.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "shame"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "don break"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "and I dey sick"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "and I bin dey wait"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "make somebody nod"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "but notin dey"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "and for comforters"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "I find"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:26.500105137Z",
+  "model": "glm-5.2"
+}

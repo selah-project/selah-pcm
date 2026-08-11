@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Make una surround ⟨את⟩ di city, all di men of war, go round ⟨את⟩ di city one time; na so you go do for six days.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "make una surround"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "of war"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "go round"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "time"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "כה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    }
+  ],
+  "timestamp": "2026-08-11T14:30:26.206767086Z",
+  "model": "glm-5.2"
+}

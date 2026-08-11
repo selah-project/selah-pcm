@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And now, swear to me by Yahweh, if you go cut off ⟨את⟩ my seed after me, and if you go wipe out ⟨את⟩ my name from my papa house.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "swear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "you go cut off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seed"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "my seed"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after me"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "you go wipe out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my name"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from ⟨di⟩ house"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "of my papa"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:18.348714129Z",
+  "model": "glm-5.2"
+}

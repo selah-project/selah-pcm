@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Man no go stand firm for wickedness, but di root of di righteous ones no go shake at all.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "go stand firm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "for wickedness"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "but di root"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "of di righteous ones"
+    },
+    {
+      "surface": "בל",
+      "gloss": "at all"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "go shake"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:01.309525658Z",
+  "model": "glm-5.2"
+}

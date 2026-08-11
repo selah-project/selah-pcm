@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Yahweh don make ⟨imself⟩ know, ⟨im⟩ do judgement; for di work of im own hand dem wicked man don entrap. Higgaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "don make know"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "judgement"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "for di work"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "of im hand"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "don entrap"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:46.753349706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "For di sin of evil man, ⟨na⟩ snare; but di righteous man go sing and glad.",
+  "tokens": [
+    {
+      "surface": "בְּפֶ֤שַֽׁע",
+      "gloss": "For di sin"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "man"
+    },
+    {
+      "surface": "רָ֣ע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "מוֹקֵ֑שׁ",
+      "gloss": "snare"
+    },
+    {
+      "surface": "וְ֝צַדִּ֗יק",
+      "gloss": "but di righteous"
+    },
+    {
+      "surface": "יָר֥וּן",
+      "gloss": "go sing"
+    },
+    {
+      "surface": "וְשָׂמֵֽחַ",
+      "gloss": "and glad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:57.883328745Z",
+  "model": "glm-5.2"
+}

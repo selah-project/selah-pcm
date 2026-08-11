@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Di divided-mind ones I don hate, and your Torah I don love.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "di divided-mind ones"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "I don hate"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "and your Torah"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "I don love"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:00.659288016Z",
+  "model": "glm-5.2"
+}

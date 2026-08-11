@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "Who ⟨be⟩ for me for heaven? And beside you, I no desire anytin for earth.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Who"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "for heaven"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "And beside you"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "I desire"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for earth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:56.823444944Z",
+  "model": "glm-5.2"
+}

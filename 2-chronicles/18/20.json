@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And di spirit bin comot and stand before Yahweh, and e bin talk, \"I go entice am.\" And Yahweh bin talk to am, \"With wetin?\"",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "and bin comot"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "di spirit"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "go entice am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "במה",
+      "gloss": "with wetin"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:58.167681564Z",
+  "model": "glm-5.2"
+}

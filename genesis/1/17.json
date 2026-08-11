@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Elohim put ⟨את⟩ dem for di space of di heaven, to dey shine on top di earth.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (di two big light and di star dem)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "for di space"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of di heaven"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "to dey shine"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:07.438526662Z",
+  "model": "glm-5.2"
+}

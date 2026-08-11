@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Because ash like bread I bin chop, and my drink wit cry I bin mix.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ash"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "like bread"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "I bin chop"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "and my drink"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "wit cry"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "I bin mix"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:23.113450311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And Yehonatan bin tell Dawid, sey: \"Sha'ul my papa dey seek make im kill you. So now, make you guard yourself for morning, and make you siddon for secret place, and make you hide yourself.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "and bin tell"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "dey seek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "make im kill you"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "make you guard yourself"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "and make you siddon"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "for secret place"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "and make you hide yourself"
+    }
+  ],
+  "timestamp": "2026-08-11T10:42:34.349576338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "So di armed men leave ⟨את⟩ di captives and ⟨את⟩ di spoil for front of di leaders and all di assembly.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "so leave"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "di armed men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captives"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "di captives"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di spoil"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "di spoil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "di leaders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "di assembly"
+    }
+  ],
+  "timestamp": "2026-08-11T14:13:29.757501289Z",
+  "model": "glm-5.2"
+}

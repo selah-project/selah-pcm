@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Your hand go lift up against your adversaries, and all your enemies go cut off.",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "go lift up"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "your adversaries"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "go cut off"
+    }
+  ],
+  "timestamp": "2026-08-11T12:29:32.422721299Z",
+  "model": "glm-5.2"
+}

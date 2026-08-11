@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And e arrange ⟨את⟩ di firewood, and e cut ⟨את⟩ di bull ⟨into pieces⟩, and e put am on top di firewood.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲרֹ֖ךְ",
+      "gloss": "and e arrange"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di firewood"
+    },
+    {
+      "surface": "הָֽעֵצִ֑ים",
+      "gloss": "di firewood"
+    },
+    {
+      "surface": "וַיְנַתַּח֙",
+      "gloss": "and e cut"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di bull"
+    },
+    {
+      "surface": "הַפָּ֔ר",
+      "gloss": "di bull"
+    },
+    {
+      "surface": "וַיָּ֖שֶׂם",
+      "gloss": "and e put"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הָעֵצִֽים",
+      "gloss": "di firewood"
+    }
+  ],
+  "timestamp": "2026-08-11T11:06:41.626375683Z",
+  "model": "glm-5.2"
+}

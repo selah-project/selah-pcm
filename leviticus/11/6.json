@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨את⟩ di arnevet, because ⟨she⟩ dey bring up cud, but ⟨she⟩ no split hoof — ⟨she⟩ dey unclean for una.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di arnevet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "di arnevet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "⟨she⟩ dey bring up"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨she⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "but hoof"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "⟨she⟩ split"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "unclean"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨she⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:48.866097485Z",
+  "model": "glm-5.2"
+}

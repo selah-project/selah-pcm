@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 115,
+  "translation": "House of Aharon, trust for Yahweh; ⟨na⟩ im help and ⟨na⟩ im shield — na ⟨im⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "House"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "of Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "dia help"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "and dia shield"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:23.205505505Z",
+  "model": "glm-5.2"
+}

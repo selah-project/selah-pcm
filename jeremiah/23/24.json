@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 23:24",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "If man hide for hiding-places, and I no go see am? — oracle of Yahweh. No be ⟨את⟩ di heavens and ⟨את⟩ di earth I dey fill? — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יִסָּתֵ֨ר",
+      "gloss": "man hide"
+    },
+    {
+      "surface": "אִ֧ישׁ",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "בַּמִּסְתָּרִ֛ים",
+      "gloss": "for hiding-places"
+    },
+    {
+      "surface": "וַאֲנִ֥י",
+      "gloss": "and I"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אֶרְאֶ֖נּוּ",
+      "gloss": "go see am"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֲלֹא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di heavens"
+    },
+    {
+      "surface": "הַשָּׁמַ֧יִם",
+      "gloss": "di heavens"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di earth"
+    },
+    {
+      "surface": "הָאָ֛רֶץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "I"
+    },
+    {
+      "surface": "מָלֵ֖א",
+      "gloss": "dey fill"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "oracle of"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:29.496815049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 50,
+  "translation": "So now, no fear, I go provide for ⟨את⟩ una and ⟨את⟩ una small-small pickin dem; and im comfort dem and im speak to dia heart.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "so now"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "fear"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "go provide for"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "una small-small pickin dem"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "una small-small pickin dem"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "and im comfort"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and im speak"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "dia heart"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:37.078486863Z",
+  "model": "glm-5.2"
+}

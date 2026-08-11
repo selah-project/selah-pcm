@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 44:22",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "I don wipe out like cloud ⟨את⟩ your rebellion-dem, and like mist ⟨את⟩ your sin-dem; come back to me, sake of say I don redeem you.",
+  "tokens": [
+    {
+      "surface": "מָחִ֤יתִי",
+      "gloss": "I don wipe out"
+    },
+    {
+      "surface": "כָעָב֙",
+      "gloss": "like cloud"
+    },
+    {
+      "surface": "פְּשָׁעֶ֔יךָ",
+      "gloss": "your rebellion-dem"
+    },
+    {
+      "surface": "וְכֶעָנָ֖ן",
+      "gloss": "and like mist"
+    },
+    {
+      "surface": "חַטֹּאותֶ֑יךָ",
+      "gloss": "your sin-dem"
+    },
+    {
+      "surface": "שׁוּבָ֥ה",
+      "gloss": "come back"
+    },
+    {
+      "surface": "אֵלַ֖י",
+      "gloss": "to me"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sake of say"
+    },
+    {
+      "surface": "גְאַלְתִּֽיךָ",
+      "gloss": "I don redeem you"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:28.361295673Z",
+  "model": "glm-5.2"
+}

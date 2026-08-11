@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "And Yahweh bin come down inside di cloud, and ⟨im⟩ stand with am there, and ⟨im⟩ call on top di name of Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "and bin come down"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "inside di cloud"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "and stand"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "and call"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "on top di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:38.672006575Z",
+  "model": "glm-5.2"
+}

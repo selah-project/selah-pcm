@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "You bin break down all im hedge-dem, you bin turn im stronghold-dem to ruin.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "you bin break down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "im hedge-dem"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "you bin turn"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "im stronghold-dem"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "to ruin"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:16.815067698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Wise ⟨for⟩ heart go take commandments, but fool of lips go fall.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Wise"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "commandments"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "but fool"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "of lips"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "go fall"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:30.308893515Z",
+  "model": "glm-5.2"
+}

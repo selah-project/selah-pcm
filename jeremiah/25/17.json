@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "So I bin take ⟨את⟩ di cup from di hand of Yahweh, and I bin make all di nations wey Yahweh bin send me to dem ⟨to drink⟩.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "so I bin take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di cup"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "di cup"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from di hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "and I bin make ⟨dem⟩ drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di nations"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "bin send me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:50:32.510094419Z",
+  "model": "glm-5.2"
+}

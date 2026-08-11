@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And you go make ⟨את⟩ im seven lamps, and you go set up ⟨את⟩ im lamps, and ⟨dem⟩ go shine on di side of im face.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "and you go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im seven lamps"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "im lamps"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "and you go set up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im lamps"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "im lamps"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "and dem go shine"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "di side"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "of im face"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:09.593329029Z",
+  "model": "glm-5.2"
+}

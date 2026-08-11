@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And you go take ⟨את⟩ two shoham stone dem, and you go engrave on top dem di name dem of di son dem of Yisrael:",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "two shoham stone dem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stone dem of"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "and you go engrave"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "on top dem"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "di name dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di son dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T09:30:11.879266959Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 4:13",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "and ⟨את⟩ di four hundred pomegranate-dem for di two network-dem, two row-dem of pomegranate-dem for di one network, to cover ⟨את⟩ di two bowl-dem of di capital-dem wey ⟨dey⟩ on top of di pillar-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di pomegranate-dem"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "di pomegranate-dem"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "four"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "for di two"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "network-dem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "row-dem"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "pomegranate-dem"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "for di network"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "di one"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "to cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di two bowl-dem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "two"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "bowl-dem"
+    },
+    {
+      "surface": "הכתרות",
+      "gloss": "di capital-dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top of"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face of"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "di pillar-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:36.890227716Z",
+  "model": "glm-5.2"
+}

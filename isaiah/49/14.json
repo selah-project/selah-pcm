@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "But Tsiyon talk sey, 'Yahweh don abandon me, and Adonai don forget me.'",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "But talk"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "don abandon me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "and Adonai"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "don forget me"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:54.070295226Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And ⟨di⟩ earth don pollute under ⟨di⟩ people wey dey live inside am, because dem don pass Torah, dem don change decree, dem don break everlasting covenant.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "and ⟨di⟩ earth"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "don pollute"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "⟨di⟩ people wey dey live inside am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dem don pass"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "dem don change"
+    },
+    {
+      "surface": "חק",
+      "gloss": "decree"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "dem don break"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "everlasting"
+    }
+  ],
+  "timestamp": "2026-08-11T14:41:07.518500920Z",
+  "model": "glm-5.2"
+}

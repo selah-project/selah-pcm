@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "But di men bin good to us well-well, and dem no shame us, and we no miss anytin at all, all di days wey we bin waka ⟨את⟩ dem, while we dey for di field.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "but di men"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "bin good"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "to us"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "shame us"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "miss"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anytin at all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "wey we bin waka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "while we dey"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:43.261580872Z",
+  "model": "glm-5.2"
+}

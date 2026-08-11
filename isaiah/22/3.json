@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "All your rulers run away together; from di bow dem tie dem. All your warriors dem tie together; dem run wey far.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "All"
+    },
+    {
+      "surface": "קְצִינַ֥יִךְ",
+      "gloss": "your rulers"
+    },
+    {
+      "surface": "נָֽדְדוּ",
+      "gloss": "run away"
+    },
+    {
+      "surface": "יַ֖חַד",
+      "gloss": "together"
+    },
+    {
+      "surface": "מִקֶּ֣שֶׁת",
+      "gloss": "from di bow"
+    },
+    {
+      "surface": "אֻסָּ֑רוּ",
+      "gloss": "dem tie dem"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "All"
+    },
+    {
+      "surface": "נִמְצָאַ֨יִךְ֙",
+      "gloss": "your warriors"
+    },
+    {
+      "surface": "אֻסְּר֣וּ",
+      "gloss": "dem tie"
+    },
+    {
+      "surface": "יַחְדָּ֔ו",
+      "gloss": "together"
+    },
+    {
+      "surface": "מֵרָח֖וֹק",
+      "gloss": "wey far"
+    },
+    {
+      "surface": "בָּרָֽחוּ",
+      "gloss": "dem run"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:44.617667729Z",
+  "model": "glm-5.2"
+}

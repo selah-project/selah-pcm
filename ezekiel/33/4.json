@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "and anybody wey hear, ⟨he⟩ hear ⟨את⟩ di sound of di shofar and e no take warning, and sword come and e carry am — im blood dey on top im head.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "and anybody wey hear"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "⟨he⟩ hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sound"
+    },
+    {
+      "surface": "קול",
+      "gloss": "di sound"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "of di shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and e no"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "take warning"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "and ⟨e⟩ come"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "and ⟨e⟩ carry am"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "im blood"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "on top im head"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨dey⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:15:04.700220403Z",
+  "model": "glm-5.2"
+}

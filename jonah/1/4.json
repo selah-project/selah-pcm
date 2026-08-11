@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yahweh bin hurl one great wind enter di sea, and great storm bin happen for di sea, and di ship bin dey think say e go break apart.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "And Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "bin hurl"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "great"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin happen"
+    },
+    {
+      "surface": "סער",
+      "gloss": "storm"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "בים",
+      "gloss": "for di sea"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "and di ship"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "bin dey think say"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "e go break apart"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:19.292572416Z",
+  "model": "glm-5.2"
+}

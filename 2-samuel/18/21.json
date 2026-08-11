@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 18:21",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And Yoav bin talk to di Kushite, sey: \"Go, tell di king wetin you don see.\" And di Kushite bin bow down to Yoav, and bin run.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "לכושי",
+      "gloss": "to di Kushite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "tell"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "ראיתה",
+      "gloss": "you don see"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "and bin bow down"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "di Kushite"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "to Yoav"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "and bin run"
+    }
+  ],
+  "timestamp": "2026-08-11T10:53:53.254468185Z",
+  "model": "glm-5.2"
+}

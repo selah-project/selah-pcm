@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Abi you no hear from far? Na me ⟨את⟩ am do from days of old, and na me form am; now I don bring am make e come be for leveling heaps — cities wey get wall.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "abi…no"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "you hear"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "from far"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "na me do"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "from days of"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "old"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "and na me form am"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "I don bring am"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and make e come be"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "for leveling"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "heaps"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "←"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cities"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "wey get wall"
+    }
+  ],
+  "timestamp": "2026-08-11T11:17:23.262193477Z",
+  "model": "glm-5.2"
+}

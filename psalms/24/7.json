@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Lift una heads, O una gates! And make una lift up, O entrances of olod time! And make di King of glory enter!",
+  "tokens": [
+    {
+      "surface": "שְׂאוּ",
+      "gloss": "Lift"
+    },
+    {
+      "surface": "שְׁעָרִים",
+      "gloss": "O una gates"
+    },
+    {
+      "surface": "רָאשֵׁיכֶם",
+      "gloss": "una heads"
+    },
+    {
+      "surface": "וְהִנָּשְׂאוּ",
+      "gloss": "And make una lift up"
+    },
+    {
+      "surface": "פִּתְחֵי",
+      "gloss": "O entrances of"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "olod time"
+    },
+    {
+      "surface": "וְיָבֹא",
+      "gloss": "And make enter"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "King"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "of glory"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:34.676332931Z",
+  "model": "glm-5.2"
+}

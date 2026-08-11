@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 54,
+  "translation": "Because strangers don rise against me, and violent men dey find my life; dem no put Elohim before dem. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "don rise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "and violent men"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "dey find"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dem put"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "before dem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:46:38.669569267Z",
+  "model": "glm-5.2"
+}

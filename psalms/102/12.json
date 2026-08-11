@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "My days be like shadow wey don stretch out, and I, like grass, don dry up.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "my days"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "like shadow"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "wey don stretch out"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "and I"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "don dry up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:23.113731922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And you go drill dem well for your children, and you go dey talk about dem — wen you siddon for your house, and wen you dey waka for di road, and wen you lie down, and wen you wake up.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "and you go drill dem well"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "for your children"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "and you go dey talk"
+    },
+    {
+      "surface": "בם",
+      "gloss": "about dem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wen you siddon"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "for your house"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "and wen you dey waka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for di road"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "and wen you lie down"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "and wen you wake up"
+    }
+  ],
+  "timestamp": "2026-08-11T10:05:17.523727284Z",
+  "model": "glm-5.2"
+}

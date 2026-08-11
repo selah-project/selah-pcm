@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "So di people bin quarrel wit Mosheh, and dem talk sey, 'Give us water make we drink.' And Mosheh tell dem, 'Wetin una dey quarrel wit me? Wetin una dey test ⟨את⟩ Yahweh?'",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "so bin quarrel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "give"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "make we drink"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "una dey quarrel"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wit me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "una dey test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:17.718565631Z",
+  "model": "glm-5.2"
+}

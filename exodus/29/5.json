@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And you go take ⟨את⟩ di garments, and you go dress Aharon ⟨with⟩ di tunic, and ⟨את⟩ di robe of di efod, and ⟨את⟩ di efod, and ⟨את⟩ di breastplate, and you go gird am with di woven band of di efod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "and you go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di garments"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "di garments"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "and you go dress"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tunic"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "di tunic"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di robe"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "di robe"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "of di efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "di efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di breastplate"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "di breastplate"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "and you go gird"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "with di woven band"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "of di efod"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:52.720715873Z",
+  "model": "glm-5.2"
+}

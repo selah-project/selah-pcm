@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And for morning, word of Yahweh come to me, sey:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֧י",
+      "gloss": "and"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "word of"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֵלַ֖י",
+      "gloss": "come to me"
+    },
+    {
+      "surface": "בַּבֹּ֥קֶר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T12:05:21.513439117Z",
+  "model": "glm-5.2"
+}

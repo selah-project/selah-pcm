@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And righteousness go be di belt for im waist, and faithfulness go be di belt for im loins.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "righteousness"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "belt"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "for im waist"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "and faithfulness"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "belt"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "for im loins"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:37.304332024Z",
+  "model": "glm-5.2"
+}

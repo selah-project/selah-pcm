@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And dose wey remain go hear and fear, and dem no go add do again like dis bad tin among una.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "And dose wey remain"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "go hear"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and fear"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "go add"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "do"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "like"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bad tin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "among una"
+    }
+  ],
+  "timestamp": "2026-08-11T10:11:38.003235398Z",
+  "model": "glm-5.2"
+}

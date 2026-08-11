@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And Lot too, wey dey waka wit ⟨את⟩ Avram, bin get sheep, and cattle, and tents.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "And too"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "to Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wey dey waka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin get"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "and cattle"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "and tents"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:28.286746132Z",
+  "model": "glm-5.2"
+}

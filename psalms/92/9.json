@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 92,
+  "translation": "But you, ⟨na⟩ high place for ever, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "But you"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "high place"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "for ever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:05.481913061Z",
+  "model": "glm-5.2"
+}

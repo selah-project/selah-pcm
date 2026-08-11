@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "There arrow-snake go build nest, and ⟨she⟩ go lay egg, and ⟨she⟩ go hatch, and ⟨she⟩ go gather under im shadow; only there falcon dem go collect, each one with im mate.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "⟨she⟩ go build nest"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "arrow-snake"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "and ⟨she⟩ go lay egg"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "and ⟨she⟩ go hatch"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "and ⟨she⟩ go gather"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "under im shadow"
+    },
+    {
+      "surface": "אך",
+      "gloss": "only"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "⟨dem⟩ go collect"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "falcon dem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "each one"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "with im mate"
+    }
+  ],
+  "timestamp": "2026-08-11T11:30:04.595884066Z",
+  "model": "glm-5.2"
+}

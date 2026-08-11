@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di king bin talk, \"Anybody wey talk anything to you, bring am to me, and e no go add again to touch you.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "di one wey dey talk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "and bring am"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and ⟨he⟩ no go"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "add"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "to touch"
+    },
+    {
+      "surface": "בך",
+      "gloss": "you"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:27.134224709Z",
+  "model": "glm-5.2"
+}

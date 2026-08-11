@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And I bin come make I make you understand ⟨את⟩ wetin go happen to your people for di last days, because na still vision ⟨be⟩ for di days.",
+  "tokens": [
+    {
+      "surface": "וּבָ֨אתִי֙",
+      "gloss": "and I bin come"
+    },
+    {
+      "surface": "לַהֲבִ֣ינְךָ֔",
+      "gloss": "make I make you understand"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "wetin go happen to your people"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "יִקְרָ֥ה",
+      "gloss": "go happen"
+    },
+    {
+      "surface": "לְעַמְּךָ֖",
+      "gloss": "to your people"
+    },
+    {
+      "surface": "בְּאַחֲרִ֣ית",
+      "gloss": "for di last"
+    },
+    {
+      "surface": "הַיָּמִ֑ים",
+      "gloss": "days"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ע֥וֹד",
+      "gloss": "still"
+    },
+    {
+      "surface": "חָז֖וֹן",
+      "gloss": "vision"
+    },
+    {
+      "surface": "לַיָּמִֽים",
+      "gloss": "for di days"
+    }
+  ],
+  "timestamp": "2026-08-11T16:48:58.039297210Z",
+  "model": "glm-5.2"
+}

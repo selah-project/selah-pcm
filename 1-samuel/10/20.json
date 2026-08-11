@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Samuel bin bring near ⟨את⟩ all di tribes of Yisra'el, and di tribe of Binyamin bin dey taken.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "bin bring near"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di tribes of Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "di tribes of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "bin dey taken"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "di tribe of"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:35.880984598Z",
+  "model": "glm-5.2"
+}

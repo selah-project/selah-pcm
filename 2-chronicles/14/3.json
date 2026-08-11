@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "⟨Im⟩ tell Yehudah make dem seek ⟨את⟩ Yahweh, Elohim of dia papa dem, and make dem do di Torah and di commandment.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "make dem seek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dia papa dem"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "and make dem do"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "di Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "and di commandment"
+    }
+  ],
+  "timestamp": "2026-08-11T14:09:19.498231186Z",
+  "model": "glm-5.2"
+}

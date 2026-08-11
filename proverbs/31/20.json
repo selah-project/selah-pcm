@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Her palm she don spread open to di poor, and her hands she don reach out to di needy.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "her palm"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "she don spread open"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "to di poor"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "and her hands"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "she don reach out"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "to di needy"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:53.008363867Z",
+  "model": "glm-5.2"
+}

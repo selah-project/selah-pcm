@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "So ⟨im⟩ stand up and ⟨im⟩ waka go, and Yehonatan enter di city.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "⟨im⟩ stand up"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "⟨im⟩ waka go"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "and Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:23.042396587Z",
+  "model": "glm-5.2"
+}

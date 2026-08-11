@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And from di tribe ⟨of⟩ Dan, ⟨את⟩ Eltekeh and ⟨את⟩ im open land, ⟨את⟩ Gibbeṭon and ⟨את⟩ im open land.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "and from tribe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "of Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibbeṭon"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibbeṭon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im open land"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "im open land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:34.721771465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Sons of man, until when my glory go turn to shame? Una dey love empty thing, una dey seek lie. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "מה",
+      "gloss": "when"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my glory"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "go turn to shame"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "una dey love"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "empty thing"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "una dey seek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:36.389378376Z",
+  "model": "glm-5.2"
+}

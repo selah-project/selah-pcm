@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And Elohim talk to Avraham: 'Sarai your wife — no call ⟨את⟩ her name Sarai again, because Sarah ⟨na⟩ her name.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and Elohim talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "your wife"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "call"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her name"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "her name"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "her name"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:05.834196208Z",
+  "model": "glm-5.2"
+}

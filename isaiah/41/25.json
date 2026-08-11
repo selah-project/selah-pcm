@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "I don wake ⟨one⟩ from north, and ⟨את⟩ ⟨he⟩ come; from east of sun ⟨he⟩ dey call ⟨on⟩ my name; and ⟨he⟩ go come on top rulers like clay, and like potter ⟨he⟩ dey step on mud.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "I don wake"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "from north"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨he⟩ come"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "from east"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "of sun"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨he⟩ dey call"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "my name"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and ⟨he⟩ go come"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "rulers"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "like"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "clay"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "and like"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "potter"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "dey step on"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "mud"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:14.062329227Z",
+  "model": "glm-5.2"
+}

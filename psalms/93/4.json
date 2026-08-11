@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 93,
+  "translation": "Above di voice of many water, mighty ⟨be⟩ di breaker dem of sea — mighty for height ⟨be⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "above di voice"
+    },
+    {
+      "surface": "מים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "many"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "di breaker dem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "of sea"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "for height"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:32.646290231Z",
+  "model": "glm-5.2"
+}

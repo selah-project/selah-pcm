@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "⟨Im⟩ dey gather like heap ⟨di⟩ water of di sea; ⟨im⟩ dey put di deep for storehouses.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "⟨im⟩ dey gather"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "like heap"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨di⟩ water of"
+    },
+    {
+      "surface": "הים",
+      "gloss": "di sea"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨im⟩ dey put"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "for storehouses"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "di deep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:34.150063928Z",
+  "model": "glm-5.2"
+}

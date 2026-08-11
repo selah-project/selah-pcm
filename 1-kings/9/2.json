@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "sey Yahweh bin appear to Shelomah second time, as ⟨e⟩ bin appear to am for Giv'on,",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "second time"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨e⟩ bin appear"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "for Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:07.396362489Z",
+  "model": "glm-5.2"
+}

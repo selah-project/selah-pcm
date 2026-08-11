@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Yosef bin see ⟨את⟩ im broda dem, and e bin know dem, but e come behave like stranger to dem, and e bin speak to dem ⟨את⟩ harshly, and e bin tell dem, 'Una come from where?' And dem come talk, 'From land of Kenaan, make we come buy food.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "bin see"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im broda dem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda dem"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "bin know dem"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "come behave like stranger"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "to dem"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "harshly"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "from where"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "una come"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dem come talk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "make we come buy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "food"
+    }
+  ],
+  "timestamp": "2026-08-11T15:43:11.892884370Z",
+  "model": "glm-5.2"
+}

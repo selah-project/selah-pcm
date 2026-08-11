@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "Make you no see ⟨את⟩ di donkey of your broda or im cow wey fall down for road, come hide yaself from dem; you must surely raise dem up together with am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "make you see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di donkey"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "donkey"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "of your broda"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "im cow"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "wey fall down"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "for road"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "come hide yaself"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "from dem"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "raise"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "you must surely raise dem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "together with am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:12:42.928777003Z",
+  "model": "glm-5.2"
+}

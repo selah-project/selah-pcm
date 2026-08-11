@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 99,
+  "translation": "For pillar of cloud im ⟨bin⟩ dey speak to dem; dem keep im testimonies, ⟨and⟩ di statute wey im give dem.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "For pillar"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "of cloud"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "im dey speak"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dem keep"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "im testimonies"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "and statute"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "im give"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:39.006260203Z",
+  "model": "glm-5.2"
+}

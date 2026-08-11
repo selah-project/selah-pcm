@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And when men dey quarrel, and one man strike ⟨את⟩ im neighbour wit stone or wit fist, and ⟨he⟩ no die, but ⟨he⟩ fall for bed-rest:",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "and when"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "men dey quarrel"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "and ⟨one⟩ strike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im neighbour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im neighbour"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "wit stone"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "wit fist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "die"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "but ⟨he⟩ fall"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "for bed-rest"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:09.363301584Z",
+  "model": "glm-5.2"
+}

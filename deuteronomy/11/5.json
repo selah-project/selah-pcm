@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "and wetin ⟨im⟩ do for una for inside di wilderness, until una come reach dis place—",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨im⟩ do"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for inside di wilderness"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "una come reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di place"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    }
+  ],
+  "timestamp": "2026-08-11T10:08:10.186285260Z",
+  "model": "glm-5.2"
+}

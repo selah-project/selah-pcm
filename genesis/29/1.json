@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Ya akov bin carry im legs and bin waka go land of di pikin dem of kedem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bin carry"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya akov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "im legs"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and bin waka go"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem of"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kedem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:47.424172941Z",
+  "model": "glm-5.2"
+}

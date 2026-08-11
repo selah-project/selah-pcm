@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 6:3",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di king talk sey, ⟨wetin⟩ dem don do — honor and greatness — for Mordecai because of dis? And di king im boys, im servants, talk sey, Notin don happen to am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and di king talk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨wetin⟩"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dem don do"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "honor"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "and greatness"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "for Mordecai"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "di king im boys"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "im servants"
+    },
+    {
+      "surface": "לא",
+      "gloss": "notin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "don happen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨at all⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:25.886414456Z",
+  "model": "glm-5.2"
+}

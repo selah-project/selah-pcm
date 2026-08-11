@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "E dey turn di storm to calm, and e don quiet down dia waves.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "E dey turn"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "di storm"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "to calm"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "and e don quiet down"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "dia waves"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:59.050777917Z",
+  "model": "glm-5.2"
+}

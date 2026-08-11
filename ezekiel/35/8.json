@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 35:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And I go fill ⟨את⟩ im mountains with im dead bodies — for your hills and your valleys and all your streams, people wey sword pierce go fall inside dem.",
+  "tokens": [
+    {
+      "surface": "וּמִלֵּאתִ֥י",
+      "gloss": "and I go fill"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im mountains"
+    },
+    {
+      "surface": "הָרָ֖יו",
+      "gloss": "im mountains"
+    },
+    {
+      "surface": "חֲלָלָ֑יו",
+      "gloss": "with im dead bodies"
+    },
+    {
+      "surface": "גִּבְעוֹתֶ֤יךָ",
+      "gloss": "for your hills"
+    },
+    {
+      "surface": "וְגֵאוֹתֶ֨יךָ֙",
+      "gloss": "and your valleys"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "אֲפִיקֶ֔יךָ",
+      "gloss": "your streams"
+    },
+    {
+      "surface": "חַלְלֵי",
+      "gloss": "people wey sword pierce"
+    },
+    {
+      "surface": "חֶ֖רֶב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "יִפְּל֥וּ",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "בָהֶֽם",
+      "gloss": "inside dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:48:49.263060604Z",
+  "model": "glm-5.2"
+}

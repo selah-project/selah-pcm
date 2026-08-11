@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "El go ⟨dey⟩ hear im cry, wen trouble come upon am?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "im cry"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "go hear"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wen"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "come"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "upon am"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:28.640058715Z",
+  "model": "glm-5.2"
+}

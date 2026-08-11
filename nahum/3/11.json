@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "You too go drunk, you go come hidden; you too go find refuge from enemy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "את",
+      "gloss": "you"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "go drunk"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "go come"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "hidden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "את",
+      "gloss": "you"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "go find"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "refuge"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "from enemy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:30:10.974211407Z",
+  "model": "glm-5.2"
+}

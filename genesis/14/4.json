@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Twelve year dem serve ⟨את⟩ Kedorlaomer, and for di thirteenth year dem rebel.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Two"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "dem rebel"
+    }
+  ],
+  "timestamp": "2026-08-11T14:17:59.566159159Z",
+  "model": "glm-5.2"
+}

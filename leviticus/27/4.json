@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And if ⟨na⟩ female, then im value go be thirty shekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "female"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "then ⟨go⟩ ⟨be⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "im value"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thirty"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-08-11T09:47:26.501959261Z",
+  "model": "glm-5.2"
+}

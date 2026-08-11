@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "So Yahweh bin establish ⟨את⟩ di kingdom for im hand, and all Yehudah bin give gift to Yehoshafat, and ⟨e⟩ bin get wealth and honor for plenty measure.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "So bin establish"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di kingdom"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "and bin give"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gift"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "to Yehoshafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and bin get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "and honor"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "for plenty measure"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:11.847803994Z",
+  "model": "glm-5.2"
+}

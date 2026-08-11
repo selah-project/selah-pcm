@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "After dis one, Iyov open ⟨את⟩ im mouth, and e curse ⟨את⟩ im day.",
+  "tokens": [
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "After"
+    },
+    {
+      "surface": "כֵ֗ן",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "פָּתַ֤ח",
+      "gloss": "open"
+    },
+    {
+      "surface": "אִיּוֹב֙",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im mouth"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "im mouth"
+    },
+    {
+      "surface": "וַיְקַלֵּ֖ל",
+      "gloss": "and e curse"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im day"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "im day"
+    }
+  ],
+  "timestamp": "2026-08-11T14:59:01.397305005Z",
+  "model": "glm-5.2"
+}

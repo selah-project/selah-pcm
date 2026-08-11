@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 51:28",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "Set apart against am nation dem: ⟨את⟩ king dem of Madai, ⟨את⟩ im governor dem, and ⟨את⟩ all im official dem, and ⟨את⟩ all di land of im dominion.",
+  "tokens": [
+    {
+      "surface": "קדשו",
+      "gloss": "set apart"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nation dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "king dem of Madai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "king dem"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "of Madai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im governor dem"
+    },
+    {
+      "surface": "פחותיה",
+      "gloss": "im governor dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all im official dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "סגניה",
+      "gloss": "im official dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all di land of im dominion"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "of im dominion"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:33.169702896Z",
+  "model": "glm-5.2"
+}

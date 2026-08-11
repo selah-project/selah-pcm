@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Make una set una heart apart, and una go dey set apart, because na Me be Yahweh, ⟨di⟩ Elohim of una.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "make una set una heart apart"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "and una go dey"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "set apart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨di⟩ Elohim of una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:17.318870062Z",
+  "model": "glm-5.2"
+}

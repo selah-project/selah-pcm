@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨את⟩ di two kidneys, and ⟨את⟩ di fat wey dey on top dem, wey dey on top di loins, and ⟨את⟩ di lobe on top di liver — on top di kidneys e go remove am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di two kidneys"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "di two"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidneys"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di fat"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "di fat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "dey on top dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "על",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "di loins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di lobe"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "di lobe"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "di liver"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "di kidneys"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "e go remove am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:18.494626222Z",
+  "model": "glm-5.2"
+}

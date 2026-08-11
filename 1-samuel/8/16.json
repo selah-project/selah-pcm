@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨את⟩ una servants, and ⟨את⟩ una female servants, and ⟨את⟩ una young men — di best ones, and ⟨את⟩ una donkeys, im go take, and put to im own work.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una servants"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "una servants"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una female servants"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "una female servants"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una young men"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "una young men"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "di best ones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "una donkeys"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "una donkeys"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "im go take"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and put"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "to im own work"
+    }
+  ],
+  "timestamp": "2026-08-11T10:36:44.336293797Z",
+  "model": "glm-5.2"
+}

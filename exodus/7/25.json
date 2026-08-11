@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Seven days bin full up, after Yahweh bin strike ⟨את⟩ di river.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "bin full up"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "strike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di river"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "di river"
+    }
+  ],
+  "timestamp": "2026-08-11T14:20:43.454171964Z",
+  "model": "glm-5.2"
+}

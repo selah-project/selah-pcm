@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di people wey dey work flax and weavers go ⟨be⟩ ashamed — combed flax and white linen.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "go ⟨be⟩ ashamed"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "people wey dey work"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "flax"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "combed flax"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "and weavers"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "white linen"
+    }
+  ],
+  "timestamp": "2026-08-11T11:24:55.909656354Z",
+  "model": "glm-5.2"
+}

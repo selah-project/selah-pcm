@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem forget ⟨את⟩ Yahweh, dia Elohim, and ⟨he⟩ sell dem inside hand of Sisera, commander of army of Chatsor, and inside hand of Pelishtim, and inside hand of king of Moab, and dem fight against dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "and dem forget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "and ⟨he⟩ sell"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand of"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "commander"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "of army"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "of Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "and inside hand of"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "and inside hand of"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "and dem fight"
+    },
+    {
+      "surface": "בם",
+      "gloss": "against dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:12.186502745Z",
+  "model": "glm-5.2"
+}

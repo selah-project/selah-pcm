@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Why, Yahweh, yọọ dey reject my life? Yọọ dey hide yọọ face from me?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "why"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "yọọ dey reject"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "yọọ dey hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yọọ face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:58.476124151Z",
+  "model": "glm-5.2"
+}

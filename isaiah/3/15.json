@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Wetin ⟨be⟩ dis wey una dey crush my people, and ⟨una⟩ dey grind di face of ⟨di⟩ poor — na so Adonai Yahweh of hosts talk.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Wetin ⟨be⟩ dis"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "una dey crush"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and di face of"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "⟨di⟩ poor"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "⟨una⟩ dey grind"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na so ⟨e⟩ talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "of hosts"
+    }
+  ],
+  "timestamp": "2026-08-11T11:20:51.042367162Z",
+  "model": "glm-5.2"
+}

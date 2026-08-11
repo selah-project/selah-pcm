@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "and make dem confess ⟨את⟩ dia sin wey dem do; and ⟨e⟩ go restore ⟨את⟩ im guilt for im head, and ⟨e⟩ go add one-fifth on top am, and ⟨e⟩ go give am to di one wey ⟨e⟩ don wrong.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "and make dem confess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia sin"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dia sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dem do"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "and ⟨e⟩ go restore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im guilt"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "im guilt"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "for im head"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "and one-fifth"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "go add"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and ⟨e⟩ go give"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "to di one wey"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "don wrong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:50:05.035498763Z",
+  "model": "glm-5.2"
+}

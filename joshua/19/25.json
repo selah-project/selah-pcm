@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And dia boundary bin ⟨be⟩: Chelkat, and Chali, and Beten, and Akshaph.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e bin"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "dia boundary"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "and Chali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "and Beten"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "and Akshaph"
+    }
+  ],
+  "timestamp": "2026-08-11T10:24:29.315236203Z",
+  "model": "glm-5.2"
+}

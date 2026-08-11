@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 10:14",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And no day bin dey like dat day before am or after am, wey Yahweh bin listen to di voice of a man; because Yahweh bin dey fight for Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "And no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "day bin dey"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "like day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before am"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "or after am"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "wey Yahweh bin listen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "to di voice"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of a man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bin dey fight"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T10:21:04.022635913Z",
+  "model": "glm-5.2"
+}

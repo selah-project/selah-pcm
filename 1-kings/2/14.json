@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And im talk say, Word ⟨dey⟩ for me to you. And she talk say, Talk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im talk say"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Word"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and she talk say"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talk"
+    }
+  ],
+  "timestamp": "2026-08-11T10:57:16.993595748Z",
+  "model": "glm-5.2"
+}

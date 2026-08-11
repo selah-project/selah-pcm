@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Tell among di nation-dem ⟨את⟩ im glory; among all di people-dem, im wonder-dem.",
+  "tokens": [
+    {
+      "surface": "סַפְּרוּ",
+      "gloss": "tell"
+    },
+    {
+      "surface": "בַגּוֹיִם",
+      "gloss": "among di nation-dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "im glory"
+    },
+    {
+      "surface": "כְּבוֹדוֹ",
+      "gloss": "im glory"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "di people-dem"
+    },
+    {
+      "surface": "נִפְלְאֹתָיו",
+      "gloss": "im wonder-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:01.812112877Z",
+  "model": "glm-5.2"
+}

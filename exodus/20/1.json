@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Elohim bin speak ⟨את⟩ all ⟨di⟩ words dem wey dey here, sey:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin speak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words dem"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wey dey here"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:09.686359306Z",
+  "model": "glm-5.2"
+}

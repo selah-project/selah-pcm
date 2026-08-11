@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And di servant of di man of Elohim rise early to stand up, and e come out, and see, army dey surround ⟨את⟩ di city, and horse and chariot. And im servant talk to am, Ah! Adonai, how we go do?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "and rise early"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "di servant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "to stand up"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and e come out"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and see"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "dey surround"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di city"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "and horse"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "and chariot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "im servant"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "how"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "we go do"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:06.523723533Z",
+  "model": "glm-5.2"
+}

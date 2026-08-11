@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Behind Yahweh dem go waka; like lion ⟨im⟩ go roar, for ⟨na⟩ im go roar, and ⟨di⟩ pikin-dem go tremble from west.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Behind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dem go waka"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "⟨im⟩ go roar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "go roar"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "and ⟨di⟩ pikin-dem go tremble"
+    },
+    {
+      "surface": "בנים",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "from west"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:05.350890898Z",
+  "model": "glm-5.2"
+}

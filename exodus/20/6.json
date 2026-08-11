@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "and wey dey do chesed reach thousands, for dem wey love me, and for dem wey dey keep my commandments.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "and wey dey do"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "reach thousands"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "for dem wey love me"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "and for dem wey dey keep"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T09:26:35.629716512Z",
+  "model": "glm-5.2"
+}

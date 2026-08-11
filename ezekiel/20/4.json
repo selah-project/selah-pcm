@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": " You go judge ⟨את⟩ dem? You go judge, son of man? Make ⟨את⟩ di disgusting tings wey dia papa dem do show shine for dia face!",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "you go judge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "you go judge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di disgusting tings of dia papa dem"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "disgusting tings"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "of dia papa dem"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "make e show shine for dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:09:28.140914595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Your hands bin make me and bin establish me; make me understand, and I go learn Your commandments.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Your hands"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "bin make me"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "and bin establish me"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "make me understand"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "and I go learn"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Your commandments"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:47.471734071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And wolf go live with lamb, and leopard with young goat go lie down; and calf and young lion and fatling together, and small pikin go lead dem.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "and ⟨he⟩ go live"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "wolf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "and leopard"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "young goat"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "and calf"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "and young lion"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "and fatling"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "and pikin"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "small"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "go lead"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:37.304673441Z",
+  "model": "glm-5.2"
+}

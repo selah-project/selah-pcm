@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 35:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Elohim bin tell Ya'akov: \"Get up, go up Bet־El, and siddon dia; and make altar dia to El wey appear to you wen you bin dey run from di face of Esav, your broda.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "קום",
+      "gloss": "get up"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "go up"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet־"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and siddon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "and make"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "to El"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "wey appear"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "בברחך",
+      "gloss": "wen you bin dey run"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "your broda"
+    }
+  ],
+  "timestamp": "2026-08-11T09:13:52.039917138Z",
+  "model": "glm-5.2"
+}

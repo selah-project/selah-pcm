@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So I turn to make my heart give up on ⟨את⟩ all di toil wey I don toil under di sun.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "so I turn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "to make give up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heart"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "di toil"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "wey I don toil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:27.123311385Z",
+  "model": "glm-5.2"
+}

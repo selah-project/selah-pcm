@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di Arabah and di Yarden and di border, from Kinneret and as far as ⟨di⟩ sea of di Arabah, ⟨di⟩ Salt Sea, below di slopes of Pisgah, toward sunrise.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "and di Arabah"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "and di Yarden"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "and di border"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "from Kinneret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and as far as"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "of di Arabah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "of salt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "below"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "di slopes"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "of Pisgah"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "toward sunrise"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:59.611575455Z",
+  "model": "glm-5.2"
+}

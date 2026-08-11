@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "I don see wicked tyrant, wey dey spread imself like native tree wey dey fresh.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "I don see"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tyrant"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "wey dey spread imself"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "like native tree"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wey dey fresh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:55.989511318Z",
+  "model": "glm-5.2"
+}

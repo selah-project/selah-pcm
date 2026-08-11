@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "And all di congregation of di son dem of Yisra'el bin comot from di front of Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "and bin comot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "congregation"
+    },
+    {
+      "surface": "בני",
+      "gloss": "son dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "from di front"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-11T09:33:10.425611023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 89,
+  "translation": "But My chesed I no go tear from am, and I no go deal falsely wit My faithfulness.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "but My chesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "go tear"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "go deal falsely"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "wit My faithfulness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:23.483802228Z",
+  "model": "glm-5.2"
+}

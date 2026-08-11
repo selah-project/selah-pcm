@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Person wey dey waka for im uprightness dey fear Yahweh, but person wey dey crooked for im own way dey despise ⟨Him⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "person wey dey waka"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "for im uprightness"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "dey fear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "but person wey dey crooked"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "for im way"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "dey despise ⟨Him⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:42.331962669Z",
+  "model": "glm-5.2"
+}

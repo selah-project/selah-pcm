@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Voice dey hear on top bare hill, cry and begging prayer of Israel pikin-dem; because dem don bend ⟨את⟩ dia road, dem forget ⟨את⟩ Yahweh, dia Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bare hill"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "dey hear"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "cry"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "begging prayer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "don bend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia road"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "dia road"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "dem forget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T11:41:13.634167180Z",
+  "model": "glm-5.2"
+}

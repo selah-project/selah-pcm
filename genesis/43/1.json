@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 43,
+  "translation": "Di hunger bin heavy for ⟨di⟩ land.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Di hunger"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heavy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for ⟨di⟩ land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:16:29.889312085Z",
+  "model": "glm-5.2"
+}

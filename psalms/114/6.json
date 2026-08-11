@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 114,
+  "translation": "Una mountains, sey una dey jump like ram? Una small hills, like lamb of sheep?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "una mountains"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "sey una dey jump"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "like ram"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "una small hills"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "like"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:37.743312374Z",
+  "model": "glm-5.2"
+}

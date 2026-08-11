@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Di seventeenth to Yeshbekashah, im pikin-dem and im broda-dem — twelve.",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "to seventeen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨teen⟩"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "to Yeshbekashah"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "im pikin-dem"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "and im broda-dem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(and) ten"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:24.044655213Z",
+  "model": "glm-5.2"
+}

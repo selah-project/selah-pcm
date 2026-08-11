@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And im measure ⟨את⟩ di court — length one hundred cubit, and breadth one hundred cubit, square — and di altar ⟨dey⟩ for front of di house.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "and im measure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di court"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di court"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "length"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "and breadth"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "square"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "and di altar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:16.465275383Z",
+  "model": "glm-5.2"
+}

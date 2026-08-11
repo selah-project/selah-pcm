@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Cursed ⟨be⟩ person wey dey take bribe to strike life of innocent blood, and all di people go talk Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wey dey take"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bribe"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "to strike"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "life"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blood"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "and go talk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:12.563820780Z",
+  "model": "glm-5.2"
+}

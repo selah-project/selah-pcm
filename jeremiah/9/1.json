@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Who go give am — make I dey for di wilderness, one lodging place for travelers, and I go leave ⟨את⟩ my people, and I go go away from ⟨את⟩ dem? For all of dem ⟨be⟩ adulterers, assembly of betrayers.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "go give am"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "lodging place"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "travelers"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "and I go leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "and I go go"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "from ⟨את⟩ dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of dem"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "adulterers"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "assembly"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "betrayers"
+    }
+  ],
+  "timestamp": "2026-08-11T11:44:57.504506494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "E gather men to imself, and e come be oga for one raiding-group when Dawid bin kill ⟨את⟩ dem; and dem go Damasek, and dem settle for there, and dem come rule for Damasek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "E gather"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "to imself"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and e come be"
+    },
+    {
+      "surface": "שר",
+      "gloss": "oga"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "raiding-group"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "when"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bin kill"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "and dem settle"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "for there"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "and dem come rule"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:02.211813828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And una go carry ⟨go⟩ dere una burnt offerings and una sacrifices, and ⟨את⟩ una tithes, and ⟨את⟩ di offering of una hand, and una vows, and una freewill offerings, and di firstborn of una cattle and una sheep",
+  "tokens": [
+    {
+      "surface": "וַהֲבֵאתֶ֣ם",
+      "gloss": "and una go carry"
+    },
+    {
+      "surface": "שָׁ֗מָּה",
+      "gloss": "dere"
+    },
+    {
+      "surface": "עֹלֹֽתֵיכֶם֙",
+      "gloss": "una burnt offerings"
+    },
+    {
+      "surface": "וְזִבְחֵיכֶ֔ם",
+      "gloss": "and una sacrifices"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "and ⟨את⟩",
+      "marks": "una tithes"
+    },
+    {
+      "surface": "מַעְשְׂרֹ֣תֵיכֶ֔ם",
+      "gloss": "una tithes"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di offering"
+    },
+    {
+      "surface": "תְּרוּמַ֣ת",
+      "gloss": "offering"
+    },
+    {
+      "surface": "יֶדְכֶ֑ם",
+      "gloss": "of una hand"
+    },
+    {
+      "surface": "וְנִדְרֵיכֶם֙",
+      "gloss": "and una vows"
+    },
+    {
+      "surface": "וְנִדְבֹ֣תֵיכֶ֔ם",
+      "gloss": "and una freewill offerings"
+    },
+    {
+      "surface": "וּבְכֹרֹ֥ת",
+      "gloss": "and di firstborn"
+    },
+    {
+      "surface": "בְּקַרְכֶ֖ם",
+      "gloss": "of una cattle"
+    },
+    {
+      "surface": "וְצֹאנְכֶֽם",
+      "gloss": "and una sheep"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:49.550178373Z",
+  "model": "glm-5.2"
+}

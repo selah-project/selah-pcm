@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And wen una dey harvest ⟨את⟩ di harvest of una land, no finish di corner of your farm as you dey harvest, and di leftover of your harvest, no gather am.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "and wen una dey harvest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di harvest"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "harvest"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "of una land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "finish"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "di corner"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "of your farm"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "as you dey harvest"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "and di leftover wey fall"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "of your harvest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "gather am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:57.224492854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "For di rings of di Ark, ⟨na⟩ di poles go dey; dem no go comot from am.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "For di rings"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "of di Ark"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "di poles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "go comot"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:14.303165633Z",
+  "model": "glm-5.2"
+}

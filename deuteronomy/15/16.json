@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And e go be, sey ⟨when⟩ e tell you sey, 'I no go comot from wit you,' because e love you and ⟨את⟩ your house, because e good for am wit you —",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "e tell"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "you"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אֵצֵא",
+      "gloss": "I go comot"
+    },
+    {
+      "surface": "מֵעִמָּךְ",
+      "gloss": "from wit you"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אֲהֵבְךָ",
+      "gloss": "e love you"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "your house"
+    },
+    {
+      "surface": "בֵּיתֶךָ",
+      "gloss": "your house"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "e good"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "for am"
+    },
+    {
+      "surface": "עִמָּךְ",
+      "gloss": "wit you"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:01.753459941Z",
+  "model": "glm-5.2"
+}

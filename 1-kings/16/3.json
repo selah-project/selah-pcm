@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Here I dey sweep away di posterity of Baasha, and di posterity of im house; and I go make your house like di house of Yarov'am son of Nevat:",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "sweep away"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di posterity of"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "and di posterity of"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "im house"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your house"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "your house"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "like di house of"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:16.510903097Z",
+  "model": "glm-5.2"
+}

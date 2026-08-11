@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Channah bin answer, and bin talk: «No, my Adonai, ⟨na⟩ woman wey spirit hard ⟨be⟩ me; and wine and strong drink I no bin drink; but I bin pour ⟨את⟩ my life-force before Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "And bin answer"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my Adonai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "woman"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "hard"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "and strong drink"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "bin drink"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "but bin pour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my life-force"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-force"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:35:25.778407682Z",
+  "model": "glm-5.2"
+}

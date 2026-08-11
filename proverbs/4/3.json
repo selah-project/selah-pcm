@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Because I bin be son to my papa, tender and di only one before my mama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I bin be"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "to my papa"
+    },
+    {
+      "surface": "רך",
+      "gloss": "tender"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "and di only one"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my mama"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:48.617107333Z",
+  "model": "glm-5.2"
+}

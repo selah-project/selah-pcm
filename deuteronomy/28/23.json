@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "And ⟨dem go make⟩ your heaven wey dey on top your head ⟨be⟩ bronze, and di earth wey dey under you iron.",
+  "tokens": [
+    {
+      "surface": "וְהָי֥וּ",
+      "gloss": "and ⟨dem go make⟩"
+    },
+    {
+      "surface": "שָׁמֶ֛יךָ",
+      "gloss": "your heaven"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "רֹאשְׁךָ֖",
+      "gloss": "your head"
+    },
+    {
+      "surface": "נְחֹ֑שֶׁת",
+      "gloss": "⟨be⟩ bronze"
+    },
+    {
+      "surface": "וְהָאָ֥רֶץ",
+      "gloss": "and di earth"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תַּחְתֶּ֖יךָ",
+      "gloss": "dey under you"
+    },
+    {
+      "surface": "בַּרְזֶֽל",
+      "gloss": "iron"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.598481976Z",
+  "model": "glm-5.2"
+}

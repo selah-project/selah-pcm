@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Make di heart of dis pipo fat, and make im ears heavy, and close im eyes — so dat ⟨im⟩ no go see with ⟨im⟩ eyes, and with ⟨im⟩ ears ⟨im⟩ no go hear, and ⟨im⟩ heart no go understand, and ⟨im⟩ no turn back, and ⟨dem⟩ no heal am.",
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "make fat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di heart"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di pipo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "and ⟨im⟩ ears"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "make heavy"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "and ⟨im⟩ eyes"
+    },
+    {
+      "surface": "השע",
+      "gloss": "close"
+    },
+    {
+      "surface": "פן",
+      "gloss": "so dat ⟨im⟩ no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "go see"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "with ⟨im⟩ eyes"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "and with ⟨im⟩ ears"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "⟨im⟩ no go hear"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "and ⟨im⟩ heart"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "no go understand"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "and ⟨im⟩ no turn back"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "and ⟨dem⟩ no heal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:06.846103239Z",
+  "model": "glm-5.2"
+}

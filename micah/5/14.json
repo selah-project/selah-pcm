@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And I go do, for anger and for fury, vengeance ⟨את⟩ di nations wey ⟨dem⟩ no hear.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "and I go do"
+    },
+    {
+      "surface": "באף",
+      "gloss": "for anger"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "and for fury"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vengeance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di nations"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hear"
+    }
+  ],
+  "timestamp": "2026-08-11T12:27:54.650838904Z",
+  "model": "glm-5.2"
+}

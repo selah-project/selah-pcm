@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Make dem praise ⟨את⟩ di name of Yahweh, sake of sey na ⟨im⟩ command am and dem come create dem.",
+  "tokens": [
+    {
+      "surface": "יְֽ֭הַֽלְלוּ",
+      "gloss": "make dem praise"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di name"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "name"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "ה֭וּא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "command am"
+    },
+    {
+      "surface": "וְנִבְרָֽאוּ",
+      "gloss": "and dem come create dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:29.648874228Z",
+  "model": "glm-5.2"
+}

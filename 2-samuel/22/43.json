@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "And I go grind dem like dust of earth, like mud of streets I go crush dem, I go spread dem.",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "and I go grind dem"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "like dust of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "like mud of"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "streets"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "I go crush dem"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "I go spread dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:34.586133965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "Matters of iniquity bin overpower me; as for our transgressions, You go cover dem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "matters"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "of iniquity"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "bin overpower"
+    },
+    {
+      "surface": "מני",
+      "gloss": "me"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "our transgressions"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "You"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "go cover dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:58.406934814Z",
+  "model": "glm-5.2"
+}

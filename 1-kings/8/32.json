@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "then you go hear from ⟨di⟩ heaven, and you go act, and you go judge ⟨את⟩ your servants — to declare di wicked person guilty, to put im way on top im head, and to declare di righteous person innocent, to give am according to im righteousness.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "then you"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "go hear"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "from ⟨di⟩ heaven"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go act"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "and you go judge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your servants"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "to declare guilty"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "di wicked person"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to put"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "im way"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "on top im head"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "and to declare innocent"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "di righteous person"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "according to im righteousness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:01:59.598325520Z",
+  "model": "glm-5.2"
+}

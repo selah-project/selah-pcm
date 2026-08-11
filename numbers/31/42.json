@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And from di half of di sons of Yisra'el, wey Mosheh divide from di men wey dey fight —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "and from di half of"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "divide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "wey dey fight"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:14.621113508Z",
+  "model": "glm-5.2"
+}

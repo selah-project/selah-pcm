@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Strings of gold we go make for you, wit beads of silver.",
+  "tokens": [
+    {
+      "surface": "תּוֹרֵ֤י",
+      "gloss": "strings"
+    },
+    {
+      "surface": "זָהָב֙",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "we go make"
+    },
+    {
+      "surface": "לָּ֔ךְ",
+      "gloss": "for you"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "נְקֻדּ֥וֹת",
+      "gloss": "beads"
+    },
+    {
+      "surface": "הַכָּֽסֶף",
+      "gloss": "of silver"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:05.591395768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 88,
+  "translation": "Your wrath dey press down on top me, and all your breakers, you don afflict ⟨me⟩ wit am. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "dey press down"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "your wrath"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "your breakers"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "you don afflict"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:54:27.524144384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Crush reed e no go break, and wick wey dey smoke e no go quench am; in truth e go bring out justice.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "reed"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "crush"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e no go"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "break"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "and wick"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "wey dey smoke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e no go"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "quench am"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "in truth"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "e go bring out"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-11T11:32:46.474361089Z",
+  "model": "glm-5.2"
+}

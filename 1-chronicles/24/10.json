@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Di seventh to HaKots, di eighth to Aviyah.",
+  "tokens": [
+    {
+      "surface": "לְהַקּוֹץ֙",
+      "gloss": "to HaKots"
+    },
+    {
+      "surface": "הַשְּׁבִעִ֔י",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "לַאֲבִיָּ֖ה",
+      "gloss": "to Aviyah"
+    },
+    {
+      "surface": "הַשְּׁמִינִֽי",
+      "gloss": "di eighth"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:20.133058040Z",
+  "model": "glm-5.2"
+}

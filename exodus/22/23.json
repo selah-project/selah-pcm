@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "My anger go burn hot and I go kill ⟨את⟩ una wit di sword, and una wives go become widows and una sons orphans.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "go burn hot"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "My anger"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "and I go kill"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit di sword"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "and go become"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "una wives"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "widows"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "and una sons"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "orphans"
+    }
+  ],
+  "timestamp": "2026-08-11T09:27:38.623583583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Di righteous dem go inherit ⟨di⟩ land, and dem go siddon for am forever.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "di righteous dem"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "go inherit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "and dem go siddon"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "forever"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:53.466030391Z",
+  "model": "glm-5.2"
+}

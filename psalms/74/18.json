@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "Remember dis ⟨ting⟩, enemy bin insult Yahweh, and ⟨a⟩ stupid people don mock your name.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "bin insult"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "and people"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "stupid"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "don mock"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:36.146256040Z",
+  "model": "glm-5.2"
+}

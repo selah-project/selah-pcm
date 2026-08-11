@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "And I go send strangers to Bavel, and dem go winnow am, and dem go empty ⟨את⟩ im land; because dem bin dey against am all around for di day of trouble.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "and I go send"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "to Bavel"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "and dem go winnow am"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "and dem go empty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im land"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "im land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem bin dey"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "against am"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "all around"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day of"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T12:00:49.841259782Z",
+  "model": "glm-5.2"
+}

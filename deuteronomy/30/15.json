@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "See, I don put before you today ⟨את⟩ life and ⟨את⟩ good, and ⟨את⟩ death and ⟨את⟩ bad.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "I don put"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "life"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "life"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "good"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "death"
+    },
+    {
+      "surface": "המות",
+      "gloss": "death"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "bad"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bad"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:46.845255588Z",
+  "model": "glm-5.2"
+}

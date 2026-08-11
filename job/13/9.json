@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "E go good, if ⟨im⟩ examine ⟨את⟩ una? Abi una go dey mock am, di way pesin dey mock man, inside am?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "e go good"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "⟨im⟩ examine"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "אם",
+      "gloss": "abi"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "di way pesin dey mock"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "man"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "una go dey mock am"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:38.834416892Z",
+  "model": "glm-5.2"
+}

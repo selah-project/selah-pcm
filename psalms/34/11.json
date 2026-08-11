@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Young lions dem don lack and don hungry, but dose wey dey find Yahweh, dem no go lack any good ting.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Young lions dem"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "don lack"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "and don hungry"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "but dose wey dey find"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "go lack"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good ting"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:39.776956496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "For before di pikin go know how to call ⟨im⟩ papa and ⟨im⟩ mama, dem go carry ⟨את⟩ di wealth of Dammesek and ⟨את⟩ di plunder of Shomron in front of di king of Ashur.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "before"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "go know"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "to call"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨im⟩ papa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "and ⟨im⟩ mama"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dem go carry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di wealth of Dammesek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di plunder of Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "plunder"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "in front of"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:51.343180861Z",
+  "model": "glm-5.2"
+}

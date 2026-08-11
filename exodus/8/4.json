@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Paroh bin call Moshe and Aharon, and bin talk, pray to Yahweh, make e remove di frogs from me and from my people, and I go send ⟨את⟩ di people, make dem sacrifice to Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and bin call"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "to Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "and to Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "pray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "make e remove"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "di frogs"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "and from my people"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "and I go send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "make dem sacrifice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:41.270337772Z",
+  "model": "glm-5.2"
+}

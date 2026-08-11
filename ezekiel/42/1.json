@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "And im carry me go outside go di outer courtyard, di road wey dey go north, and im bring me enter di room wey dey face di separated area, and wey dey face di building wey dey north.",
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "and im carry me go outside"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di courtyard"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "di outer"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "di road"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wey dey go"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "north"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "and im bring me enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "di room"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "di separated area"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wey"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "dey face"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "di building"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "north"
+    }
+  ],
+  "timestamp": "2026-08-11T12:18:17.839177802Z",
+  "model": "glm-5.2"
+}

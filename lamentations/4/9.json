@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Dem wey sword pierce bin better pass dem wey hunger pierce; because dem dey flow away, dem wey stab pierce, because of wetin field no produce.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "better"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dem wey pierce"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "pass dem wey pierce"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "because dem"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "dey flow away"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "dem wey stab pierce"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "because of wetin produce"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "field"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:54.102418872Z",
+  "model": "glm-5.2"
+}

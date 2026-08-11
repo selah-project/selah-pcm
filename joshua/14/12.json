@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 14:12",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And now, give me ⟨את⟩ dis mountain wey Yahweh talk about for dat day; because you hear for dat day sey Anakim dem dey dere, and di cities big and fortified. Maybe Yahweh ⟨go be⟩ with ⟨את⟩ me, and I go drive dem out, as Yahweh don talk.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "And now"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis mountain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talk about"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hear"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Anakim dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dey dere"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "and di cities"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "big"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "and fortified"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Maybe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "והורשתים",
+      "gloss": "and I go drive dem out"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:22:23.727998540Z",
+  "model": "glm-5.2"
+}

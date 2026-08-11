@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di word dem of wicked people ⟨na⟩ to lay wait for blood, but di mouth of upright people go rescue dem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "di word dem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "of wicked people"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "to lay wait"
+    },
+    {
+      "surface": "דם",
+      "gloss": "for blood"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "but di mouth"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "of upright people"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "go rescue dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:03.779472259Z",
+  "model": "glm-5.2"
+}

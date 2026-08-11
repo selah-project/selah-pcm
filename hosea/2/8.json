@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So therefore, here I dey — I dey block ⟨את⟩ your road wit thorn-bush, and I go build ⟨את⟩ wall against her, and her paths she no go find.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֛ן",
+      "gloss": "So therefore"
+    },
+    {
+      "surface": "הִנְנִי",
+      "gloss": "here I dey"
+    },
+    {
+      "surface": "שָׂ֥ךְ",
+      "gloss": "I dey block"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your road"
+    },
+    {
+      "surface": "דַּרְכֵּ֖ךְ",
+      "gloss": "your road"
+    },
+    {
+      "surface": "בַּסִּיר֑ים",
+      "gloss": "wit thorn-bush"
+    },
+    {
+      "surface": "וְגָֽדַרְתִּי֙",
+      "gloss": "and I go build"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wall"
+    },
+    {
+      "surface": "גְּדֵרָ֔הּ",
+      "gloss": "wall"
+    },
+    {
+      "surface": "וּנְתִיבוֹתֶ֖יהָ",
+      "gloss": "and her paths"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no go"
+    },
+    {
+      "surface": "תִמְצָֽא",
+      "gloss": "she find"
+    }
+  ],
+  "timestamp": "2026-08-11T12:21:12.315234071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e come to pass, as Yosef reach im brodas, dem strip Yosef ⟨את⟩ — ⟨את⟩ im robe, ⟨את⟩ di robe of stripes wey dey on top am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and e come to pass"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e reach"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "dem strip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im robe"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "im robe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di robe of stripes"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "di robe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "of stripes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dey on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:14:23.220248671Z",
+  "model": "glm-5.2"
+}

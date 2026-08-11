@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 62,
+  "translation": "Till when una go dey rush one man? una go murder am, all of una, like wall wey dey lean, like fence wey dem push down!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "when"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "go dey rush"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "איש",
+      "gloss": "one man"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "go murder"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "all of una"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "like wall"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "wey dey lean"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "like fence"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "wey dem push down"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:32.343546860Z",
+  "model": "glm-5.2"
+}

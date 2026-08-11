@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Threshing-floor and winepress no go feed dem, and new wine go fail ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "threshing-floor"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "and winepress"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "go feed dem"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "and new wine"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "go fail"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:04.513713869Z",
+  "model": "glm-5.2"
+}

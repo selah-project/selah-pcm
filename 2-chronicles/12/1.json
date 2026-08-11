@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "E come happen, wen dem bin don establish di kingdom of Rehav'am and e bin don strong, e abandon ⟨את⟩ di Torah of Yahweh, and all Yisra'el ⟨bin dey⟩ with am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e come happen"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "wen dem bin don establish"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "di kingdom"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehav'am"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "and e bin don strong"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "e abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "di Torah of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.152268202Z",
+  "model": "glm-5.2"
+}

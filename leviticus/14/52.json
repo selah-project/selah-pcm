@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And e go cleans ⟨את⟩ di house with ⟨the⟩ blood of di bird, and with di living water, and with di living bird, and with di cedar wood, and with di hyssop, and with di scarlet yarn.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "and e go cleans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di house"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "di house"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "with blood"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "and with water"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "di living"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "and with bird"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "di living"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "and with wood"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "the cedar"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "and with hyssop"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "and with scarlet"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "yarn"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:40.125009862Z",
+  "model": "glm-5.2"
+}

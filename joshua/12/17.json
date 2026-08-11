@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Di king of Tappuach, one; di king of Chefer, one;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "of Tappuach"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "of Chefer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:40.000588503Z",
+  "model": "glm-5.2"
+}

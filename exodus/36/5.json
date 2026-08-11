@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And dem talk unto Mosheh, sey dem dey bring plenty — more than wetin reach for di work wey Yahweh don command make dem do ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem talk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "dem dey bring plenty"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "to bring"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "more than wetin reach"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "di work wey dem assign"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "for di work"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "to do"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:04.099745533Z",
+  "model": "glm-5.2"
+}

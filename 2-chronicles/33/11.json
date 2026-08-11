@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "So Yahweh bring ⟨את⟩ di oga-dem of di army wey ⟨belong⟩ to di king of Ashshur come upon dem, and dem catch ⟨את⟩ Menashsheh wit hook-dem, and dem tie am wit bronze chain-dem, and dem carry am go Bavel.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֵ֨א",
+      "gloss": "so ⟨im⟩ bring"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֲלֵיהֶ֗ם",
+      "gloss": "upon dem"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di oga-dem of di army"
+    },
+    {
+      "surface": "שָׂרֵ֤י",
+      "gloss": "oga-dem"
+    },
+    {
+      "surface": "הַצָּבָא֙",
+      "gloss": "of di army"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "to di king"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וַיִּלְכְּד֥וּ",
+      "gloss": "and dem catch"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מְנַשֶּׁ֖ה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "בַּחֹחִ֑ים",
+      "gloss": "wit hook-dem"
+    },
+    {
+      "surface": "וַיַּֽאַסְרֻ֨הוּ֙",
+      "gloss": "and dem tie am"
+    },
+    {
+      "surface": "בַּֽנְחֻשְׁתַּ֔יִם",
+      "gloss": "wit bronze chain-dem"
+    },
+    {
+      "surface": "וַיּוֹלִיכֻ֖הוּ",
+      "gloss": "and dem carry am"
+    },
+    {
+      "surface": "בָּבֶֽלָה",
+      "gloss": "go Bavel"
+    }
+  ],
+  "timestamp": "2026-08-11T15:09:51.167286932Z",
+  "model": "glm-5.2"
+}

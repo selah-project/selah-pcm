@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Six days you go do your work, but for di seventh day you go cease to rest, make your cow and your donkey fit get rest, and son of your maid-servant and di stranger fit catch breath.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "your work"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "but for day"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "di seventh"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "you go cease to rest"
+    },
+    {
+      "surface": "למען",
+      "gloss": "make"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "fit get rest"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "your cow"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "and your donkey"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "fit catch breath"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "of your maid-servant"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "and di stranger"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:04.809734002Z",
+  "model": "glm-5.2"
+}

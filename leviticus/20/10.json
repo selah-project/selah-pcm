@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And any man wey go commit adultery with ⟨את⟩ wife of anoda man, wey go commit adultery with ⟨את⟩ wife of im neighbor, na death dem go use kill di adulterer and di adulteress.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "and any man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "go commit adultery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wife of anoda man"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "איש",
+      "gloss": "of man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "go commit adultery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wife of im neighbor"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wife"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "of im neighbor"
+    },
+    {
+      "surface": "מות",
+      "gloss": "death"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dem go kill"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "di adulterer"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "and di adulteress"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:54.547316852Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And Yehonatan give ⟨את⟩ im equipment to di boy wey ⟨dey⟩ with am, and e talk to am, Go, carry ⟨am⟩ enter di city.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "and e give"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im equipment"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "im equipment"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "di boy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "carry enter"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di city"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:34.743981268Z",
+  "model": "glm-5.2"
+}

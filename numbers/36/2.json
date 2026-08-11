@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "and dem bin talk sey, ⟨את⟩ Adonai bin command Yahweh make ⟨he⟩ give ⟨את⟩ di land as inheritance by lot to di pikin-dem of Yisra'el, and Adonai bin command by Yahweh make ⟨he⟩ give ⟨את⟩ di inheritance of Tselofkhad wey be our broda to im daughter-dem.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "and dem bin talk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "make ⟨he⟩ give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "as inheritance"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "by lot"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to di pikin-dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "and Adonai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bin command"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "make ⟨he⟩ give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di inheritance"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "di inheritance of"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofkhad"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "our broda"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "to im daughter-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:36.290481592Z",
+  "model": "glm-5.2"
+}

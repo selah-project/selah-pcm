@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Paroh im hart come strong, and e no sen ⟨את⟩ di pikin dem of Yisra'el komot, as Yahweh don tok wit di hand of Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "and e come strong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and e no"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sen komot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin dem of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "don tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wit di hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:23.864786228Z",
+  "model": "glm-5.2"
+}

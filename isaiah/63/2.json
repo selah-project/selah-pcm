@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 63,
+  "translation": "Why ⟨im⟩ cloth red, and ⟨im⟩ garment like person wey dey tread for winepress?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "why"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "red"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "im cloth"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "and im garment"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "like person wey dey tread"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "for winepress"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:25.970297938Z",
+  "model": "glm-5.2"
+}

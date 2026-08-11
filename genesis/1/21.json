@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So Elohim bin create ⟨את⟩ di big sea-monsters, and ⟨את⟩ evri living creature wey dey move, wey di waters bin swarm wit am according to dia kind, and ⟨את⟩ evri winged bird according to im kind; and Elohim see sey e ⟨be⟩ good.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "so bin create"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di big sea-monsters"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "di sea-monsters"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "di big ones"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri",
+      "marks": "living creature wey dey move"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "creature"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "di living"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "wey dey move"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "bin swarm"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di waters"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "according to dia kind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evri",
+      "marks": "winged bird"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "bird"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "winged"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:08.040268524Z",
+  "model": "glm-5.2"
+}

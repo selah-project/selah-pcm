@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And ⟨את⟩ di rest of di people e give inside hand of Avishai im broda; and dem arrange to meet di sons of Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "di rest of di people"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "rest of"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨e⟩ give"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "inside hand of"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im broda"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "and dem arrange"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-11T14:01:28.348936355Z",
+  "model": "glm-5.2"
+}

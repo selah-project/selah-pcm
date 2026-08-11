@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "So im tell dem sey, make una go anoda three days, den come back to me. So di people comot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "so im tell"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "make una go"
+    },
+    {
+      "surface": "עד",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "three"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "days"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "den come back"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "so dem comot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    }
+  ],
+  "timestamp": "2026-08-11T11:03:11.624526758Z",
+  "model": "glm-5.2"
+}

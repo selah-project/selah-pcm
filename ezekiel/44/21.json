@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "And wine, no priest go drink at all, wen dem enter di inner court.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "and wine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dem go drink"
+    },
+    {
+      "surface": "כל",
+      "gloss": "any"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "wen dem enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enter"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "di court"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "inner"
+    }
+  ],
+  "timestamp": "2026-08-11T14:49:58.548549402Z",
+  "model": "glm-5.2"
+}

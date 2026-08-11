@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "⟨You⟩ ⟨be⟩ my hiding place and my shield; for your word I don hope.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "my hiding place"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "and my shield"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "for your word"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "I don hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:00.659515201Z",
+  "model": "glm-5.2"
+}

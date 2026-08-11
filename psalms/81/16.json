@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 81,
+  "translation": "Di haters of Yahweh go pretend obedience to am, and dia time go be forever.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "di haters"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "go pretend obedience"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and go be"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "dia time"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:51.619569467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Because if listening you go hear for im voice, and you go do all wetin I go speak, den I go turn enemy to ⟨את⟩ your enemies, and I go distress ⟨את⟩ dose wey dey distress you.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "listening"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "you go hear"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "for im voice"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "and you go do"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "I go speak"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "den I go turn enemy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your enemies"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "your enemies"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "and I go distress"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dose wey dey distress you"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dose wey dey distress you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:35.042100847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "And evri living soul wey go chop animal wey die by imself or animal wey wild beast tear — weda na person wey dem bon for di land or na stranger — make im wash im cloths and bath for water, and im go dey unclean until evening, and den im go dey clean.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "and evri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "living soul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "go chop"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "animal wey die by imself"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "or animal wey wild beast tear"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "for di person wey dem bon for di land"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "and for di stranger"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "make im wash"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "and bath"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "and im go dey unclean"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "and im go dey clean"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:26.808814825Z",
+  "model": "glm-5.2"
+}

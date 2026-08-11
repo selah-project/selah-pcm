@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And make dem sacrifice sacrifice of todah, and make dem tell im workes wit song of joy.",
+  "tokens": [
+    {
+      "surface": "ולזבחו",
+      "gloss": "and make dem sacrifice"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifice of"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todah"
+    },
+    {
+      "surface": "ולספרו",
+      "gloss": "and make dem tell"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "im workes"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "wit song of joy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:21.223173777Z",
+  "model": "glm-5.2"
+}

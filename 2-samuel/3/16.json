@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So im husband waka ⟨wit⟩ am, dey waka dey cry behind am till ⟨e reach⟩ Bachurim. And Abner tell am, \"Go, go back.\" So ⟨e⟩ go back.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "So im husband waka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "im husband"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "dey waka"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "dey cry"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "behind am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bachurim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "And tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "So ⟨e⟩ go back"
+    }
+  ],
+  "timestamp": "2026-08-11T16:07:09.013627130Z",
+  "model": "glm-5.2"
+}

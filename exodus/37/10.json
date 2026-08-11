@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And e bin make ⟨את⟩ di table from shittim wood; two cubit im length, and one cubit im width, and one cubit and half im height.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e bin make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "di table"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wood of"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "two cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "im width"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "and one cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "and half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "im height"
+    }
+  ],
+  "timestamp": "2026-08-11T09:34:36.458263662Z",
+  "model": "glm-5.2"
+}

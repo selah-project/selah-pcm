@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And dem take ⟨את⟩ dia daughter-dem give demself as wife-dem, and ⟨את⟩ dia daughter-dem dem give to dia son-dem; and dem serve ⟨את⟩ dia god-dem.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia daughter-dem"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "dia daughter-dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "give demself"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "as wife-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "dia daughter-dem"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "dia daughter-dem"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dem give"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "to dia son-dem"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "and dem serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia god-dem"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dia Elohim (god-dem)"
+    }
+  ],
+  "timestamp": "2026-08-11T10:27:15.875798080Z",
+  "model": "glm-5.2"
+}

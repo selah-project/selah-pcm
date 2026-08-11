@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 113,
+  "translation": "Make una praise Yah! Make una, servants of Yahweh, praise ⟨את⟩ di name of Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "make una praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "make una praise"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servants of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "make una praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name of Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:24.603896544Z",
+  "model": "glm-5.2"
+}

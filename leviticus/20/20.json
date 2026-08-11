@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And man wey go lie down wit ⟨את⟩ im auntie, nakedness of im uncle e don uncover; dia sin dem go carry, wit no children dem go die.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "and man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "go lie down"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im auntie"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "im auntie"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nakedness"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "of im uncle"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "e don uncover"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "dia sin"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dem go carry"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "wit no children"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "dem go die"
+    }
+  ],
+  "timestamp": "2026-08-11T09:44:13.145317473Z",
+  "model": "glm-5.2"
+}

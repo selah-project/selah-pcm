@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Because I hear slander of plenty people, fear dey all around; wen dem gather together against me, to take my life, dem plan am.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "because"
+    },
+    {
+      "surface": "שָׁמַ֨עְתִּי",
+      "gloss": "I hear"
+    },
+    {
+      "surface": "דִּבַּ֥ת",
+      "gloss": "slander"
+    },
+    {
+      "surface": "רַבִּים֮",
+      "gloss": "of plenty people"
+    },
+    {
+      "surface": "מָג֪וֹר",
+      "gloss": "fear"
+    },
+    {
+      "surface": "מִסָּ֫בִ֥יב",
+      "gloss": "dey all around"
+    },
+    {
+      "surface": "בְּהִוָּסְדָ֣ם",
+      "gloss": "wen dem gather"
+    },
+    {
+      "surface": "יַ֣חַד",
+      "gloss": "together"
+    },
+    {
+      "surface": "עָלַ֑י",
+      "gloss": "against me"
+    },
+    {
+      "surface": "לָקַ֖חַת",
+      "gloss": "to take"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "my life"
+    },
+    {
+      "surface": "זָמָֽמוּ",
+      "gloss": "dem plan am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:10.545348015Z",
+  "model": "glm-5.2"
+}

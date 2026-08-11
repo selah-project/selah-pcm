@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Yehu fill im hand wit bow, and e strike ⟨את⟩ Yehoram between im arms; and di arrow come out from im heart, and e sink down for im chariot.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fill"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "wit bow"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and e strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "im arms"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and come out"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "di arrow"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "from im heart"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "and sink down"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "for im chariot"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:49.471081073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di king bin come, and all di people wey ⟨dey⟩ ⟨את⟩ am, dem bin tire, and e bin refresh ⟨imself⟩ for there.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "dem bin tire"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "and bin refresh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "for there"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:34.484659967Z",
+  "model": "glm-5.2"
+}

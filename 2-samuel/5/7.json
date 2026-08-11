@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And David capture ⟨את⟩ strong-hold of Tziyon, na ⟨im⟩ be city of David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "and capture"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strong-hold"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "strong-hold"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "of Tziyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na ⟨im⟩ be"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "city"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:59.870551860Z",
+  "model": "glm-5.2"
+}

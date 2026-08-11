@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Ayin, Rimmon, and Eter, and Ashan — four towns and dia villages.",
+  "tokens": [
+    {
+      "surface": "עַ֥יִן",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "רִמּ֖וֹן",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "וָעֶ֣תֶר",
+      "gloss": "and Eter"
+    },
+    {
+      "surface": "וְעָשָׁ֑ן",
+      "gloss": "and Ashan"
+    },
+    {
+      "surface": "עָרִ֥ים",
+      "gloss": "towns"
+    },
+    {
+      "surface": "אַרְבַּ֖ע",
+      "gloss": "four"
+    },
+    {
+      "surface": "וְחַצְרֵיהֶֽן",
+      "gloss": "and dia villages"
+    }
+  ],
+  "timestamp": "2026-08-11T10:23:50.299513173Z",
+  "model": "glm-5.2"
+}

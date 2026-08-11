@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 16:13",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Im archer dem surround me, e dey tear open my kidney dem and e no dey show pity, e dey pour my bile ⟨go⟩ di ground.",
+  "tokens": [
+    {
+      "surface": "יסבו",
+      "gloss": "dem surround"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "רביו",
+      "gloss": "im archer dem"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "e dey tear open"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my kidney dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "e dey show pity"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "e dey pour"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "go di ground"
+    },
+    {
+      "surface": "מררתי",
+      "gloss": "my bile"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:20.602558072Z",
+  "model": "glm-5.2"
+}

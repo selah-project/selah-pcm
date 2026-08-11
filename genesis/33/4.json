@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Esav run go meet am, and hug am, and fall on top im neck, and kiss am; and dem cry.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "and run"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "go meet am"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "and hug am"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "im neck"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "and kiss am"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and dem cry"
+    }
+  ],
+  "timestamp": "2026-08-11T09:12:08.846207502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "All dia badness dey for Gilgal, because dere I hate dem; because of di badness of dia doings, I go drive dem comot from my house. I no go add to love dem; all dia leader-dem na rebel-dem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "dia badness"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "dey for Gilgal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "I hate dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "di badness"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "of dia doings"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "from my house"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "I go drive dem comot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "I go add"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "to love dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "All"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "dia leader-dem"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "na rebel-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:46.866196476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "E dey far, wetin bin dey, and deep, deep — who go fit find am?",
+  "tokens": [
+    {
+      "surface": "רָחוֹק",
+      "gloss": "E dey far"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "שֶׁהָיָה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "וְעָמֹק",
+      "gloss": "and deep"
+    },
+    {
+      "surface": "עָמֹק",
+      "gloss": "deep"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "go fit find am"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:23.517813663Z",
+  "model": "glm-5.2"
+}

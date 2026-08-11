@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "I go make mortal ⟨man⟩ more scarce pass pure gold, and ⟨ordinary⟩ man pass refined gold of Ophir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "I go make scarce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal ⟨man⟩"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "pass pure gold"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "and ⟨ordinary⟩ man"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "pass refined gold"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "of Ophir"
+    }
+  ],
+  "timestamp": "2026-08-11T11:23:02.437295764Z",
+  "model": "glm-5.2"
+}

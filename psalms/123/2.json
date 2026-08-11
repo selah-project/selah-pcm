@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 123,
+  "translation": "See, like how di eyes of servants dey look ⟨na⟩ di hand of dia masters, and like how di eyes of ⟨one⟩ female slave dey look ⟨na⟩ di hand of her mistress, so our eyes dey look Yahweh our Elohim, until ⟨e⟩ show us favor.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "See"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "like how di eyes of"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servants"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "of dia masters"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "like how di eyes of"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "female slave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "of her mistress"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "our eyes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dey look"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "our Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "⟨e⟩ show us favor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:47.979663981Z",
+  "model": "glm-5.2"
+}

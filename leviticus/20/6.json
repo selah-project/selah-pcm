@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And di ⟨person⟩ wey go turn to di ⟨ovot-spirits⟩ and to di ⟨yid'onim-spirits⟩, to go do ashawo behind dem, I go set ⟨את⟩ my face against dat ⟨person⟩, and I go cut ⟨את⟩ ⟨am⟩ off from among im people.",
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "and di ⟨person⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "go turn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "di ovot-spirits"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "di yid'onim-spirits"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "to go do ashawo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "behind dem"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "I go set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my face"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "against dat ⟨person⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨am⟩",
+      "marks": "from among im people"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "from among"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "im people"
+    }
+  ],
+  "timestamp": "2026-08-11T15:51:18.453741301Z",
+  "model": "glm-5.2"
+}

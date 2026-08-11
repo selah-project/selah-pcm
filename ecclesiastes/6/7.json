@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "All di work of man na for im mouth, and yet di appetite no dey full.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "work"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "of man"
+    },
+    {
+      "surface": "לְפִ֑יהוּ",
+      "gloss": "for im mouth"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "and yet"
+    },
+    {
+      "surface": "הַנֶּ֖פֶשׁ",
+      "gloss": "di appetite"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִמָּלֵֽא",
+      "gloss": "dey full"
+    }
+  ],
+  "timestamp": "2026-08-11T13:35:13.542597397Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Elohim bin help am against ⟨di⟩ Pelishtim, and against ⟨di⟩ Arabian wey ⟨dem⟩ dey stay for Gur־Baal, and ⟨di⟩ Meunim.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "bin help am"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "⟨di⟩ Arabian"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "for Gur־"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "and ⟨di⟩ Meunim"
+    }
+  ],
+  "timestamp": "2026-08-11T15:08:37.002037594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Through all di earth im line don go out, and to di end of di world na im dem words reach; for di sun ⟨im⟩ put tent among dem.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "through all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "don go out"
+    },
+    {
+      "surface": "קום",
+      "gloss": "im line"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "and to di end of"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "di world"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "dem words"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "for di sun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨im⟩ put"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "among dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:35.339471120Z",
+  "model": "glm-5.2"
+}

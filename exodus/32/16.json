@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And di tablet dem — na Elohim work dem ⟨be⟩; and di writing — na Elohim writing e ⟨be⟩, dem engrave am on top di tablet dem.",
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "and di tablet dem"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "work"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem be"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "and di writing"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "writing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e be"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "dem engrave"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "di tablet dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:57.611109848Z",
+  "model": "glm-5.2"
+}

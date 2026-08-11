@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 51,
+  "translation": "For moth go chop dem like garment, and worm go chop dem like wool; but my righteousness go dey forever, and my salvation to generation of generations.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "like garment"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "go chop dem"
+    },
+    {
+      "surface": "עש",
+      "gloss": "moth"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "and like wool"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "go chop dem"
+    },
+    {
+      "surface": "סס",
+      "gloss": "worm"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "but my righteousness"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go dey"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "and my salvation"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "to generation"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "of generations"
+    }
+  ],
+  "timestamp": "2026-08-11T11:36:05.110313062Z",
+  "model": "glm-5.2"
+}

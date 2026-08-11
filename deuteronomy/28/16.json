@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Cursed you ⟨be⟩ for di city, and cursed you ⟨be⟩ for di field.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Cursed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "for di city"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "and cursed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    }
+  ],
+  "timestamp": "2026-08-11T10:14:37.523766503Z",
+  "model": "glm-5.2"
+}

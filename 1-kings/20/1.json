@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Ben־Hadad, king of Aram, bin gather ⟨את⟩ all im army, and thirty-two king dem ⟨את⟩ am, and horse and chariot; and e go up and e besiege Shomron, and e fight against am.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "bin gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all im army"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "im army"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "and thirty"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "two"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "and horse"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "and chariot"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "and e go up"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "and e besiege"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "and e fight"
+    },
+    {
+      "surface": "בה",
+      "gloss": "against am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:09.172227152Z",
+  "model": "glm-5.2"
+}

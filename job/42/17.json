@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "So Ayub bin die, old and full of days.",
+  "tokens": [
+    {
+      "surface": "וַיָּמָת",
+      "gloss": "So ⟨he⟩ bin die"
+    },
+    {
+      "surface": "אִיּוֹב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "זָקֵן",
+      "gloss": "old"
+    },
+    {
+      "surface": "וּשְׂבַע",
+      "gloss": "and full"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "of days"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:19.336259017Z",
+  "model": "glm-5.2"
+}

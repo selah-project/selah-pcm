@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 120,
+  "translation": "Yahweh, save my life from lip of lie, from tongue wey dey deceive.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "save"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "from lip"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "of lie"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "from tongue"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wey dey deceive"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:36.166426201Z",
+  "model": "glm-5.2"
+}

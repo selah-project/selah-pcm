@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 17:14",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Because na like dis Yahweh, Elohim of Yisra'el, bin talk: ⟨Di⟩ jar of ⟨di⟩ flour no go finish, and ⟨di⟩ flask of ⟨di⟩ oil no go lack, until di day wey Yahweh go give rain on top di face of di ground.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כד",
+      "gloss": "jar"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "di flour"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "go finish"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "and flask"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "di oil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "go lack"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "יום",
+      "gloss": "day"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wey go give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "rain"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T11:05:09.976481603Z",
+  "model": "glm-5.2"
+}

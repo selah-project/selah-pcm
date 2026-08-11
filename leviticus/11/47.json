@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "to separate between ⟨di⟩ unclean and between ⟨di⟩ clean, and between ⟨di⟩ living creature wey dem fit chop and between ⟨di⟩ living creature wey dem no go chop.",
+  "tokens": [
+    {
+      "surface": "לְהַבְדִּ֕יל",
+      "gloss": "to separate"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "between"
+    },
+    {
+      "surface": "הַטָּמֵ֖א",
+      "gloss": "⟨di⟩ unclean"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הַטָּהֹ֑ר",
+      "gloss": "⟨di⟩ clean"
+    },
+    {
+      "surface": "וּבֵין֤",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הַֽחַיָּה֙",
+      "gloss": "⟨di⟩ living creature"
+    },
+    {
+      "surface": "הַֽנֶּאֱכֶ֔לֶת",
+      "gloss": "wey dem fit chop"
+    },
+    {
+      "surface": "וּבֵין֙",
+      "gloss": "and between"
+    },
+    {
+      "surface": "הַֽחַיָּ֔ה",
+      "gloss": "⟨di⟩ living creature"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "no"
+    },
+    {
+      "surface": "תֵאָכֵֽל",
+      "gloss": "dem go chop"
+    }
+  ],
+  "timestamp": "2026-08-11T09:39:10.874017876Z",
+  "model": "glm-5.2"
+}

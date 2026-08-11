@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 90,
+  "translation": "For morning e dey blossom, and e pass; for evening e dey cut down, and e dry up.",
+  "tokens": [
+    {
+      "surface": "בַּ֭בֹּקֶר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "יָצִ֣יץ",
+      "gloss": "e dey blossom"
+    },
+    {
+      "surface": "וְחָלָ֑ף",
+      "gloss": "and e pass"
+    },
+    {
+      "surface": "לָ֝עֶ֗רֶב",
+      "gloss": "for evening"
+    },
+    {
+      "surface": "יְמוֹלֵ֥ל",
+      "gloss": "e dey cut down"
+    },
+    {
+      "surface": "וְיָבֵֽשׁ",
+      "gloss": "and e dry up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:41.262693004Z",
+  "model": "glm-5.2"
+}

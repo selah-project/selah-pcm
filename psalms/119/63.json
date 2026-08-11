@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I ⟨be⟩ padi to all who dey fear you, and to di people wey dey keep your appointed order dem.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "padi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "dey fear you"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "and to di people wey dey keep"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "your appointed order dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:21.173239061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "I go crush ⟨את⟩ dem, and dem no go fit rise; dem go fall under my feet.",
+  "tokens": [
+    {
+      "surface": "אֶ֭מְחָצֵם",
+      "gloss": "I go crush"
+    },
+    {
+      "surface": "אֵ֝ימֶ֗ךָ",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יֻ֣כְלוּ",
+      "gloss": "dem go fit"
+    },
+    {
+      "surface": "ק֑וּם",
+      "gloss": "rise"
+    },
+    {
+      "surface": "יִ֝פְּל֗וּ",
+      "gloss": "dem go fall"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רַגְלָֽי",
+      "gloss": "my feet"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:53.840514631Z",
+  "model": "glm-5.2"
+}

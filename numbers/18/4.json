@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 18:4",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And dem go join togeda with you, and dem go keep ⟨את⟩ di watch-duty of di tent of meeting, for all di work of di tent; and stranger no go come near to una.",
+  "tokens": [
+    {
+      "surface": "ונלוו",
+      "gloss": "and dem go join togeda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "with you"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "and dem go keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di watch-duty"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "watch-duty"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "meeting"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "work"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "di tent"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "and stranger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "go come near"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    }
+  ],
+  "timestamp": "2026-08-11T09:55:51.888514637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 31:46",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Ya'akov bin talk to im brodas: \"Gather stones.\" And dem bin gather stones, and dem bin make heap; and dem bin chop there on top ⟨di⟩ heap.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "to im brodas"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "Gather"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stones"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "and dem bin take"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stones"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem bin make"
+    },
+    {
+      "surface": "גל",
+      "gloss": "heap"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "and dem bin chop"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "⟨di⟩ heap"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:16.079431353Z",
+  "model": "glm-5.2"
+}

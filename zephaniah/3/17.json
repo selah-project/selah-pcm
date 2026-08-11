@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Yahweh, Elohim wey ⟨dey⟩ inside una, ⟨na⟩ strong warrior, e go save; e go glad on top una wit happiness, e go quiet ⟨imself⟩ inside im love, e go rejoice on top una wit singing.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהַ֛יִךְ",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּקִרְבֵּ֖ךְ",
+      "gloss": "inside una"
+    },
+    {
+      "surface": "גִּבּ֣וֹר",
+      "gloss": "strong warrior"
+    },
+    {
+      "surface": "יוֹשִׁ֑יעַ",
+      "gloss": "e go save"
+    },
+    {
+      "surface": "יָשִׂ֨ישׂ",
+      "gloss": "e go glad"
+    },
+    {
+      "surface": "עָלַ֜יִךְ",
+      "gloss": "on top una"
+    },
+    {
+      "surface": "בְּשִׂמְחָ֗ה",
+      "gloss": "wit happiness"
+    },
+    {
+      "surface": "יַחֲרִישׁ֙",
+      "gloss": "e go quiet"
+    },
+    {
+      "surface": "בְּאַ֣הֲבָת֔וֹ",
+      "gloss": "inside im love"
+    },
+    {
+      "surface": "יָגִ֥יל",
+      "gloss": "e go rejoice"
+    },
+    {
+      "surface": "עָלַ֖יִךְ",
+      "gloss": "on top una"
+    },
+    {
+      "surface": "בְּרִנָּֽה",
+      "gloss": "wit singing"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:44.008740515Z",
+  "model": "glm-5.2"
+}

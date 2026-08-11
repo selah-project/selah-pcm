@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Happy ⟨be⟩ your men, and happy ⟨be⟩ your servants, dis ⟨dem⟩ wey dey stand before you always, and dey hear ⟨את⟩ your wisdom!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Happy"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "your men"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "and happy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis ⟨dem⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wey dey stand"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "always"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "and dey hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your wisdom"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "your wisdom"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:25.211608763Z",
+  "model": "glm-5.2"
+}

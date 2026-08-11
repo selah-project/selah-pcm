@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 14:20",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Because ⟨im⟩ servant Yoav do dis ⟨thing⟩ to surround ⟨את⟩ di matter face; and Adonai wise like wisdom of messenger of Elohim, to know ⟨את⟩ all wetin dey for di land.",
+  "tokens": [
+    {
+      "surface": "לבעבור",
+      "gloss": "because"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "to surround"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di matter face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "of di matter"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "do"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di matter dis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di matter"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "and Adonai"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wise"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "like wisdom"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "of messenger"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "of Elohim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "to know"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dey for di land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:52:40.725409716Z",
+  "model": "glm-5.2"
+}

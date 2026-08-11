@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Make ⟨im⟩ give ⟨im⟩ cheek to di person wey dey slap ⟨im⟩; make ⟨im⟩ chop full of disgrace.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "make ⟨im⟩ give"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "to di person wey dey slap ⟨im⟩"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨im⟩ cheek"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "make ⟨im⟩ chop full"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "of disgrace"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:47.543064358Z",
+  "model": "glm-5.2"
+}

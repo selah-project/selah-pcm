@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "So Adonai Yahweh talk like dis: Enemy go surround ⟨di⟩ land, and ⟨e⟩ go bring down your power from you, and dem go plunder your palaces.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "כה",
+      "gloss": "like dis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צר",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "and go surround"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨di⟩ land"
+    },
+    {
+      "surface": "והוריד",
+      "gloss": "and ⟨e⟩ go bring down"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "from you"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "your power"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "and dem go plunder"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "your palaces"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:46.846255524Z",
+  "model": "glm-5.2"
+}

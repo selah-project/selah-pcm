@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Then di men dem bin fear Yahweh with great fear, ⟨and⟩ ⟨dem⟩ sacrifice ⟨את⟩ sacrifice to Yahweh, and ⟨dem⟩ make vows.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "then bin fear"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "di men dem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "fear"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "great"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "and ⟨dem⟩ sacrifice"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "and ⟨dem⟩ make"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "vows"
+    }
+  ],
+  "timestamp": "2026-08-11T12:28:22.381415390Z",
+  "model": "glm-5.2"
+}

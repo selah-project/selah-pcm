@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "So Rav-Shaqeh bin return, and e bin find ⟨את⟩ di king of Ashshur dey fight against Livnah; because e bin hear sey e bin move from Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bin return"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-Shaqeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "and e bin find"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashshur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "dey fight"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "e bin hear"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "e bin move"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "from Lakish"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:39.934997915Z",
+  "model": "glm-5.2"
+}

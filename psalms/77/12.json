@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 77,
+  "translation": "I go remember di works of Yah; ⟨truly⟩ I go remember wetin you do wonderful from ancient time.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "I go remember"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "di works"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨truly⟩"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "I go remember"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "from ancient time"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "wetin you do wonderful"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.828695189Z",
+  "model": "glm-5.2"
+}

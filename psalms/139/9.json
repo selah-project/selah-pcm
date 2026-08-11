@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 139,
+  "translation": "If I fly di wing of dawn, if I siddon for di far end of sea:",
+  "tokens": [
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "I go fly"
+    },
+    {
+      "surface": "כַנְפֵי",
+      "gloss": "di wing of"
+    },
+    {
+      "surface": "שָׁחַר",
+      "gloss": "dawn"
+    },
+    {
+      "surface": "אֶשְׁכְּנָה",
+      "gloss": "I go siddon"
+    },
+    {
+      "surface": "בְּאַחֲרִית",
+      "gloss": "for di far end of"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "sea"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:49.710265825Z",
+  "model": "glm-5.2"
+}

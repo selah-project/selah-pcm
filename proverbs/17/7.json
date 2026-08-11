@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 17,
+  "translation": "Excess lip no fit ⟨na⟩ for foolish man, how much more lying lip for noble man.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no fit"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "for foolish man"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lip"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "excess"
+    },
+    {
+      "surface": "אף",
+      "gloss": "how much more"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "for noble man"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lip"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lying"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:49.523337095Z",
+  "model": "glm-5.2"
+}

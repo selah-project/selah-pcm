@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And Yahweh ya Elohim go give dem ⟨to⟩ ya face, and ⟨He go⟩ throw dem inside great confusion, until ⟨dem⟩ destroy finish.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "and go give dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "to ya face"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "and throw inside confusion"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "confusion"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "great"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "dem destroy finish"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:11.973511498Z",
+  "model": "glm-5.2"
+}

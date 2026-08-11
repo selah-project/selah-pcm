@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "Then you go take ⟨את⟩ di anointing oil, and you go pour am on top im head, and you go anoint ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di anointing oil"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "di anointing"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "and you go pour"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "im head"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "and you go anoint"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:14.621360226Z",
+  "model": "glm-5.2"
+}

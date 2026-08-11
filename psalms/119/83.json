@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Because I bin become like wineskin for smoke, your statutes I no forget.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "I bin become"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "like wineskin"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "for smoke"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "your statutes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "I forget"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.033805070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "and e go be, as evening dey come, e go wash imself for water; and as sun dey set, e go enter inside di camp.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "as ... dey come"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "evening"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "e go wash imself"
+    },
+    {
+      "surface": "במים",
+      "gloss": "for water"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "and as ... dey set"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "e go enter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "inside"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "di camp"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:22.976256536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "“Covenant ⟨dey⟩ between me and you, and between my papa and your papa. Look, I don send silver and gold to you. Go, break your covenant wit ⟨את⟩ Baasha wey ⟨be⟩ king of Yisrael, make e comot from on top me.”",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "covenant"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "between me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "and between you"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "I don send"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "and gold"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "break"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "your covenant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "and make e comot"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "from on top me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:10:27.797151273Z",
+  "model": "glm-5.2"
+}

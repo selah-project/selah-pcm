@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "If ⟨dem⟩ swallow am from im place, and ⟨di place⟩ go deny am, ⟨im⟩ say, 'I no see you.'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "⟨dem⟩ swallow am"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "from im place"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "and ⟨di place⟩ go deny am"
+    },
+    {
+      "surface": "בו",
+      "gloss": "am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "I see you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:42.952327485Z",
+  "model": "glm-5.2"
+}

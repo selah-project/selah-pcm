@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "No hand over slave to im master, wey e don escape come to you from among im master.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "No"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "hand over"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "e don escape"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "come to you"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from among"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "im master"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:09.558629144Z",
+  "model": "glm-5.2"
+}

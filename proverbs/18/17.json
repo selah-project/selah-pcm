@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Di first one ⟨na⟩ righteous man for im own case; im neighbor go come and go examine am.",
+  "tokens": [
+    {
+      "surface": "צַדִּ֣יק",
+      "gloss": "righteous man"
+    },
+    {
+      "surface": "הָרִאשׁ֣וֹן",
+      "gloss": "di first one"
+    },
+    {
+      "surface": "בְּרִיב֑וֹ",
+      "gloss": "for im own case"
+    },
+    {
+      "surface": "יֹבֵ֝א",
+      "gloss": "go come"
+    },
+    {
+      "surface": "רֵעֵ֗הוּ",
+      "gloss": "im neighbor"
+    },
+    {
+      "surface": "וַחֲקָרֽוֹ",
+      "gloss": "and go examine am"
+    }
+  ],
+  "timestamp": "2026-08-11T16:40:40.921443224Z",
+  "model": "glm-5.2"
+}

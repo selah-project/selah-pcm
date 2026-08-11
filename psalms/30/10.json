@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Wetin gain dey inside my blood, for my going down to di pit? ⟨Dem⟩ go praise you, dust? ⟨Dem⟩ go declare your truth?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gain"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "inside my blood"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "for my going down"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "di pit"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "⟨dem⟩ go praise you"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dust"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "⟨dem⟩ go declare"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "your truth"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:31.612999652Z",
+  "model": "glm-5.2"
+}

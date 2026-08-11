@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 13:15",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Even though im dey bear fruit among im brodas, eastern wind go come — wind of Yahweh wey dey rise up from wilderness — and im spring go dry up, and im fountain go become dry; na im go plunder ⟨את⟩ di treasury of evri precious vessel.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "even though"
+    },
+    {
+      "surface": "ה֔וּא",
+      "gloss": "im"
+    },
+    {
+      "surface": "בֵּ֥ן",
+      "gloss": "among"
+    },
+    {
+      "surface": "אַחִ֖ים",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "יַפְרִ֑יא",
+      "gloss": "dey bear fruit"
+    },
+    {
+      "surface": "יָב֣וֹא",
+      "gloss": "go come"
+    },
+    {
+      "surface": "קָדִים֩",
+      "gloss": "eastern wind"
+    },
+    {
+      "surface": "ר֨וּחַ",
+      "gloss": "wind"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִמִּדְבָּ֣ר",
+      "gloss": "from wilderness"
+    },
+    {
+      "surface": "עֹלֶ֗ה",
+      "gloss": "wey dey rise up"
+    },
+    {
+      "surface": "וְיֵב֤וֹשׁ",
+      "gloss": "and go dry up"
+    },
+    {
+      "surface": "מְקוֹרוֹ֙",
+      "gloss": "im spring"
+    },
+    {
+      "surface": "וְיֶחֱרַ֣ב",
+      "gloss": "and go become dry"
+    },
+    {
+      "surface": "מַעְיָנ֔וֹ",
+      "gloss": "im fountain"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "na im"
+    },
+    {
+      "surface": "יִשְׁסֶ֔ה",
+      "gloss": "go plunder"
+    },
+    {
+      "surface": "אוֹצַ֖ר",
+      "gloss": "⟨את⟩",
+      "marks": "di treasury"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "of evri"
+    },
+    {
+      "surface": "כְּלִ֥י",
+      "gloss": "vessel"
+    },
+    {
+      "surface": "חֶמְדָּֽה",
+      "gloss": "precious"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:09.938507456Z",
+  "model": "glm-5.2"
+}

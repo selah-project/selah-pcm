@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "For my heart I bin hide Your word, so dat I no go sin against You.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "for my heart"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "I bin hide"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Your word"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "I go sin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "against You"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:07.967503133Z",
+  "model": "glm-5.2"
+}

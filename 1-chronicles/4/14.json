@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And Meonotai born ⟨את⟩ Ophrah, and Serayah born ⟨את⟩ Yoav, fada of Ge-Charashim; for dem bin ⟨be⟩ craftsmen.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "And Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ophrah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ophrah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "and Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fada of"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Charashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "craftsmen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem bin ⟨be⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:40.961774559Z",
+  "model": "glm-5.2"
+}

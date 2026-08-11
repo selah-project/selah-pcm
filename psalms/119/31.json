@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I don hold tight to ya witness dem; Yahweh, no make me shame.",
+  "tokens": [
+    {
+      "surface": "דָּבַ֥קְתִּי",
+      "gloss": "I don hold tight"
+    },
+    {
+      "surface": "בְעֵֽדְוֺתֶ֑יךָ",
+      "gloss": "to ya witness dem"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תְּבִישֵֽׁנִי",
+      "gloss": "make me shame"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:20.930599218Z",
+  "model": "glm-5.2"
+}

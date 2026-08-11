@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 47,
+  "translation": "Di noble dem of di peoples dem don gada — ⟨di⟩ people of ⟨di⟩ Elohim of Avraham; because to Elohim ⟨belong⟩ di shield dem of di earth; ⟨im⟩ don go up well well.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Di noble dem of"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "di peoples dem"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "don gada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨di⟩ people of"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨di⟩ Elohim of"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "di shield dem of"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "⟨im⟩ don go up"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:13.056311854Z",
+  "model": "glm-5.2"
+}

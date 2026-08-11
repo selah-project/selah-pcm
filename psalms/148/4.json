@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 148,
+  "translation": "Praise am, heavens of di heavens, and di waters wey dey above di heavens!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Praise am"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "heavens of"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heavens"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "and di waters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dey above"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "di heavens"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:17.420715697Z",
+  "model": "glm-5.2"
+}

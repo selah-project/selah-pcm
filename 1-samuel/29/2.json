@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And di ruler dem of Pelishtim bin dey pass by hundred dem and by thousand dem; and David and im men dem bin dey pass for back wit Akish.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "and di ruler dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "of Pelishtim"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bin dey pass"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "by hundred dem"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "and by thousand dem"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "and David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "and im men dem"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bin dey pass"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "for back"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:03.265513158Z",
+  "model": "glm-5.2"
+}

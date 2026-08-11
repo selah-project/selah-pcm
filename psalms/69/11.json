@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 69,
+  "translation": "And I bin dey cry, my life-force bin fast, and e come turn to insult for me.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "and I bin dey cry"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "⟨in⟩ fast"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life-force"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and e come turn"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "to insult"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:27.328903866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Mosheh bin turn, e bin come down from di mountain, and di two tablet dem of di testimony bin dey inside ⟨im⟩ hand — tablet dem wey dem write from two side dem, from dis side and from dat side, dem bin write ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "bin turn"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bin come down"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "and two"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tablet dem"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "of di testimony"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "inside im hand"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tablet dem"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "wey dem write"
+    },
+    {
+      "surface": "משני",
+      "gloss": "from two"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "side dem"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from dis side"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "and from dat side"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "write"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:57.610769712Z",
+  "model": "glm-5.2"
+}

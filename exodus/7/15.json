@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 7:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Go meet Paroh for morning-time — look, ⟨he⟩ dey come out to di water — and you go stand to meet am for di edge of di river; and di staff wey turn to snake, you go take ⟨am⟩ for your hand.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning-time"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "look"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "dey come out"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "to di water"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "and you go stand"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "to meet am"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "edge"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "di river"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "and di staff"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "turn"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "to snake"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "you go take"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "for your hand"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:55.719760522Z",
+  "model": "glm-5.2"
+}

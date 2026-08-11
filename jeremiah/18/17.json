@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 18:17",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Like east wind I go scatter dem before enemy; back of neck, and no face, I go show dem for di day of dia trouble.",
+  "tokens": [
+    {
+      "surface": "כרוח",
+      "gloss": "like wind"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "east"
+    },
+    {
+      "surface": "אפיצם",
+      "gloss": "I go scatter dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "back of neck"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "אראם",
+      "gloss": "I go show dem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for di day"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "of dia trouble"
+    }
+  ],
+  "timestamp": "2026-08-11T11:47:25.030309026Z",
+  "model": "glm-5.2"
+}

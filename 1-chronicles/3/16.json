@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di pikin-dem of Yehoyakim: Yekonyah im pikin, Tsidkiyah im pikin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "And di pikin-dem of"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "im pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T13:54:52.458855773Z",
+  "model": "glm-5.2"
+}

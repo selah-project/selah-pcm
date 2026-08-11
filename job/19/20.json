@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "My bone don cling to my skin and to my flesh, and I don escape wit ⟨di⟩ skin of my teeth.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "to my skin"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "and to my flesh"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "don cling"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my bone"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "and I don escape"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "wit ⟨di⟩ skin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "of my teeth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:57.711084101Z",
+  "model": "glm-5.2"
+}

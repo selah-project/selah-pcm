@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "From Aram, and from Moav, and from di pikin-dem of Ammon, and from di Filistines, and from Amalek, and from di spoil of Hadadezer, pikin of Rechov, king of Tsovah.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "From Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "and from Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "and from di pikin-dem of"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "and from di Filistines"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "and from Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "and from di spoil of"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "of Tsovah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:57.529691185Z",
+  "model": "glm-5.2"
+}

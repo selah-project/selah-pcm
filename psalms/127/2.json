@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 127,
+  "translation": "For nothing for una, una wey dey wake early, una wey dey delay to sit down, una wey dey chop ⟨di⟩ bread of pain-tin — na so ⟨e⟩ dey give to im beloved one sleep.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "For nothing"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for una"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "una wey dey wake early"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rise"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "una wey dey delay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "to sit down"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "una wey dey chop"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "of pain-tin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e dey give"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "to im beloved one"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sleep"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:19.231957935Z",
+  "model": "glm-5.2"
+}

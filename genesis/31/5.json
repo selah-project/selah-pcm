@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And im tell dem sey, \"I dey see ⟨את⟩ di face of una papa, say e no dey toward me like before; but Elohim of my papa bin dey with me.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im tell"
+    },
+    {
+      "surface": "להן",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "I dey see"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di face of una papa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "of una papa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "e no dey"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "toward me"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "like"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "before"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "but Elohim of"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "with me"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:40.077455500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "esther 9:24",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Because Haman, pikin of Hamdata di Agagi, enemy of all di Yehudim, bin devise against di Yehudim to destroy dem, and e bin cast Pur — dat na di lot — to crush dem and to destroy dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "di Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "enemy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehudim"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "bin devise"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "di Yehudim"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "to destroy dem"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "and bin cast"
+    },
+    {
+      "surface": "פור",
+      "gloss": "Pur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dat na"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "di lot"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "to crush dem"
+    },
+    {
+      "surface": "ולאבדם",
+      "gloss": "and to destroy dem"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:44.856723105Z",
+  "model": "glm-5.2"
+}

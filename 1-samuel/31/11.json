@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "When di people wey dey live for Yavesh Gilad hear about am — ⟨את⟩ wetin Pelishtim do to Sha'ul —",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמְעוּ",
+      "gloss": "when ... hear"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "about am"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "di people wey dey live for"
+    },
+    {
+      "surface": "יָבֵשׁ",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גִּלְעָד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "wetin Pelishtim do to Sha'ul"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "do"
+    },
+    {
+      "surface": "פְּלִשְׁתִּים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לְשָׁאוּל",
+      "gloss": "to Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:10.939877104Z",
+  "model": "glm-5.2"
+}

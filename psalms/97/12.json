@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Make una glad for Yahweh, una tzaddikim, and give tnx to memorial of im kedushah.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Make una glad"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "una tzaddikim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "and give tnx"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "to memorial of"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "im kedushah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:14.192659011Z",
+  "model": "glm-5.2"
+}

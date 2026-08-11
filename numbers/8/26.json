@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 8:26",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "and ⟨he⟩ go minister to ⟨את⟩ im brodas inside ⟨di⟩ tent of meeting, to keep guard, but work ⟨he⟩ no go work. Na so you go do to di Levites inside dia guard-duties.",
+  "tokens": [
+    {
+      "surface": "ושרת",
+      "gloss": "and go minister"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im brodas"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "inside tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of meeting"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "to keep"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "guard"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "but work"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "go work"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "na so"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go do"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "to di Levites"
+    },
+    {
+      "surface": "במשמרתם",
+      "gloss": "inside dia guard-duties"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:07.002506571Z",
+  "model": "glm-5.2"
+}

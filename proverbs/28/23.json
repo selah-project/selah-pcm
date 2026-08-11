@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Man wey dey correct anoda person, afterward go find favor pass person wey dey smooth tongue.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "wey dey correct"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afterward"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favor"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "go find"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "wey dey smooth"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tongue"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:15.825044683Z",
+  "model": "glm-5.2"
+}

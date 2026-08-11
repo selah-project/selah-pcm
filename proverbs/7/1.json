@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "⟨My⟩ pikin, keep my words, and my commandments, make you hide ⟨am⟩ ⟨with⟩ you.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "⟨My⟩ pikin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "keep"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my words"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "and my commandments"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "make you hide"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "⟨am⟩ ⟨with⟩ you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:09:01.010227828Z",
+  "model": "glm-5.2"
+}

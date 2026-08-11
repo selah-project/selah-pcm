@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "⟨Dey⟩ exist one sick evil wey I don see under di sun: wealth wey dem keep for im owner, to im own bad.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨dey⟩ exist"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "evil"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sick"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "wey I don see"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wealth"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "wey dem keep"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "for im owner"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "to im own bad"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:29.347015858Z",
+  "model": "glm-5.2"
+}

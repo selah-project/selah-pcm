@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And make all dem wey dey put trust for you rejoice; forever make dem shout for joy, and cover dem over; and make dem wey dey love your name dey glad for you.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "And make ... rejoice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "dem wey dey put trust"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "make dem shout for joy"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "and cover dem over"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "⟨dem⟩"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "and make ... dey glad"
+    },
+    {
+      "surface": "בך",
+      "gloss": "for you"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "dem wey dey love"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:12.381811777Z",
+  "model": "glm-5.2"
+}

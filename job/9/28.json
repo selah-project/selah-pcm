@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 9:28",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "I dey fear all my pain, I know sey You no go acquit me.",
+  "tokens": [
+    {
+      "surface": "יגרתי",
+      "gloss": "I dey fear"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עצבתי",
+      "gloss": "my pain"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I know sey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨that⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "You go acquit me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:30.544642169Z",
+  "model": "glm-5.2"
+}

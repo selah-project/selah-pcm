@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "And David bin put ⟨את⟩ dis words for im heart, and e fear well well from di face of Akish, king of Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "and bin put"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis words"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "for im heart"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and fear"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well well"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from di face of"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king of"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-11T10:43:36.256462560Z",
+  "model": "glm-5.2"
+}

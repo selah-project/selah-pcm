@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 6:5",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Di dem wey dey strum on top mouth of harp, like Dawid dem invent for demselv instruments of music.",
+  "tokens": [
+    {
+      "surface": "הַפֹּרְטִ֖ים",
+      "gloss": "di dem wey dey strum"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "mouth"
+    },
+    {
+      "surface": "הַנָּ֑בֶל",
+      "gloss": "of harp"
+    },
+    {
+      "surface": "כְּדָוִ֕יד",
+      "gloss": "like Dawid"
+    },
+    {
+      "surface": "חָשְׁב֥וּ",
+      "gloss": "dem invent"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "for demselv"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "instruments"
+    },
+    {
+      "surface": "שִֽׁיר",
+      "gloss": "of music"
+    }
+  ],
+  "timestamp": "2026-08-11T14:51:34.776225596Z",
+  "model": "glm-5.2"
+}

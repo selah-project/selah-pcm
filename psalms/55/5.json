@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "My heart dey writhe inside me, and di fears of death don fall on top me.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "dey writhe"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inside me"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "and di fears"
+    },
+    {
+      "surface": "מות",
+      "gloss": "of death"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "don fall"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    }
+  ],
+  "timestamp": "2026-08-11T14:54:29.959574812Z",
+  "model": "glm-5.2"
+}

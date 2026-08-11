@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "My brodas, una be my bone and my flesh, una be ⟨ dat⟩; and why una go be di last ones to bring back ⟨את⟩ di king?",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "my brodas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my bone"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "and my flesh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "and why"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "una go be"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "di last ones"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "to bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T10:54:15.100946844Z",
+  "model": "glm-5.2"
+}

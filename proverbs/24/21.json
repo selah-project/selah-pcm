@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "My son, fear ⟨את⟩ Yahweh and di king; wit ⟨dem⟩ wey dey change, no mix ⟨yourself⟩.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "dem wey dey change"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "mix yourself"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:38.533884125Z",
+  "model": "glm-5.2"
+}

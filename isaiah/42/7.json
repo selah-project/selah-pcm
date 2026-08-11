@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "to open ⟨the⟩ eyes of blind people, to bring out from prison ⟨the⟩ prisoner, from house of lockup dem wey dey sit down for darkness.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "to open"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "eyes"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "of blind people"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "to bring out"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "from prison"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "⟨the⟩ prisoner"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "of lockup"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem wey dey sit down"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "for darkness"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:32.248778893Z",
+  "model": "glm-5.2"
+}

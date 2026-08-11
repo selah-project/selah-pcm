@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "And I go lay waste ⟨את⟩ Patros, and I go put fire for Tsoan, and I go carry out judgments for No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "And I go lay waste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "and I go put"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "for Tsoan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "and I go carry out"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "judgments"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "for No"
+    }
+  ],
+  "timestamp": "2026-08-11T12:13:05.754838593Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 137,
+  "translation": "Because dere, di ones wey carry us captives bin ask us for song words, and di ones wey dey torment us bin ask for joy, dem dey talk: 'Sing for us one song from di song of Tsiyon.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "dem bin ask us"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "di ones wey carry us captives"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "for words"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "and di ones wey dey torment us"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "for joy"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for us"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "one song from di song"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:34.669539365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 52:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 52,
+  "translation": "And di army of Kasdim pursue di king, and dem catch up wit ⟨את⟩ Tsidkiyahu for di plains of Yericho, and all im army bin scatter from on top am.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "dem pursue"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "army"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "of Kasdim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "and dem catch up wit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "for di plains"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "of Yericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "im army"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "bin scatter"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "from on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:01:37.666754475Z",
+  "model": "glm-5.2"
+}

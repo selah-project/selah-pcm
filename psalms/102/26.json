@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "Long time before, You lay di earth foundation, and di work of Your hand dem na heaven.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Long time before"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "You lay foundation"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "and di work of"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "Your hand dem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T21:06:23.836498745Z",
+  "model": "glm-5.2"
+}

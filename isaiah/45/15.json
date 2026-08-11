@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 45,
+  "translation": "Truly, you ⟨be⟩ El wey dey hide, Elohim of Yisra'el, di one wey dey save!",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "truly"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "wey dey hide"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "di one wey dey save"
+    }
+  ],
+  "timestamp": "2026-08-11T11:33:55.383567461Z",
+  "model": "glm-5.2"
+}

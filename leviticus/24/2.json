@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Command ⟨את⟩ di pikin-dem of Yisra'el, make dem bring to you olive oil, pure ⟨one⟩, beaten, for di light, to dey make lamp go up continually.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pikin-dem of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di pikin-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "make dem bring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oil"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olive"
+    },
+    {
+      "surface": "זך",
+      "gloss": "pure"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "beaten"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "for di light"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "to dey make go up"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continually"
+    }
+  ],
+  "timestamp": "2026-08-11T09:45:42.744297906Z",
+  "model": "glm-5.2"
+}

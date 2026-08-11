@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Horse-dem wey dem don feed well, wey dey roam with lust dem bin be; each man to im fellow im wife, dem dey neigh.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "horse-dem"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "wey dem don feed well"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "wey dey roam with lust"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dem bin be"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "im wife"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "of im fellow"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "dem dey neigh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:43:04.292712160Z",
+  "model": "glm-5.2"
+}

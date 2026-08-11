@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "Soul wey don full dey trample honeycomb; but soul wey hungry — every bitter thing sweet.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "soul"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wey don full"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "dey trample"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "honeycomb"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "but soul"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "wey hungry"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitter thing"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sweet"
+    }
+  ],
+  "timestamp": "2026-08-11T13:14:36.440189587Z",
+  "model": "glm-5.2"
+}

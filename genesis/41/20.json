@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "And di thin and di ugly cow chop ⟨את⟩ di first seven cow, di fat one dem.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "and chop"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "di cow"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "thin"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "and ugly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di first seven cow"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "cow"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "di first"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "di fat one dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:15:37.585126667Z",
+  "model": "glm-5.2"
+}

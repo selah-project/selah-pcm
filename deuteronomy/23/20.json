@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Make you no put interest on top your brother — interest of silver, interest of food, interest of anything wey dem dey put interest on top.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "put interest on top"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "of food"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of anything"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anything"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dem dey put interest on top"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:39.720809280Z",
+  "model": "glm-5.2"
+}

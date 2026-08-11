@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Di one dem wey dey talk say: ⟨e⟩ no dey near; make we build house; dis city na di pot, and we na di meat.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "di one dem wey dey talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "dey near"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "make we build"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "house"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "na di pot"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "and we"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "na di meat"
+    }
+  ],
+  "timestamp": "2026-08-11T12:06:09.660415463Z",
+  "model": "glm-5.2"
+}

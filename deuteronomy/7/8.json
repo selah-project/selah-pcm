@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "But because of di love wey Yahweh get for una, and because ⟨e⟩ keep ⟨את⟩ di oath wey ⟨e⟩ swear to una papas, Yahweh bring una out wit strong hand and redeem una from house of slaves, from hand of Pharaoh king of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "of di love"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "for una"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "and because ⟨e⟩ keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di oath"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "di oath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "⟨e⟩ swear"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "to una papas"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bring out"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "and redeem una"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from house"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "of slaves"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from hand"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "of Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:06:51.993946392Z",
+  "model": "glm-5.2"
+}

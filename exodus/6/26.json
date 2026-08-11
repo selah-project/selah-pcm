@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Na dis Aharon and Moshe, wey Yahweh bin tell dem sey: 'Comot ⟨את⟩ di son dem of Yisrael from land of Mitsrayim, according to dia army dem.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Na dis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "and Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di son dem of Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di son dem of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "according to"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "dia army dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:20:58.461151831Z",
+  "model": "glm-5.2"
+}

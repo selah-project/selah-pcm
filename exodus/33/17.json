@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And Yahweh bin talk to Moshe: \"Even ⟨את⟩ dis tin wey you don talk, I go do, sake of sey you don find favour for my eye, and I sabi you by name.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis tin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dis tin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "you don talk"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sake of sey"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "you don find"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favour"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "for my eye"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "and I sabi you"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by name"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:31.075703655Z",
+  "model": "glm-5.2"
+}

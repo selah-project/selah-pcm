@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 34,
+  "translation": "Elohim wey dem pour-mold, you no go make for yourself.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wey dem pour-mold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "you go make"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    }
+  ],
+  "timestamp": "2026-08-11T09:32:57.209873654Z",
+  "model": "glm-5.2"
+}

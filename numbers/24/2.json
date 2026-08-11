@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "And Bilam lift ⟨את⟩ im eye, and (e) see ⟨את⟩ Yisra'el dey dwell by im tribes, and ⟨di⟩ ruach of Elohim come upon am.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and (he) lift"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im eye"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and (he) see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dey dwell"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "by im tribes"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "and ⟨e⟩ come"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "upon am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:58:26.490827224Z",
+  "model": "glm-5.2"
+}

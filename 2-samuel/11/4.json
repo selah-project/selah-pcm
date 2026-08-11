@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So Dawid bin send messengers and take am; and e come to am, and e sleep wit am — and she dey purify herself from im impurity — and e go back to im house.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "bin send"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messengers"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "and take am"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "and e come"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "and e sleep"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "and she"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "dey purify herself"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "from im impurity"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "and e go back"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "im house"
+    }
+  ],
+  "timestamp": "2026-08-11T10:51:16.804704574Z",
+  "model": "glm-5.2"
+}

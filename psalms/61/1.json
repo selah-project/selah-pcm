@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "To di music director, on top stringed instrument, song of David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di music director"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "stringed instrument"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of David"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:42.083722467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Deep dey call to deep, for di sound of your water-channel; all your breaker dem and your wave dem, don pass over me.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "deep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "deep"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "dey call"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "for di sound"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "of your water-channel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "your breaker dem"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "and your wave dem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "don pass over"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:57.835205178Z",
+  "model": "glm-5.2"
+}

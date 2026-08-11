@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "di great trial dem wey una eye see, di sign dem and di wonder dem, dose great one dem.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "di trial dem"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "di great"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "see"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "una eye"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "di sign dem"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "and di wonder dem"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "di great"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dose"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:28.172588072Z",
+  "model": "glm-5.2"
+}

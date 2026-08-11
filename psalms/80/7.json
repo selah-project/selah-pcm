@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 80,
+  "translation": "You make us ⟨to be⟩ quarrel to our neighbours, and our enemies dey mock at dem.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "you make us"
+    },
+    {
+      "surface": "מָ֭דוֹן",
+      "gloss": "quarrel"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "to our neighbours"
+    },
+    {
+      "surface": "וְ֝אֹיְבֵ֗ינוּ",
+      "gloss": "and our enemies"
+    },
+    {
+      "surface": "יִלְעֲגוּ",
+      "gloss": "dey mock"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "at dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:53:06.811954112Z",
+  "model": "glm-5.2"
+}

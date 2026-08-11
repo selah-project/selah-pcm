@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 41,
+  "translation": "Yahweh go guard am and go keep am alive; ⟨He⟩ go bless am for di land, and make you no give am to di life-force of im enemies.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "go guard am"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "and go keep am alive"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "go bless am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and make you no"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "give am"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "to di life-force"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "of im enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:41.857448145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "After im don level im face, ⟨na⟩ im scatter fennel-flower, and im dey sprinkle cumin, and im put wheat for row, and barley for im appointed place, and spelt for im border?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "after"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "im don level"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "im face"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "and scatter"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "fennel-flower"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "and cumin"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "im dey sprinkle"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "and put"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "wheat"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "for row"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "and barley"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "for im appointed place"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "and spelt"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": "for im border"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:45.655357166Z",
+  "model": "glm-5.2"
+}

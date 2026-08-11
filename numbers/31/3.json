@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Mosheh bin speak to ⟨di⟩ people, sey: Arm men from among una ⟨את⟩, for war, and make dem go against Midyan, to give di revenge of Yahweh inside Midyan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin speak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨di⟩ people"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Arm"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "for war"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and make dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "go against"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "to give"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "revenge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "inside Midyan"
+    }
+  ],
+  "timestamp": "2026-08-11T10:01:23.291481731Z",
+  "model": "glm-5.2"
+}

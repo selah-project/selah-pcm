@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And Arfakshad bon ⟨את⟩ Shélakh, and Shélakh bon ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "and Arfakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shélakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shélakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "and Shélakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "bon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-11T09:02:23.239623343Z",
+  "model": "glm-5.2"
+}

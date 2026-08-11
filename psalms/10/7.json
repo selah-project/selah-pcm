@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "Im mouth dey full wit curse and deceit and fraud; under im tongue na trouble and wickedness.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "curse"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "im mouth"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dey full"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "and deceit"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "and fraud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "im tongue"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trouble"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "and wickedness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:14.301660927Z",
+  "model": "glm-5.2"
+}

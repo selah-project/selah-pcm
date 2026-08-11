@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Because of dat, I go praise you among di nations, Yahweh, and to your name I go sing praise.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "because of"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "I go praise you"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among di nations"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "and to your name"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "I go sing praise"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:51.639295215Z",
+  "model": "glm-5.2"
+}

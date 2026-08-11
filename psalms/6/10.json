@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Yahweh don hear my plea; Yahweh, go take my prayer.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "my plea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my prayer"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go take"
+    }
+  ],
+  "timestamp": "2026-08-11T14:53:40.514022886Z",
+  "model": "glm-5.2"
+}

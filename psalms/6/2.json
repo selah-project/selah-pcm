@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Yahweh, no correct me inside ⟨your⟩ anger, and no discipline me inside ⟨your⟩ rage.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "inside ⟨your⟩ anger"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "correct me"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and no"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "inside ⟨your⟩ rage"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "discipline me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:37.257467049Z",
+  "model": "glm-5.2"
+}

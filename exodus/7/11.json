@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Den Paroh too kol for ⟨di⟩ wise man-dem and for ⟨di⟩ sorcerer-dem; and Egytp magishan-dem, dem too do di same wit dia secret art-dem.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "and im too kol"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "for wise man-dem"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "and for sorcerer-dem"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem do"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "magishan-dem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egytp"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "wit dia secret art-dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "di same"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:29.979338182Z",
+  "model": "glm-5.2"
+}

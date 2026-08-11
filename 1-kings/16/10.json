@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And Zimri bin enter, and ⟨e⟩ strike am, and kill am, for di twenty-seventh year of Asa wey be king of Yehudah; and ⟨e⟩ bin reign for im position.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bin enter"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and ⟨e⟩ strike am"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "and kill am"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "of Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and ⟨e⟩ bin reign"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "for im position"
+    }
+  ],
+  "timestamp": "2026-08-11T11:04:32.057708612Z",
+  "model": "glm-5.2"
+}

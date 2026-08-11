@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And you go give ⟨את⟩ di Levites to Aharon and to im sons — dem don give am, dem don give am to am from ⟨את⟩ di sons of Yisrael.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "and you go give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Levites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levites"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "to Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "and to im sons"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "dem don give am"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "dem don give am"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "from ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T09:48:37.110181425Z",
+  "model": "glm-5.2"
+}

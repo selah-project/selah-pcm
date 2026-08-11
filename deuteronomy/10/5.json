@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "So I turn back, and I come down from di mountain, and I put ⟨את⟩ di tablets inside di ark wey I bin make, and dem dey there, as Yahweh bin command me.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "so I turn back"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "and I come down"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "and I put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di tablets"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "di tablets"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "inside di ark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "I bin make"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and dem dey"
+    },
+    {
+      "surface": "שם",
+      "gloss": "there"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "bin command me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T10:07:39.535995173Z",
+  "model": "glm-5.2"
+}

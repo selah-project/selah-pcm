@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "So I talk say, now Pelishtites go come down against me for Gilgal, and I never entreat di face of Yahweh; so I force myself, and I offer up di burnt offering.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "so I talk"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "go come down"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtites"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "against me"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "for Gilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "and ⟨the⟩ face of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "I entreat"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "so I force myself"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "and I offer up"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di burnt offering"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:57.438446167Z",
+  "model": "glm-5.2"
+}

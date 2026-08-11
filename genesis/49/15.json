@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Wen ⟨im⟩ see say rest ⟨be⟩ good, and ⟨את⟩ di land say e pleasant, ⟨im⟩ bend im shoulder to carry, and ⟨im⟩ come be servant to tribute.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "Wen ⟨im⟩ see"
+    },
+    {
+      "surface": "מְנֻחָה֙",
+      "gloss": "rest"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "say"
+    },
+    {
+      "surface": "ט֔וֹב",
+      "gloss": "good"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "say"
+    },
+    {
+      "surface": "נָעֵ֑מָה",
+      "gloss": "e pleasant"
+    },
+    {
+      "surface": "וַיֵּ֤ט",
+      "gloss": "⟨im⟩ bend"
+    },
+    {
+      "surface": "שִׁכְמוֹ֙",
+      "gloss": "im shoulder"
+    },
+    {
+      "surface": "לִסְבֹּ֔ל",
+      "gloss": "to carry"
+    },
+    {
+      "surface": "וַיְהִ֖י",
+      "gloss": "and ⟨im⟩ come be"
+    },
+    {
+      "surface": "לְמַ֥ס",
+      "gloss": "to tribute"
+    },
+    {
+      "surface": "עֹבֵֽד",
+      "gloss": "servant"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:13.631472881Z",
+  "model": "glm-5.2"
+}

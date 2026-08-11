@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Make ⟨my⟩ teaching drip like rain, make my word trickle like dew, like gentle rain on top ⟨fresh⟩ grass, and like showers on top ⟨tender⟩ herb.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "make ⟨...⟩ drip"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "like rain"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "my teaching"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "make ⟨...⟩ trickle"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "like dew"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "my word"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "like gentle rain"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grass"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "and like showers"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "on top"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "herb"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:44.066746746Z",
+  "model": "glm-5.2"
+}

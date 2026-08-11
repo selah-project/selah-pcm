@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "one gold dish ⟨of⟩ ten shekel, full of incense.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "dish"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:15.932265297Z",
+  "model": "glm-5.2"
+}

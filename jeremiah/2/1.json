@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And ⟨di⟩ word of Yahweh come to me, say:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨bin⟩ come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "say"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:57.035440674Z",
+  "model": "glm-5.2"
+}

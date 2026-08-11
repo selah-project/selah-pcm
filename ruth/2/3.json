@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So she go, and she come, and she dey pick for di farm behind di harvester dem. And her chance happen — di plot of farm wey ⟨belong⟩ to Boaz, wey ⟨be⟩ from di family of Elimelekh.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "so she go"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "and she come"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "and she dey pick"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di farm"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "behind"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "di harvester dem"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "and her chance"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "happen"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "di plot"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of farm"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "wey ⟨belong⟩ to Boaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "from di family"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekh"
+    }
+  ],
+  "timestamp": "2026-08-11T13:30:46.485544038Z",
+  "model": "glm-5.2"
+}

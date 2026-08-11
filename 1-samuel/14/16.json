@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "And di lookout dem for Sha'ul for Geba of Binyamin bin look, and behold, di multitude bin dey melt away, and e bin dey go here and dere.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "and bin look"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "di lookout dem"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "for Sha'ul"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "for Geba of"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "di multitude"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "bin dey melt away"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and bin dey go"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "here and dere"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:58.389501585Z",
+  "model": "glm-5.2"
+}

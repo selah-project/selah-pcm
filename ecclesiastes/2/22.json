@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Because wetin man dey get from all im work, and from di thinking of im heart, wey ⟨e⟩ dey work under di sun?",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "because"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הֹוֶ֤ה",
+      "gloss": "dey get"
+    },
+    {
+      "surface": "לָֽאָדָם֙",
+      "gloss": "man"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "עֲמָל֔וֹ",
+      "gloss": "im work"
+    },
+    {
+      "surface": "וּבְרַעְי֖וֹן",
+      "gloss": "and from di thinking"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "of im heart"
+    },
+    {
+      "surface": "שֶׁה֥וּא",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עָמֵ֖ל",
+      "gloss": "⟨e⟩ dey work"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הַשָּֽׁמֶשׁ",
+      "gloss": "di sun"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:47.982538306Z",
+  "model": "glm-5.2"
+}

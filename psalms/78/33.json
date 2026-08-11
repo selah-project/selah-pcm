@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "So ⟨im⟩ cut dia days finish for vanity, and dia years for terror.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "⟨im⟩ cut finish"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "for vanity"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "dia days"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "and dia years"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "for terror"
+    }
+  ],
+  "timestamp": "2026-08-11T14:55:49.106243842Z",
+  "model": "glm-5.2"
+}

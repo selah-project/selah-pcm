@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And dem turn, go up di mountain, and reach as far as Nachal Eshkol, and dem spy ⟨את⟩ di land.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "And dem turn"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "go up"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "di mountain"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "and reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nachal"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "and dem spy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    }
+  ],
+  "timestamp": "2026-08-11T14:27:57.085504722Z",
+  "model": "glm-5.2"
+}

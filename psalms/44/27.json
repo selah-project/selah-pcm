@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 44,
+  "translation": "Stand up, come help us, and redeem us for di sake of your chesed!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stand up"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "come help"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "and redeem us"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for di sake of"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "your chesed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:45:08.611701120Z",
+  "model": "glm-5.2"
+}

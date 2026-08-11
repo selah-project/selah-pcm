@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "Di eye-dem of Yisra'el bin heavy from old age, ⟨im⟩ no fit see. And ⟨im⟩ bring ⟨את⟩ dem near to am, and ⟨im⟩ kiss dem, and ⟨im⟩ hug dem.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "And di eye-dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "bin heavy"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "from old age"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "see"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "And ⟨im⟩ bring near"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "and ⟨im⟩ kiss"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "and ⟨im⟩ hug"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:31.013246874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And im go lay im hand on ⟨di⟩ head of ⟨di⟩ burnt offering, and ⟨it⟩ go dey accepted for am, to make atonement for am.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "and im go lay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di head"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "of di burnt offering"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "and e go dey accepted"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "to make atonement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:36:37.686423741Z",
+  "model": "glm-5.2"
+}

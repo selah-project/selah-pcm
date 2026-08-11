@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Desirable treasure and oil ⟨dey⟩ for di wise man im dwelling; but foolish man go swallow am.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "treasure"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "desirable"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "and oil"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "for im dwelling"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "di wise man"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "but foolish man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "go swallow am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:56.705769385Z",
+  "model": "glm-5.2"
+}

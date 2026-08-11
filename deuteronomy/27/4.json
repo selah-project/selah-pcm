@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And e go be, as una dey cross over ⟨את⟩ Yarden, make una set up ⟨את⟩ dis stones wey I dey command una today on top Mount Eival, and you go plaster ⟨את⟩ dem wit plaster.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "and e go be"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "as una dey cross over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "make una set up"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dis stones"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "di stones"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "dey command"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "on top Mount"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "and you go plaster"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "wit plaster"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "wit plaster"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:42.691564905Z",
+  "model": "glm-5.2"
+}

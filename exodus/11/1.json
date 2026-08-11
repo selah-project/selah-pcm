@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yahweh bin talk to Mosheh: \"One more blow I go bring upon Paroh and upon Mitsrayim. After dat, im go send una comot from here. Wen im dey send una comot, im go completely drive una comot from here.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "blow"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "I go bring"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "im go send"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from here"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "wen im dey send"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "completely"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "drive"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "im go drive"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "from here"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:56.365469664Z",
+  "model": "glm-5.2"
+}

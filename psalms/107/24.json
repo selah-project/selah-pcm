@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Na dem don see di workes of Yahweh, and im wondrous workes for di deep.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "na dem"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "don see"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "di workes of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "and im wondrous workes"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "for di deep"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:21.223436671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "My voice, hear am according to your chesed, Yahweh; according to your judgement, make me live.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my voice"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hear ⟨am⟩"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "according to your chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "according to your judgement"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "make me live"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:45.702487363Z",
+  "model": "glm-5.2"
+}

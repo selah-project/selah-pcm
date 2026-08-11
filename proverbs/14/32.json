@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 14,
+  "translation": "Because of im own badness, wicked man go dey pushed down, but righteous man dey find refuge for im death.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "Because of im badness"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "go dey pushed down"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked man"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "but dey find refuge"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "for im death"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous man"
+    }
+  ],
+  "timestamp": "2026-08-11T13:10:39.699084591Z",
+  "model": "glm-5.2"
+}

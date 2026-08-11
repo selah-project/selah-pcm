@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And I go bring back ⟨את⟩ di captivity of Yehudah and ⟨את⟩ di captivity of Yisra'el, and I go build dem as for di first.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "And I go bring back"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di captivity of Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "di captivity"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "of Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di captivity of Yisra'el"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "di captivity"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "and I go build dem"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "as for di first"
+    }
+  ],
+  "timestamp": "2026-08-11T11:53:20.967309384Z",
+  "model": "glm-5.2"
+}

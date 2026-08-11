@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "Dem dey reel and dey stagger like drunkard, and all dia wisdom don dey swallow.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "dem dey reel"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "and dey stagger"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "like drunkard"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and all"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "dia wisdom"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "don dey swallow"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:56.495088011Z",
+  "model": "glm-5.2"
+}

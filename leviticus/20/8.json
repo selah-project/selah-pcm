@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And make una keep ⟨את⟩ my decrees, and make una do ⟨את⟩ ⟨dem⟩; na Me ⟨be⟩ Yahweh, di One wey dey set una apart.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "and make una keep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my decrees"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my decrees"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and make una do"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨dem⟩",
+      "marks": "my decrees"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na Me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "di One wey dey set una apart"
+    }
+  ],
+  "timestamp": "2026-08-11T14:24:17.319127907Z",
+  "model": "glm-5.2"
+}

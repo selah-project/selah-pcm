@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "Yahweh bin dey tok to Mosheh, sey:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bin dey tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T09:31:41.061699473Z",
+  "model": "glm-5.2"
+}

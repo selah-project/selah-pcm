@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨di⟩ son of Yehonatan ⟨na⟩ Meriv־Baal, and Meriv־Baal bin born ⟨את⟩ Mikah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "and son"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "and Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikah"
+    }
+  ],
+  "timestamp": "2026-08-11T15:05:44.782189586Z",
+  "model": "glm-5.2"
+}

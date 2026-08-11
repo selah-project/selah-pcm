@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 10:16",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And because ⟨e⟩ dey lift up like lion you dey hunt me, and you go come back, you go do wonder for my body.",
+  "tokens": [
+    {
+      "surface": "ויגאה",
+      "gloss": "and because ⟨e⟩ dey lift up"
+    },
+    {
+      "surface": "כשחל",
+      "gloss": "like lion"
+    },
+    {
+      "surface": "תצודני",
+      "gloss": "you dey hunt me"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "and you go come back"
+    },
+    {
+      "surface": "תתפלא",
+      "gloss": "you go do wonder"
+    },
+    {
+      "surface": "בי",
+      "gloss": "for my body"
+    }
+  ],
+  "timestamp": "2026-08-11T13:19:11.202803467Z",
+  "model": "glm-5.2"
+}

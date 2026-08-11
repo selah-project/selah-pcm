@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Remember im wonders wey ⟨e⟩ do, im signs, and di judgments of im mouth.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "remember"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "im wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨e⟩ do"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "im signs"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "and di judgments"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "of im mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:03.079907237Z",
+  "model": "glm-5.2"
+}

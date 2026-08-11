@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Hear di voice of my begging, as I dey cry to You, as I dey lift up my hands to ⟨di⟩ inner sanctuary of Your holiness.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hear"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "of my begging"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "as I dey cry"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "as I dey lift up"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hands"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "inner sanctuary"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "of Your holiness"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:17.604431804Z",
+  "model": "glm-5.2"
+}

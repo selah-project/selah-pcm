@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 40,
+  "translation": "And make you anoint ⟨את⟩ dem as you anoint ⟨את⟩ dia papa, so dat dem go serve Me as priest; and dia anointing go be for dem, for priesthood wey go last forever, throughout dia generation dem.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "and make you anoint"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "you anoint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia papa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dia papa"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "so dat dem go serve as priest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Me"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "and go be"
+    },
+    {
+      "surface": "להית",
+      "gloss": "to be"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "dia anointing"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "for priesthood"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wey go last forever"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "throughout dia generation dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:35:53.737604709Z",
+  "model": "glm-5.2"
+}

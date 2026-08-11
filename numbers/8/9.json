@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And you go present ⟨את⟩ di Levites before di Tent of Meeting, and you go gather ⟨את⟩ all di assembly of di sons of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "and you go present"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Levites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levites"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "of Meeting"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "and you go gather"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T09:51:17.218732014Z",
+  "model": "glm-5.2"
+}

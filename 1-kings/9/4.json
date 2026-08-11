@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 9:4",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And as for you, if you go walk before me, as David your papa bin walk, with completeness of heart and with uprightness, to do according to all wey I don command you — my decrees and my judgments you go keep —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "and as for you"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "you go walk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bin walk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "your papa"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "with completeness"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "of heart"
+    },
+    {
+      "surface": "ובישר",
+      "gloss": "and with uprightness"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "I don command you"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "my decrees"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "and my judgments"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "you go keep"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:07.396742573Z",
+  "model": "glm-5.2"
+}

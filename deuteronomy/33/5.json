@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "And ⟨e bin⟩ king for Yeshurun, wen di head dem of ⟨di⟩ people gather, ⟨as⟩ one, di tribe dem of Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "and ⟨e bin⟩"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "for Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "wen … gather"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "di head dem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "of ⟨di⟩ people"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨as⟩ one"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "di tribe dem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-11T10:16:58.038153408Z",
+  "model": "glm-5.2"
+}

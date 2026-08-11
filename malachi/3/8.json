@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Man fit rob Elohim? But una dey rob ⟨את⟩ me. And una go talk, 'With wetin we rob you?' For di tithe and di contribution.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "⟨Man fit⟩ rob"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "but"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "dey rob"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "and una go talk"
+    },
+    {
+      "surface": "במה",
+      "gloss": "with wetin"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "we rob"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "di tithe"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "and di contribution"
+    }
+  ],
+  "timestamp": "2026-08-11T12:37:23.668258941Z",
+  "model": "glm-5.2"
+}

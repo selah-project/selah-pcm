@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 61,
+  "translation": "And dem go build ancient ruins, dem go raise up former desolations, and dem go renew ruined cities, desolations of generation upon generation.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "And dem go build"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruins"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ancient"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "desolations"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "former"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "dem go raise up"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "and dem go renew"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ruined"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "desolations"
+    },
+    {
+      "surface": "דור",
+      "gloss": "of generation"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "upon generation"
+    }
+  ],
+  "timestamp": "2026-08-11T11:38:00.904068327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "As king Chizkiyahu hear ⟨am⟩, e bin tear ⟨את⟩ im cloths, e bin cover imsef wit sackcloth, and e bin enta ⟨di⟩ house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bin"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "as hear"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "e bin tear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im cloths"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im cloths"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "e bin cover imsef"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "wit sackcloth"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e bin enta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:15.839567164Z",
+  "model": "glm-5.2"
+}

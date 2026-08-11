@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Make you guard yourself, make you no leave di Levite ⟨out⟩ all your days on top your land.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Make you guard yourself"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for yourself"
+    },
+    {
+      "surface": "פן",
+      "gloss": "make you no"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "leave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Levite"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "di Levite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "your days"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "your land"
+    }
+  ],
+  "timestamp": "2026-08-11T10:09:39.626068730Z",
+  "model": "glm-5.2"
+}

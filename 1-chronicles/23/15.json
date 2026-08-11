@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Pickin dem of Moshe ⟨na⟩ Gershom and Eliezer.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Pickin dem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "of Moshe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "and Eliezer"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:45.584869214Z",
+  "model": "glm-5.2"
+}

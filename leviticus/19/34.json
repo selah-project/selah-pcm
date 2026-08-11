@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 19:34",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Like person wey ⟨be⟩ born among una, ⟨he⟩ go be to una, di stranger wey dey stay ⟨את⟩ una; and you go love am like yourself, because una bin be strangers for di land of Mitsrayim. ⟨Na⟩ me Yahweh, una Elohim.",
+  "tokens": [
+    {
+      "surface": "כאזרח",
+      "gloss": "like person wey born"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "among una"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "di stranger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wey dey stay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "una"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "and you go love"
+    },
+    {
+      "surface": "לו",
+      "gloss": "am"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "like yourself"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "strangers"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "una bin be"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for di land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "of Mitsrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:27.990009597Z",
+  "model": "glm-5.2"
+}

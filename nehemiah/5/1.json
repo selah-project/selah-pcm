@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨di⟩ cry of di people and ⟨of⟩ dia wives come big well-well, to dia brodas, di Yehudim.",
+  "tokens": [
+    {
+      "surface": "וַתְּהִ֨י",
+      "gloss": "and come"
+    },
+    {
+      "surface": "צַעֲקַ֥ת",
+      "gloss": "cry"
+    },
+    {
+      "surface": "הָעָ֛ם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "וּנְשֵׁיהֶ֖ם",
+      "gloss": "and dia wives"
+    },
+    {
+      "surface": "גְּדוֹלָ֑ה",
+      "gloss": "big well-well"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אֲחֵיהֶ֖ם",
+      "gloss": "dia brodas"
+    },
+    {
+      "surface": "הַיְּהוּדִֽים",
+      "gloss": "di Yehudim"
+    }
+  ],
+  "timestamp": "2026-08-11T16:50:55.119309260Z",
+  "model": "glm-5.2"
+}

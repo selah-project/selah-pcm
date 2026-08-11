@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And dem go chop ⟨את⟩ di meat for dis night — roasted with fire — and with unleavened bread; dem go chop am with bitter herbs.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "and dem go chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di meat"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "di meat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "for night"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "roasted"
+    },
+    {
+      "surface": "אש",
+      "gloss": "with fire"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "and with unleavened bread"
+    },
+    {
+      "surface": "על",
+      "gloss": "with"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bitter herbs"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "dem go chop am"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:49.734396560Z",
+  "model": "glm-5.2"
+}

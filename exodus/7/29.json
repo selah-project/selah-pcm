@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And for inside your house, and for inside your people, and for inside all your servants, ⟨dem⟩ frogs go climb up.",
+  "tokens": [
+    {
+      "surface": "וּבְכָ֥ה",
+      "gloss": "and for inside your house"
+    },
+    {
+      "surface": "וּֽבְעַמְּךָ֖",
+      "gloss": "and for inside your people"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "and for inside all"
+    },
+    {
+      "surface": "עֲבָדֶ֑יךָ",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "יַעֲל֖וּ",
+      "gloss": "go climb up"
+    },
+    {
+      "surface": "הַֽצְפַרְדְּעִֽים",
+      "gloss": "⟨dem⟩ frogs"
+    }
+  ],
+  "timestamp": "2026-08-11T09:22:13.043903744Z",
+  "model": "glm-5.2"
+}

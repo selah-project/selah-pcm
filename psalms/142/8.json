@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 142,
+  "translation": "Bring my nefesh out from prison, to praise ⟨את⟩ your name; di righteous go surround me, because you go do well by me.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Bring out"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "from prison"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nefesh"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "to praise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your name"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "your name"
+    },
+    {
+      "surface": "בי",
+      "gloss": "me"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "go surround"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "di righteous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "you go do well"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "by me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:04:57.690810103Z",
+  "model": "glm-5.2"
+}

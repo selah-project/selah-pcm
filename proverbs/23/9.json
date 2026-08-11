@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "For di ear of fool, no talk, because ⟨e⟩ go despise di sense of your word.",
+  "tokens": [
+    {
+      "surface": "בְּאָזְנֵ֣י",
+      "gloss": "for di ear of"
+    },
+    {
+      "surface": "כְ֭סִיל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תְּדַבֵּ֑ר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יָ֝ב֗וּז",
+      "gloss": "⟨e⟩ go despise"
+    },
+    {
+      "surface": "לְשֵׂ֣כֶל",
+      "gloss": "di sense of"
+    },
+    {
+      "surface": "מִלֶּֽיךָ",
+      "gloss": "your word"
+    }
+  ],
+  "timestamp": "2026-08-11T13:13:16.995147618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 100,
+  "translation": "Make una enter im gates with thanksgiving, im courts with praise; make una give tanks to am, make una bless im name.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "make una enter"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "im gates"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "with thanksgiving"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "im courts"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "with praise"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "make una give tanks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "make una bless"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:44.227712447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 143,
+  "translation": "Quick-quick answer me, Yahweh, my spirit ⟨de⟩ fail; no hide your face from me, make I no come resemble dem wey dey go down ⟨to⟩ di pit.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Quick-quick"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "answer me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "⟨de⟩ fail"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my spirit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "hide"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "your face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "make I no come resemble"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "wey dey go down"
+    },
+    {
+      "surface": "בור",
+      "gloss": "di pit"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:21.462695011Z",
+  "model": "glm-5.2"
+}

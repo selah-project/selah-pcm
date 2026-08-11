@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "While di king ⟨dey⟩ for im resting place, my nard don give im scent.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "while"
+    },
+    {
+      "surface": "שֶׁ֤הַמֶּ֨לֶךְ֙",
+      "gloss": "di king"
+    },
+    {
+      "surface": "בִּמְסִבּ֔וֹ",
+      "gloss": "for im resting place"
+    },
+    {
+      "surface": "נִרְדִּ֖י",
+      "gloss": "my nard"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "don give"
+    },
+    {
+      "surface": "רֵיחֽוֹ",
+      "gloss": "im scent"
+    }
+  ],
+  "timestamp": "2026-08-11T15:01:05.591585620Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 42,
+  "translation": "Why you dey bow down, my nefesh, and why you dey roar upon me? Put hope for Elohim, because I go still praise am, ⟨im wey be⟩ deliverance of my face, and my Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "why"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "you dey bow down"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my nefesh"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "and why"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "you dey roar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "upon me"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "put hope"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "still"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "I go praise am"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "deliverance"
+    },
+    {
+      "surface": "פני",
+      "gloss": "of my face"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "and my Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:23.776513909Z",
+  "model": "glm-5.2"
+}

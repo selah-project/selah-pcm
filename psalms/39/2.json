@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 39,
+  "translation": "I bin talk sey, 'I go guard my ways make I no sin wit my tongue; I go put muzzle for my mouth while wicked dey front of me.'",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "I go guard"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my ways"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "make I no sin"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "wit my tongue"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "I go put"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "muzzle for my mouth"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "muzzle"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "while"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wicked"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "dey front of me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:44:33.335378729Z",
+  "model": "glm-5.2"
+}

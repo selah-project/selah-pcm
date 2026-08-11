@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And dem wake up early for morning, and dem swear, man to im broda; and Yitzchak send dem go, and dem comot from am ⟨את⟩ wit peace.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "and dem wake up early"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "and dem swear"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "to im broda"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "and im send dem go"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzchak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "and dem go"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "from am"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "wit peace"
+    }
+  ],
+  "timestamp": "2026-08-11T09:07:51.985684838Z",
+  "model": "glm-5.2"
+}

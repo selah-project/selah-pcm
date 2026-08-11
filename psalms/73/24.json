@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 73,
+  "translation": "With your counsel you go guide me, and after ⟨dat⟩ ⟨you go⟩ receive me to glory.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצָתְךָ֥",
+      "gloss": "with your counsel"
+    },
+    {
+      "surface": "תַנְחֵ֑נִי",
+      "gloss": "you go guide me"
+    },
+    {
+      "surface": "וְ֝אַחַ֗ר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "כָּב֥וֹד",
+      "gloss": "glory"
+    },
+    {
+      "surface": "תִּקָּחֵֽנִי",
+      "gloss": "you go receive me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:50:49.026115308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 49,
+  "translation": "Cursed ⟨be⟩ dia anger, because e fierce; and dia wrath, because e cruel; ⟨I⟩ go scatter dem for inside Yaʽakov, and ⟨I⟩ go disperse dem for inside Yisraʼel.",
+  "tokens": [
+    {
+      "surface": "אָרוּר",
+      "gloss": "cursed"
+    },
+    {
+      "surface": "אַפָּם",
+      "gloss": "dia anger"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עָז",
+      "gloss": "e fierce"
+    },
+    {
+      "surface": "וְעֶבְרָתָם",
+      "gloss": "and dia wrath"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "because"
+    },
+    {
+      "surface": "קָשָׁתָה",
+      "gloss": "e cruel"
+    },
+    {
+      "surface": "אֲחַלְּקֵם",
+      "gloss": "I go scatter dem"
+    },
+    {
+      "surface": "בְּיַעֲקֹב",
+      "gloss": "for inside Yaʽakov"
+    },
+    {
+      "surface": "וַאֲפִיצֵם",
+      "gloss": "and I go disperse dem"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵל",
+      "gloss": "for inside Yisraʼel"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:51.266546109Z",
+  "model": "glm-5.2"
+}

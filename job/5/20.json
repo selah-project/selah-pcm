@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "For hunger im go redeem you from death, and for war from di hand of sword.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "For hunger"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "im go redeem you"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "from death"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "and for war"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from di hand of"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:07.251677522Z",
+  "model": "glm-5.2"
+}

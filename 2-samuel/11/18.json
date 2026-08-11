@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Yoav send, and ⟨e⟩ tell David ⟨את⟩ all di mata of di war.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "and send"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "of di war"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:43.773686238Z",
+  "model": "glm-5.2"
+}

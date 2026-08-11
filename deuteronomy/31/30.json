@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 31,
+  "translation": "And Moshe bin speak for di ear of all di assembly of Yisrael ⟨את⟩ di word of dis song, till dem finish am.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin speak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "for di ear"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "di assembly"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word of dis song"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di word"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "of dis song"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "dem finish am"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:32.011693734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "Make sinners finish from di earth, and make wicked people no exist again. Make my life bless ⟨את⟩ Yahweh. Praise Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "make ⟨dem⟩ finish"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sinners"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "and wicked people"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "no exist"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "make ⟨am⟩ bless"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my life"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:22.537305714Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And ⟨im⟩ make ⟨את⟩ Holy of Holies: im length, by front of di breadth of di house, na twenty cubit, and im breadth na twenty cubit; and ⟨im⟩ cover am with good gold, to six hundred talent.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and ⟨im⟩ make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Holy of Holies"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Holy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "of Holies"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "im length"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "פני",
+      "gloss": "front of"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breadth"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "of di house"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "and im breadth"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twenty"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "and ⟨im⟩ cover am"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "to talent"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundred"
+    }
+  ],
+  "timestamp": "2026-08-11T14:05:45.587758729Z",
+  "model": "glm-5.2"
+}

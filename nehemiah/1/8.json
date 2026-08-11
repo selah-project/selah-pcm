@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Remember now ⟨את⟩ di word wey you command ⟨את⟩ Moshe ⟨your⟩ servant, sey ⟨you go talk⟩: 'If una deal treacherously, I go scatter una among di nations.'",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "נא",
+      "gloss": "now"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di word"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "di word"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "you command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨your⟩ servant"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey ⟨you go talk⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "deal treacherously"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "go scatter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "among di nations"
+    }
+  ],
+  "timestamp": "2026-08-11T13:48:47.840066850Z",
+  "model": "glm-5.2"
+}

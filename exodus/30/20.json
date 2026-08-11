@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "Wen dem enter inside Ohel Mo'ed, dem go wash ⟨wit⟩ water, so dat dem no go die; or wen dem come near to ⟨di⟩ altar to serve, to burn offering of fire to Yahweh —",
+  "tokens": [
+    {
+      "surface": "בְּבֹאָ֞ם",
+      "gloss": "wen dem enter"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "אֹ֧הֶל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מוֹעֵ֛ד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "יִרְחֲצוּ",
+      "gloss": "dem go wash"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "⟨wit⟩ water"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "so dat no"
+    },
+    {
+      "surface": "יָמֻ֑תוּ",
+      "gloss": "dem go die"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "or"
+    },
+    {
+      "surface": "בְגִשְׁתָּ֤ם",
+      "gloss": "wen dem come near"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֨חַ֙",
+      "gloss": "⟨di⟩ altar"
+    },
+    {
+      "surface": "לְשָׁרֵ֔ת",
+      "gloss": "to serve"
+    },
+    {
+      "surface": "לְהַקְטִ֥יר",
+      "gloss": "to burn offering"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "of fire"
+    },
+    {
+      "surface": "לַֽיהוָֽה",
+      "gloss": "to Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:56.228505210Z",
+  "model": "glm-5.2"
+}

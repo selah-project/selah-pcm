@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "But for di day wey dem see on top am raw flesh, ⟨he⟩ ⟨is⟩ unclean.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "but for di day"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "wey dem see"
+    },
+    {
+      "surface": "בו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "חי",
+      "gloss": "raw"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "⟨he⟩ ⟨is⟩ unclean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:40:15.600138841Z",
+  "model": "glm-5.2"
+}

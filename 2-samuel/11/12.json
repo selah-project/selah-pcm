@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 11:12",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And David talk to Uriyah: 'Siddon here today too, and tomorrow I go send you.' So Uriyah stay for Yerushalayim dat day and di next day.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And talk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Siddon"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "here"
+    },
+    {
+      "surface": "גם",
+      "gloss": "too"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "and tomorrow"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "I go send you"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "So stay"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "for Yerushalayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dat day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "and di next day"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:26.065456472Z",
+  "model": "glm-5.2"
+}

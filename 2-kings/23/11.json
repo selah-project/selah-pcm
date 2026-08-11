@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 23:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And ⟨im⟩ stop ⟨את⟩ di horse dem wey king dem of Yehudah don give to sun, from entrance of house of Yahweh go to room of Netan-Melek di officer, wey dey for di courtyard dem; and ⟨את⟩ di chariot dem of sun ⟨im⟩ burn wit fire.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "and ⟨im⟩ stop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di horse dem"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "di horse dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "don give"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "king dem of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "to sun"
+    },
+    {
+      "surface": "מבא",
+      "gloss": "from entrance of"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go to"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "room of"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melek"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "di officer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey for"
+    },
+    {
+      "surface": "בפרורים",
+      "gloss": "di courtyard dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di chariot dem of sun"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "di chariot dem of"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sun"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "⟨im⟩ burn"
+    },
+    {
+      "surface": "באש",
+      "gloss": "wit fire"
+    }
+  ],
+  "timestamp": "2026-08-11T11:18:57.238614964Z",
+  "model": "glm-5.2"
+}

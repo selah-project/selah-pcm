@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 55,
+  "translation": "Because my thoughts no ⟨be⟩ una thoughts, and una roads no ⟨be⟩ my roads, oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Because"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "no"
+    },
+    {
+      "surface": "מַחְשְׁבוֹתַי֙",
+      "gloss": "my thoughts"
+    },
+    {
+      "surface": "מַחְשְׁב֣וֹתֵיכֶ֔ם",
+      "gloss": "⟨be⟩ una thoughts"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "and"
+    },
+    {
+      "surface": "דַרְכֵיכֶ֖ם",
+      "gloss": "una roads"
+    },
+    {
+      "surface": "דְּרָכָ֑י",
+      "gloss": "⟨be⟩ my roads"
+    },
+    {
+      "surface": "נְאֻ֖ם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:30.395884926Z",
+  "model": "glm-5.2"
+}

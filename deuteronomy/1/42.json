@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Yahweh bin talk to me, 'Tell dem: Make una no go up and make una no fight, because I no dey among una, so dat una no go fall before una enemies.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tell"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "make una go up"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "make una fight"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "I no dey"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "among una"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "so dat no"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "make una fall"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "una enemies"
+    }
+  ],
+  "timestamp": "2026-08-11T10:03:55.611404786Z",
+  "model": "glm-5.2"
+}

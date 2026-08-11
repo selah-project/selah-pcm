@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "To di leader, song of Dawid, one song.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to di leader"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "song"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "of Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "one song"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:58.406452050Z",
+  "model": "glm-5.2"
+}

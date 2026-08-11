@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Yahweh no go leave am for im hand, and ⟨im⟩ no go condemn am wen dem dey judge am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "go leave am"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "for im hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "go condemn am"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "wen dem dey judge am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:55.989118931Z",
+  "model": "glm-5.2"
+}

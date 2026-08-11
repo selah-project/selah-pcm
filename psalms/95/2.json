@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 95,
+  "translation": "Make we come meet im face wit thanksgiving, wit songs make we shout for am!",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "make we come meet"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "wit thanksgiving"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "wit songs"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "make we shout"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:03.137492638Z",
+  "model": "glm-5.2"
+}

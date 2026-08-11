@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Elisha tell am sey, Go, talk sey ⟨you⟩ no go truly live; but Yahweh don show me sey ⟨he⟩ go surely die.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "live"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "go live"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "and don show me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "go surely die"
+    }
+  ],
+  "timestamp": "2026-08-11T11:11:56.372245253Z",
+  "model": "glm-5.2"
+}

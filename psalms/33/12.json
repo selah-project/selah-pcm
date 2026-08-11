@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "Happy ⟨be⟩ di nation wey Yahweh na im Elohim; di people wey ⟨im⟩ choose for inheritance for imself.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "happy"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "di nation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "im Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "choose"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "for inheritance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for imself"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:36.572130774Z",
+  "model": "glm-5.2"
+}

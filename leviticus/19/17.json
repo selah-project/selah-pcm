@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "Make you no hate your brother for your heart; correct am, make you surely correct your comrade, and make you no carry sin on top am.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תִשְׂנָ֥א",
+      "gloss": "make you hate"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your brother"
+    },
+    {
+      "surface": "אָחִ֖יךָ",
+      "gloss": "your brother"
+    },
+    {
+      "surface": "בִּלְבָבֶ֑ךָ",
+      "gloss": "for your heart"
+    },
+    {
+      "surface": "הוֹכֵ֤חַ",
+      "gloss": "correct"
+    },
+    {
+      "surface": "תּוֹכִ֨יחַ֙",
+      "gloss": "make you surely correct"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "your comrade"
+    },
+    {
+      "surface": "עֲמִיתֶ֔ךָ",
+      "gloss": "your comrade"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תִשָּׂ֥א",
+      "gloss": "make you carry"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "חֵֽטְא",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-08-11T09:43:44.202987244Z",
+  "model": "glm-5.2"
+}

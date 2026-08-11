@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "E bin happen for di time of Achashverosh — na im be Achashverosh, di king wey dey rule from Hodu reach Kush — seven and twenty and one hundred province.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bin happen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "for di time of"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na im be"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "from Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seven"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "province"
+    }
+  ],
+  "timestamp": "2026-08-11T15:02:01.249698050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Our papa-dem for Mitsrayim, dem no understand ⟨di⟩ wonder-dem wey be your own; dem no remember ⟨את⟩ di plenty of your chesed, and dem rebel by ⟨di⟩ sea, for Reed Sea.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "our papa-dem"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "for Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "dem understand"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "wonder-dem wey be your own"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "dem remember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di plenty"
+    },
+    {
+      "surface": "רב",
+      "gloss": "di plenty"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "of your chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "and dem rebel"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sea"
+    },
+    {
+      "surface": "בים",
+      "gloss": "for sea of"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Reed"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:07.363507174Z",
+  "model": "glm-5.2"
+}

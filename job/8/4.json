@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "If your pikin-dem sin against Am, and ⟨im⟩ cast dem away into di hand of dia rebellion.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "your pikin-dem"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "against Am"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "and cast dem away"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "into di hand"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "of dia rebellion"
+    }
+  ],
+  "timestamp": "2026-08-11T13:18:11.839174540Z",
+  "model": "glm-5.2"
+}

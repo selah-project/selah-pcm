@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "Because with fire Yahweh go judge, and with im sword ⟨את⟩ all flesh; and di slain ones of Yahweh go plenty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "באש",
+      "gloss": "with fire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "go judge"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "and with im sword"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all flesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "flesh"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "go plenty"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "slain ones"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:40:04.155284582Z",
+  "model": "glm-5.2"
+}

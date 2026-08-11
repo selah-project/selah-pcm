@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "So di men of Yavesh bin talk, \"Tomorrow we go come out to una, and una go do us wetin good for una eye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "so dem bin talk"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tomorrow"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "we go come out"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "and una go do"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "us"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "good"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "for una eye"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:18.943336160Z",
+  "model": "glm-5.2"
+}

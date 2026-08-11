@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "E go call me and I go answer am; with am I dey for trouble; I go pull am out and I go honor am.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "e go call me"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "and I go answer am"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "with am"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "for trouble"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "I go pull am out"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "and I go honor am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:26.794270515Z",
+  "model": "glm-5.2"
+}

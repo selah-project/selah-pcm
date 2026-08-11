@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Honor Yahweh from ⟨את⟩ ya wealth, and from di first of all ya produce.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Honor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "from ya wealth"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "and from di first"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of all"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ya produce"
+    }
+  ],
+  "timestamp": "2026-08-11T13:07:01.093002341Z",
+  "model": "glm-5.2"
+}

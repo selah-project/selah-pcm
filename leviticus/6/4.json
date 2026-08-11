@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "And im go pull off ⟨את⟩ im clothes and wear oda clothes; and im go carry ⟨את⟩ di ash go outside di camp, go clean place.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "and im go pull off"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im clothes"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "im clothes"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "and wear"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "clothes"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "oda"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "and im go carry out"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di ash"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "di ash"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "di camp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "clean"
+    }
+  ],
+  "timestamp": "2026-08-11T09:38:24.094784207Z",
+  "model": "glm-5.2"
+}

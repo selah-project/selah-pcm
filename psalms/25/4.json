@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Your roads, Yahweh, make You show me; Your paths, make You teach me.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Your roads"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "make You show me"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "Your paths"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "make You teach me"
+    }
+  ],
+  "timestamp": "2026-08-11T12:41:43.523427419Z",
+  "model": "glm-5.2"
+}

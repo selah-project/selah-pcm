@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 107,
+  "translation": "And dem plant farm, and dem plant vineyard, and dem produce fruit of harvest.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "and dem plant"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "farm"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "and dem plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "and dem produce"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "harvest"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:53.781494389Z",
+  "model": "glm-5.2"
+}

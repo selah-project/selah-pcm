@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Efrayim — like bird dia glory go fly away: from birth, and from womb, and from pregnancy.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "like bird"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "go fly away"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "dia glory"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "from birth"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "and from womb"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "and from pregnancy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:00.299403962Z",
+  "model": "glm-5.2"
+}

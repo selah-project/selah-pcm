@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So I hate ⟨את⟩ di life, because di work wey dem dey do under di sun dey pain me; because evri tin na hebel and pursuing of wind.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "so I hate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di life"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "di life"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e dey pain"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "di work"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "wey dem dey do"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "di sun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "evri tin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "na hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "and pursuing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "of wind"
+    }
+  ],
+  "timestamp": "2026-08-11T13:33:27.122692011Z",
+  "model": "glm-5.2"
+}

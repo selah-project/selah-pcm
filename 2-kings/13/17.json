@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "And e talk sey, open di window wey dey face east, and e open am; and Elisha talk sey, shoot! And e shoot. And e talk sey, arrow of deliverance to Yahweh, and arrow of deliverance against Aram; and you go strike ⟨את⟩ Aram for Afek until you finish dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "open"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "di window"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "face east"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and e open am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "shoot"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "and e shoot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "arrow"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "of deliverance"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "and arrow"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "of deliverance"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "against Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "and you go strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "for Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "until"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "you finish dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:15:11.811747422Z",
+  "model": "glm-5.2"
+}

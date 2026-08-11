@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Wè Reayah pikin of Shoval bin born ⟨את⟩ Yachat; Yachat bin born ⟨את⟩ Achumai wè ⟨את⟩ Lahad. Dis na di families of di Tsorathi.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Wè Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pikin of"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "bin born"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wè ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "families"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "of di Tsorathi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:43.375533871Z",
+  "model": "glm-5.2"
+}

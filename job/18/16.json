@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 18:16",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "Down beneath, im root dem go dry up; and up above, dem go cut off im harvest.",
+  "tokens": [
+    {
+      "surface": "מתחת",
+      "gloss": "down beneath"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "im root dem"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "go dry up"
+    },
+    {
+      "surface": "וממעל",
+      "gloss": "and up above"
+    },
+    {
+      "surface": "ימל",
+      "gloss": "dem go cut off"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "im harvest"
+    }
+  ],
+  "timestamp": "2026-08-11T13:20:39.393377344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "If man send im animal make e graze field or vineyard, and e let ⟨את⟩ im animal loose and e graze for anoda man field, from di best of im own field and from di best of im own vineyard make e pay back.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "e go cause to graze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "field"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vineyard"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "and e let loose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im animal"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "im animal"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "and e graze"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for field"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda man"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "from di best"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "of im field"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "and from di best"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "of im vineyard"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "make e pay back"
+    }
+  ],
+  "timestamp": "2026-08-11T09:28:19.580466864Z",
+  "model": "glm-5.2"
+}

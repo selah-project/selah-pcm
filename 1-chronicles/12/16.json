@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Dis one dem na ⟨dem⟩ wey cross ⟨את⟩ Yarden for di first month, wen e bin dey full on top all im bank dem, and dem scatter ⟨את⟩ all di valley dem, to di east and to di west.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dis one dem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "na ⟨dem⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "cross"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "di first"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "bin dey full"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "im bank dem"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "and dem scatter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di valley dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "di valley dem"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "to di east"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "and to di west"
+    }
+  ],
+  "timestamp": "2026-08-11T13:59:25.103507620Z",
+  "model": "glm-5.2"
+}

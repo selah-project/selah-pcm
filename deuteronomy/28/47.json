@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "Under dat wey you no serve ⟨את⟩ Yahweh your Elohim wit gladness and wit goodness of heart, because of abundance of evri tin.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "you serve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "wit gladness"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "and wit goodness"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "of heart"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "because of abundance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "of evri tin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:15:00.639775484Z",
+  "model": "glm-5.2"
+}

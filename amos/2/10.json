@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And na me bin bring una up from di land of Mitsrayim, and I bin lead una for di wilderness forty year, to possess ⟨את⟩ di land of di Amori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "and I"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "I bring up"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "from di land of Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from di land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "and I lead"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ una",
+      "marks": "for di wilderness"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "year"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "to possess"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di land of di Amori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di land of"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "di Amori"
+    }
+  ],
+  "timestamp": "2026-08-11T12:25:19.034169385Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "But for dis mata, una no gree trust Yahweh una Elohim.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "But for dis mata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "una no"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "gree trust"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:20.907457092Z",
+  "model": "glm-5.2"
+}

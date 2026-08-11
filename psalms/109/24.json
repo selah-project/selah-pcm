@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 109,
+  "translation": "My knees don totter from fasting, and my flesh don waste from fat.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "My knees"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "don totter"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "from fasting"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "and my flesh"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "don waste"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "from fat"
+    }
+  ],
+  "timestamp": "2026-08-11T12:59:18.493254268Z",
+  "model": "glm-5.2"
+}

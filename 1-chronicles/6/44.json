@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "and ⟨את⟩ Ashan and ⟨את⟩ ⟨im⟩ open-land-dem; and ⟨את⟩ Bet־Shemesh and ⟨את⟩ ⟨im⟩ open-land-dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Bet־Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "־Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "open-land-dem"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "im open-land-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:56:27.533245853Z",
+  "model": "glm-5.2"
+}

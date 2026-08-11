@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "E dey give animal ⟨im⟩ food, and to pikin dem of raven wey dey call.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "E dey give"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "to animal"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "⟨im⟩ food"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to pikin dem of"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "raven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "dey call"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:00.110118423Z",
+  "model": "glm-5.2"
+}

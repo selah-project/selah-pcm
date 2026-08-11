@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 104,
+  "translation": "If You send out Your breath, dem go dey created; and You go renew di face of di ground.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "if You send"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Your breath"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "dem go dey created"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "and You go renew"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "of di ground"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:23.639915925Z",
+  "model": "glm-5.2"
+}

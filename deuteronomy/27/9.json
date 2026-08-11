@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Mosheh and di priests, di Levi dem, bin talk to all Yisra'el, sey: \"Keep quiet and hear, Yisra'el! Today you don become ⟨na⟩ people to Yahweh, your Elohim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "and di priests"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "di Levi dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "keep quiet"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "and hear"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "you don become"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨na⟩ people to"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:13:57.031385238Z",
+  "model": "glm-5.2"
+}

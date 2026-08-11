@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And Yahweh speak to Mosheh, sey:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "And speak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:17.527473086Z",
+  "model": "glm-5.2"
+}

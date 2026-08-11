@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "But Abimelekh never come near am, and e bin talk, 'Adonai, you go kill even righteous nation?'",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "but Abimelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "come near"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and bin talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "righteous"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "you go kill"
+    }
+  ],
+  "timestamp": "2026-08-11T09:05:58.761377072Z",
+  "model": "glm-5.2"
+}

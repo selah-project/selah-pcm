@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "And di goat wey di lot fall on, for Azazel, dem go make am stand alive before Yahweh, to make atonement on top am, to send am go Azazel go di wilderness.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "and di goat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fall"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "di lot"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "for Azazel"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "go stand"
+    },
+    {
+      "surface": "חי",
+      "gloss": "alive"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "to make atonement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "to send"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am",
+      "marks": "Azazel"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "go Azazel"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "go di wilderness"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:14.143795654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 68,
+  "translation": "Like how dem dey drive smoke away, ⟨na so⟩ make ⟨you⟩ drive ⟨dem⟩ away; like how wax dey melt from front of fire, ⟨na so⟩ wicked people go perish from front of Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "like how dem dey drive away"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "smoke"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "make ⟨you⟩ drive ⟨dem⟩ away"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "like how ⟨e⟩ dey melt"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "wax"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fire"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "go perish"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wicked people"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "from front of"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:49:08.045373410Z",
+  "model": "glm-5.2"
+}

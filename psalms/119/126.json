@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Time to do ⟨work⟩ for Yahweh; dem don break your torah.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "time"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "dem don break"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "your torah"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:01.923221820Z",
+  "model": "glm-5.2"
+}

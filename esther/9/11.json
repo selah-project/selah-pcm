@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "For dat day, di number of di pipul wey dem kill for Shushan di capital come reach di front of di king.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "for day"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "come reach"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "of di pipul wey dem kill"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "for Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "di capital"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    }
+  ],
+  "timestamp": "2026-08-11T13:38:12.622574701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Remember now: who, ⟨im⟩ na innocent, don perish? And where dem don cut ⟨di⟩ upright ones comot?",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "remember"
+    },
+    {
+      "surface": "נָ֗א",
+      "gloss": "now"
+    },
+    {
+      "surface": "מִ֤י",
+      "gloss": "who"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "⟨im⟩"
+    },
+    {
+      "surface": "נָקִ֣י",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "אָבָ֑ד",
+      "gloss": "don perish"
+    },
+    {
+      "surface": "וְ֝אֵיפֹ֗ה",
+      "gloss": "and where"
+    },
+    {
+      "surface": "יְשָׁרִ֥ים",
+      "gloss": "upright ones"
+    },
+    {
+      "surface": "נִכְחָֽדוּ",
+      "gloss": "dem don cut comot"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:20.072023624Z",
+  "model": "glm-5.2"
+}

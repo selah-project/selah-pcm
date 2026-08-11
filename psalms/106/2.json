@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 106,
+  "translation": "Who go fit tok about di mighty Acts of Yahweh? Who go fit make all im praise dem hear?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "go fit tok about"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "di mighty Acts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "go fit make ... hear"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "im praise dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:58:19.399036306Z",
+  "model": "glm-5.2"
+}

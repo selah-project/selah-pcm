@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "and ⟨את⟩ di Amori, and ⟨את⟩ di Kenaʿani, and ⟨את⟩ di Girgashi, and ⟨את⟩ di Yevusi.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Amori"
+    },
+    {
+      "surface": "הָֽאֱמֹרִי֙",
+      "gloss": "di Amori"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Kenaʿani"
+    },
+    {
+      "surface": "הַֽכְּנַעֲנִ֔י",
+      "gloss": "di Kenaʿani"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Girgashi"
+    },
+    {
+      "surface": "הַגִּרְגָּשִׁ֖י",
+      "gloss": "di Girgashi"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "and ⟨את⟩",
+      "marks": "di Yevusi"
+    },
+    {
+      "surface": "הַיְבוּסִֽי",
+      "gloss": "di Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-11T09:03:34.686012864Z",
+  "model": "glm-5.2"
+}

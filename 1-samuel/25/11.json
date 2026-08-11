@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "Make I come take ⟨את⟩ my bread, and ⟨את⟩ my water, and ⟨את⟩ my slaughter-meat wey I don slaughter for my shearers, come give men wey I no sabi where dem come from?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "make I come take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my bread"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "my bread"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my water"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "my water"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "my slaughter-meat"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "my slaughter-meat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "I don slaughter"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "for my shearers"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "come give"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "I sabi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "where"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dem come from"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:34:16.944708880Z",
+  "model": "glm-5.2"
+}

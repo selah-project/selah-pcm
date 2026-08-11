@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 74,
+  "translation": "And now, ⟨dem⟩ dey smash all im carving dem together wit axe and hammer dem.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "and now"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "im carving dem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "together"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "wit axe"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "and hammer dem"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "dem dey smash"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:10.199840882Z",
+  "model": "glm-5.2"
+}

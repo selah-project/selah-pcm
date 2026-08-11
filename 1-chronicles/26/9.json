@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "And to Meshelemiah, sons and brethren, sons of valour, eighteen.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "and to Meshelemiah"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "and brethren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valour"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "eight"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-08-11T15:06:24.293985682Z",
+  "model": "glm-5.2"
+}

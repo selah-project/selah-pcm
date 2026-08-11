@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Yahweh bin tell Moshe: \"Now you go see wetin I go do to Pharaoh, because wit strong hand im go send dem, and wit strong hand im go drive dem comot from im land.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bin tell"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "you go see"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "I go do"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "to Pharaoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wit hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "im go send dem"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "and wit hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "strong"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "im go drive dem"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "from im land"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:50.864707282Z",
+  "model": "glm-5.2"
+}

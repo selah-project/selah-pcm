@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And seven sons and three daughters bin born to am.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "And bin born"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to am"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seven"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "and three"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "daughters"
+    }
+  ],
+  "timestamp": "2026-08-11T13:16:56.340880402Z",
+  "model": "glm-5.2"
+}

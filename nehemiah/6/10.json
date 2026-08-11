@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 6:10",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "So I enter house of Shemayah, son of Delayah, son of Meheitavel, and e bin lock up; and e talk sey, 'Make we meet inside house of Elohim, for inside di temple, and make dem lock di door of di temple, because dem dey come make dem kill you, and for night dem dey come make dem kill you.'",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "so I"
+    },
+    {
+      "surface": "בָ֗אתִי",
+      "gloss": "enter"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "שְֽׁמַֽעְיָ֧ה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "דְּלָיָ֛ה",
+      "gloss": "Delayah"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "son of"
+    },
+    {
+      "surface": "מְהֵֽיטַבְאֵ֖ל",
+      "gloss": "Meheitavel"
+    },
+    {
+      "surface": "וְה֣וּא",
+      "gloss": "and e"
+    },
+    {
+      "surface": "עָצ֑וּר",
+      "gloss": "bin lock up"
+    },
+    {
+      "surface": "וַיֹּ֡אמֶר",
+      "gloss": "and e talk sey"
+    },
+    {
+      "surface": "נִוָּעֵד֩",
+      "gloss": "make we meet"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בֵּ֨ית",
+      "gloss": "house of"
+    },
+    {
+      "surface": "הָאֱלֹהִ֜ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "for inside"
+    },
+    {
+      "surface": "תּ֣וֹךְ",
+      "gloss": "inside"
+    },
+    {
+      "surface": "הַֽהֵיכָ֗ל",
+      "gloss": "di temple"
+    },
+    {
+      "surface": "וְנִסְגְּרָה֙",
+      "gloss": "and make dem lock"
+    },
+    {
+      "surface": "דַּלְת֣וֹת",
+      "gloss": "di door"
+    },
+    {
+      "surface": "הַהֵיכָ֔ל",
+      "gloss": "of di temple"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "because"
+    },
+    {
+      "surface": "בָּאִ֣ים",
+      "gloss": "dem dey come"
+    },
+    {
+      "surface": "לְהָרְגֶ֔ךָ",
+      "gloss": "make dem kill you"
+    },
+    {
+      "surface": "וְלַ֖יְלָה",
+      "gloss": "and for night"
+    },
+    {
+      "surface": "בָּאִ֥ים",
+      "gloss": "dem dey come"
+    },
+    {
+      "surface": "לְהָרְגֶֽךָ",
+      "gloss": "make dem kill you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:49:50.671053622Z",
+  "model": "glm-5.2"
+}

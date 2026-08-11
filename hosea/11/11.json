@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "Dem go tremble like bird from Mitsrayim, and like dove from eretz Ashur; and I go make dem siddon for dia houses — oracle of Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "Dem go tremble"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "like bird"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "and like dove"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "from eretz"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "and I go make dem siddon"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "dia houses"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:23:05.351046050Z",
+  "model": "glm-5.2"
+}

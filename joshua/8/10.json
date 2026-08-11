@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And Yahoshua bin wake up early for morning, and bin inspect ⟨את⟩ di people, and ⟨im⟩ bin go up, im and di elders of Yisrael, before di people, ⟨to⟩ Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bin wake up early"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "for morning"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "bin inspect"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di people"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "bin go up"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "im"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "and di elders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "העי",
+      "gloss": "⟨to⟩ Ai"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:55.190827456Z",
+  "model": "glm-5.2"
+}

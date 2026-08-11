@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Joy to di righteous man to do justice, and terror to dem wey dey work nothingness.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "joy"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "to di righteous man"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "to do"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "and terror"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "to dem wey dey work"
+    },
+    {
+      "surface": "און",
+      "gloss": "nothingness"
+    }
+  ],
+  "timestamp": "2026-08-11T13:12:40.506654646Z",
+  "model": "glm-5.2"
+}

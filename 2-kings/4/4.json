@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And enter, lock di door behind you and behind your sons, and pour on top all dis containers; and di one wey full, move am aside.\"",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "And enter"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "lock"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "di door"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "behind you"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "and behind"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "your sons"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "and pour"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "di containers"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "and di one wey full"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "move am aside"
+    }
+  ],
+  "timestamp": "2026-08-11T11:10:21.185228003Z",
+  "model": "glm-5.2"
+}

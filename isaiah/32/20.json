@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 32:20",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "Happy una wey dey sow beside all water dem, wey dey let loose di foot of di ox and di donkey!",
+  "tokens": [
+    {
+      "surface": "אשריכם",
+      "gloss": "happy una"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "wey dey sow"
+    },
+    {
+      "surface": "על",
+      "gloss": "beside"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water dem"
+    },
+    {
+      "surface": "משלחי",
+      "gloss": "wey dey let loose"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "di foot"
+    },
+    {
+      "surface": "השור",
+      "gloss": "of di ox"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "and di donkey"
+    }
+  ],
+  "timestamp": "2026-08-11T11:28:27.150621043Z",
+  "model": "glm-5.2"
+}

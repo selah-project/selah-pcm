@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And di king bin cover ⟨את⟩ im face, and di king bin cry out wit big voice: \"My pikin Avshalom! Avshalom, my pikin, my pikin!\"",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "and di king"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bin cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "im face"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "and bin cry out"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voice"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "big"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:55:13.385373667Z",
+  "model": "glm-5.2"
+}

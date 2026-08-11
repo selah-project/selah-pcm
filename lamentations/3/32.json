@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Because even though e dey cause grief, yet e go show compassion according to di plenty wey ⟨im⟩ chesed be.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אם",
+      "gloss": "even though"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "e dey cause grief"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "yet e go show compassion"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "according to di plenty"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wey ⟨im⟩ chesed be"
+    }
+  ],
+  "timestamp": "2026-08-11T13:31:47.543300010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 28,
+  "translation": "For Dawid. To You, Yahweh, I dey call; my Rock, make You no deaf to me, make You no keep quiet from me, so I no go be like dem wey dey go down pit.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "For Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I dey call"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my Rock"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "make You no deaf"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "to me"
+    },
+    {
+      "surface": "פן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "make You no keep quiet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "from me"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "I go be like"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dem wey dey go down"
+    },
+    {
+      "surface": "בור",
+      "gloss": "pit"
+    }
+  ],
+  "timestamp": "2026-08-11T12:42:17.604234648Z",
+  "model": "glm-5.2"
+}

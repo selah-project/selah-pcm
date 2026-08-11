@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And after dat, ⟨he⟩ read ⟨את⟩ all di words of di Torah — di blessing and di curse — according to all wetin bin dey written for di book of di Torah.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "and after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "⟨he⟩ read"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di words of di Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di words of"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "di Torah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "di blessing"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "and di curse"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "according to all"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "wetin bin dey written"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "for di book of"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "di Torah"
+    }
+  ],
+  "timestamp": "2026-08-11T10:20:11.588263480Z",
+  "model": "glm-5.2"
+}

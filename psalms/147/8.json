@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 147,
+  "translation": "Di One wey dey cover heaven wit clouds, wey dey prepare rain for earth, wey dey make grass spring up for mountains.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Di One wey dey cover"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "heaven"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "wit clouds"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "wey dey prepare"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "for earth"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rain"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "wey dey make spring up"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "for mountains"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    }
+  ],
+  "timestamp": "2026-08-11T13:06:20.361761106Z",
+  "model": "glm-5.2"
+}

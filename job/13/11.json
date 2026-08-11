@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 13,
+  "translation": "Im lifting up no go ⟨be⟩ make una fear, and ⟨את⟩ im terror go fall on top una?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "no go"
+    },
+    {
+      "surface": "שְׂ֭אֵתוֹ",
+      "gloss": "im lifting up"
+    },
+    {
+      "surface": "תְּבַעֵ֣ת",
+      "gloss": "make una fear"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "im terror"
+    },
+    {
+      "surface": "וּ֝פַחְדּ֗וֹ",
+      "gloss": "and im terror"
+    },
+    {
+      "surface": "יִפֹּ֥ל",
+      "gloss": "go fall"
+    },
+    {
+      "surface": "עֲלֵיכֶֽם",
+      "gloss": "on top una"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:52.390285766Z",
+  "model": "glm-5.2"
+}

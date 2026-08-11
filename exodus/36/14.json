@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 36,
+  "translation": "And e make goat-hair curtain dem for tent on top di Mishkan; eleven curtain dem e make ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and e make"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "goat-hair"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "for tent"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "di Mishkan"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "eleven"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "curtain dem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e make"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (di eleven curtain dem)"
+    }
+  ],
+  "timestamp": "2026-08-11T14:22:40.325824979Z",
+  "model": "glm-5.2"
+}

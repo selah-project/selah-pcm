@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And I go humble ⟨את⟩ di seed of David because of dis tin; but no be all di days.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "and I go humble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di seed of David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "of David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "because of"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dis tin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "but"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no be"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "di days"
+    }
+  ],
+  "timestamp": "2026-08-11T11:02:43.666482318Z",
+  "model": "glm-5.2"
+}

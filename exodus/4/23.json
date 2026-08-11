@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "And I bin tell you: 'Send ⟨את⟩ my son, make e serve me'; but you refuse to send am — see, I dey kill ⟨את⟩ your son, your firstborn.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "And I bin tell"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my son"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my son"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "make e serve me"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "and you refuse"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "to send am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dey kill"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your son"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "your son"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "your firstborn"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:17.014732453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And you go sacrifice peace offering dem, and you go chop there, and you go glad for front of Yahweh, ⟨wey be⟩ your Elohim.",
+  "tokens": [
+    {
+      "surface": "וְזָבַחְתָּ",
+      "gloss": "and you go sacrifice"
+    },
+    {
+      "surface": "שְׁלָמִים",
+      "gloss": "peace offering dem"
+    },
+    {
+      "surface": "וְאָכַלְתָּ",
+      "gloss": "and you go chop"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "there"
+    },
+    {
+      "surface": "וְשָׂמַחְתָּ",
+      "gloss": "and you go glad"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "for front of"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "your Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:28:53.169941745Z",
+  "model": "glm-5.2"
+}

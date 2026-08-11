@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "Dem no go dwell for land of Yahweh, but Efrayim go return to Mitsrayim, and for Ashur dem go eat unclean thing.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dem go dwell"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "for land"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "but ⟨Efrayim⟩ go return"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "to Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "and for Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "unclean ⟨thing⟩"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dem go eat"
+    }
+  ],
+  "timestamp": "2026-08-11T12:24:04.513832680Z",
+  "model": "glm-5.2"
+}

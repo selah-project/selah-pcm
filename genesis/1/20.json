@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Elohim talk sey, make di water dem swarm with swarm of living ⟨creature⟩, and make bird dem dey fly on top di earth, on top di face of di space of di heaven.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "make ⟨dem⟩ swarm"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water dem"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "swarm"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "living creature"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "living"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "and bird"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "make ⟨e⟩ dey fly"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "על",
+      "gloss": "on top"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "of di space"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "of di heaven"
+    }
+  ],
+  "timestamp": "2026-08-11T09:00:07.439094559Z",
+  "model": "glm-5.2"
+}

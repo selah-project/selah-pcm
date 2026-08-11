@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "And ⟨im⟩ find anoda man, and ⟨im⟩ talk sey, Strike me, abeg. And di man strike am, ⟨im⟩ strike and wound am.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "and ⟨im⟩ find"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and ⟨im⟩ talk"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "Strike me"
+    },
+    {
+      "surface": "נא",
+      "gloss": "abeg"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "and ⟨im⟩ strike am"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "⟨im⟩ strike"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "and wound"
+    }
+  ],
+  "timestamp": "2026-08-11T11:07:44.921287267Z",
+  "model": "glm-5.2"
+}

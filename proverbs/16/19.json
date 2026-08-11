@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "E better make spirit dey low ⟨na⟩ with ⟨את⟩ di poor, pass make person dey share ⟨את⟩ spoil with ⟨na⟩ di proud.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e better"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "dey low"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di poor"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "poor"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "make person dey share"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "spoil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di proud"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "proud"
+    }
+  ],
+  "timestamp": "2026-08-11T14:58:02.096291991Z",
+  "model": "glm-5.2"
+}

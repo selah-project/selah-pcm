@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "⟨E⟩ slaughter im slaughter-animal, ⟨e⟩ mix im wine; even, ⟨e⟩ set im table.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "⟨E⟩ slaughter"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "im slaughter-animal"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "⟨e⟩ mix"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "im wine"
+    },
+    {
+      "surface": "אף",
+      "gloss": "even"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "⟨e⟩ set"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "im table"
+    }
+  ],
+  "timestamp": "2026-08-11T13:08:55.270196446Z",
+  "model": "glm-5.2"
+}

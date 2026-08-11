@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And mankind go dey bow down, and man go dey humbled, and di eyes of di proud go dey lower.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "and go dey bow down"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mankind"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "and go dey humbled"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "and di eyes"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "of di proud"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "go dey lower"
+    }
+  ],
+  "timestamp": "2026-08-11T11:21:42.444276574Z",
+  "model": "glm-5.2"
+}

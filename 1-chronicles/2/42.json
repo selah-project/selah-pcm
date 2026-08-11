@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And di sons of Kalev, broda of Yerachmeel: Mesha im firstborn, ⟨na⟩ ⟨im⟩ papa of Zif; and di sons of Mareshah ⟨na⟩ papa of Chevron.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broda of"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "im firstborn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ ⟨im⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and di sons of"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa of"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    }
+  ],
+  "timestamp": "2026-08-11T13:53:24.273781873Z",
+  "model": "glm-5.2"
+}

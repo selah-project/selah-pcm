@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 103,
+  "translation": "Man, im days na like grass; like flower of di field, na so im dey bloom.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "man"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "like grass"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "im days"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "like flower"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of di field"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na so"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "⟨im⟩ dey bloom"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:50.343888962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "pcm",
+  "chapter": 27,
+  "translation": "And to di sons of Yisra'el you go speak, sey: Any man if e die, and e no get son, den una go pass ⟨את⟩ im inheritance to im daughter.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "And to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "you go speak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Any man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "e die"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "and son"
+    },
+    {
+      "surface": "אין",
+      "gloss": "e no get"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(to am)"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "una go pass"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im inheritance"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "im inheritance"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "to im daughter"
+    }
+  ],
+  "timestamp": "2026-08-11T10:00:17.527750760Z",
+  "model": "glm-5.2"
+}

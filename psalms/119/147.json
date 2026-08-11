@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "I bin go before daybreak and I dey cry out; for ⟨Your⟩ word I bin hope.",
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "I bin go before"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "daybreak"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "and I dey cry out"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "for Your word"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "I bin hope"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:27.938694919Z",
+  "model": "glm-5.2"
+}

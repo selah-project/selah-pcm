@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 66,
+  "translation": "You bring us enter inside net; you put heavy load on top our waist.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "You bring us enter"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "inside net"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "you put"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "heavy load"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "on top our waist"
+    }
+  ],
+  "timestamp": "2026-08-11T12:48:19.494978088Z",
+  "model": "glm-5.2"
+}

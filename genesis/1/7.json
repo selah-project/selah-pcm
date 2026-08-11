@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And Elohim make ⟨את⟩ di firmament, and e separate between di water wey dey under di firmament and between di water wey dey on top di firmament, and e come be so.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "and make"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di firmament"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "di firmament"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "and separate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dey under"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "di firmament"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and between"
+    },
+    {
+      "surface": "המים",
+      "gloss": "di water"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dey on top"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "di firmament"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "and come be"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:40.032575347Z",
+  "model": "glm-5.2"
+}

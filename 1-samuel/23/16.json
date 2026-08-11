@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And Yehonatan, son of Sha'ul, bin stand up and go meet David for Horesha; and e bin strengthen ⟨את⟩ im hand for Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bin stand up"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "of Sha'ul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "and go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "for Horesha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "and bin strengthen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "for Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:44:15.591224705Z",
+  "model": "glm-5.2"
+}

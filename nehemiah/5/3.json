@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 5:3",
+  "book": "nehemiah",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "And ⟨there bin get⟩ dose wey dey talk sey, \"Our farm-land and our vineyard and our house — we dey pledge dem, make we fit get grain for di hunger.\"",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "and ⟨there bin get⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dem dey talk"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "our farm-land"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "and our vineyard"
+    },
+    {
+      "surface": "ובתינו",
+      "gloss": "and our house"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "dey pledge"
+    },
+    {
+      "surface": "ונקחה",
+      "gloss": "make we fit get"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "grain"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "for di hunger"
+    }
+  ],
+  "timestamp": "2026-08-11T15:04:41.306432436Z",
+  "model": "glm-5.2"
+}

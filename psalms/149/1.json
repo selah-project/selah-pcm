@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 149,
+  "translation": "Make una praise Yah! Make una sing to Yahweh new song, im praise for ⟨di⟩ gathering of ⟨di⟩ ḥasidim.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "make una praise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "make una sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "song"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "new"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "im praise"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "for gathering"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ḥasidim"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:48.983284247Z",
+  "model": "glm-5.2"
+}

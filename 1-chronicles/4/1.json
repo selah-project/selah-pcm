@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 4,
+  "translation": "Di sons of Yehudah: Perets, Chetsron, wè Karmi, wè Chur, wè Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sons of"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "wè Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "wè Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "wè Shoval"
+    }
+  ],
+  "timestamp": "2026-08-11T13:55:43.375241499Z",
+  "model": "glm-5.2"
+}

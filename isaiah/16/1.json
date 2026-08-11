@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 16,
+  "translation": "Make una send lamb to di ruler of ⟨את⟩ di land, from Sela go di wilderness, go ⟨di⟩ mountain of daughter Zion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "make una send"
+    },
+    {
+      "surface": "כר",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ruler"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩",
+      "marks": "di land"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "from Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "go di wilderness"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mountain"
+    },
+    {
+      "surface": "בת",
+      "gloss": "daughter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    }
+  ],
+  "timestamp": "2026-08-11T11:25:05.431871286Z",
+  "model": "glm-5.2"
+}

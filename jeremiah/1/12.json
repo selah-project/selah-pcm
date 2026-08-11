@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Then Yahweh tok to me, \"You do well to see; because I dey watch over my word, to do am.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Then tok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "you do well"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "to see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "dey watch"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my word"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "to do am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:40:10.816284781Z",
+  "model": "glm-5.2"
+}

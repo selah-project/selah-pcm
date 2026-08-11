@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "Im hand, ⟨e⟩ stretch over ⟨di⟩ sea, ⟨e⟩ make kingdoms to shake — Yahweh don give command concerning Kenaan, to destroy im strongholds.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "im hand"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "⟨e⟩ stretch"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨di⟩ sea"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "⟨e⟩ make to shake"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kingdoms"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "don give command"
+    },
+    {
+      "surface": "אל",
+      "gloss": "concerning"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "to destroy"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "im strongholds"
+    }
+  ],
+  "timestamp": "2026-08-11T11:26:14.369285531Z",
+  "model": "glm-5.2"
+}

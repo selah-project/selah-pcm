@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Princes dem hang by dia hand; di face of elders dem no honor.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "princes"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "by dia hand"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "dem hang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di face"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "of elders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "honor"
+    }
+  ],
+  "timestamp": "2026-08-11T13:32:53.910573548Z",
+  "model": "glm-5.2"
+}

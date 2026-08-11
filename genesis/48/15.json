@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 48,
+  "translation": "And e bless ⟨את⟩ Yosef, and e talk sey: ⟨Di⟩ Elohim wey my papa-papa-dem — Avraham and Yitschaq — bin dey waka before im face, di Elohim wey don dey shepherd ⟨את⟩ me from when I dey young reach today dis one,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "and e bless"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "bin dey waka"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "my papa-papa-dem"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "before im face"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "and Yitschaq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "wey don dey shepherd"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "from when I dey young"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis one"
+    }
+  ],
+  "timestamp": "2026-08-11T09:18:54.850385754Z",
+  "model": "glm-5.2"
+}

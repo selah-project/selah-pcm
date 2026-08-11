@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 12:22",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "And im bin talk, sey, While di pikin still dey alive, I bin fast and I bin cry; because I bin talk, sey, Who know? Maybe Yahweh go show me favor, and di pikin go live.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin talk"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "while"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di pikin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dey alive"
+    },
+    {
+      "surface": "צמתי",
+      "gloss": "I bin fast"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "and I bin cry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "I bin talk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "know"
+    },
+    {
+      "surface": "יחנני",
+      "gloss": "go show me favor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "and go live"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "di pikin"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:39.824795383Z",
+  "model": "glm-5.2"
+}

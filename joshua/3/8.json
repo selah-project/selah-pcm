@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And you, make you command ⟨את⟩ di pries dem wey dey carry di ark of di covenant, sey: when una reach di edge of di wata of Yarden, for inside Yarden make una stand.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "make you command"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di pries dem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di pries dem"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wey dey carry"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "di ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "of di covenant"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "when una reach"
+    },
+    {
+      "surface": "עד",
+      "gloss": "to"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "di edge"
+    },
+    {
+      "surface": "מי",
+      "gloss": "of di wata"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "of Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "for inside Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "make una stand"
+    }
+  ],
+  "timestamp": "2026-08-11T10:19:05.172598074Z",
+  "model": "glm-5.2"
+}

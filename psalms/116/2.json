@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 116,
+  "translation": "Because im bend im ear to me, and for my days I go call.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "im bend"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "im ear"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "and for my days"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "I go call"
+    }
+  ],
+  "timestamp": "2026-08-11T13:00:38.930566405Z",
+  "model": "glm-5.2"
+}

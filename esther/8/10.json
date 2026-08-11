@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "And ⟨he⟩ write for di name of di king Achashverosh, and ⟨he⟩ seal am wit di ring of di king, and ⟨he⟩ send letter-dem by hand of di runner-dem on top horse-dem, rider-dem of di royal steed-dem, di bred-one-dem of di fine mare-dem.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "and ⟨he⟩ write"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "for di name"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "and ⟨he⟩ seal"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "wit di ring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of di king"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "and ⟨he⟩ send"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "letter-dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by hand"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "of di runner-dem"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "on top horse-dem"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "rider-dem"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "of di royal steed-dem"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "di bred-one-dem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di offspring"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "of di fine mare-dem"
+    }
+  ],
+  "timestamp": "2026-08-11T13:39:38.855008159Z",
+  "model": "glm-5.2"
+}

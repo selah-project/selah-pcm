@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "And e bin strike ⟨את⟩ Moab, and Moab bin become servant dem for Dawid, carrier dem of tribute.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "and bin strike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "and bin become"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servant dem"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "for Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "carrier dem of"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tribute"
+    }
+  ],
+  "timestamp": "2026-08-11T14:00:55.726750224Z",
+  "model": "glm-5.2"
+}

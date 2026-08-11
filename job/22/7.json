@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 22,
+  "translation": "You no bin give water to di tired man, and from di hungry you dey hold back bread.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "you no bin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "to di tired man"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "give"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "and from di hungry"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "you dey hold back"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bread"
+    }
+  ],
+  "timestamp": "2026-08-11T13:21:30.813028805Z",
+  "model": "glm-5.2"
+}

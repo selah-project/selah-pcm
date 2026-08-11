@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 38,
+  "translation": "Yahweh, make you save me! And we go play my songs with stringed instrument all di days of our life, inside house of Yahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "make you save me"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "and my songs"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "we go play"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "di days"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "of our life"
+    },
+    {
+      "surface": "על",
+      "gloss": "inside"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T11:31:10.314725395Z",
+  "model": "glm-5.2"
+}

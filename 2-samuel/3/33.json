@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "And di king bin sing lamentation for Abner, and im bin talk sey, \"Abner don die like how fool dey die?\"",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "and bin sing lamentation"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and im bin talk"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "like how"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fool"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dey die"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:03.545293096Z",
+  "model": "glm-5.2"
+}

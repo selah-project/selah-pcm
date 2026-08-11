@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "Wit one thousand and two hundred chariots, and wit sixty thousand horsemen; and no number ⟨bin dey⟩ for di pipo wey come wit am from Mitsrayim — Lubim, Sukkiyim, and Kushim.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "wit one thousand"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "and two hundred"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chariots"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "and wit sixty"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "horsemen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and no"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "number"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for di pipo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "באו",
+      "gloss": "come"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wit am"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Lubim"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukkiyim"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "and Kushim"
+    }
+  ],
+  "timestamp": "2026-08-11T14:08:06.152653606Z",
+  "model": "glm-5.2"
+}

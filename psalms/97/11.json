@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Light don sow for di tzaddik, and for straight-of-heart, joy.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Light"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "don sow"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "for di tzaddik"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "and for straight-of"
+    },
+    {
+      "surface": "לב",
+      "gloss": "heart"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "joy"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:14.192527183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "So Chanun take ⟨את⟩ servant-dem of Dawid, and shave off ⟨את⟩ half of dia beard, and cut off ⟨את⟩ dia cloth-dem for di middle reach dia buttocks, and send dem away.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "and im take"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "servant-dem of Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servant-dem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "and shave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "half of dia beard"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "half"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "of dia beard"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "and cut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia cloth-dem"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "dia cloth-dem"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "for di middle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "dia buttocks"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "and send dem away"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:00.201069896Z",
+  "model": "glm-5.2"
+}

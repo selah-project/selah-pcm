@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 30,
+  "translation": "If you act fool for you lift up yourself, and if you plan evil—hand to mouth!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "you act fool"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "for you lift up yourself"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "you plan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "to mouth"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:37.638140457Z",
+  "model": "glm-5.2"
+}

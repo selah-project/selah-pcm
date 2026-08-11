@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 65:14",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 65,
+  "translation": "See, my servants dem go shout from goodness of heart, but una go cry out from pain of heart, and from breaking of spirit una go wail.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my servants"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "go shout"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "from goodness"
+    },
+    {
+      "surface": "לב",
+      "gloss": "of heart"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "but una"
+    },
+    {
+      "surface": "תצעקו",
+      "gloss": "go cry out"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "from pain"
+    },
+    {
+      "surface": "לב",
+      "gloss": "of heart"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "and from breaking"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "of spirit"
+    },
+    {
+      "surface": "תילילו",
+      "gloss": "go wail"
+    }
+  ],
+  "timestamp": "2026-08-11T11:39:14.773249984Z",
+  "model": "glm-5.2"
+}

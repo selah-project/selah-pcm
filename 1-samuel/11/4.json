@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And di messengers bin come to Givah of Shaul, and bin speak di words for di ear of di people; and all di people bin lift up ⟨את⟩ dia voice, and bin cry.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and bin come"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "di messengers"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "to Givah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "of Shaul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "and bin speak"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "di words"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "for di ear"
+    },
+    {
+      "surface": "העם",
+      "gloss": "of di people"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "and bin lift up"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dia voice"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "dia voice"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "and bin cry"
+    }
+  ],
+  "timestamp": "2026-08-11T10:39:31.969966734Z",
+  "model": "glm-5.2"
+}

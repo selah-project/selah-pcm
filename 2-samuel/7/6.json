@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "Because I never siddon inside house from di day wey I carry ⟨את⟩ di sons of Yisra'el comot from Mitsrayim, reach dis day wey we dey; and I bin dey waka about for tent and for tabernacle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "לא",
+      "gloss": "never"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "I siddon"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "inside house"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "from di day"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "I carry comot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di sons of Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "di sons of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di day"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "and I bin dey"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "dey waka about"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "for tent"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "and for tabernacle"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:10.641790356Z",
+  "model": "glm-5.2"
+}

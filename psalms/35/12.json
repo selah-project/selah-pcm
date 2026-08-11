@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 35,
+  "translation": "Dem dey pay me back bad thing instead of good thing, bereavement to my life-force.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Dem dey pay me back"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bad thing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "instead of"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good thing"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "bereavement"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "to my life-force"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:05.574077367Z",
+  "model": "glm-5.2"
+}

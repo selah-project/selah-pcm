@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And ⟨he⟩ write for di letter, sey: Put ⟨את⟩ Uriyah for front of di strong battle, and una turn back from behind am, and ⟨he⟩ go dey struck, and ⟨he⟩ go die.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "and write"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "for di letter"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "put"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מול",
+      "gloss": "front"
+    },
+    {
+      "surface": "פני",
+      "gloss": "of"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "di battle"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "di strong"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "and una turn back"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "from behind am"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "and go dey struck"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "and go die"
+    }
+  ],
+  "timestamp": "2026-08-11T10:50:33.375351631Z",
+  "model": "glm-5.2"
+}

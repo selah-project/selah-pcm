@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And your vineyard, no strip am clean, and di scattered fruit of your vineyard, no gather am; make you leave dem for poor man and for stranger: me ⟨na⟩ Yahweh, ⟨na⟩ una Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "and your vineyard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "strip am clean"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "and di scattered fruit"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "of your vineyard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "gather am"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "for poor man"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "and for stranger"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "make you leave dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (poor man and stranger)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:42:57.224854292Z",
+  "model": "glm-5.2"
+}

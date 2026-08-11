@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "And ⟨Him⟩ go bring out like light your righteousness, and your justice like noon-time.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "and ⟨Him⟩ go bring out"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "like light"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "your righteousness"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "and your justice"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "like noon-time"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:37.786840964Z",
+  "model": "glm-5.2"
+}

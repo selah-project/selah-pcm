@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 10,
+  "translation": "And ⟨e⟩ cover ⟨את⟩ eye of all ⟨di⟩ land, and ⟨di⟩ land come dark; and ⟨e⟩ chop ⟨את⟩ all grass of ⟨di⟩ land and ⟨את⟩ all fruit of ⟨di⟩ tree wey ⟨di⟩ hail don leave; and no tin remain — all green thing inside tree and inside grass of field inside all land of Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "and cover"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eye of all di land"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "and come dark"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "and chop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all grass of di land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "all fruit of di tree"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "di tree"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "don leave"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "di hail"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "remain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "green thing"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "inside tree"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "and inside grass"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "of field"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inside all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-11T09:23:00.424138353Z",
+  "model": "glm-5.2"
+}

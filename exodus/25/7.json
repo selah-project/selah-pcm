@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "shoham stone dem, and stone dem for setting, for ⟨di⟩ ephod and for ⟨di⟩ breastpiece.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "stone dem"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "of shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "and stone dem"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "for setting"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "for ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "and for breastpiece"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:02.914899162Z",
+  "model": "glm-5.2"
+}

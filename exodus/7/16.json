@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 7,
+  "translation": "And you go tell am, 'Yahweh, Elohim of di Hebrews, send me to you, ⟨to⟩ talk: let ⟨את⟩ my people go, make dem serve me for di wilderness'; and look, you neva hear reach now.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "and you go tell"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "of di Hebrews"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "send me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to you"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨to⟩ talk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "let go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "make dem serve me"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "for di wilderness"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and look"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hear"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reach"
+    },
+    {
+      "surface": "כה",
+      "gloss": "now"
+    }
+  ],
+  "timestamp": "2026-08-11T09:21:55.719955945Z",
+  "model": "glm-5.2"
+}

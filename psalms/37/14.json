@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 37,
+  "translation": "Di wicked dem don open sword, and dem don stretch dia bow, to make poor man and needy fall, to slaughter di straight-ones of ⟨di⟩ way.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "sword"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "don open"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "di wicked dem"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "and don stretch"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "dia bow"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "to make fall"
+    },
+    {
+      "surface": "עני",
+      "gloss": "poor man"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "and needy"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "to slaughter"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "di straight-ones"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "of ⟨di⟩ way"
+    }
+  ],
+  "timestamp": "2026-08-11T12:43:35.386783721Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 21,
+  "translation": "Great ⟨na⟩ im glory for di salvation wey you do; splendor and majesty you place on top am.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "great"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "im glory"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "for di salvation wey you do"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "splendor"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "and majesty"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "you place"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on top am"
+    }
+  ],
+  "timestamp": "2026-08-11T12:40:38.379094654Z",
+  "model": "glm-5.2"
+}

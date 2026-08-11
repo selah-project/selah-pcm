@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 122,
+  "translation": "Ask for shalom of Yerushalaim — make dem wey love you rest well.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Ask"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "for shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "of Yerushalaim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "make dem rest well"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "wey love you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:03:03.957187337Z",
+  "model": "glm-5.2"
+}

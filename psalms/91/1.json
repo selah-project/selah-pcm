@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 91,
+  "translation": "Person wey dey siddon for di hiding-place of El Elyon, for di shadow of Shaddai e go dey lodge.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "dey siddon"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "for di hiding-place"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "of El Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "for di shadow"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "of Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "go dey lodge"
+    }
+  ],
+  "timestamp": "2026-08-11T12:55:50.926355889Z",
+  "model": "glm-5.2"
+}

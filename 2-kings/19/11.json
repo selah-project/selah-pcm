@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "'See, you don hear wetin kings of Ashur do to all di lands, to ⟨את⟩ ⟨dem⟩ destroy dem, and you, you go escape?'",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "don hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "do"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "of Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "to all"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "di lands"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "to destroy dem"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "and you"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "you go escape"
+    }
+  ],
+  "timestamp": "2026-08-11T11:16:39.893822987Z",
+  "model": "glm-5.2"
+}

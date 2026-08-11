@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 18,
+  "translation": "As I dey alive, na wetin Adonai Yahweh talk — una no go use dis parable again for Yisrael:",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "⟨As⟩ I dey alive"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "na wetin ... talk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no go"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to una"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "משל",
+      "gloss": "make una use"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "di parable"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "for Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-11T14:48:15.922290302Z",
+  "model": "glm-5.2"
+}

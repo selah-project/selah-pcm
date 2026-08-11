@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 53,
+  "translation": "⟨Dem⟩ reject am, and people abandon am, man of pains, and person wey sabi sickness; and like person wey dey hide face from am, ⟨dem⟩ reject am, and we no value am.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "⟨dem⟩ reject am"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "and abandon"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "people"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "of pains"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "and person wey sabi"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "sickness"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "and like person wey dey hide"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "from am"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "⟨dem⟩ reject am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and we no"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "value am"
+    }
+  ],
+  "timestamp": "2026-08-11T11:35:22.083954948Z",
+  "model": "glm-5.2"
+}

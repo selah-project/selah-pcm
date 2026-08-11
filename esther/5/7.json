@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 5,
+  "translation": "Ester come answer, come talk say, \"My petition and my request ⟨be dis⟩ —\"",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "come answer"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "come talk"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "My petition"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "and my request"
+    }
+  ],
+  "timestamp": "2026-08-11T13:37:13.724011923Z",
+  "model": "glm-5.2"
+}

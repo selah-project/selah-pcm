@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "You don make di nation plenty, you don make di happiness great; dem dey glad for your presence like di gladness for harvest, like how dem dey rejoice when dem dey share booty.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "you don make plenty"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "di nation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨you⟩ no"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "you don make great"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "di happiness"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "dem dey glad"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for your presence"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "like di gladness"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "for harvest"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "like how"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "dem dey rejoice"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "when dem dey share"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "booty"
+    }
+  ],
+  "timestamp": "2026-08-11T11:22:09.728648259Z",
+  "model": "glm-5.2"
+}

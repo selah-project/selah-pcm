@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Open my eye make I fit see wonderful tings from ⟨im⟩ law ⟨of you⟩.",
+  "tokens": [
+    {
+      "surface": "גַּל",
+      "gloss": "open"
+    },
+    {
+      "surface": "עֵינַ֥י",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "וְאַבִּ֑יטָה",
+      "gloss": "make I fit see"
+    },
+    {
+      "surface": "נִ֝פְלָא֗וֹת",
+      "gloss": "wonderful tings"
+    },
+    {
+      "surface": "מִתּוֹרָתֶֽךָ",
+      "gloss": "from ⟨im⟩ law ⟨of you⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:01:02.191264658Z",
+  "model": "glm-5.2"
+}

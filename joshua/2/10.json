@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "\"For we hear ⟨את⟩ wetin Yahweh do, how im dry ⟨את⟩ di water of Yam Suph before una, wen una komot from Mitsrayim, and wetin una do to di two kings of di Emori wey dey across di Yarden, to Sichon and to Og, wey una put under ban ⟨את⟩ dem.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "we hear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetin Yahweh do"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "im dry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di water"
+    },
+    {
+      "surface": "מי",
+      "gloss": "di water"
+    },
+    {
+      "surface": "ים",
+      "gloss": "of"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Yam Suph"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "before una"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "wen una komot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "from Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "and wetin"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "una do"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "to di two"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kings"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey dey"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "across"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "di Yarden"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "to Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "and to Og"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "una put under ban"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-08-11T14:29:29.930319988Z",
+  "model": "glm-5.2"
+}

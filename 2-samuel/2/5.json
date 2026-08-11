@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "So David bin send messenger go meet di men of Yavesh-Gilʻad, and e talk sey to dem: \"Una dey blessed to Yahweh, wey una do dis chesed wit una master, wit Sha'ul, and una bury am.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "so e bin send"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messenger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men of"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilʻad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e talk"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to dem"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "blessed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "una do"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "di chesed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "una master"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "and una bury"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-08-11T10:47:26.011756018Z",
+  "model": "glm-5.2"
+}

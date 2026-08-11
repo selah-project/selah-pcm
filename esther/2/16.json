@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "And dem take Ester go meet King Achashverosh, go im royal house, for di tenth month — na ⟨im be⟩ di month of Tevet — for di seventh year of im kingdom.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "and dem take"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go meet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "King"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "house"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "im royal"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "for di month"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "tenth"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na ⟨im be⟩"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "di month"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "of Tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "for di year"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seventh"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "of im kingdom"
+    }
+  ],
+  "timestamp": "2026-08-11T15:03:28.533798459Z",
+  "model": "glm-5.2"
+}

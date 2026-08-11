@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "pcm",
+  "chapter": 8,
+  "translation": "Dem too, King David sanctify dem to Yahweh, together with di silver and di gold wey e sanctify from all di nations wey e subdue.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Dem too"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Dem"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "sanctify"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together with"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "di silver"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "and di gold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "e sanctify"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "di nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "e subdue"
+    }
+  ],
+  "timestamp": "2026-08-11T10:48:57.529558736Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And make ⟨a⟩ holy place for me, so that I go dwell among dem.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "and make"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "holy place"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "so that I go dwell"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "among dem"
+    }
+  ],
+  "timestamp": "2026-08-11T09:29:02.915005019Z",
+  "model": "glm-5.2"
+}

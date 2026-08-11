@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 145,
+  "translation": "Di glory of your kingdom dem go talk, and your might dem go speak about.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "di glory"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "of your kingdom"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dem go talk"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "and your might"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dem go speak"
+    }
+  ],
+  "timestamp": "2026-08-11T13:05:43.227498885Z",
+  "model": "glm-5.2"
+}

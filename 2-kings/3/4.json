@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Now Mesha king of Mo'av bin be sheep-master, and e dey return give king of Yisra'el one hundred thousand ram and one hundred thousand ram wey get wool.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Now Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Mo'av"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bin be"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "sheep-master"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "and dey return"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "give king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Yisra'el"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ram"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "and one hundred"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thousand"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ram"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wool"
+    }
+  ],
+  "timestamp": "2026-08-11T11:09:33.926106161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 11,
+  "translation": "And Shemuel tok to di pipo, make we go, and make we waka go Ha-Gilgal, and make we renew di kingship dere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and tok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di pipo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "make una go"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "and make we go"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Ha-Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "and make we renew"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dere"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "di kingship"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:09.692957346Z",
+  "model": "glm-5.2"
+}

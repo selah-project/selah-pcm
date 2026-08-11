@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 15,
+  "translation": "And ⟨im⟩ carry all ⟨את⟩ dis one for am, and ⟨im⟩ cut ⟨את⟩ dem for middle, and ⟨im⟩ put each piece to face im fellow; but ⟨as for⟩ ⟨את⟩ di bird ⟨im⟩ no cut am.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "And ⟨im⟩ carry"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all dis one"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dis one"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "and ⟨im⟩ cut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "for middle"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "and ⟨im⟩ put"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "piece"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to face"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "im fellow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "but ⟨as for⟩ ⟨את⟩",
+      "marks": "di bird"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "di bird"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "cut"
+    }
+  ],
+  "timestamp": "2026-08-11T09:04:06.168152663Z",
+  "model": "glm-5.2"
+}

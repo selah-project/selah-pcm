@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "Im daughter-villages for di field, ⟨dem⟩ go kill wit sword; and ⟨he⟩ go set against you siege-tower, and ⟨he⟩ go pour against you siege-ramp, and ⟨he⟩ go raise against you ⟨shields⟩.",
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "im daughter-villages"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "for di field"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "wit sword"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "go kill"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "and go set"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "siege-tower"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "and go pour"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "siege-ramp"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "and go raise"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "against you"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "shield"
+    }
+  ],
+  "timestamp": "2026-08-11T12:12:28.146403123Z",
+  "model": "glm-5.2"
+}

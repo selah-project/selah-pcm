@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And di earth bring out vegetation, grass wey dey produce seed according to im kind, and tree wey dey make fruit, wey im seed dey inside am, according to im kind; and Elohim see sey e good.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "and bring out"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "vegetation"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grass"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "wey dey produce"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seed"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "and tree"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wey dey make"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "im seed"
+    },
+    {
+      "surface": "בו",
+      "gloss": "inside am"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "according to im kind"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and see"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "good"
+    }
+  ],
+  "timestamp": "2026-08-11T08:59:33.664695079Z",
+  "model": "glm-5.2"
+}

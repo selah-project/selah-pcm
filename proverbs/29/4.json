@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "King wey dey do justice dey make earth stand; but man of bribes go tear am down.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "for justice"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "dey make stand"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "earth"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "but man"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "of bribes"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "go tear am down"
+    }
+  ],
+  "timestamp": "2026-08-11T13:15:11.413535347Z",
+  "model": "glm-5.2"
+}

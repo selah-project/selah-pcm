@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 33,
+  "translation": "E go sing before men, and e go talk: 'I don sin, and I don bend wetin ⟨be⟩ straight, and e no profit me.'",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "e go sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "before"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "men"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and e go talk"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "I don sin"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "and ⟨I don⟩ bend"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "wetin straight"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "profit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-11T13:24:54.057210883Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "pcm",
+  "chapter": 3,
+  "translation": "Wit curse una dey cursed, and ⟨את⟩ me una dey rob — di whole nation.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "wit curse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "dey cursed"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "dey rob"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "di nation"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "di whole"
+    }
+  ],
+  "timestamp": "2026-08-11T12:38:01.374428649Z",
+  "model": "glm-5.2"
+}

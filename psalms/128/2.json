@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 128,
+  "translation": "Di work of your hand — you go chop ⟨am⟩; happy you ⟨go⟩ ⟨be⟩, and e go good for you.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "di work"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "of your hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "you go chop"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "happy you"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "and e go good"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for you"
+    }
+  ],
+  "timestamp": "2026-08-11T13:02:52.349015067Z",
+  "model": "glm-5.2"
+}

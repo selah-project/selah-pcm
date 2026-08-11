@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "Bunch of henna, my lover ⟨na⟩ for me, for di vineyard of En־Gedi.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "bunch"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "of henna"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my lover"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for me"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "for di vineyard"
+    },
+    {
+      "surface": "עין",
+      "gloss": "of En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-11T13:27:39.848722860Z",
+  "model": "glm-5.2"
+}

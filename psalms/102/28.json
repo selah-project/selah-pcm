@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 102,
+  "translation": "But You, ⟨na⟩ You ⟨be⟩ di same, and Your years no go finish.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "But You"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨na⟩ You ⟨be⟩ di same"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "and Your years"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "go finish"
+    }
+  ],
+  "timestamp": "2026-08-11T12:57:02.237886260Z",
+  "model": "glm-5.2"
+}

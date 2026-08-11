@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 97,
+  "translation": "Because na You, Yahweh, ⟨na⟩ Elyon above all di earth, You don rise well-well above all elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Because"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na You"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨na⟩ Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "above"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di earth"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "You don rise"
+    },
+    {
+      "surface": "על",
+      "gloss": "above"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T12:56:14.192074497Z",
+  "model": "glm-5.2"
+}

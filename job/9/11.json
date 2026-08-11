@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "If ⟨im⟩ pass by me, I no go see ⟨am⟩; and if ⟨im⟩ move on, I no go understand ⟨im⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "If"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pass by"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "and if move on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "I no go"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "understand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨am⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T13:17:44.018899732Z",
+  "model": "glm-5.2"
+}

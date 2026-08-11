@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "After im defeat of ⟨את⟩ Sichon, king of di Emori, wey dey stay for Cheshbon, and ⟨את⟩ Og, king of Bashan, wey dey stay for Ashtarot, for Edre'i —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "defeat of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "of di Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dey stay"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "for Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "of Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dey stay"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "for Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "for Edre'i"
+    }
+  ],
+  "timestamp": "2026-08-11T10:04:20.199271959Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "pcm",
+  "chapter": 24,
+  "translation": "Brother of Michah, Yishshiyah; for di sons of Yishshiyah, Zekharyahu.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "brother of"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Michah"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Yishshiyah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for di sons of"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Yishshiyah"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    }
+  ],
+  "timestamp": "2026-08-11T14:02:26.793383886Z",
+  "model": "glm-5.2"
+}

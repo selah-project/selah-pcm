@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "So dem put over dem taskmasters, so dat dem go oppress am with dia burdens. And dem build store-cities for Pharaoh — ⟨את⟩ Pitom and ⟨את⟩ Ra'amses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "so dem put"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "taskmasters"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "of forced labor"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "dem go oppress am"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "with dia burdens"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "and dem build"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cities"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "store"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "for Pharaoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "Ra'amses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ra'amses"
+    }
+  ],
+  "timestamp": "2026-08-11T09:19:51.989744171Z",
+  "model": "glm-5.2"
+}

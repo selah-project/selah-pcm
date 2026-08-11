@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "pcm",
+  "chapter": 12,
+  "translation": "If una go fear ⟨את⟩ Yahweh, and serve ⟨את⟩ am, and listen to im voice, and una no go rebel against ⟨את⟩ di mouth of Yahweh, and una go dey — both una and di king wey dey reign over una — behind Yahweh una Elohim:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "una go fear"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "and serve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ am"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "and listen to"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "im voice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "go rebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di mouth of Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "di mouth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "una go dey"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "una"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "and also"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dey reign"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over una"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "behind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "una Elohim"
+    }
+  ],
+  "timestamp": "2026-08-11T10:38:14.625404891Z",
+  "model": "glm-5.2"
+}

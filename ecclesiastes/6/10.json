@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "pcm",
+  "chapter": 6,
+  "translation": "Wetin bin dey, dem don already call im name, and e don dey known sey ⟨e⟩ be man; and e no fit contend with di One wey strong pass am.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wetin"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bin dey"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "already"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "dem call"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "im name"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "and e don dey known"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and no"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "fit"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "contend"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "di One wey strong"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pass am"
+    }
+  ],
+  "timestamp": "2026-08-11T13:34:57.172271801Z",
+  "model": "glm-5.2"
+}

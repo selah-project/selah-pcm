@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 1,
+  "translation": "And I go stretch out my hand against Yehudah and against all wey dey live for Yerushalayim; and I go cut off from dis place ⟨את⟩ di remnant of Baal, ⟨את⟩ di name of di kemarim together with di priests.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "and I go stretch out"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "and against"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wey dey live for"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "and I go cut off"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dis place"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di remnant of Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "di remnant of"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di name of di kemarim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di name of"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "di kemarim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "together with"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "di priests"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:50.174777231Z",
+  "model": "glm-5.2"
+}

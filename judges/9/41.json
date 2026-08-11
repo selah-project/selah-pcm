@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 9,
+  "translation": "And Abimelek bin siddon for Arumah, and Zebul bin drive Gaal and ⟨את⟩ im brodas comot from to siddon for Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "and bin siddon"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "for Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "and bin drive comot"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "im brodas"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "im brodas"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "from to siddon"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "for Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-11T10:30:31.109316348Z",
+  "model": "glm-5.2"
+}

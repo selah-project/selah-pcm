@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Dem — dem bin kneel down and fall, but we — we bin rise up and we stand ⟨strong⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "dem bin kneel down"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "and fall"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "but we"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "we bin rise up"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "and we stand ⟨strong⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T12:39:44.107143077Z",
+  "model": "glm-5.2"
+}

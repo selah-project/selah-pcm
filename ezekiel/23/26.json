@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 23:26",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 23,
+  "translation": "And dem go strip you ⟨of⟩ ⟨את⟩ your clothes, and dem go take di tools of your beauty.",
+  "tokens": [
+    {
+      "surface": "והפשיטוך",
+      "gloss": "and dem go strip you"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "your clothes"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "your clothes"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "and dem go take"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "di tools"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "of your beauty"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:28.280307058Z",
+  "model": "glm-5.2"
+}

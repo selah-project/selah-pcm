@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "So dem bin chop, and dem bin full well-well, and wetin dem dey crave, ⟨e⟩ come to dem.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "So dem bin chop"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "and dem bin full"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "well-well"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "and wetin dem dey crave"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨e⟩ come"
+    },
+    {
+      "surface": "להם",
+      "gloss": "to dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:51:58.826791307Z",
+  "model": "glm-5.2"
+}

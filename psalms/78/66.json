@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 78,
+  "translation": "And ⟨im⟩ strike im enemies for back, ⟨im⟩ give dem everlasting shame.",
+  "tokens": [
+    {
+      "surface": "וַיַּךְ",
+      "gloss": "And ⟨im⟩ strike"
+    },
+    {
+      "surface": "צָרָ֥יו",
+      "gloss": "im enemies"
+    },
+    {
+      "surface": "אָח֑וֹר",
+      "gloss": "for back"
+    },
+    {
+      "surface": "חֶרְפַּ֥ת",
+      "gloss": "shame"
+    },
+    {
+      "surface": "ע֝וֹלָ֗ם",
+      "gloss": "everlasting"
+    },
+    {
+      "surface": "נָ֣תַן",
+      "gloss": "⟨im⟩ give"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:16.779503257Z",
+  "model": "glm-5.2"
+}

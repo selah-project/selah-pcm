@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 119,
+  "translation": "Di opening of ⟨Your⟩ words dey shine; e dey give sense to ⟨di⟩ simple ones.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "opening"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "of ⟨Your⟩ words"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "dey shine"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "dey give sense"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "to ⟨di⟩ simple ones"
+    }
+  ],
+  "timestamp": "2026-08-11T14:56:33.089586156Z",
+  "model": "glm-5.2"
+}

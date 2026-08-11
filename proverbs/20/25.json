@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "pcm",
+  "chapter": 20,
+  "translation": "Trap for man ⟨be⟩ wen e swallow sacred tin, and after vow dem to dey ask question.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "trap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "man"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "⟨be⟩ wen e swallow"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sacred tin"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "and after"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "vow dem"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "to dey ask question"
+    }
+  ],
+  "timestamp": "2026-08-11T14:57:48.384870854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 32,
+  "translation": "And Yaakob talk: Elohim of my papa Avraham, and Elohim of my papa Yitschak, Yahweh wey tell me sey, Go back to your land and to your birthplace, and I go do well wit you —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim of"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "and Elohim of"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my papa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wey tell"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "me"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "go back"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "to your land"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "and to your birthplace"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "and I go do well"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wit you"
+    }
+  ],
+  "timestamp": "2026-08-11T09:11:01.472249549Z",
+  "model": "glm-5.2"
+}

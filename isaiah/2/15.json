@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "and upon all high tower, and upon all ⟨wall⟩ wey dem fortify",
+  "tokens": [
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "מִגְדָּ֣ל",
+      "gloss": "tower"
+    },
+    {
+      "surface": "גָּבֹ֑הַ",
+      "gloss": "high"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "and upon"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "all"
+    },
+    {
+      "surface": "חוֹמָ֥ה",
+      "gloss": "⟨wall⟩"
+    },
+    {
+      "surface": "בְצוּרָֽה",
+      "gloss": "wey dem fortify"
+    }
+  ],
+  "timestamp": "2026-08-11T14:40:04.051501628Z",
+  "model": "glm-5.2"
+}

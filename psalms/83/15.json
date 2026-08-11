@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "pcm",
+  "chapter": 83,
+  "translation": "Like fire dey burn forest, and like flame dey blaze mountain dem,",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "like fire"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "dey burn"
+    },
+    {
+      "surface": "יער",
+      "gloss": "forest"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "and like flame"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "dey blaze"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mountain dem"
+    }
+  ],
+  "timestamp": "2026-08-11T12:52:42.669746592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "pcm",
+  "chapter": 29,
+  "translation": "And Lavan bin gather ⟨את⟩ all di men of di place, and bin make feast.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "bin gather"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "all di men of di place"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "di men"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "of di place"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and bin make"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "feast"
+    }
+  ],
+  "timestamp": "2026-08-11T09:09:21.091252285Z",
+  "model": "glm-5.2"
+}

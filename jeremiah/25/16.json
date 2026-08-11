@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "pcm",
+  "chapter": 25,
+  "translation": "And dem go drink, and dem go stagger, and dem go act like madmen, because of di sword wey I dey send among dem.",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "and dem go drink"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "and dem go stagger"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "and dem go act like madmen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "because of"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "di sword"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "I"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dey send"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "among dem"
+    }
+  ],
+  "timestamp": "2026-08-11T11:49:42.795040945Z",
+  "model": "glm-5.2"
+}

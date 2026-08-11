@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 26:21",
+  "book": "ezekiel",
+  "lang": "pcm",
+  "chapter": 26,
+  "translation": "I go make ⟨am⟩ terror, and you no go dey again; and dem go look for you, but you no go ever show again forever — oracle of Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "בלהות",
+      "gloss": "terror"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "I go make ⟨am⟩"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "and you no go dey again"
+    },
+    {
+      "surface": "ותבקשי",
+      "gloss": "and dem go look for you"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "but ⟨you⟩ no go"
+    },
+    {
+      "surface": "תמצאי",
+      "gloss": "show"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "forever"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "of Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-11T12:11:57.727402227Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "pcm",
+  "chapter": 2,
+  "translation": "Ah don hear di insult of Moab and di mockery of di son dem of Ammon, wey dem bin insult ⟨את⟩ my people, and dem bin make demself great against dia border.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ah don hear"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "di insult"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "of Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "and di mockery"
+    },
+    {
+      "surface": "בני",
+      "gloss": "of di son dem"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "of Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wey"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "dem bin insult"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my people"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my people"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "and dem bin make demself great"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "dia border"
+    }
+  ],
+  "timestamp": "2026-08-11T12:32:18.302277918Z",
+  "model": "glm-5.2"
+}

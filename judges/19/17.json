@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "pcm",
+  "chapter": 19,
+  "translation": "And wen im eye lift up, im see ⟨את⟩ di man wey dey travel for di open square of di city, and di old man talk say, where you dey go, and from where you dey come?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "and wen im lift"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "im eye"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "and im see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "wey dey travel"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "for di open square"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "of di city"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and talk"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di man"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "di old"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "say where"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "you dey go"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "and from where"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "you dey come"
+    }
+  ],
+  "timestamp": "2026-08-11T14:33:34.773391025Z",
+  "model": "glm-5.2"
+}
