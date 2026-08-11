@@ -5,11 +5,59 @@
   "book": "2-samuel",
   "lang": "pcm",
   "chapter": 19,
-  "translation": "And all ⟨di⟩ people bin dey argue throughout all di tribes of Yisra'el, dem dey talk say, \"Di king bin save us from ⟨di⟩ hand of our enemies, and ⟨na⟩ im deliver us from ⟨di⟩ hand of Peleshtim; and now im don run comot from ⟨di⟩ land sake of Avshalom.",
+  "translation": "Di king bin stand up, and e bin siddon for di gate; and to all di people dem tell dem, sey: See, di king dey siddon for di gate. And all di people bin come to di front of di king; and Yisrael don run, everi man to im tent.",
   "tokens": [
     {
-      "surface": "ויהי",
-      "gloss": "and bin"
+      "surface": "ויקם",
+      "gloss": "and bin stand up"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "and bin siddon"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "for di gate"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "and to all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di people"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "dem tell"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sey"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dey siddon"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "for di gate"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and bin come"
     },
     {
       "surface": "כל",
@@ -20,82 +68,30 @@
       "gloss": "di people"
     },
     {
-      "surface": "נדון",
-      "gloss": "bin dey argue"
-    },
-    {
-      "surface": "בכל",
-      "gloss": "throughout all"
-    },
-    {
-      "surface": "שבטי",
-      "gloss": "di tribes"
-    },
-    {
-      "surface": "ישראל",
-      "gloss": "of Yisra'el"
-    },
-    {
-      "surface": "לאמר",
-      "gloss": "dem dey talk say"
+      "surface": "לפני",
+      "gloss": "to di front of"
     },
     {
       "surface": "המלך",
       "gloss": "di king"
     },
     {
-      "surface": "הצילנו",
-      "gloss": "bin save us"
+      "surface": "וישראל",
+      "gloss": "and Yisrael"
     },
     {
-      "surface": "מכף",
-      "gloss": "from ⟨di⟩ hand"
+      "surface": "נס",
+      "gloss": "don run"
     },
     {
-      "surface": "איבינו",
-      "gloss": "of our enemies"
+      "surface": "איש",
+      "gloss": "everi man"
     },
     {
-      "surface": "והוא",
-      "gloss": "and ⟨na⟩ im"
-    },
-    {
-      "surface": "מלטנו",
-      "gloss": "deliver us"
-    },
-    {
-      "surface": "מכף",
-      "gloss": "from ⟨di⟩ hand"
-    },
-    {
-      "surface": "פלשתים",
-      "gloss": "of Peleshtim"
-    },
-    {
-      "surface": "ועתה",
-      "gloss": "and now"
-    },
-    {
-      "surface": "ברח",
-      "gloss": "im don run comot"
-    },
-    {
-      "surface": "מן",
-      "gloss": "from"
-    },
-    {
-      "surface": "הארץ",
-      "gloss": "di land"
-    },
-    {
-      "surface": "מעל",
-      "gloss": "sake of"
-    },
-    {
-      "surface": "אבשלום",
-      "gloss": "Avshalom"
+      "surface": "לאהליו",
+      "gloss": "to im tent"
     }
   ],
-  "timestamp": "2026-08-11T10:54:01.543262328Z",
+  "timestamp": "2026-08-11T21:30:11.399466598Z",
   "model": "glm-5.2"
 }

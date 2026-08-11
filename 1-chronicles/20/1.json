@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "pcm",
   "chapter": 20,
-  "translation": "And e come happen, for di time of di return of di year, for di time wey kings dey go out, Yoav come lead ⟨את⟩ di army force and e come destroy ⟨את⟩ di land of di pikin-dem of Ammon, and e come and e come besiege ⟨את⟩ Rabbah. And Dawid bin dey siddon for Yerushalayim. And Yoav strike ⟨את⟩ Rabbah and e come destroy am.",
+  "translation": "Now e bin happen for di time of di turn of di year, for di time wey kings dey go out, wey Yoav come lead ⟨את⟩ di power of di army and come destroy ⟨את⟩ di land of di pikin-dem of Amon, and e come and come surround ⟨את⟩ Rabbah — and Dawid bin dey siddon for Yerushalayim. And Yoav bin strike ⟨את⟩ Rabbah and come destroy am.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "and e come happen"
+      "gloss": "now e bin happen"
     },
     {
       "surface": "לעת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשובת",
-      "gloss": "di return"
+      "gloss": "di turn"
     },
     {
       "surface": "השנה",
@@ -37,16 +37,20 @@
     },
     {
       "surface": "וינהג",
-      "gloss": "and e come lead"
+      "gloss": "wey e come lead"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "di army force"
+      "marks": "di power of di army"
     },
     {
       "surface": "חיל",
-      "gloss": "force"
+      "gloss": "di power"
     },
     {
       "surface": "הצבא",
@@ -54,12 +58,12 @@
     },
     {
       "surface": "וישחת",
-      "gloss": "and e come destroy"
+      "gloss": "and come destroy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "di land"
+      "marks": "di land of di pikin-dem of Amon"
     },
     {
       "surface": "ארץ",
@@ -71,7 +75,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "of Ammon"
+      "gloss": "of Amon"
     },
     {
       "surface": "ויבא",
@@ -79,7 +83,7 @@
     },
     {
       "surface": "ויצר",
-      "gloss": "and e come besiege"
+      "gloss": "and come surround"
     },
     {
       "surface": "את",
@@ -104,7 +108,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "and e strike"
+      "gloss": "and bin strike"
     },
     {
       "surface": "יואב",
@@ -121,9 +125,9 @@
     },
     {
       "surface": "ויהרסה",
-      "gloss": "and e come destroy am"
+      "gloss": "and come destroy am"
     }
   ],
-  "timestamp": "2026-08-11T14:02:09.655247493Z",
+  "timestamp": "2026-08-11T21:31:50.873974274Z",
   "model": "glm-5.2"
 }

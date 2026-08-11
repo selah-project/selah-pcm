@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "pcm",
   "chapter": 19,
-  "translation": "Small small your servant go cross ⟨את⟩ Yardén, ⟨את⟩ di king, and why di king go repay me wit dis kind reward?",
+  "translation": "As your servant dey cross ⟨את⟩ di Yarden wit ⟨את⟩ di king, why di king go repay me wit dis kain repayment?",
   "tokens": [
     {
       "surface": "כמעט",
-      "gloss": "small small"
+      "gloss": "as"
     },
     {
       "surface": "יעבר",
-      "gloss": "go cross"
+      "gloss": "dey cross"
     },
     {
       "surface": "עבדך",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yardén"
+      "marks": "di Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardén"
+      "gloss": "di Yarden"
     },
     {
       "surface": "את",
@@ -36,10 +36,6 @@
     {
       "surface": "המלך",
       "gloss": "di king"
-    },
-    {
-      "surface": "ויעבר",
-      "gloss": "and"
     },
     {
       "surface": "ולמה",
@@ -55,13 +51,13 @@
     },
     {
       "surface": "הגמולה",
-      "gloss": "reward"
+      "gloss": "repayment"
     },
     {
       "surface": "הזאת",
       "gloss": "dis"
     }
   ],
-  "timestamp": "2026-08-11T10:54:25.981454353Z",
+  "timestamp": "2026-08-11T21:30:33.963356939Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "pcm",
   "chapter": 18,
-  "translation": "For before harvest, when di blossom don finish, and sour grape dey become ripe for inside flower, im go cut di tendrils wit pruning hooks, and ⟨את⟩ di branches im go remove, im go lop ⟨dem⟩ off.",
+  "translation": "For before harvest, when di bloom don finish, and di unripe grape dey become ripening grape, ⟨dem⟩ go cut di tendrils wit pruning hooks, and ⟨את⟩ di branches ⟨dem⟩ go remove, ⟨dem⟩ go lop off.",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "gloss": "for"
+      "gloss": "For"
     },
     {
       "surface": "לִפְנֵ֤י",
@@ -20,28 +20,32 @@
       "gloss": "harvest"
     },
     {
-      "surface": "כְּתָ֤ם פֶּ֔רַח",
-      "gloss": "when di blossom don finish"
+      "surface": "כְּתָם",
+      "gloss": "when ⟨e⟩ don finish"
+    },
+    {
+      "surface": "פֶּ֔רַח",
+      "gloss": "di bloom"
     },
     {
       "surface": "וּבֹ֥סֶר",
-      "gloss": "and sour grape"
+      "gloss": "and di unripe grape"
     },
     {
       "surface": "גֹּמֵ֖ל",
-      "gloss": "dey become ripe"
+      "gloss": "dey become"
     },
     {
       "surface": "יִֽהְיֶ֣ה",
-      "gloss": "go be"
+      "gloss": "⟨go⟩ be"
     },
     {
       "surface": "נִצָּ֑ה",
-      "gloss": "for inside flower"
+      "gloss": "ripening grape"
     },
     {
       "surface": "וְכָרַ֤ת",
-      "gloss": "and im go cut"
+      "gloss": "⟨dem⟩ go cut"
     },
     {
       "surface": "הַזַּלְזַלִּים֙",
@@ -53,7 +57,8 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "and ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "di branches"
     },
     {
       "surface": "הַנְּטִישׁ֖וֹת",
@@ -61,13 +66,13 @@
     },
     {
       "surface": "הֵסִ֥יר",
-      "gloss": "im go remove"
+      "gloss": "⟨dem⟩ go remove"
     },
     {
       "surface": "הֵתַֽז",
-      "gloss": "im go lop off"
+      "gloss": "⟨dem⟩ go lop off"
     }
   ],
-  "timestamp": "2026-08-11T11:25:05.918795187Z",
+  "timestamp": "2026-08-11T21:32:22.284958590Z",
   "model": "glm-5.2"
 }

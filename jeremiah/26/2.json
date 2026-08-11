@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "pcm",
   "chapter": 26,
-  "translation": "Na so Yahweh talk: Stand for di courtyard of Yahweh house, and speak upon all di cities of Yehudah, di ones wey dey come to bow down for Yahweh house, ⟨את⟩ all di words wey I command you to speak to dem — no reduce one word:",
+  "translation": "Like dis Yahweh bin talk: Stand for di yard of Yahweh house, and talk to all di town dem of Yehudah wey dey come for ⟨di⟩ house of Yahweh to worship, ⟨את⟩ all ⟨di⟩ word dem wey I don command you make you talk to dem — no reduce any word.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "na so"
+      "gloss": "Like dis"
     },
     {
       "surface": "אמר",
-      "gloss": "talk"
+      "gloss": "bin talk"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עמד",
-      "gloss": "stand"
+      "gloss": "Stand"
     },
     {
       "surface": "בחצר",
-      "gloss": "for di courtyard of"
+      "gloss": "for di yard of"
     },
     {
       "surface": "בית",
-      "gloss": "house of"
+      "gloss": "house"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ודברת",
-      "gloss": "and speak"
+      "gloss": "and talk"
     },
     {
       "surface": "על",
-      "gloss": "upon"
+      "gloss": "to"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ערי",
-      "gloss": "di cities of"
+      "gloss": "di town dem of"
     },
     {
       "surface": "יהודה",
@@ -57,32 +57,24 @@
     },
     {
       "surface": "הבאים",
-      "gloss": "di ones wey dey come"
+      "gloss": "wey dey come"
     },
     {
       "surface": "להשתחות",
-      "gloss": "to bow down"
+      "gloss": "to worship"
     },
     {
       "surface": "בית",
-      "gloss": "for"
+      "gloss": "⟨for di⟩ house"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
-    },
-    {
-      "surface": "בית",
-      "gloss": "house of"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "of Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "all di words"
+      "marks": "all di word dem"
     },
     {
       "surface": "כל",
@@ -90,7 +82,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "di words"
+      "gloss": "⟨di⟩ word dem"
     },
     {
       "surface": "אשר",
@@ -98,11 +90,11 @@
     },
     {
       "surface": "צויתיך",
-      "gloss": "I command you"
+      "gloss": "I don command you"
     },
     {
       "surface": "לדבר",
-      "gloss": "to speak"
+      "gloss": "make you talk"
     },
     {
       "surface": "אליהם",
@@ -118,9 +110,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "one word"
+      "gloss": "any word"
     }
   ],
-  "timestamp": "2026-08-11T11:50:49.222032650Z",
+  "timestamp": "2026-08-11T21:31:29.204733879Z",
   "model": "glm-5.2"
 }

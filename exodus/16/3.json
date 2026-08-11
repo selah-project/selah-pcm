@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "pcm",
   "chapter": 16,
-  "translation": "And di sons of Yisra'el bin talk to dem, say, Make we for die by Yahweh hand for di land of Mitsrayim, wen we dey sit by di pot of meat, dey chop bread till we full! Because una carry ⟨את⟩ us comot come dis wilderness, to kill ⟨את⟩ all dis assembly wit hunger!",
+  "translation": "And di pikin-dem of Yisra'el bin tell dem, \"Who go don make we die for Yahweh im hand for di land of Mitsrayim, wen we bin dey siddon by di pot of meat, wen we bin dey chop bread reach full belleh! For una don carry ⟨את⟩ us comot enter dis wilderness, to make ⟨את⟩ all dis assembly die wit hunger!\"",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "and bin talk"
+      "gloss": "and bin tell"
     },
     {
       "surface": "אלהם",
-      "gloss": "to dem"
+      "gloss": "dem"
     },
     {
       "surface": "בני",
-      "gloss": "sons of"
+      "gloss": "pikin-dem of"
     },
     {
       "surface": "ישראל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "go give"
+      "gloss": "go don give"
     },
     {
       "surface": "מותנו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "by hand"
+      "gloss": "for hand"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בשבתנו",
-      "gloss": "wen we dey sit"
+      "gloss": "wen we bin dey siddon"
     },
     {
       "surface": "על",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "באכלנו",
-      "gloss": "dey chop"
+      "gloss": "wen we bin dey chop"
     },
     {
       "surface": "לחם",
@@ -77,24 +77,28 @@
     },
     {
       "surface": "לשבע",
-      "gloss": "till full"
+      "gloss": "reach full belleh"
     },
     {
       "surface": "כי",
-      "gloss": "because"
+      "gloss": "for"
+    },
+    {
+      "surface": "הוצאתם",
+      "gloss": "una don carry comot"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ us",
       "marks": "us"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "enter"
     },
     {
       "surface": "המדבר",
-      "gloss": "di wilderness"
+      "gloss": "wilderness"
     },
     {
       "surface": "הזה",
@@ -102,7 +106,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "to kill"
+      "gloss": "to make die"
     },
     {
       "surface": "את",
@@ -115,7 +119,7 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "di assembly"
+      "gloss": "assembly"
     },
     {
       "surface": "הזה",
@@ -126,6 +130,6 @@
       "gloss": "wit hunger"
     }
   ],
-  "timestamp": "2026-08-11T09:25:33.731782277Z",
+  "timestamp": "2026-08-11T21:31:40.734553585Z",
   "model": "glm-5.2"
 }

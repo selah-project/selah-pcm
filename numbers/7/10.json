@@ -5,24 +5,28 @@
   "book": "numbers",
   "lang": "pcm",
   "chapter": 7,
-  "translation": "And di leader-dem bring near ⟨את⟩ di dedication of di altar, for di day wey dem anoint am; and di leader-dem bring near ⟨את⟩ dia offering-dem before di altar.",
+  "translation": "And di leaders bin bring ⟨את⟩ di dedication of di altar, for di day wey dem bin anoint ⟨את⟩ am, and di leaders bin bring ⟨את⟩ dia offering before di altar.",
   "tokens": [
     {
-      "surface": "והנשאים",
-      "gloss": "and di leader-dem"
+      "surface": "ויקריבו",
+      "gloss": "and dem bin bring"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "di leaders"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "di dedication of"
+      "marks": "di dedication"
     },
     {
       "surface": "חנכת",
-      "gloss": "di dedication of"
+      "gloss": "dedication"
     },
     {
       "surface": "המזבח",
-      "gloss": "di altar"
+      "gloss": "of di altar"
     },
     {
       "surface": "ביום",
@@ -30,28 +34,28 @@
     },
     {
       "surface": "המשח",
-      "gloss": "wey dem anoint"
+      "gloss": "wey dem bin anoint"
     },
     {
       "surface": "אתו",
-      "gloss": "am"
+      "gloss": "⟨את⟩ am"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "and dem bring near"
+      "gloss": "and dem bin bring"
     },
     {
       "surface": "הנשיאם",
-      "gloss": "di leader-dem"
+      "gloss": "di leaders"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dia offering-dem"
+      "marks": "dia offering"
     },
     {
       "surface": "קרבנם",
-      "gloss": "dia offering-dem"
+      "gloss": "dia offering"
     },
     {
       "surface": "לפני",
@@ -62,6 +66,6 @@
       "gloss": "di altar"
     }
   ],
-  "timestamp": "2026-08-11T21:06:23.885808886Z",
+  "timestamp": "2026-08-11T21:32:28.239240233Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,20 @@
   "book": "esther",
   "lang": "pcm",
   "chapter": 8,
-  "translation": "And di king remove ⟨את⟩ im signet ring wey ⟨he⟩ don collect from Haman, and give am to Mordekai. And Ester put ⟨את⟩ Mordekai on top house of Haman.",
+  "translation": "Di king bin pull ⟨את⟩ im signet ring wey e bin collect back from Haman, and e give am to Mordekhai; and Ester bin put Mordekhai on top ⟨di⟩ house of Haman.",
   "tokens": [
     {
-      "surface": "ואת",
-      "gloss": "and ⟨את⟩"
+      "surface": "ויסר",
+      "gloss": "bin pull"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "di king"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "im signet ring"
     },
     {
       "surface": "טבעתו",
@@ -21,7 +30,7 @@
     },
     {
       "surface": "העביר",
-      "gloss": "don collect"
+      "gloss": "bin collect back"
     },
     {
       "surface": "מהמן",
@@ -29,15 +38,15 @@
     },
     {
       "surface": "ויתנה",
-      "gloss": "and give"
+      "gloss": "and e give am"
     },
     {
       "surface": "למרדכי",
-      "gloss": "to Mordekai"
+      "gloss": "to Mordekhai"
     },
     {
       "surface": "ותשם",
-      "gloss": "and put"
+      "gloss": "and bin put"
     },
     {
       "surface": "אסתר",
@@ -46,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mordekai"
+      "marks": "Mordekhai"
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordekai"
+      "gloss": "Mordekhai"
     },
     {
       "surface": "על",
@@ -58,13 +67,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "house"
+      "gloss": "⟨di⟩ house"
     },
     {
       "surface": "המן",
-      "gloss": "of Haman"
+      "gloss": "Haman"
     }
   ],
-  "timestamp": "2026-08-11T21:06:23.804967719Z",
+  "timestamp": "2026-08-11T21:31:20.309265818Z",
   "model": "glm-5.2"
 }
