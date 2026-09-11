@@ -62,3 +62,8 @@ credit. Di team wey dey maintain go compare di proposal wit di
 Hebrew, di rules, di sources and di alignment — dem fit accept am,
 work am out wit you, wait for more ground, or reject am wit reason.
 Criticize di text, no be di person.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
